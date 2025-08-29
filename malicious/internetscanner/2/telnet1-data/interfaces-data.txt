@@ -1,0 +1,10 @@
+{"TimeStamp":"1756425079", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"telnet1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756425079", "Name":"eth0", "HardwareAddr":"5e:00:e8:76:78:62", "IPs":["172.30.0.153", "fe80::5c00:e8ff:fe76:63"], "DevID":"telnet1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756425079", "Name":"eth1", "HardwareAddr":"86:17:da:91:d3:ef", "IPs":["107.125.128.123", "fe80::8417:daff:fe91:96"], "DevID":"telnet1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756425079", "Name":"any", "DevID":"telnet1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756425079", "Name":"eth2", "HardwareAddr":"3e:ed:c7:19:cd:99", "IPs":["10.0.10.163", "fe80::3ced:c7ff:fe19:28"], "DevID":"telnet1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756425079", "Name":"bluetooth-monitor", "DevID":"telnet1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756425079", "Name":"nflog", "DevID":"telnet1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756425079", "Name":"nfqueue", "DevID":"telnet1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756425079", "Name":"dbus-system", "DevID":"telnet1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756425079", "Name":"dbus-session", "DevID":"telnet1.infra.real.internetscanner.blankcanvas", "Action":"Added"}

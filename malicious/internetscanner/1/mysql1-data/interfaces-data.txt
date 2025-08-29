@@ -1,0 +1,10 @@
+{"TimeStamp":"1756420189", "Name":"eth0", "HardwareAddr":"02:e8:da:5f:8d:12", "IPs":["172.30.0.69", "fe80::e8:daff:fe5f:101"], "DevID":"mysql1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420189", "Name":"eth1", "HardwareAddr":"36:54:7c:ee:f9:ad", "IPs":["107.125.128.101", "fe80::3454:7cff:feee:155"], "DevID":"mysql1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420189", "Name":"any", "DevID":"mysql1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420189", "Name":"nflog", "DevID":"mysql1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420189", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"mysql1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420189", "Name":"bluetooth-monitor", "DevID":"mysql1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420189", "Name":"nfqueue", "DevID":"mysql1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420189", "Name":"dbus-system", "DevID":"mysql1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420189", "Name":"dbus-session", "DevID":"mysql1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420189", "Name":"eth2", "HardwareAddr":"d2:45:01:ef:d2:e3", "IPs":["10.0.2.182", "fe80::d045:1ff:feef:30"], "DevID":"mysql1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
