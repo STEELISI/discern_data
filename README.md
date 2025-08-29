@@ -1,1 +1,5 @@
-# discern_data
+# DISCERN Datasets
+
+This repository contains synthetic and real datasets capturing
+memory, CPU, process, network, and file activity on SPHERE
+research infrastructure during malicious and legitimate use patterns.
