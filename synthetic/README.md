@@ -8,7 +8,7 @@ research infrastructure during malicious and legitimate use patterns.
   - *dnsmitm* - DNS MITM attack reproduction in an experiment - allowed use case for a security testbed
   - *synflood* - TCP SYN flood attack reproduction in an experiment - allowed use case for a security testbed
   - *llm* - Running an LLM in generative mode, e.g., as a security-focused chatbot
-  - *svm* Running an ML model (SVM) on a classification task, e.g., to classify legitimate from attack traffic
+  - *svm* - Running an ML model (SVM) on a classification task, e.g., to classify legitimate from attack traffic
 - *malicious* folder contains several malicious use cases:
   - *cryptominer* - a user is using cryptomining software on an experimental node
   - *internetscanner* - an experimental node starts scanning many Internet hosts
