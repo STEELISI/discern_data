@@ -1,0 +1,10 @@
+{"TimeStamp":"1756424953", "Name":"dbus-system", "DevID":"pop32.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756424953", "Name":"eth1", "HardwareAddr":"82:40:5c:cf:a8:a5", "IPs":["107.125.128.48", "fe80::8040:5cff:fecf:91"], "DevID":"pop32.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756424953", "Name":"eth2", "HardwareAddr":"8a:92:19:f1:d3:cb", "IPs":["10.0.21.217", "fe80::8892:19ff:fef1:108"], "DevID":"pop32.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756424953", "Name":"bluetooth-monitor", "DevID":"pop32.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756424953", "Name":"nflog", "DevID":"pop32.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756424953", "Name":"nfqueue", "DevID":"pop32.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756424953", "Name":"dbus-session", "DevID":"pop32.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756424953", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"pop32.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756424953", "Name":"eth0", "HardwareAddr":"6a:75:a6:32:79:34", "IPs":["172.30.0.183", "fe80::6875:a6ff:fe32:59"], "DevID":"pop32.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756424953", "Name":"any", "DevID":"pop32.infra.real.internetscanner.blankcanvas", "Action":"Added"}

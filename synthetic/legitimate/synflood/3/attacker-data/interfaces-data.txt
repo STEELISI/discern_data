@@ -1,0 +1,10 @@
+{"TimeStamp":"1756408800", "Name":"eth2", "HardwareAddr":"36:6a:63:b2:f5:3a", "IPs":["10.0.1.202", "fe80::346a:63ff:feb2:118"], "DevID":"attacker.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756408800", "Name":"any", "DevID":"attacker.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756408800", "Name":"nfqueue", "DevID":"attacker.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756408800", "Name":"dbus-session", "DevID":"attacker.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756408800", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"attacker.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756408800", "Name":"eth0", "HardwareAddr":"22:b6:d9:cf:b2:85", "IPs":["172.30.0.10", "fe80::20b6:d9ff:fecf:164"], "DevID":"attacker.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756408800", "Name":"eth1", "HardwareAddr":"ae:b0:39:91:e5:7a", "IPs":["1.1.2.18", "fe80::acb0:39ff:fe91:127"], "DevID":"attacker.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756408800", "Name":"bluetooth-monitor", "DevID":"attacker.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756408800", "Name":"nflog", "DevID":"attacker.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756408800", "Name":"dbus-system", "DevID":"attacker.infra.real.synflood.blankcanvas", "Action":"Added"}

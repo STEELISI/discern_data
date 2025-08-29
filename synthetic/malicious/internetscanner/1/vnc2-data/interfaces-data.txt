@@ -1,0 +1,10 @@
+{"TimeStamp":"1756420648", "Name":"eth1", "HardwareAddr":"92:2e:8a:56:04:75", "IPs":["107.125.128.204", "fe80::902e:8aff:fe56:35"], "DevID":"vnc2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420648", "Name":"any", "DevID":"vnc2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420648", "Name":"bluetooth-monitor", "DevID":"vnc2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420648", "Name":"nflog", "DevID":"vnc2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420648", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"vnc2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420648", "Name":"eth0", "HardwareAddr":"72:19:29:8f:3f:9e", "IPs":["172.30.0.48", "fe80::7019:29ff:fe8f:28"], "DevID":"vnc2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420648", "Name":"eth2", "HardwareAddr":"56:4d:2e:9f:45:6e", "IPs":["10.0.24.46", "fe80::544d:2eff:fe9f:45"], "DevID":"vnc2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420648", "Name":"nfqueue", "DevID":"vnc2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420648", "Name":"dbus-system", "DevID":"vnc2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420648", "Name":"dbus-session", "DevID":"vnc2.infra.real.internetscanner.blankcanvas", "Action":"Added"}

@@ -1,0 +1,10 @@
+{"TimeStamp":"1756356139", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"victim1.infra.real.packetsniffer.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756356139", "Name":"eth1", "HardwareAddr":"06:be:2c:50:46:2b", "IPs":["10.10.10.215", "fe80::4be:2cff:fe50:195"], "DevID":"victim1.infra.real.packetsniffer.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756356139", "Name":"bluetooth-monitor", "DevID":"victim1.infra.real.packetsniffer.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756356139", "Name":"nflog", "DevID":"victim1.infra.real.packetsniffer.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756356139", "Name":"nfqueue", "DevID":"victim1.infra.real.packetsniffer.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756356139", "Name":"eth0", "HardwareAddr":"fa:0e:91:7d:67:32", "IPs":["172.30.0.139", "fe80::f80e:91ff:fe7d:140"], "DevID":"victim1.infra.real.packetsniffer.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756356139", "Name":"eth2", "HardwareAddr":"72:de:df:70:c8:06", "IPs":["10.0.3.74", "fe80::70de:dfff:fe70:197"], "DevID":"victim1.infra.real.packetsniffer.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756356139", "Name":"any", "DevID":"victim1.infra.real.packetsniffer.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756356139", "Name":"dbus-system", "DevID":"victim1.infra.real.packetsniffer.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756356139", "Name":"dbus-session", "DevID":"victim1.infra.real.packetsniffer.blankcanvas", "Action":"Added"}

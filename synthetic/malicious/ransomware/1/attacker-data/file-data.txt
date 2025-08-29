@@ -1,0 +1,3 @@
+{"TimeStamp":"1756335794","Size":["235"],"Location":["/etc/systemd/network/eth0.network"],"Hash":["a+Uc5tDmq1CWCrgXmvQhZA=="],"DevID":"attacker.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"1756336536","Size":["1450"],"Location":["/home/blankcanvas/.ssh/authorized_keys"],"Hash":["kSczAWQmF2FThWg8SPMJ9A=="],"DevID":"attacker.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"1756336536","Size":["69632"],"Location":["/home/blankcanvas/byob/database.db"],"Hash":["5cSOmuzAVoiuRSvbLYhiJA=="],"DevID":"attacker.infra.real.ransomware.blankcanvas"}

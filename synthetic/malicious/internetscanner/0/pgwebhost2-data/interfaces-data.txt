@@ -1,0 +1,11 @@
+{"TimeStamp":"1756415870", "Name":"eth1", "HardwareAddr":"72:72:43:13:29:8e", "IPs":["107.125.128.202", "fe80::7072:43ff:fe13:80"], "DevID":"pgwebhost2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756415870", "Name":"docker0", "HardwareAddr":"02:42:29:50:54:0b", "IPs":["172.17.0.50"], "DevID":"pgwebhost2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756415870", "Name":"nfqueue", "DevID":"pgwebhost2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756415870", "Name":"dbus-session", "DevID":"pgwebhost2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756415870", "Name":"dbus-system", "DevID":"pgwebhost2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756415870", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"pgwebhost2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756415870", "Name":"eth0", "HardwareAddr":"b2:09:cc:62:91:ed", "IPs":["172.30.0.169", "fe80::b009:ccff:fe62:164"], "DevID":"pgwebhost2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756415870", "Name":"eth2", "HardwareAddr":"02:6e:f0:71:6b:1a", "IPs":["10.0.26.200", "fe80::6e:f0ff:fe71:80"], "DevID":"pgwebhost2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756415870", "Name":"any", "DevID":"pgwebhost2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756415870", "Name":"bluetooth-monitor", "DevID":"pgwebhost2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756415870", "Name":"nflog", "DevID":"pgwebhost2.infra.real.internetscanner.blankcanvas", "Action":"Added"}

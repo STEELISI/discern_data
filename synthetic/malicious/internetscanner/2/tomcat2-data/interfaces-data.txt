@@ -1,0 +1,10 @@
+{"TimeStamp":"1756425142", "Name":"eth2", "HardwareAddr":"de:ef:4c:28:95:4e", "IPs":["10.0.16.170", "fe80::dcef:4cff:fe28:141"], "DevID":"tomcat2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756425143", "Name":"nfqueue", "DevID":"tomcat2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756425143", "Name":"dbus-system", "DevID":"tomcat2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756425143", "Name":"dbus-session", "DevID":"tomcat2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756425143", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"tomcat2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756425143", "Name":"eth0", "HardwareAddr":"ce:54:03:1a:c1:59", "IPs":["172.30.0.226", "fe80::cc54:3ff:fe1a:72"], "DevID":"tomcat2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756425143", "Name":"eth1", "HardwareAddr":"d2:6a:e5:a4:18:ae", "IPs":["107.125.128.194", "fe80::d06a:e5ff:fea4:228"], "DevID":"tomcat2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756425143", "Name":"any", "DevID":"tomcat2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756425143", "Name":"bluetooth-monitor", "DevID":"tomcat2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756425143", "Name":"nflog", "DevID":"tomcat2.infra.real.internetscanner.blankcanvas", "Action":"Added"}

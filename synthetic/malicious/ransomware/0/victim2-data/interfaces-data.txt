@@ -1,0 +1,10 @@
+{"TimeStamp":"1756332930", "Name":"any", "DevID":"victim2.infra.real.ransomware.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756332931", "Name":"bluetooth-monitor", "DevID":"victim2.infra.real.ransomware.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756332931", "Name":"nflog", "DevID":"victim2.infra.real.ransomware.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756332931", "Name":"nfqueue", "DevID":"victim2.infra.real.ransomware.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756332931", "Name":"dbus-system", "DevID":"victim2.infra.real.ransomware.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756332931", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"victim2.infra.real.ransomware.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756332931", "Name":"eth0", "HardwareAddr":"a6:42:a1:bc:c3:64", "IPs":["172.30.0.225", "fe80::a442:a1ff:febc:4"], "DevID":"victim2.infra.real.ransomware.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756332931", "Name":"eth1", "HardwareAddr":"c2:78:27:76:e5:58", "IPs":["10.10.10.34", "fe80::c078:27ff:fe76:221"], "DevID":"victim2.infra.real.ransomware.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756332931", "Name":"eth2", "HardwareAddr":"56:e3:4d:b0:ad:d9", "IPs":["10.0.4.234", "fe80::54e3:4dff:feb0:136"], "DevID":"victim2.infra.real.ransomware.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756332931", "Name":"dbus-session", "DevID":"victim2.infra.real.ransomware.blankcanvas", "Action":"Added"}
