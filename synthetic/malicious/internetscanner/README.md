@@ -1,4 +1,4 @@
-# Portscanner Scenario (Malware)
+# Internetscanner Scenario (Malware)
 
 Traffic was generated on the topology shown below.
 
