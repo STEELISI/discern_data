@@ -1,8 +1,8 @@
 # Portscanner Scenario (Malware)
 
 Traffic was generated on the topology shown below:
-	
-![BYOB topology](../byob.jpg "Experiment topology")
+
+<img src="../byob.jpg" alt="Experiment topology" width="50%"/>
 
 - Runs byob on the attacker node
 - Starts the byob client on compromised
