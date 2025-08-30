@@ -1,8 +1,4 @@
-# DISCERN Datasets
-
-All datasets can be obtained from [Github](https://github.com/STEELISI/discern_data)
-
-## Synthetic Datasets
+# DISCERN Datasets - Synthetic Datasets
 
 This repository contains synthetic datasets capturing
 memory, CPU, process, network, and file activity on SPHERE
