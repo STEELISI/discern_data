@@ -1,11 +1,14 @@
-This scenario:
+# Exfiltrate Scenario (Malware)
 
-- Runs byob on the attacker node
-- Starts the byob victim 1 on compromised
-- Starts the byob victim 2 on compromised
-- Attacker uploads /etc/shadow from victim 1
-- Attacker uploads /etc/shadow from victim 2
-- Attacker pauses
-- Attacker kills byob software on compromised via byob
-- Attacker stop byob server
+Traffic was generated on the topology shown below.
+
+<img src="../byob.jpg" alt="Experiment topology" width="50%"/>
+
+Green circles denote nodes and red triangles denote interfaces on a node.
+In the scenario:
+- We run byob on the **attacker** node to act as botnet master
+- The master starts the byob client on the **compromised** node and compromises **victim1** and **victim2** node
+- The master uploads `/etc/shadow` from the victim nodes
+- The master kills byob software on **compromised** node
+- We stop byob server on **attacker** node
 
