@@ -3,10 +3,10 @@
 {"TimeStamp": "1756403194", "Size": ["117"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["GBvINGOLXo0Kqvhs/WVeYg=="], "DevID": "attacker-compromised.infra.real.synflood-ransomware.blankcanvas"}
 {"TimeStamp": "1756403865", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["d0AzvlvC1JeEC4zP0B8XwQ=="], "DevID": "attacker-compromised.infra.real.synflood-ransomware.blankcanvas"}
 {"TimeStamp": "1756403865", "Size": ["248"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["TAxbH24dXYAYlT4QLC4paw=="], "DevID": "attacker-compromised.infra.real.synflood-ransomware.blankcanvas"}
-{"TimeStamp": "1756403976", "Size": ["3526"], "Location": ["/home/blankcanvas/.bashrc"], "Hash": ["HB7DyhUsR9+dDyZWSICCgQ=="], "DevID": "attacker-compromised.infra.real.synflood-ransomware.blankcanvas"}
-{"TimeStamp": "1756403976", "Size": ["4928"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["JzGvcFYTvYjLvl6lw89dPg=="], "DevID": "attacker-compromised.infra.real.synflood-ransomware.blankcanvas"}
-{"TimeStamp": "1756403976", "Size": ["151"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["Z1t33J219N3+vvai7I6LxA=="], "DevID": "attacker-compromised.infra.real.synflood-ransomware.blankcanvas"}
-{"TimeStamp": "1756403976", "Size": ["261"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["mbAqXKtOpj8IdmV7NAyCQQ=="], "DevID": "attacker-compromised.infra.real.synflood-ransomware.blankcanvas"}
+{"TimeStamp": "1756404268", "Size": ["3526"], "Location": ["/home/blankcanvas/.bashrc"], "Hash": ["HB7DyhUsR9+dDyZWSICCgQ=="], "DevID": "attacker-compromised.infra.real.synflood-ransomware.blankcanvas"}
+{"TimeStamp": "1756404268", "Size": ["4928"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["JzGvcFYTvYjLvl6lw89dPg=="], "DevID": "attacker-compromised.infra.real.synflood-ransomware.blankcanvas"}
+{"TimeStamp": "1756404268", "Size": ["151"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["Z1t33J219N3+vvai7I6LxA=="], "DevID": "attacker-compromised.infra.real.synflood-ransomware.blankcanvas"}
+{"TimeStamp": "1756404268", "Size": ["261"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["mbAqXKtOpj8IdmV7NAyCQQ=="], "DevID": "attacker-compromised.infra.real.synflood-ransomware.blankcanvas"}
 {"TimeStamp": "1756404532", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["d0AzvlvC1JeEC4zP0B8XwQ=="], "DevID": "attacker-compromised.infra.real.synflood-ransomware.blankcanvas"}
 {"TimeStamp": "1756404532", "Size": ["235"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["qLJhyylGkYXigdJ52z8ImA=="], "DevID": "attacker-compromised.infra.real.synflood-ransomware.blankcanvas"}
 {"TimeStamp": "1756404532", "Size": ["248"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["mSm3ou5vsYjlwjAZmNRGhg=="], "DevID": "attacker-compromised.infra.real.synflood-ransomware.blankcanvas"}

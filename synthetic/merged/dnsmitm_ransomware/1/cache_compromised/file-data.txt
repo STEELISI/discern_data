@@ -1,10 +1,10 @@
-{"TimeStamp": "1756383951", "Size": ["4928"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["eBs8yCkIDOXBPJrH16IisQ=="], "DevID": "cache-compromised.infra.real.dnsmitm-ransomware.blankcanvas"}
-{"TimeStamp": "1756383951", "Size": ["151"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["Z1t33J219N3+vvai7I6LxA=="], "DevID": "cache-compromised.infra.real.dnsmitm-ransomware.blankcanvas"}
-{"TimeStamp": "1756383951", "Size": ["261"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["mbAqXKtOpj8IdmV7NAyCQQ=="], "DevID": "cache-compromised.infra.real.dnsmitm-ransomware.blankcanvas"}
 {"TimeStamp": "1756384294", "Size": ["235"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["qLJhyylGkYXigdJ52z8ImA=="], "DevID": "cache-compromised.infra.real.dnsmitm-ransomware.blankcanvas"}
 {"TimeStamp": "1756384294", "Size": ["117"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["+tumuqFfY/rBOMEg8vJdjA=="], "DevID": "cache-compromised.infra.real.dnsmitm-ransomware.blankcanvas"}
 {"TimeStamp": "1756384294", "Size": ["185"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["ewwmKmUlEwpC0qFfwLbumw=="], "DevID": "cache-compromised.infra.real.dnsmitm-ransomware.blankcanvas"}
 {"TimeStamp": "1756384294", "Size": ["49"], "Location": ["/etc/systemd/network/eth3.network"], "Hash": ["wFq+svV41H1RFwGh7OEcug=="], "DevID": "cache-compromised.infra.real.dnsmitm-ransomware.blankcanvas"}
+{"TimeStamp": "1756384344", "Size": ["4928"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["eBs8yCkIDOXBPJrH16IisQ=="], "DevID": "cache-compromised.infra.real.dnsmitm-ransomware.blankcanvas"}
+{"TimeStamp": "1756384344", "Size": ["151"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["Z1t33J219N3+vvai7I6LxA=="], "DevID": "cache-compromised.infra.real.dnsmitm-ransomware.blankcanvas"}
+{"TimeStamp": "1756384344", "Size": ["261"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["mbAqXKtOpj8IdmV7NAyCQQ=="], "DevID": "cache-compromised.infra.real.dnsmitm-ransomware.blankcanvas"}
 {"TimeStamp": "1756384965", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["J78pLXBCZM+UUH7luc1zlg=="], "DevID": "cache-compromised.infra.real.dnsmitm-ransomware.blankcanvas"}
 {"TimeStamp": "1756384965", "Size": ["117"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["0U+3qR3pGmtN290Bxgmx3Q=="], "DevID": "cache-compromised.infra.real.dnsmitm-ransomware.blankcanvas"}
 {"TimeStamp": "1756384965", "Size": ["49"], "Location": ["/etc/systemd/network/eth3.network"], "Hash": ["sgwyFMNZqt34pMs0bYr1dg=="], "DevID": "cache-compromised.infra.real.dnsmitm-ransomware.blankcanvas"}
