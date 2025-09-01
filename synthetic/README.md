@@ -18,6 +18,9 @@ research infrastructure during malicious and legitimate use patterns.
   - *exfiltrate* - attacker exfiltrates a file from an experimental node 	       
 - *merged* folder contains interleaved/merged data from legitimate and
 malicious use cases
+  - merged data are generated using the [merge.py](https://github.com/STEELISI/discern_collection/tree/main/merger)
+  - for two datasets to be merged, the malicious dataset must have a smaller timespan than the legitimate one, so that the malicious starts later than the legitimate and ends before the legitimate.
+  - anything related to internetscanner, llm+ransomware, lm+portscanner, llm+ exfiltrate, svm+ portscanner, svm+ransomware, synflood+portscanner (partial) are not generated due to unable to satisfy the criteria above.
 
 All malicious use cases were created in a safe manner. The experiments were fully
 contained on the testbed. We used BYOB software to replicate a scenario where there
