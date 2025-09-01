@@ -1,0 +1,5 @@
+{"TimeStamp": "1756387203", "Size": ["117"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["p/bvDczhKtqQYA3/pw7QDw=="], "DevID": "cache-compromised.infra.real.dnsmitm-upload.blankcanvas"}
+{"TimeStamp": "1756387203", "Size": ["185"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["oR5XNcwJMO2YbzX4XqVaCA=="], "DevID": "cache-compromised.infra.real.dnsmitm-upload.blankcanvas"}
+{"TimeStamp": "1756387875", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["HY2SDpDChbEgiy6dWQArZw=="], "DevID": "cache-compromised.infra.real.dnsmitm-upload.blankcanvas"}
+{"TimeStamp": "1756388056", "Size": ["151"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["Z1t33J219N3+vvai7I6LxA=="], "DevID": "cache-compromised.infra.real.dnsmitm-upload.blankcanvas"}
+{"TimeStamp": "1756388056", "Size": ["261"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["mbAqXKtOpj8IdmV7NAyCQQ=="], "DevID": "cache-compromised.infra.real.dnsmitm-upload.blankcanvas"}
