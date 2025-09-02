@@ -1,4 +1,4 @@
-# GPT (Legitimate Use)
+# Using LLMs to Generate Data (Legitimate Use)
 
 Traffic was generated on the topology shown below.
 
