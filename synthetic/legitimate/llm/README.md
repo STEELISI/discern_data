@@ -2,7 +2,7 @@
 
 Traffic was generated on the topology shown below.
 
-<img src="../gpt.jpg" alt="Experiment topology" width="50%"/>
+<img src="../gpt.jpg" alt="Experiment topology" width="25%"/>
 Green circles denote nodes.
 In the scenario:
 
