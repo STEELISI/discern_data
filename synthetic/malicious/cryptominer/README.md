@@ -2,7 +2,7 @@
 
 Traffic was generated on the topology shown below.
 
-<img src="../one.jpg" alt="Experiment topology" width="50%"/>
+<img src="../one.jpg" alt="Experiment topology" width="20%"/>
 
 Green circles denote nodes. 
 In the scenario:
