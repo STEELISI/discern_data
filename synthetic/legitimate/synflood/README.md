@@ -1,21 +1,17 @@
-# Synflood Scenario (Real Use)
+# TCP SYN flood (Real Use)
 
-- Client dumps eth1 to ~/results.pcap
-- Client curls server/index.html every second
-- Script pauses for data collection
-- Attacker starts the flooder program
-- Script pauses for data collection
-- Attacker stops flooder program
-- Client stops curling server
-- Client stops tcpdump
-- Syn cookies are activated on server
-- Client dumps eth1 to ~/results.pcap
-- Client curls server/index.html every second
-- Script pauses for data collection
-- Attacker starts the flooder program
-- Script pauses for data collection
-- Attacker stops flooder program
-- Client stops curling server
-- Client stops tcpdump
-- Script pauses so last data can be dumped
+Traffic was generated on the topology shown below.
 
+<img src="../synflood.jpg" alt="Experiment topology" width="50%"/>
+Green circles denote nodes and red triangles denote interfaces on a node.
+In the scenario:
+
+- We run tcpdump on **client** node
+- **Client** runs `curl server/index.html` every second
+- **Attacker** generates the SYN flood attack on port 80 at the **server** using `flooder` program then stops it after a while
+- We stop the `curl` and `tcpdump` programs on the **client**
+- Syn cookies are activated on **server**
+- We run tcpdump on **client** node
+- **Client** runs `curl server/index.html` every second
+- **Attacker** generates the SYN flood attack on port 80 at the **server** using `flooder` program then stops it after a while
+- We stop the `curl` and `tcpdump` programs on the **client**
