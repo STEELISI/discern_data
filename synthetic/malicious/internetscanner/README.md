@@ -8,7 +8,8 @@ Green circles denote nodes. All nodes except **compromised** and **attacker** ar
 In the scenario (Spencer fill here following the model below):
 - We run byob on the **attacker** node to act as botnet master
 - The master starts the byob client on the **compromised** node
-- The master runs the port scanner malware on **compromised** node and scans 10.10.10.0/24 subnet
+- The master runs the port scanner malware on **compromised** node and scans 107.125.{128..254}.{1..254} subnets
 - The master kills byob software on **compromised** node
 - We stop byob server on **attacker** node
 
+Each IP address in the subnet above has a 10% chance of appearing in the experiment. IPs are randomly assigned to a service, but remain constant throughout all the trials. 
