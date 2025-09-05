@@ -1,0 +1,3 @@
+{"TimeStamp":"1756939049", "Size":["235"], "Location":["/etc/systemd/network/eth0.network"], "Hash":["zxkB/Nw/h3RBGGSUCdy+LQ=="], "Ownership":[{"Owner":"root", "Group":"root"}], "DevID":"40189157228211.2351322681172.1705115310996.1441522178105.882551768463"}
+{"TimeStamp":"1756939049", "Size":["261"], "Location":["/etc/systemd/network/eth1.network"], "Hash":["m0If/ljVBSIPb+Z0zhctEw=="], "Ownership":[{"Owner":"root", "Group":"root"}], "DevID":"40189157228211.2351322681172.1705115310996.1441522178105.882551768463"}
+{"TimeStamp":"1756939049", "Size":["49"], "Location":["/etc/systemd/network/eth2.network"], "Hash":["sw9yypahF1nieWGk9OYY+g=="], "Ownership":[{"Owner":"root", "Group":"root"}], "DevID":"40189157228211.2351322681172.1705115310996.1441522178105.882551768463"}
