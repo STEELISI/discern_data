@@ -1,12 +1,11 @@
-{"TimeStamp":"1757033780", "Name":"docker0", "HardwareAddr":"02:42:80:6b:cd:c9", "IPs":["172.17.0.207", "fe80::42:80ff:fe6b:135"], "DevID":"18162411252.2351322681172.1705115310996.56216412878.882551768463", "Action":"Changed"}
-{"TimeStamp":"1757033795", "Name":"any", "DevID":"18162411252.2351322681172.1705115310996.56216412878.882551768463", "Action":"Added"}
-{"TimeStamp":"1757033795", "Name":"bluetooth-monitor", "DevID":"18162411252.2351322681172.1705115310996.56216412878.882551768463", "Action":"Added"}
-{"TimeStamp":"1757033795", "Name":"nfqueue", "DevID":"18162411252.2351322681172.1705115310996.56216412878.882551768463", "Action":"Added"}
-{"TimeStamp":"1757033795", "Name":"dbus-system", "DevID":"18162411252.2351322681172.1705115310996.56216412878.882551768463", "Action":"Added"}
-{"TimeStamp":"1757033795", "Name":"lo", "IPs":["127.0.0.1", "::105"], "DevID":"18162411252.2351322681172.1705115310996.56216412878.882551768463", "Action":"Added"}
-{"TimeStamp":"1757033795", "Name":"eth0", "HardwareAddr":"76:88:74:69:35:0f", "IPs":["172.30.0.220", "fe80::7488:74ff:fe69:167"], "DevID":"18162411252.2351322681172.1705115310996.56216412878.882551768463", "Action":"Added"}
-{"TimeStamp":"1757033795", "Name":"eth1", "HardwareAddr":"ee:ed:74:f3:28:7f", "IPs":["10.0.1.111", "fe80::eced:74ff:fef3:209"], "DevID":"18162411252.2351322681172.1705115310996.56216412878.882551768463", "Action":"Added"}
-{"TimeStamp":"1757033795", "Name":"docker0", "HardwareAddr":"02:42:80:6b:cd:c9", "IPs":["172.17.0.207", "fe80::42:80ff:fe6b:135"], "DevID":"18162411252.2351322681172.1705115310996.56216412878.882551768463", "Action":"Added"}
-{"TimeStamp":"1757033795", "Name":"nflog", "DevID":"18162411252.2351322681172.1705115310996.56216412878.882551768463", "Action":"Added"}
-{"TimeStamp":"1757033795", "Name":"dbus-session", "DevID":"18162411252.2351322681172.1705115310996.56216412878.882551768463", "Action":"Added"}
-{"TimeStamp":"1757034395", "Name":"veth0b7dad0", "HardwareAddr":"b6:b3:49:c3:e1:c9", "IPs":["fe80::b4b3:49ff:fec3:44"], "DevID":"18162411252.2351322681172.1705115310996.56216412878.882551768463", "Action":"Added"}
+{"TimeStamp":"1757208827", "Name":"eth0", "HardwareAddr":"22:78:13:1c:48:0c", "IPs":["172.30.0.88", "fe80::2078:13ff:fe1c:134"], "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757208827", "Name":"docker0", "HardwareAddr":"02:42:61:a9:5e:98", "IPs":["172.17.0.50", "fe80::42:61ff:fea9:91"], "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757208827", "Name":"any", "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757208827", "Name":"nflog", "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757208827", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757208827", "Name":"eth1", "HardwareAddr":"6e:17:04:8e:b8:e5", "IPs":["10.0.1.202", "fe80::6c17:4ff:fe8e:107"], "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757208827", "Name":"bluetooth-monitor", "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757208827", "Name":"nfqueue", "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757208827", "Name":"dbus-system", "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757208827", "Name":"dbus-session", "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757209427", "Name":"veth49932de", "HardwareAddr":"82:b7:e6:9b:17:0a", "IPs":["fe80::80b7:e6ff:fe9b:21"], "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}

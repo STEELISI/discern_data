@@ -1,10 +1,10 @@
-{"TimeStamp":"1756959317", "Name":"eth1", "HardwareAddr":"ba:28:18:d9:8d:16", "IPs":["10.10.10.109", "fe80::b828:18ff:fed9:233"], "DevID":"2307516313875.2351322681172.1705115310996.1831411623266.882551768463", "Action":"Added"}
-{"TimeStamp":"1756959317", "Name":"eth2", "HardwareAddr":"96:74:d3:c5:10:79", "IPs":["10.0.1.111", "fe80::9474:d3ff:fec5:242"], "DevID":"2307516313875.2351322681172.1705115310996.1831411623266.882551768463", "Action":"Added"}
-{"TimeStamp":"1756959317", "Name":"dbus-system", "DevID":"2307516313875.2351322681172.1705115310996.1831411623266.882551768463", "Action":"Added"}
-{"TimeStamp":"1756959317", "Name":"dbus-session", "DevID":"2307516313875.2351322681172.1705115310996.1831411623266.882551768463", "Action":"Added"}
-{"TimeStamp":"1756959317", "Name":"nfqueue", "DevID":"2307516313875.2351322681172.1705115310996.1831411623266.882551768463", "Action":"Added"}
-{"TimeStamp":"1756959317", "Name":"lo", "IPs":["127.0.0.1", "::105"], "DevID":"2307516313875.2351322681172.1705115310996.1831411623266.882551768463", "Action":"Added"}
-{"TimeStamp":"1756959317", "Name":"eth0", "HardwareAddr":"5a:2f:c2:ac:af:29", "IPs":["172.30.0.163", "fe80::582f:c2ff:feac:50"], "DevID":"2307516313875.2351322681172.1705115310996.1831411623266.882551768463", "Action":"Added"}
-{"TimeStamp":"1756959317", "Name":"any", "DevID":"2307516313875.2351322681172.1705115310996.1831411623266.882551768463", "Action":"Added"}
-{"TimeStamp":"1756959317", "Name":"bluetooth-monitor", "DevID":"2307516313875.2351322681172.1705115310996.1831411623266.882551768463", "Action":"Added"}
-{"TimeStamp":"1756959317", "Name":"nflog", "DevID":"2307516313875.2351322681172.1705115310996.1831411623266.882551768463", "Action":"Added"}
+{"TimeStamp":"1757125987", "Name":"eth0", "HardwareAddr":"a6:0b:5b:64:cb:27", "IPs":["172.30.0.10", "fe80::a40b:5bff:fe64:30"], "DevID":"wxhix.bnsdq.ozxfs.bomyo.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757125987", "Name":"eth2", "HardwareAddr":"6a:f2:e9:9f:3a:aa", "IPs":["10.0.1.202", "fe80::68f2:e9ff:fe9f:24"], "DevID":"wxhix.bnsdq.ozxfs.bomyo.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757125987", "Name":"bluetooth-monitor", "DevID":"wxhix.bnsdq.ozxfs.bomyo.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757125987", "Name":"nflog", "DevID":"wxhix.bnsdq.ozxfs.bomyo.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757125987", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"wxhix.bnsdq.ozxfs.bomyo.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757125987", "Name":"eth1", "HardwareAddr":"56:73:a4:4f:b0:f0", "IPs":["10.10.10.241", "fe80::5473:a4ff:fe4f:169"], "DevID":"wxhix.bnsdq.ozxfs.bomyo.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757125987", "Name":"any", "DevID":"wxhix.bnsdq.ozxfs.bomyo.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757125987", "Name":"nfqueue", "DevID":"wxhix.bnsdq.ozxfs.bomyo.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757125987", "Name":"dbus-system", "DevID":"wxhix.bnsdq.ozxfs.bomyo.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757125987", "Name":"dbus-session", "DevID":"wxhix.bnsdq.ozxfs.bomyo.blankcanvas", "Action":"Added"}
