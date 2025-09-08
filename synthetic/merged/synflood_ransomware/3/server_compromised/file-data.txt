@@ -1,7 +1,6 @@
 {"TimeStamp": "1756408918", "Size": ["235"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["wHnYo0oaSMgoNCFgsIU30w=="], "DevID": "server-compromised.infra.real.synflood-ransomware.blankcanvas"}
 {"TimeStamp": "1756408918", "Size": ["181"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["nbo8tvJP5cnWU52k2OepLw=="], "DevID": "server-compromised.infra.real.synflood-ransomware.blankcanvas"}
-{"TimeStamp": "1756409621", "Size": ["3526"], "Location": ["/home/blankcanvas/.bashrc"], "Hash": ["HB7DyhUsR9+dDyZWSICCgQ=="], "DevID": "server-compromised.infra.real.synflood-ransomware.blankcanvas"}
-{"TimeStamp": "1756409621", "Size": ["4928"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["z93Ttl1RczN2h7iBicq/FA=="], "DevID": "server-compromised.infra.real.synflood-ransomware.blankcanvas"}
-{"TimeStamp": "1756409621", "Size": ["151"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["Z1t33J219N3+vvai7I6LxA=="], "DevID": "server-compromised.infra.real.synflood-ransomware.blankcanvas"}
-{"TimeStamp": "1756409621", "Size": ["261"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["mbAqXKtOpj8IdmV7NAyCQQ=="], "DevID": "server-compromised.infra.real.synflood-ransomware.blankcanvas"}
-{"TimeStamp": "1756409621", "Size": ["49"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["Pw9RgU3/6N1Fr1zGGPKY6A=="], "DevID": "server-compromised.infra.real.synflood-ransomware.blankcanvas"}
+{"TimeStamp": "1756410133", "Size": ["807"], "Location": ["/home/blankcanvas/.profile"], "Hash": ["+iDs9kwa5fB/UgeQUoZjXg=="], "DevID": "server-compromised.infra.real.synflood-ransomware.blankcanvas"}
+{"TimeStamp": "1756410133", "Size": ["4928"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["hdqUkbFpjUF415RigBvNAA=="], "DevID": "server-compromised.infra.real.synflood-ransomware.blankcanvas"}
+{"TimeStamp": "1756410133", "Size": ["151"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["Z1t33J219N3+vvai7I6LxA=="], "DevID": "server-compromised.infra.real.synflood-ransomware.blankcanvas"}
+{"TimeStamp": "1756410133", "Size": ["49"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["sw9yypahF1nieWGk9OYY+g=="], "DevID": "server-compromised.infra.real.synflood-ransomware.blankcanvas"}

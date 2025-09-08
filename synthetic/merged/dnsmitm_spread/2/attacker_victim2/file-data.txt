@@ -1,5 +1,8 @@
 {"TimeStamp": "1756385515", "Size": ["235"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["a+Uc5tDmq1CWCrgXmvQhZA=="], "DevID": "attacker-victim2.infra.real.dnsmitm-spread.blankcanvas"}
 {"TimeStamp": "1756385515", "Size": ["185"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["qMezUtZ7XoZy77hMGyW89g=="], "DevID": "attacker-victim2.infra.real.dnsmitm-spread.blankcanvas"}
+{"TimeStamp": "1756386083", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["FG9b3W1gmKMjktCvhdK4Iw=="], "DevID": "attacker-victim2.infra.real.dnsmitm-spread.blankcanvas"}
+{"TimeStamp": "1756386083", "Size": ["235"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["qLJhyylGkYXigdJ52z8ImA=="], "DevID": "attacker-victim2.infra.real.dnsmitm-spread.blankcanvas"}
+{"TimeStamp": "1756386083", "Size": ["191"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["fCr72qscdN1L5j7ALKpArA=="], "DevID": "attacker-victim2.infra.real.dnsmitm-spread.blankcanvas"}
 {"TimeStamp": "1756386214", "Size": ["235"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["wHnYo0oaSMgoNCFgsIU30w=="], "DevID": "attacker-victim2.infra.real.dnsmitm-spread.blankcanvas"}
 {"TimeStamp": "1756386910", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["J78pLXBCZM+UUH7luc1zlg=="], "DevID": "attacker-victim2.infra.real.dnsmitm-spread.blankcanvas"}
 {"TimeStamp": "1756386910", "Size": ["235"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["wHnYo0oaSMgoNCFgsIU30w=="], "DevID": "attacker-victim2.infra.real.dnsmitm-spread.blankcanvas"}

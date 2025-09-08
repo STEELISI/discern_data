@@ -1,4 +1,7 @@
 {"TimeStamp": "1756385504", "Size": ["185"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["TLouO+Tqmz8xZDT8IGJbnQ=="], "DevID": "auth-victim2.infra.real.dnsmitm-spread.blankcanvas"}
+{"TimeStamp": "1756386089", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["FG9b3W1gmKMjktCvhdK4Iw=="], "DevID": "auth-victim2.infra.real.dnsmitm-spread.blankcanvas"}
+{"TimeStamp": "1756386089", "Size": ["235"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["qLJhyylGkYXigdJ52z8ImA=="], "DevID": "auth-victim2.infra.real.dnsmitm-spread.blankcanvas"}
+{"TimeStamp": "1756386089", "Size": ["191"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["fCr72qscdN1L5j7ALKpArA=="], "DevID": "auth-victim2.infra.real.dnsmitm-spread.blankcanvas"}
 {"TimeStamp": "1756386170", "Size": ["185"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["V7hVgAcJLnVpnkplWPqKAg=="], "DevID": "auth-victim2.infra.real.dnsmitm-spread.blankcanvas"}
 {"TimeStamp": "1756386170", "Size": ["185"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["TLouO+Tqmz8xZDT8IGJbnQ=="], "DevID": "auth-victim2.infra.real.dnsmitm-spread.blankcanvas"}
 {"TimeStamp": "1756386839", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["HY2SDpDChbEgiy6dWQArZw=="], "DevID": "auth-victim2.infra.real.dnsmitm-spread.blankcanvas"}

@@ -3,8 +3,7 @@
 {"TimeStamp": "1756409623", "Size": ["115"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["k6gCWuoOqNehh6yQe+sgKg=="], "DevID": "router-attacker.infra.real.synflood-ransomware.blankcanvas"}
 {"TimeStamp": "1756409623", "Size": ["182"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["ec03dfN38LNgr+djMRHvfA=="], "DevID": "router-attacker.infra.real.synflood-ransomware.blankcanvas"}
 {"TimeStamp": "1756409623", "Size": ["49"], "Location": ["/etc/systemd/network/eth3.network"], "Hash": ["sgwyFMNZqt34pMs0bYr1dg=="], "DevID": "router-attacker.infra.real.synflood-ransomware.blankcanvas"}
-{"TimeStamp": "1756409654", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["Z3YDVcvKBnDtBxoVrepTzg=="], "DevID": "router-attacker.infra.real.synflood-ransomware.blankcanvas"}
-{"TimeStamp": "1756409654", "Size": ["65536"], "Location": ["/home/blankcanvas/byob/database.db"], "Hash": ["yfMizVxDx7wy5RXuyzDICw=="], "DevID": "router-attacker.infra.real.synflood-ransomware.blankcanvas"}
-{"TimeStamp": "1756409654", "Size": ["151"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["Z1t33J219N3+vvai7I6LxA=="], "DevID": "router-attacker.infra.real.synflood-ransomware.blankcanvas"}
-{"TimeStamp": "1756409654", "Size": ["261"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["qRzdR3XaaYEwoASArLQ3ng=="], "DevID": "router-attacker.infra.real.synflood-ransomware.blankcanvas"}
+{"TimeStamp": "1756410173", "Size": ["69632"], "Location": ["/home/blankcanvas/byob/database.db"], "Hash": ["xjzNTk2+jmUHj9wrPAAMZw=="], "DevID": "router-attacker.infra.real.synflood-ransomware.blankcanvas"}
+{"TimeStamp": "1756410173", "Size": ["151"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["Z1t33J219N3+vvai7I6LxA=="], "DevID": "router-attacker.infra.real.synflood-ransomware.blankcanvas"}
+{"TimeStamp": "1756410173", "Size": ["261"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["cvO5rDT3+nB3DVIeO09rPA=="], "DevID": "router-attacker.infra.real.synflood-ransomware.blankcanvas"}
 {"TimeStamp": "1756410288", "Size": ["115"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["pfhhBcPpBdkHad0nDxJYKg=="], "DevID": "router-attacker.infra.real.synflood-ransomware.blankcanvas"}

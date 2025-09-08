@@ -1,2 +1,3 @@
 {"TimeStamp": "1756399878", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["VxgFZ61ofd8gDhNq77gEOQ=="], "DevID": "learner-attacker.infra.real.imgnet-upload.blankcanvas"}
-{"TimeStamp": "1756400577", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["mBz9xH65Vu+ec0DRZ8p+6w=="], "DevID": "learner-attacker.infra.real.imgnet-upload.blankcanvas"}
+{"TimeStamp": "1756400574", "Size": ["235"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["a+Uc5tDmq1CWCrgXmvQhZA=="], "DevID": "learner-attacker.infra.real.imgnet-upload.blankcanvas"}
+{"TimeStamp": "1756400574", "Size": ["261"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["cvO5rDT3+nB3DVIeO09rPA=="], "DevID": "learner-attacker.infra.real.imgnet-upload.blankcanvas"}

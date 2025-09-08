@@ -1,6 +1,6 @@
 {"TimeStamp": "1756405112", "Size": ["248"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["mSm3ou5vsYjlwjAZmNRGhg=="], "DevID": "attacker.infra.real.synflood-ransomware.blankcanvas"}
 {"TimeStamp": "1756405112", "Size": ["117"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["GBvINGOLXo0Kqvhs/WVeYg=="], "DevID": "attacker.infra.real.synflood-ransomware.blankcanvas"}
 {"TimeStamp": "1756405779", "Size": ["117"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["GBvINGOLXo0Kqvhs/WVeYg=="], "DevID": "attacker.infra.real.synflood-ransomware.blankcanvas"}
+{"TimeStamp": "1756406270", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["kSczAWQmF2FThWg8SPMJ9A=="], "DevID": "attacker.infra.real.synflood-ransomware.blankcanvas"}
+{"TimeStamp": "1756406270", "Size": ["69632"], "Location": ["/home/blankcanvas/byob/database.db"], "Hash": ["5cSOmuzAVoiuRSvbLYhiJA=="], "DevID": "attacker.infra.real.synflood-ransomware.blankcanvas"}
 {"TimeStamp": "1756406446", "Size": ["248"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["pGwpVp3wRgCa6Llco5pubg=="], "DevID": "attacker.infra.real.synflood-ransomware.blankcanvas"}
-{"TimeStamp": "1756406446", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["kSczAWQmF2FThWg8SPMJ9A=="], "DevID": "attacker.infra.real.synflood-ransomware.blankcanvas"}
-{"TimeStamp": "1756406446", "Size": ["69632"], "Location": ["/home/blankcanvas/byob/database.db"], "Hash": ["5cSOmuzAVoiuRSvbLYhiJA=="], "DevID": "attacker.infra.real.synflood-ransomware.blankcanvas"}

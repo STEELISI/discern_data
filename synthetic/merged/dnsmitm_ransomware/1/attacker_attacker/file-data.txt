@@ -6,7 +6,8 @@
 {"TimeStamp": "1756383431", "Size": ["185"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["ucaLWBSkzDpBWlAOSB3p+A=="], "DevID": "attacker.infra.real.dnsmitm-ransomware.blankcanvas"}
 {"TimeStamp": "1756384125", "Size": ["4681"], "Location": ["/etc/ettercap/etter.dns"], "Hash": ["cgPtVDWICd4RoI4TmxoMAQ=="], "DevID": "attacker.infra.real.dnsmitm-ransomware.blankcanvas"}
 {"TimeStamp": "1756384125", "Size": ["235"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["zxkB/Nw/h3RBGGSUCdy+LQ=="], "DevID": "attacker.infra.real.dnsmitm-ransomware.blankcanvas"}
-{"TimeStamp": "1756384384", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["kSczAWQmF2FThWg8SPMJ9A=="], "DevID": "attacker.infra.real.dnsmitm-ransomware.blankcanvas"}
-{"TimeStamp": "1756384384", "Size": ["69632"], "Location": ["/home/blankcanvas/byob/database.db"], "Hash": ["5cSOmuzAVoiuRSvbLYhiJA=="], "DevID": "attacker.infra.real.dnsmitm-ransomware.blankcanvas"}
+{"TimeStamp": "1756384508", "Size": ["65536"], "Location": ["/home/blankcanvas/byob/database.db"], "Hash": ["2aZMssfdqEWfuqoPynkq6w=="], "DevID": "attacker.infra.real.dnsmitm-ransomware.blankcanvas"}
+{"TimeStamp": "1756384508", "Size": ["151"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["Z1t33J219N3+vvai7I6LxA=="], "DevID": "attacker.infra.real.dnsmitm-ransomware.blankcanvas"}
+{"TimeStamp": "1756384508", "Size": ["261"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["WxeGxoXGByQQ47Y3cqgD+g=="], "DevID": "attacker.infra.real.dnsmitm-ransomware.blankcanvas"}
 {"TimeStamp": "1756385149", "Size": ["235"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["a+Uc5tDmq1CWCrgXmvQhZA=="], "DevID": "attacker.infra.real.dnsmitm-ransomware.blankcanvas"}
 {"TimeStamp": "1756385149", "Size": ["185"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["qMezUtZ7XoZy77hMGyW89g=="], "DevID": "attacker.infra.real.dnsmitm-ransomware.blankcanvas"}
