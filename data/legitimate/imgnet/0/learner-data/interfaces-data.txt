@@ -1,9 +1,9 @@
-{"TimeStamp":"1757187099", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757187099", "Name":"eth1", "HardwareAddr":"0a:0a:1a:a4:66:08", "IPs":["10.0.1.202", "fe80::80a:1aff:fea4:94"], "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757187099", "Name":"bluetooth-monitor", "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757187099", "Name":"nfqueue", "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757187099", "Name":"dbus-session", "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757187099", "Name":"eth0", "HardwareAddr":"ba:e9:9b:e5:30:a0", "IPs":["172.30.0.88", "fe80::b8e9:9bff:fee5:118"], "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757187099", "Name":"any", "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757187099", "Name":"nflog", "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757187099", "Name":"dbus-system", "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757618481","Name":"eth1","HardwareAddr":"2a:fe:9a:ca:08:aa","IPs":["10.0.1.202","fe80::28fe:9aff:feca:106"],"DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1757618481","Name":"any","DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1757618481","Name":"bluetooth-monitor","DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1757618481","Name":"nflog","DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1757618481","Name":"nfqueue","DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1757618481","Name":"dbus-system","DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1757618481","Name":"eth0","HardwareAddr":"b6:52:6c:63:50:53","IPs":["172.30.0.88","fe80::b452:6cff:fe63:70"],"DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1757618481","Name":"dbus-session","DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1757618481","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}

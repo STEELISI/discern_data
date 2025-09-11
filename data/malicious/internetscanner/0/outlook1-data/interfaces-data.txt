@@ -1,20 +1,10 @@
-{"TimeStamp":"1757146584", "Name":"eth0", "HardwareAddr":"fe:f3:81:64:d9:ac", "IPs":["172.30.0.48", "fe80::fcf3:81ff:fe64:159"], "DevID":"mtpnz.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146585", "Name":"any", "DevID":"mtpnz.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146585", "Name":"nflog", "DevID":"mtpnz.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146585", "Name":"nfqueue", "DevID":"mtpnz.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146585", "Name":"dbus-session", "DevID":"mtpnz.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146585", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"mtpnz.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146586", "Name":"eth1", "HardwareAddr":"f2:fc:bc:23:5b:e3", "IPs":["107.125.128.65", "fe80::f0fc:bcff:fe23:117"], "DevID":"mtpnz.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146589", "Name":"eth2", "HardwareAddr":"22:98:8a:dd:13:a6", "IPs":["10.0.5.209", "fe80::2098:8aff:fedd:12"], "DevID":"mtpnz.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146590", "Name":"bluetooth-monitor", "DevID":"mtpnz.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146590", "Name":"dbus-system", "DevID":"mtpnz.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146673", "Name":"eth2", "HardwareAddr":"22:98:8a:dd:13:a6", "IPs":["10.0.5.209", "fe80::2098:8aff:fedd:12"], "DevID":"mtpnz.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146674", "Name":"any", "DevID":"mtpnz.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146674", "Name":"bluetooth-monitor", "DevID":"mtpnz.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146674", "Name":"nfqueue", "DevID":"mtpnz.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146674", "Name":"dbus-system", "DevID":"mtpnz.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146674", "Name":"dbus-session", "DevID":"mtpnz.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146674", "Name":"eth1", "HardwareAddr":"f2:fc:bc:23:5b:e3", "IPs":["107.125.128.65", "fe80::f0fc:bcff:fe23:117"], "DevID":"mtpnz.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146675", "Name":"eth0", "HardwareAddr":"fe:f3:81:64:d9:ac", "IPs":["172.30.0.48", "fe80::fcf3:81ff:fe64:159"], "DevID":"mtpnz.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146676", "Name":"nflog", "DevID":"mtpnz.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146676", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"mtpnz.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757584401","Name":"eth1","HardwareAddr":"ce:9b:fd:6a:8e:da","IPs":["107.125.128.65","fe80::cc9b:fdff:fe6a:162"],"DevID":"outlook1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584401","Name":"eth2","HardwareAddr":"9e:fc:66:10:af:1d","IPs":["10.0.5.209","fe80::9cfc:66ff:fe10:12"],"DevID":"outlook1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584401","Name":"nfqueue","DevID":"outlook1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584401","Name":"dbus-system","DevID":"outlook1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584401","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"outlook1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584401","Name":"eth0","HardwareAddr":"4a:1b:6b:07:54:d2","IPs":["172.30.0.48","fe80::481b:6bff:fe07:51"],"DevID":"outlook1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584401","Name":"nflog","DevID":"outlook1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584401","Name":"dbus-session","DevID":"outlook1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584401","Name":"any","DevID":"outlook1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584401","Name":"bluetooth-monitor","DevID":"outlook1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}

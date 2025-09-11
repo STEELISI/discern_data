@@ -1,11 +1,11 @@
-{"TimeStamp":"1757146942", "Name":"docker0", "HardwareAddr":"02:42:38:5c:c4:32", "IPs":["172.17.0.50", "fe80::42:38ff:fe5c:155"], "DevID":"wldvv.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146943", "Name":"eth1", "HardwareAddr":"ce:e7:f2:f3:71:fd", "IPs":["107.125.128.87", "fe80::cce7:f2ff:fef3:166"], "DevID":"wldvv.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146944", "Name":"eth2", "HardwareAddr":"b6:ab:47:a2:ff:1e", "IPs":["10.0.6.191", "fe80::b4ab:47ff:fea2:131"], "DevID":"wldvv.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146945", "Name":"any", "DevID":"wldvv.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146945", "Name":"bluetooth-monitor", "DevID":"wldvv.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146945", "Name":"nflog", "DevID":"wldvv.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146945", "Name":"nfqueue", "DevID":"wldvv.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146945", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"wldvv.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146946", "Name":"eth0", "HardwareAddr":"02:1f:e7:2f:8e:fb", "IPs":["172.30.0.171", "fe80::1f:e7ff:fe2f:174"], "DevID":"wldvv.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146947", "Name":"dbus-system", "DevID":"wldvv.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757146947", "Name":"dbus-session", "DevID":"wldvv.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757584773","Name":"bluetooth-monitor","DevID":"wordpress1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584773","Name":"nflog","DevID":"wordpress1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584773","Name":"nfqueue","DevID":"wordpress1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584773","Name":"dbus-system","DevID":"wordpress1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584773","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"wordpress1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584773","Name":"eth2","HardwareAddr":"4e:26:6c:07:0d:53","IPs":["10.0.6.191","fe80::4c26:6cff:fe07:165"],"DevID":"wordpress1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584773","Name":"docker0","HardwareAddr":"02:42:4c:39:6f:79","IPs":["172.17.0.50","fe80::42:4cff:fe39:39"],"DevID":"wordpress1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584773","Name":"any","DevID":"wordpress1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584773","Name":"dbus-session","DevID":"wordpress1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584773","Name":"eth0","HardwareAddr":"7a:e0:2e:92:ff:00","IPs":["172.30.0.171","fe80::78e0:2eff:fe92:169"],"DevID":"wordpress1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584774","Name":"eth1","HardwareAddr":"92:09:5d:5f:a6:2b","IPs":["107.125.128.87","fe80::9009:5dff:fe5f:112"],"DevID":"wordpress1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}

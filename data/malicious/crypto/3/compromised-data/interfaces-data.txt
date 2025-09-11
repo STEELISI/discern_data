@@ -1,9 +1,9 @@
-{"TimeStamp":"1757118567", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"ohbud.bnsdq.ozxfs.kvhkg.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757118567", "Name":"eth1", "HardwareAddr":"3e:d4:f0:d1:a4:2a", "IPs":["10.0.1.202", "fe80::3cd4:f0ff:fed1:188"], "DevID":"ohbud.bnsdq.ozxfs.kvhkg.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757118567", "Name":"bluetooth-monitor", "DevID":"ohbud.bnsdq.ozxfs.kvhkg.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757118567", "Name":"nfqueue", "DevID":"ohbud.bnsdq.ozxfs.kvhkg.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757118567", "Name":"dbus-system", "DevID":"ohbud.bnsdq.ozxfs.kvhkg.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757118567", "Name":"dbus-session", "DevID":"ohbud.bnsdq.ozxfs.kvhkg.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757118567", "Name":"eth0", "HardwareAddr":"86:a0:b4:9f:51:00", "IPs":["172.30.0.10", "fe80::84a0:b4ff:fe9f:82"], "DevID":"ohbud.bnsdq.ozxfs.kvhkg.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757118567", "Name":"any", "DevID":"ohbud.bnsdq.ozxfs.kvhkg.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757118567", "Name":"nflog", "DevID":"ohbud.bnsdq.ozxfs.kvhkg.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757557067","Name":"dbus-session","DevID":"compromised.bnsdq.ozxfs.kvhkg.kvugl","Action":"Added"}
+{"TimeStamp":"1757557067","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"compromised.bnsdq.ozxfs.kvhkg.kvugl","Action":"Added"}
+{"TimeStamp":"1757557068","Name":"eth0","HardwareAddr":"9a:6e:f1:c7:e7:4e","IPs":["172.30.0.10","fe80::986e:f1ff:fec7:50"],"DevID":"compromised.bnsdq.ozxfs.kvhkg.kvugl","Action":"Added"}
+{"TimeStamp":"1757557068","Name":"any","DevID":"compromised.bnsdq.ozxfs.kvhkg.kvugl","Action":"Added"}
+{"TimeStamp":"1757557068","Name":"bluetooth-monitor","DevID":"compromised.bnsdq.ozxfs.kvhkg.kvugl","Action":"Added"}
+{"TimeStamp":"1757557068","Name":"dbus-system","DevID":"compromised.bnsdq.ozxfs.kvhkg.kvugl","Action":"Added"}
+{"TimeStamp":"1757557068","Name":"eth1","HardwareAddr":"52:5b:6d:ef:59:ad","IPs":["10.0.1.202","fe80::505b:6dff:feef:3"],"DevID":"compromised.bnsdq.ozxfs.kvhkg.kvugl","Action":"Added"}
+{"TimeStamp":"1757557068","Name":"nflog","DevID":"compromised.bnsdq.ozxfs.kvhkg.kvugl","Action":"Added"}
+{"TimeStamp":"1757557068","Name":"nfqueue","DevID":"compromised.bnsdq.ozxfs.kvhkg.kvugl","Action":"Added"}

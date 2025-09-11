@@ -1,20 +1,10 @@
-{"TimeStamp":"1757151545", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"qvlcp.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757151546", "Name":"eth2", "HardwareAddr":"de:51:49:7a:8a:16", "IPs":["10.0.24.46", "fe80::dc51:49ff:fe7a:80"], "DevID":"qvlcp.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757151547", "Name":"nflog", "DevID":"qvlcp.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757151547", "Name":"nfqueue", "DevID":"qvlcp.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757151547", "Name":"eth0", "HardwareAddr":"3e:b7:bd:3b:ec:ef", "IPs":["172.30.0.48", "fe80::3cb7:bdff:fe3b:40"], "DevID":"qvlcp.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757151548", "Name":"eth1", "HardwareAddr":"aa:08:f7:cc:6b:86", "IPs":["107.125.128.204", "fe80::a808:f7ff:fecc:51"], "DevID":"qvlcp.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757151549", "Name":"any", "DevID":"qvlcp.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757151549", "Name":"bluetooth-monitor", "DevID":"qvlcp.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757151549", "Name":"dbus-system", "DevID":"qvlcp.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757151549", "Name":"dbus-session", "DevID":"qvlcp.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757155214", "Name":"eth0", "HardwareAddr":"3e:b7:bd:3b:ec:ef", "IPs":["172.30.0.48", "fe80::3cb7:bdff:fe3b:40"], "DevID":"qvlcp.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757155214", "Name":"eth1", "HardwareAddr":"aa:08:f7:cc:6b:86", "IPs":["107.125.128.204", "fe80::a808:f7ff:fecc:51"], "DevID":"qvlcp.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757155215", "Name":"eth2", "HardwareAddr":"de:51:49:7a:8a:16", "IPs":["10.0.24.46", "fe80::dc51:49ff:fe7a:80"], "DevID":"qvlcp.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757155217", "Name":"bluetooth-monitor", "DevID":"qvlcp.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757155217", "Name":"nflog", "DevID":"qvlcp.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757155217", "Name":"dbus-system", "DevID":"qvlcp.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757155217", "Name":"dbus-session", "DevID":"qvlcp.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757155217", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"qvlcp.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757155218", "Name":"any", "DevID":"qvlcp.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757155218", "Name":"nfqueue", "DevID":"qvlcp.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757589297","Name":"nflog","DevID":"vnc2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589297","Name":"dbus-session","DevID":"vnc2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589297","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"vnc2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589297","Name":"eth1","HardwareAddr":"76:cb:8c:18:c5:1b","IPs":["107.125.128.204","fe80::74cb:8cff:fe18:220"],"DevID":"vnc2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589298","Name":"any","DevID":"vnc2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589298","Name":"bluetooth-monitor","DevID":"vnc2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589298","Name":"eth0","HardwareAddr":"be:0e:ee:3e:65:47","IPs":["172.30.0.48","fe80::bc0e:eeff:fe3e:90"],"DevID":"vnc2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589298","Name":"eth2","HardwareAddr":"c2:a6:2a:54:18:79","IPs":["10.0.24.46","fe80::c0a6:2aff:fe54:59"],"DevID":"vnc2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589298","Name":"nfqueue","DevID":"vnc2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589298","Name":"dbus-system","DevID":"vnc2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}

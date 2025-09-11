@@ -1,10 +1,10 @@
-{"TimeStamp":"1757151194", "Name":"any", "DevID":"kpckb.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757151194", "Name":"bluetooth-monitor", "DevID":"kpckb.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757151194", "Name":"dbus-system", "DevID":"kpckb.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757151194", "Name":"eth0", "HardwareAddr":"9e:f4:86:8d:3c:d4", "IPs":["172.30.0.217", "fe80::9cf4:86ff:fe8d:94"], "DevID":"kpckb.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757151194", "Name":"eth1", "HardwareAddr":"5e:5d:03:ef:4b:69", "IPs":["107.125.128.0", "fe80::5c5d:3ff:feef:87"], "DevID":"kpckb.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757151196", "Name":"eth2", "HardwareAddr":"ce:a6:31:fb:0d:7a", "IPs":["10.0.17.203", "fe80::cca6:31ff:fefb:47"], "DevID":"kpckb.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757151197", "Name":"nflog", "DevID":"kpckb.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757151197", "Name":"nfqueue", "DevID":"kpckb.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757151197", "Name":"dbus-session", "DevID":"kpckb.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757151197", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"kpckb.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757588929","Name":"bluetooth-monitor","DevID":"nginx2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757588929","Name":"nflog","DevID":"nginx2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757588929","Name":"dbus-system","DevID":"nginx2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757588929","Name":"eth0","HardwareAddr":"8a:da:de:88:1d:5f","IPs":["172.30.0.217","fe80::88da:deff:fe88:122"],"DevID":"nginx2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757588929","Name":"eth1","HardwareAddr":"6a:16:51:7c:16:8e","IPs":["107.125.128.0","fe80::6816:51ff:fe7c:16"],"DevID":"nginx2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757588930","Name":"eth2","HardwareAddr":"ae:e7:35:4f:ac:4f","IPs":["10.0.17.203","fe80::ace7:35ff:fe4f:194"],"DevID":"nginx2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757588930","Name":"dbus-session","DevID":"nginx2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757588930","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"nginx2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757588930","Name":"any","DevID":"nginx2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757588930","Name":"nfqueue","DevID":"nginx2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}

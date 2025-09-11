@@ -1,10 +1,10 @@
-{"TimeStamp":"1757125987", "Name":"eth0", "HardwareAddr":"a6:0b:5b:64:cb:27", "IPs":["172.30.0.10", "fe80::a40b:5bff:fe64:30"], "DevID":"wxhix.bnsdq.ozxfs.bomyo.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757125987", "Name":"eth2", "HardwareAddr":"6a:f2:e9:9f:3a:aa", "IPs":["10.0.1.202", "fe80::68f2:e9ff:fe9f:24"], "DevID":"wxhix.bnsdq.ozxfs.bomyo.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757125987", "Name":"bluetooth-monitor", "DevID":"wxhix.bnsdq.ozxfs.bomyo.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757125987", "Name":"nflog", "DevID":"wxhix.bnsdq.ozxfs.bomyo.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757125987", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"wxhix.bnsdq.ozxfs.bomyo.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757125987", "Name":"eth1", "HardwareAddr":"56:73:a4:4f:b0:f0", "IPs":["10.10.10.241", "fe80::5473:a4ff:fe4f:169"], "DevID":"wxhix.bnsdq.ozxfs.bomyo.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757125987", "Name":"any", "DevID":"wxhix.bnsdq.ozxfs.bomyo.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757125987", "Name":"nfqueue", "DevID":"wxhix.bnsdq.ozxfs.bomyo.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757125987", "Name":"dbus-system", "DevID":"wxhix.bnsdq.ozxfs.bomyo.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757125987", "Name":"dbus-session", "DevID":"wxhix.bnsdq.ozxfs.bomyo.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757564153","Name":"dbus-system","DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl","Action":"Added"}
+{"TimeStamp":"1757564153","Name":"eth2","HardwareAddr":"22:07:3a:bd:08:02","IPs":["10.0.1.202","fe80::2007:3aff:febd:174"],"DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl","Action":"Added"}
+{"TimeStamp":"1757564153","Name":"any","DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl","Action":"Added"}
+{"TimeStamp":"1757564153","Name":"bluetooth-monitor","DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl","Action":"Added"}
+{"TimeStamp":"1757564153","Name":"nfqueue","DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl","Action":"Added"}
+{"TimeStamp":"1757564153","Name":"dbus-session","DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl","Action":"Added"}
+{"TimeStamp":"1757564153","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl","Action":"Added"}
+{"TimeStamp":"1757564153","Name":"eth0","HardwareAddr":"32:33:e7:be:b9:48","IPs":["172.30.0.10","fe80::3033:e7ff:febe:176"],"DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl","Action":"Added"}
+{"TimeStamp":"1757564153","Name":"eth1","HardwareAddr":"ae:f6:44:bd:9e:a8","IPs":["10.10.10.241","fe80::acf6:44ff:febd:37"],"DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl","Action":"Added"}
+{"TimeStamp":"1757564153","Name":"nflog","DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl","Action":"Added"}

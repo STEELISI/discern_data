@@ -1,670 +1,725 @@
-{"TimeStamp":"1757146323","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146330","Load":[99.99999999997529],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146336","Load":[1.0101010101003143],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146343","Load":[7.070707070702199],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146349","Load":[0.9999999999990905],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146356","Load":[10.101010101026109],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146363","Load":[3.0303030302779757],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146369","Load":[14.000000000032742],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146376","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146383","Load":[2.0202020202006286],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146390","Load":[3.960396039599502],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146396","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146403","Load":[8.08080808082548],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146410","Load":[11.000000000012733],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146416","Load":[7.999999999992724],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146423","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146434","Load":[17.999999999989996],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146442","Load":[0.9999999999990905],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146449","Load":[17.346938775502156],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146457","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146463","Load":[3.061224489817699],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146470","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146479","Load":[8.999999999991815],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146486","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146495","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146502","Load":[4.950495049499378],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146509","Load":[9.090909090911179],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146515","Load":[26.99999999999818],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146521","Load":[3.0303030303239096],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146527","Load":[8.999999999991815],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146534","Load":[9],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146550","Load":[8.080808080802514],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146556","Load":[15.000000000009095],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146566","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146572","Load":[0.9900990099007672],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146580","Load":[21.782178217819776],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146587","Load":[3.0303030303009426],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146593","Load":[0.9999999999990905],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146599","Load":[16.326530612260523],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146606","Load":[4.950495049499378],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146612","Load":[15.841584158412275],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146619","Load":[9.090909090894476],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146625","Load":[11.111111111126421],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146632","Load":[5],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146638","Load":[13.131313131304085],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146645","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146651","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146658","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146665","Load":[99.9999999999282],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146671","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146678","Load":[99.99999999997657],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146685","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146691","Load":[99.99999999995312],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146698","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146704","Load":[99.99999999995407],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146711","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146718","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146724","Load":[99.99999999997749],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146731","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146738","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146745","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146752","Load":[98.96907216492622],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146759","Load":[3.0303030303009426],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146766","Load":[4.040404040401257],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146772","Load":[6.999999999987266],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146779","Load":[8],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146786","Load":[4.081632653055543],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146792","Load":[19.191919191911307],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146799","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146806","Load":[23.762376237619527],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146814","Load":[3.960396039622015],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146820","Load":[7.1428571428770296],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146827","Load":[1],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146834","Load":[15.151515151504713],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146841","Load":[11.111111111103455],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146849","Load":[3.0303030303009426],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146855","Load":[7.070707070725166],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146861","Load":[5.00000000001819],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146869","Load":[9.000000000006366],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146876","Load":[17.64705882350581],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146882","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146889","Load":[12.12121212120377],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146895","Load":[3],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146902","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146909","Load":[20.20202020202925],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146915","Load":[3.0303030303239096],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146921","Load":[0.9999999999990905],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146929","Load":[8.080808080802514],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146935","Load":[3.0303030302981586],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146941","Load":[16.666666666636946],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146948","Load":[8.910891089121394],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146955","Load":[3.0303030302779757],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146961","Load":[4.9504950495444024],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146968","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146975","Load":[7.999999999992724],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146982","Load":[5.05050505050157],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146988","Load":[12.871287128709973],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146995","Load":[0.9999999999990905],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147001","Load":[3.0303030303211256],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147008","Load":[12.121212121192634],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147016","Load":[2.0408163265277715],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147023","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147029","Load":[15.151515151513758],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147036","Load":[2.040816326529665],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147042","Load":[0.9999999999990905],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147049","Load":[17.171717171728307],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147055","Load":[9.999999999990905],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147062","Load":[2.040816326529665],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147069","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147075","Load":[3.000000000020009],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147082","Load":[2.9999999999972715],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147089","Load":[16.000000000008185],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147097","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147104","Load":[25],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147110","Load":[3.0000000000172804],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147117","Load":[16.8316831683204],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147124","Load":[6.9999999999936335],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147130","Load":[13.000000000010914],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147137","Load":[3.0303030303211256],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147143","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147150","Load":[23.469387755115772],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147157","Load":[5.00000000003638],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147163","Load":[12.12121212120377],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147169","Load":[16.161616161627993],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147176","Load":[2.0408163265277715],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147183","Load":[3.0303030303009426],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147190","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147197","Load":[24.00000000000091],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147204","Load":[3.960396039599502],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147211","Load":[9.999999999990905],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147217","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147224","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147231","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147237","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147245","Load":[8.08080808082548],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147252","Load":[3.960396039599502],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147259","Load":[2.0408163265509724],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147265","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147272","Load":[17.17171717171253],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147278","Load":[2.040816326529665],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147285","Load":[16.000000000008185],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147291","Load":[9.90099009902127],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147298","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147304","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147311","Load":[0.999999999998181],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147318","Load":[15.000000000009095],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147324","Load":[3.0303030302779757],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147331","Load":[15.999999999985448],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147337","Load":[8.999999999991815],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147343","Load":[4.000000000019099],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147350","Load":[17.821782178220275],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147356","Load":[7.999999999992724],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147363","Load":[26.732673267319157],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147369","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147377","Load":[99.99999999995498],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147383","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147390","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147397","Load":[99.9999999999311],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147403","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147411","Load":[99.99999999997749],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147417","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147424","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147431","Load":[99.99999999997657],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147438","Load":[99.99999999995359],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147446","Load":[99.99999999997749],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147452","Load":[99.9999999999311],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147459","Load":[99.99999999997657],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147465","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147472","Load":[99.99999999994891],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147478","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147485","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147492","Load":[12.12121212120377],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147499","Load":[4],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147505","Load":[3.0303030302981586],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147512","Load":[8.080808080802514],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147518","Load":[3.000000000020009],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147525","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147531","Load":[0.9999999999763531],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147538","Load":[10.101010101026109],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147545","Load":[4.950495049499378],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147551","Load":[14.285714285694398],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147558","Load":[8.910891089106904],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147564","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147571","Load":[4.040404040401257],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147577","Load":[7.920792079199004],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147584","Load":[16.000000000008185],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147590","Load":[3.000000000020009],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147597","Load":[3.0612244897916567],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147603","Load":[16.999999999969077],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147609","Load":[3.0303030302779757],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147616","Load":[22.772277227719652],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147623","Load":[0.9999999999990905],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147629","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147636","Load":[12.000000000011823],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147642","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147649","Load":[24.00000000000182],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147656","Load":[3.0303030303009426],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147663","Load":[4.000000000019099],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147670","Load":[8.999999999991815],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147676","Load":[17.821782178220275],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147683","Load":[4.950495049503837],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147690","Load":[17.171717171728307],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147697","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147704","Load":[7.999999999992724],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147710","Load":[3.0303030303009426],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147717","Load":[7.000000000022738],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147723","Load":[18.000000000006366],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147730","Load":[3.0303030303239096],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147736","Load":[15.841584158398009],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147743","Load":[9.000000000014552],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147750","Load":[3.0303030302981586],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147756","Load":[9.000000000014552],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147763","Load":[1.0000000000200089],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147769","Load":[15.306122448981485],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147775","Load":[2.999999999974534],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147782","Load":[16.8316831683204],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147789","Load":[8.080808080802514],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147796","Load":[9.183673469368815],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147803","Load":[2.999999999974534],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147809","Load":[1.010101010123281],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147815","Load":[3.0303030303239096],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147822","Load":[4.0404040403975445],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147828","Load":[9.090909090925795],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147835","Load":[8.000000000015461],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147842","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147848","Load":[14.141414141414375],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147855","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147861","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147868","Load":[3.0303030303009426],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147874","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147880","Load":[5.00000000001819],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147887","Load":[4.950495049521891],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147893","Load":[0.990099009922388],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147900","Load":[11.224489795925944],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147907","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147913","Load":[23.23232323233019],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147920","Load":[9.090909090911179],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147926","Load":[4.950495049499378],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147933","Load":[3.0303030303211256],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147940","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147947","Load":[8.08080808082548],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147953","Load":[11.999999999989086],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147961","Load":[2.0202020202006286],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147968","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147974","Load":[16.83168316831304],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147981","Load":[3.0303030303211256],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147987","Load":[15.151515151527677],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147994","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148001","Load":[21.000000000003638],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148007","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148013","Load":[1],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148020","Load":[18.999999999988177],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148027","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148033","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148042","Load":[14.99999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148049","Load":[11.881188118821019],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148056","Load":[3.0303030302981586],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148063","Load":[1.010101010123281],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148070","Load":[8.910891089121394],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148076","Load":[19.999999999986358],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148082","Load":[99.9999999999768],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148089","Load":[99.99999999997445],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148099","Load":[99.99999999993378],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148106","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148113","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148121","Load":[99.99999999997581],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148128","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148134","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148141","Load":[99.9999999999311],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148148","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148155","Load":[99.9999999999777],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148162","Load":[99.99999999997749],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148169","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148176","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148182","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148189","Load":[1.010101010123281],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148195","Load":[11.999999999989086],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148202","Load":[4.950495049499378],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148208","Load":[11.111111111103455],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148215","Load":[16.8316831683204],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148221","Load":[12.121212121215601],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148228","Load":[15.151515151564565],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148235","Load":[11.111111111093248],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148241","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148248","Load":[9.999999999990905],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148254","Load":[1.9999999999772626],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148261","Load":[17.17171717170534],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148268","Load":[11.88118811883172],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148275","Load":[17.000000000007276],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148281","Load":[3.0303030302779757],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148288","Load":[3.0303030303009426],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148294","Load":[4.950495049499378],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148301","Load":[1.980198019779022],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148307","Load":[16.161616161627993],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148313","Load":[2.040816326529665],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148319","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148326","Load":[16.16161616160503],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148332","Load":[4.950495049503837],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148339","Load":[15.30612244897249],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148346","Load":[7.999999999992724],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148352","Load":[4.040404040401257],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148359","Load":[4.040404040401257],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148365","Load":[10.891089108930952],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148372","Load":[15.151515151545775],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148379","Load":[3.0303030303239096],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148387","Load":[9.090909090888212],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148393","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148399","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148406","Load":[1.999999999998181],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148412","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148418","Load":[17.821782178220275],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148425","Load":[3.960396039599502],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148432","Load":[16.831683168297886],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148438","Load":[8.91089108909888],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148444","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148451","Load":[3.0303030302981586],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148457","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148464","Load":[19.000000000010914],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148471","Load":[3.061224489794498],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148478","Load":[2.040816326529665],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148485","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148491","Load":[3.0303030303211256],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148498","Load":[11.111111111126421],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148505","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148511","Load":[16.99999999998454],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148518","Load":[4.9999999999954525],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148524","Load":[8.080808080802514],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148531","Load":[7.999999999992724],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148538","Load":[3.0303030303009426],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148545","Load":[1.0101010100993861],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148552","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148558","Load":[13.86138613861074],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148565","Load":[3.960396039599502],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148572","Load":[4.950495049499378],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148579","Load":[1],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148586","Load":[16.161616161627993],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148592","Load":[3.0000000000172804],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148599","Load":[16.000000000008185],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148606","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148613","Load":[3.0303030303211256],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148620","Load":[3.0303030303009426],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148627","Load":[14.141414141427363],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148634","Load":[9.000000000006366],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148640","Load":[3.0303030303009426],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148648","Load":[3.0303030302981586],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148654","Load":[18.367346938773142],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148661","Load":[0.9999999999990905],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148668","Load":[9.09090909087151],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148674","Load":[4.999999999972715],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148681","Load":[0.9999999999772626],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148687","Load":[21.21212121206414],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148694","Load":[3.000000000020009],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148700","Load":[8.16326530611866],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148707","Load":[8.080808080802514],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148713","Load":[12.00000000000091],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148720","Load":[12.121212121204465],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148727","Load":[10.891089108908439],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148734","Load":[17],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148741","Load":[10.891089108908439],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148748","Load":[16.161616161627993],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148754","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148761","Load":[2.999999999974534],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148768","Load":[3.960396039622015],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148778","Load":[3.061224489794498],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148785","Load":[15.84158415842877],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148791","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148797","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148804","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148810","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148817","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148823","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148830","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148837","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148844","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148851","Load":[99.99999999993312],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148858","Load":[99.99999999997749],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148864","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148871","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148878","Load":[99.9999999999554],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148884","Load":[99.99999999997581],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148891","Load":[99.99999999993179],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148897","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148904","Load":[1.010101010123281],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148910","Load":[25.510204081666743],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148917","Load":[4.040404040401257],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148923","Load":[15.999999999985448],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148931","Load":[0.9999999999990905],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148938","Load":[16.99999999998454],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148944","Load":[11.881188118798509],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148951","Load":[16.000000000008185],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148958","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148965","Load":[19.999999999986358],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148971","Load":[5.999999999994543],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148978","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148985","Load":[8.999999999991815],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148991","Load":[4.9999999999954525],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148998","Load":[20.20202020202925],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149005","Load":[1.0000000000218279],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149012","Load":[2.999999999974534],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149018","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149025","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149031","Load":[16.999999999969077],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149038","Load":[3.0303030302779757],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149045","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149052","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149058","Load":[20.408163265300914],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149065","Load":[3],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149072","Load":[15.151515151513758],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149079","Load":[16.161616161613146],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149086","Load":[3],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149093","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149100","Load":[23.99999999997908],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149107","Load":[2.999999999994543],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149113","Load":[3.0303030303211256],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149119","Load":[2.0202020202006286],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149126","Load":[9.09090909087151],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149132","Load":[2.999999999974534],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149139","Load":[9.999999999990905],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149148","Load":[3.960396039622015],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149154","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149160","Load":[18.81188118812015],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149167","Load":[4.040404040401257],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149174","Load":[22.99999999997908],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149181","Load":[1.0101010101012422],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149188","Load":[3],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149196","Load":[3.960396039599502],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149203","Load":[3.0303030303239096],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149209","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149216","Load":[2.9999999999972715],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149223","Load":[11],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149229","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149236","Load":[18.181818181811916],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149243","Load":[3.0303030302981586],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149250","Load":[10.10101010100314],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149257","Load":[0.9900990098773633],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149263","Load":[20.588235294112405],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149270","Load":[9.900990099007673],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149276","Load":[8.999999999991815],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149283","Load":[9.090909090911179],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149290","Load":[3.0303030302779757],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149297","Load":[4.040404040420512],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149303","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149311","Load":[9.090909090902827],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149317","Load":[7.920792079206137],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149324","Load":[16.16161616160503],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149330","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149337","Load":[4.950495049521891],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149345","Load":[1.010101010077347],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149351","Load":[0.9900990098998755],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149357","Load":[9.090909090894476],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149363","Load":[2.999999999974534],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149370","Load":[4.950495049499378],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149377","Load":[9.090909090917442],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149383","Load":[3.0303030302779757],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149389","Load":[12.12121212120377],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149395","Load":[10.891089108943657],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149402","Load":[2.999999999974534],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149408","Load":[4.950495049503837],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149415","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149421","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149428","Load":[10.891089108911336],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149434","Load":[2.970297029696952],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149441","Load":[17.999999999967258],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149448","Load":[14.141414141404399],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149454","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149461","Load":[9.090909090925795],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149467","Load":[4.950495049503837],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149474","Load":[4.950495049499378],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149481","Load":[0.9999999999990905],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149488","Load":[16.32653061222217],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149494","Load":[3.0303030303009426],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149501","Load":[12.00000000000091],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149507","Load":[81.55339805828672],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149514","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149520","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149526","Load":[99.9999999999554],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149533","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149540","Load":[99.99999999997657],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149546","Load":[99.99999999997726],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149553","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149559","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149566","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149572","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149579","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149586","Load":[99.99999999995312],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149593","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149599","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149606","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149613","Load":[4.950495049499378],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149620","Load":[7.000000000000001],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149627","Load":[16.8316831683204],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149634","Load":[4.950495049499378],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149641","Load":[3.0303030303239096],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149648","Load":[0.9900990098998755],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149655","Load":[16.16161616160503],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149666","Load":[1.980198019797968],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149673","Load":[4.040404040401257],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149679","Load":[4.000000000015461],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149686","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149693","Load":[8.91089108909888],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149699","Load":[3.061224489794498],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149706","Load":[4.950495049499378],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149712","Load":[1.980198019779022],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149719","Load":[3.0303030302981586],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149725","Load":[2.9999999999972715],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149732","Load":[8.999999999983629],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149739","Load":[11.22448979593636],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149745","Load":[8.16326530611866],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149752","Load":[15.999999999985448],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149758","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149765","Load":[3.0303030303211256],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149772","Load":[3.960396039599502],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149779","Load":[13.000000000010914],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149785","Load":[8.999999999969077],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149791","Load":[2.0408163265277715],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149798","Load":[15.8415841584573],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149804","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149811","Load":[3.960396039599502],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149817","Load":[3.0303030303211256],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149824","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149831","Load":[13.131313131314986],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149837","Load":[4],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149844","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149851","Load":[1.960784313724616],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149858","Load":[9.18367346937497],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149865","Load":[6],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149871","Load":[6.930693069299129],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149877","Load":[8.08080808082548],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149884","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149890","Load":[16.000000000008185],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149896","Load":[4.040404040401257],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149903","Load":[11.000000000012733],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149909","Load":[7.070707070702199],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149916","Load":[0.9999999999990905],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149923","Load":[17.171717171728307],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149929","Load":[2.020202020246562],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149936","Load":[16.831683168312598],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149942","Load":[7.999999999992724],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149949","Load":[2.9999999999972715],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149956","Load":[9.999999999990905],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149963","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149970","Load":[9.000000000014552],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149977","Load":[3.0303030303009426],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149984","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149990","Load":[1.0101010101003143],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149997","Load":[17.99999999998363],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150003","Load":[5.940594059421766],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150009","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150016","Load":[17.17171717170534],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150022","Load":[4.9999999999954525],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150029","Load":[15.999999999979082],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150036","Load":[1.980198019799751],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150042","Load":[3.0303030302724077],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150049","Load":[4.0404040404086805],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150055","Load":[9.000000000014552],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150062","Load":[23.23232323233019],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150068","Load":[3.960396039599502],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150075","Load":[18.181818181805653],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150082","Load":[0.9999999999763531],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150088","Load":[3.9603960396066356],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150096","Load":[3.960396039599502],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150104","Load":[3.0303030303009426],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150110","Load":[9.090909090925795],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150116","Load":[4.901960784307169],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150123","Load":[10.999999999989996],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150130","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150136","Load":[9.000000000014552],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150143","Load":[10.891089108898631],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150150","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150157","Load":[0.9999999999972715],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150163","Load":[17.000000000030013],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150170","Load":[3.0303030302953746],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150176","Load":[3.061224489794498],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150183","Load":[8.999999999991815],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150190","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150198","Load":[2.9999999999972715],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150204","Load":[15.151515151504713],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150211","Load":[9.000000000014552],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150217","Load":[23.232323232287506],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150224","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150231","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150237","Load":[98.98989898989969],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150243","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150250","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150256","Load":[99.99999999997726],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150263","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150270","Load":[99.99999999991171],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150276","Load":[99.9999999998622],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150283","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150290","Load":[99.99999999995498],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150297","Load":[99.9999999998622],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150303","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150310","Load":[99.9999999999511],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150320","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150327","Load":[100],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150333","Load":[12.871287128697714],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150340","Load":[8.080808080848447],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150347","Load":[16.9999999999618],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150353","Load":[3.0303030303183416],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150360","Load":[15.999999999985448],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150366","Load":[9.900990099043781],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150372","Load":[4.040404040401257],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150379","Load":[23.232323232287506],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150385","Load":[9.900990098998756],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150391","Load":[4.040404040401257],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150398","Load":[4.000000000041837],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150405","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150411","Load":[17.171717171728307],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150418","Load":[3.960396039599502],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150425","Load":[15.151515151527677],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150431","Load":[7.142857142863772],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150437","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150444","Load":[11.111111111126421],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150451","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150458","Load":[17.00000000005275],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150464","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150470","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150477","Load":[7.070707070725166],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150484","Load":[3.0303030302779757],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150490","Load":[6.060606060601885],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150497","Load":[6.9306930692891],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150503","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150510","Load":[3.0303030303239096],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150516","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150523","Load":[17.171717171696756],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150529","Load":[10.891089108946554],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150535","Load":[17.000000000021828],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150542","Load":[8.910891089092416],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150550","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150556","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150563","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150570","Load":[6.060606060601885],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150577","Load":[3.960396039599502],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150583","Load":[3.0303030302779757],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150590","Load":[9.000000000014552],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150596","Load":[16.8316831683204],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150603","Load":[4.04040404044719],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150609","Load":[4.040404040401257],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150616","Load":[9.900990098998756],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150624","Load":[3.000000000020009],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150630","Load":[2.040816326529665],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150637","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150643","Load":[18.00000000001637],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150650","Load":[12.244897959155264],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150657","Load":[9.183673469389648],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150663","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150670","Load":[2.0202020202006286],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150677","Load":[3.960396039599502],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150683","Load":[1.020408163288034],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150690","Load":[17.82178217819776],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150696","Load":[3.000000000020009],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150703","Load":[9.000000000014552],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150710","Load":[2.970297029677115],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150716","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150723","Load":[4.0404040404086805],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150729","Load":[8.080808080802514],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150737","Load":[9.090909090909092],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150743","Load":[4.08163265305933],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150749","Load":[15.999999999985448],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150756","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150762","Load":[4.999999999972715],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150772","Load":[3.000000000020009],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150778","Load":[4.950495049521891],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150785","Load":[0],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150791","Load":[17.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150798","Load":[12.12121212120377],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150804","Load":[14.285714285707657],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150811","Load":[9.090909090971728],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150818","Load":[4.0404040404086805],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150824","Load":[3.999999999996362],"DevID":"jhnva.bnsdq.ozxfs.laefh.blankcanvas"}
+{"TimeStamp":"1757584143", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584149", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584155", "Load":[19.99999999998181], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584161", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584167", "Load":[1.0000000000209184], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584173", "Load":[3.960396039599502], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584179", "Load":[10.999999999989996], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584186", "Load":[8.999999999991815], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584192", "Load":[10.999999999989996], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584198", "Load":[20.000000000004547], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584204", "Load":[5.154639175251691], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584210", "Load":[15.151515151504713], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584216", "Load":[12.000000000011823], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584222", "Load":[9.090909090917442], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584228", "Load":[5.940594059404603], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584234", "Load":[24.00000000000091], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584240", "Load":[8.0808080808336], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584247", "Load":[5.00000000001819], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584253", "Load":[17.64705882350581], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584259", "Load":[7.142857142853829], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584265", "Load":[5.05050505050157], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584271", "Load":[16.8316831683204], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584277", "Load":[9], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584283", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584289", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584295", "Load":[15.999999999993634], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584301", "Load":[3.061224489794498], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584307", "Load":[8.080808080802514], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584313", "Load":[21.000000000003638], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584319", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584325", "Load":[15.841584158398009], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584331", "Load":[8.999999999991815], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584337", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584343", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584350", "Load":[19.191919191911307], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584356", "Load":[3.0303030302981586], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584362", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584368", "Load":[16.000000000008185], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584374", "Load":[4.000000000019099], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584380", "Load":[9.000000000014552], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584386", "Load":[23.46938775511435], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584392", "Load":[11.111111111116214], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584399", "Load":[8.080808080802514], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584405", "Load":[22.22222222223243], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584411", "Load":[4.040404040424224], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584417", "Load":[17.17171717171253], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584423", "Load":[10.204081632662056], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584429", "Load":[5.05050505050157], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584435", "Load":[1.0000000000209184], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584441", "Load":[19.801980197997512], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584447", "Load":[7.000000000016371], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584453", "Load":[0.9999999999990905], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584459", "Load":[99.99999999997704], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584465", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584471", "Load":[99.99999999995498], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584478", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584484", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584490", "Load":[99.99999999997726], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584496", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584502", "Load":[99.99999999997657], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584508", "Load":[99.99999999997657], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584514", "Load":[99.99999999995312], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584520", "Load":[99.99999999997749], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584526", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584532", "Load":[99.99999999993378], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584538", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584544", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584550", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584556", "Load":[63.91752577319129], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584562", "Load":[5.05050505049693], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584568", "Load":[0.9999999999990905], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584575", "Load":[3.960396039599502], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584581", "Load":[3.0303030302981586], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584587", "Load":[0.9999999999990905], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584593", "Load":[2.0202020202006286], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584599", "Load":[13.131313131281116], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584605", "Load":[7.0707070707186706], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584611", "Load":[4.000000000019099], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584617", "Load":[14.999999999986358], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584623", "Load":[8.080808080802514], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584629", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584635", "Load":[16.83168316834291], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584642", "Load":[7.070707070679232], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584648", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584654", "Load":[2.9999999999972715], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584660", "Load":[17.346938775525356], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584666", "Load":[3.0303030302981586], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584672", "Load":[0.9999999999990905], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584678", "Load":[18.181818181811916], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584684", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584690", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584696", "Load":[3.0303030303239096], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584702", "Load":[7.920792079199004], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584708", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584714", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584720", "Load":[4.950495049503837], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584726", "Load":[2], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584732", "Load":[3.0612244897916567], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584738", "Load":[15.000000000009095], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584744", "Load":[16.161616161613146], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584750", "Load":[20.79207920791611], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584756", "Load":[30.392156862726736], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584763", "Load":[10.784313725485388], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584769", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584775", "Load":[14.141414141427363], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584781", "Load":[9.900990099030183], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584787", "Load":[3.960396039599502], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584793", "Load":[2.941176470586924], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584799", "Load":[22.54901960783527], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584805", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584811", "Load":[0.9999999999990905], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584817", "Load":[18.000000000006366], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584823", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584829", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584835", "Load":[4.950495049499378], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584841", "Load":[5.882352941146311], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584848", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584854", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584860", "Load":[4.950495049503837], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584866", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584872", "Load":[4.9999999999954525], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584878", "Load":[16.16161616160503], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584884", "Load":[9.090909090902827], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584890", "Load":[3.0303030303211256], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584896", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584902", "Load":[21.000000000003638], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584908", "Load":[5.999999999994543], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584914", "Load":[1.0204081632648325], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584920", "Load":[22.00000000000273], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584926", "Load":[19.191919191928935], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584932", "Load":[19.191919191911307], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584938", "Load":[16.8421052631458], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584945", "Load":[10.101010101026109], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584951", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584957", "Load":[3.0303030302779757], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584963", "Load":[16], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584969", "Load":[11], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584975", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584981", "Load":[4.999999999977263], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584987", "Load":[18.181818181811916], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584993", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584999", "Load":[0.9999999999990905], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585005", "Load":[21.99999999997999], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585011", "Load":[1.0101010101003143], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585017", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585024", "Load":[25.510204081643543], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585030", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585036", "Load":[0.9999999999990905], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585042", "Load":[3.960396039622015], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585048", "Load":[2.0202020202006286], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585054", "Load":[1.0101010101003143], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585060", "Load":[6.9306930693216415], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585066", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585072", "Load":[3.960396039622015], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585078", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585084", "Load":[17.821782178220275], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585090", "Load":[10], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585096", "Load":[2.0202020202006286], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585102", "Load":[11.999999999989086], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585108", "Load":[15.151515151504713], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585114", "Load":[4.000000000015461], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585120", "Load":[2.9999999999972715], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585126", "Load":[17.17171717171253], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585133", "Load":[3.030303030303726], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585139", "Load":[8.080808080802514], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585145", "Load":[13.99999999999727], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585151", "Load":[20.000000000004547], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585157", "Load":[23.232323232351533], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585163", "Load":[60.6060606060091], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585169", "Load":[99.99999999997726], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585175", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585181", "Load":[99.99999999997749], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585187", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585193", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585199", "Load":[99.9999999999554], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585205", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585211", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585217", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585223", "Load":[99.99999999997726], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585229", "Load":[99.99999999997726], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585236", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585242", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585248", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585254", "Load":[99.9999999999304], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585260", "Load":[3.0303030302779757], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585266", "Load":[1.0000000000218279], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585272", "Load":[3.9603960396030686], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585278", "Load":[12.24489795918983], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585284", "Load":[20.20202020202925], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585290", "Load":[12.121212121215601], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585296", "Load":[11.111111111116214], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585302", "Load":[9.090909090902827], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585308", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585314", "Load":[5.05050505050157], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585320", "Load":[5.05050505050157], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585327", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585333", "Load":[17.000000000007276], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585339", "Load":[9.090909090888212], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585345", "Load":[3.0303030303211256], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585351", "Load":[16.999999999991815], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585357", "Load":[10.999999999989996], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585363", "Load":[5.940594059393904], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585369", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585375", "Load":[18.81188118812015], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585381", "Load":[4.9999999999954525], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585387", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585393", "Load":[8.16326530611866], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585399", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585405", "Load":[0.9900990098998755], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585411", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585417", "Load":[4.081632653078744], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585424", "Load":[0.9999999999990905], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585430", "Load":[11.000000000012733], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585436", "Load":[32.999999999992724], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585442", "Load":[21.212121212106595], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585448", "Load":[11.999999999989086], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585454", "Load":[25.252525252484887], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585460", "Load":[11.000000000012733], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585466", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585472", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585478", "Load":[5.999999999994543], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585484", "Load":[5.940594059404603], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585490", "Load":[16.000000000008185], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585496", "Load":[9], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585502", "Load":[3.0612244897916567], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585508", "Load":[18.62745098040614], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585514", "Load":[14.000000000010004], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585520", "Load":[14.2857142857176], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585526", "Load":[21.000000000003638], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585533", "Load":[25.252525252530823], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585539", "Load":[6.00000000001728], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585545", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585551", "Load":[20.000000000004547], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585557", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585563", "Load":[0.9999999999990905], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585569", "Load":[22.000000000022737], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585575", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585581", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585587", "Load":[6.93069306930537], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585593", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585599", "Load":[1.980198019799751], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585605", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585611", "Load":[4.0404040403975445], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585617", "Load":[0.9900990098998755], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585624", "Load":[6.9999999999936335], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585630", "Load":[16], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585636", "Load":[21.000000000003638], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585642", "Load":[18.81188118810321], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585648", "Load":[24.489795918379183], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585654", "Load":[10.999999999989996], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585660", "Load":[3.061224489814858], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585666", "Load":[1.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585672", "Load":[22.44897959182632], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585678", "Load":[3.061224489771296], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585684", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585690", "Load":[5.94059405938209], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585696", "Load":[4.9999999999954525], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585702", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585708", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585714", "Load":[3.0303030302779757], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585721", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585727", "Load":[4.950495049503837], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585733", "Load":[3.061224489794498], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585739", "Load":[2.0202020201987723], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585745", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585751", "Load":[15.999999999993634], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585757", "Load":[9.090909090925795], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585763", "Load":[16.32653061223732], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585769", "Load":[28.282828282831762], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585775", "Load":[24.24242424243051], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585781", "Load":[13.592233009687735], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585787", "Load":[16.000000000008185], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585794", "Load":[14.000000000000002], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585800", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585806", "Load":[16.161616161627993], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585812", "Load":[9.90099009902127], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585818", "Load":[5.940594059404603], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585824", "Load":[7.999999999992724], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585830", "Load":[23.000000000003638], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585836", "Load":[4.000000000022737], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585842", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585848", "Load":[22.00000000000273], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585854", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585860", "Load":[3], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585866", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585873", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585879", "Load":[99.99999999997607], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585885", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585891", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585897", "Load":[99.99999999997704], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585903", "Load":[99.9999999999777], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585909", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585915", "Load":[99.99999999997726], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585921", "Load":[99.9999999999554], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585927", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585933", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585939", "Load":[99.9999999999554], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585945", "Load":[99.99999999995407], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585951", "Load":[99.99999999995003], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585957", "Load":[99.99999999997657], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585963", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585969", "Load":[19.19191919188834], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585975", "Load":[7.999999999992724], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585982", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585988", "Load":[2.0202020201987723], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585994", "Load":[38.2352941176746], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586000", "Load":[18.367346938773142], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586006", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586012", "Load":[19.801980197997512], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586018", "Load":[4.9999999999954525], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586024", "Load":[0.999999999998181], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586030", "Load":[18.000000000022737], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586036", "Load":[4.950495049499378], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586042", "Load":[0.9900990098998755], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586048", "Load":[20.000000000009095], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586054", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586060", "Load":[14.000000000032742], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586066", "Load":[31.999999999987267], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586072", "Load":[8.910891089121394], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586079", "Load":[1.9801980198015343], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586085", "Load":[18.000000000006366], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586091", "Load":[4.081632653078744], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586097", "Load":[1.0101010101003143], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586103", "Load":[4.9999999999954525], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586109", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586115", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586121", "Load":[4.9999999999954525], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586127", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586133", "Load":[0.9900990098998755], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586139", "Load":[11.111111111126421], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586145", "Load":[19.191919191928935], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586151", "Load":[15.686274509796927], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586157", "Load":[4.950495049481324], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586163", "Load":[17.64705882350581], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586169", "Load":[9.90099009902127], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586175", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586182", "Load":[13.000000000010914], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586188", "Load":[9.000000000014552], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586194", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586200", "Load":[15.999999999985448], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586206", "Load":[14.141414141414375], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586212", "Load":[2.0408163265509724], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586218", "Load":[1.9801980198015343], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586224", "Load":[21.782178217816877], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586230", "Load":[7.0000000000100036], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586236", "Load":[13.99999999999727], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586242", "Load":[11.111111111126421], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586248", "Load":[4.000000000038199], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586255", "Load":[0.9900990098998755], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586261", "Load":[13.000000000010914], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586267", "Load":[11.11111111113663], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586273", "Load":[14.999999999972715], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586279", "Load":[14.000000000000002], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586285", "Load":[19.191919191905967], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586291", "Load":[14.851485148534021], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586297", "Load":[4.950495049499378], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586303", "Load":[17.82178217821381], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586309", "Load":[9.090909090917442], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586315", "Load":[3.0303030302981586], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586321", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586327", "Load":[18.99999999998272], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586333", "Load":[5.00000000001819], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586339", "Load":[1.9801980197772389], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586345", "Load":[19.801980198060367], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586352", "Load":[4.000000000019099], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586358", "Load":[1.980198019799751], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586364", "Load":[21.782178217816877], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586370", "Load":[3.0303030302981586], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586376", "Load":[0.9999999999990905], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586382", "Load":[4.000000000038199], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586388", "Load":[4.950495049499378], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586394", "Load":[1.980198019799751], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586400", "Load":[7.920792079214385], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586406", "Load":[11.999999999989086], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586412", "Load":[14.141414141404399], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586418", "Load":[17.171717171735498], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586424", "Load":[30.693069306908406], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586430", "Load":[12.244897959177992], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586436", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586442", "Load":[16.831683168297886], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586449", "Load":[7.1428571428770296], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586455", "Load":[3.000000000020009], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586461", "Load":[16.831683168328198], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586467", "Load":[15.686274509796927], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586473", "Load":[4.08163265305933], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586479", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586485", "Load":[20.000000000027285], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586491", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586497", "Load":[0.9999999999772626], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586503", "Load":[18.999999999988177], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586509", "Load":[4.08163265305933], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586515", "Load":[9.090909090894476], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586522", "Load":[29.702970296996266], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586528", "Load":[7.999999999992724], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586534", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586540", "Load":[12.000000000011823], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586546", "Load":[9], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586552", "Load":[19.000000000010914], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586558", "Load":[15.000000000009095], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586564", "Load":[19.191919191905967], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586570", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586576", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586582", "Load":[99.99999999993312], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586589", "Load":[99.99999999995359], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586595", "Load":[99.9999999999311], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586601", "Load":[99.99999999997726], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586607", "Load":[99.9999999999311], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586613", "Load":[99.9999999999777], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586619", "Load":[99.99999999997749], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586625", "Load":[99.9999999999311], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586631", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586637", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586643", "Load":[99.99999999992895], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586649", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586655", "Load":[99.99999999997726], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586661", "Load":[99.9999999999768], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586667", "Load":[99.99999999997632], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586674", "Load":[1.0000000000218279], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586680", "Load":[17.000000000007276], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586686", "Load":[4.950495049476866], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586692", "Load":[1.0101010100993861], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586698", "Load":[22.999999999958163], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586704", "Load":[4.000000000019099], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586710", "Load":[0.9999999999990905], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586716", "Load":[2.9999999999972715], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586722", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586728", "Load":[0.9999999999990905], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586734", "Load":[4.950495049499378], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586740", "Load":[3.0303030302779757], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586746", "Load":[1.9999999999772626], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586752", "Load":[5.999999999994543], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586758", "Load":[17.82178217819776], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586764", "Load":[17.17171717170534], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586770", "Load":[19.99999999998181], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586777", "Load":[27.55102040817132], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586783", "Load":[20.7920792079199], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586789", "Load":[12.12121212120377], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586795", "Load":[28.999999999973625], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586801", "Load":[22.00000000000273], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586807", "Load":[20.202020202052218], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586813", "Load":[13.000000000010914], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586819", "Load":[22.44897959184952], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586825", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586831", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586837", "Load":[21.000000000003638], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586843", "Load":[4.9999999999954525], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586849", "Load":[1.010101010123281], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586855", "Load":[5.999999999994543], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586862", "Load":[5.050505050515258], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586868", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586874", "Load":[6.862745098036156], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586880", "Load":[17.000000000007276], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586886", "Load":[8.080808080802514], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586892", "Load":[2.999999999994543], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586898", "Load":[13], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586904", "Load":[8.999999999991815], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586910", "Load":[4.950495049521891], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586917", "Load":[10.10101010100314], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586923", "Load":[12.999999999988177], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586929", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586935", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586941", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586947", "Load":[4.9999999999954525], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586953", "Load":[14.141414141404399], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586959", "Load":[14.000000000010004], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586965", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586971", "Load":[16.000000000008185], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586977", "Load":[8.080808080802514], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586983", "Load":[3.0303030303239096], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586989", "Load":[5.050505050524538], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586996", "Load":[18.18181818185159], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587002", "Load":[11.111111111116214], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587008", "Load":[7.070707070702199], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587014", "Load":[22.772277227717648], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587020", "Load":[19.000000000022737], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587026", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587032", "Load":[6.930693069327883], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587038", "Load":[4.950495049521891], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587044", "Load":[1.980198019799751], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587050", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587056", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587062", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587068", "Load":[3.0303030302981586], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587074", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587080", "Load":[7.999999999992724], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587086", "Load":[3.0303030302779757], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587093", "Load":[15.999999999993634], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587099", "Load":[11.881188118809206], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587105", "Load":[4.0404040403975445], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587111", "Load":[15.841584158398009], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587117", "Load":[32.32323232320333], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587123", "Load":[18.367346938796345], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587129", "Load":[7.000000000016371], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587135", "Load":[22.000000000025466], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587141", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587148", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587154", "Load":[19.000000000028194], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587160", "Load":[6.060606060596317], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587166", "Load":[4.999999999977263], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587172", "Load":[7.999999999992724], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587178", "Load":[4.0404040403975445], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587184", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587191", "Load":[11.000000000002728], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587197", "Load":[12.12121212120377], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587203", "Load":[13.13131313129202], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587209", "Load":[19.191919191905967], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587215", "Load":[29.702970297018783], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587221", "Load":[16.16161616160503], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587227", "Load":[3.0612244897916567], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587233", "Load":[18.81188118810321], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587239", "Load":[11.000000000012733], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587245", "Load":[3.0303030303239096], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587251", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587257", "Load":[21.212121212129563], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587263", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587269", "Load":[0.9900990098998755], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587275", "Load":[19.801980198020026], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587282", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587288", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587294", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587300", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587306", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587312", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587318", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587324", "Load":[99.99999999997749], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587330", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587336", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587342", "Load":[99.99999999997726], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587349", "Load":[99.99999999995498], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587355", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587361", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587367", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587373", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587379", "Load":[6.060606060601885], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587385", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587391", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587397", "Load":[0.9900990098998755], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587403", "Load":[3.0303030303211256], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587409", "Load":[15.999999999985448], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587415", "Load":[9.000000000014552], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587421", "Load":[2.040816326529665], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587427", "Load":[19.801980198015347], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587433", "Load":[10.999999999989996], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587440", "Load":[5.999999999994543], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587446", "Load":[21.99999999997999], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587452", "Load":[8.999999999983629], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587458", "Load":[10.10101010100314], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587464", "Load":[14.000000000020007], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587470", "Load":[36.99999999996635], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587476", "Load":[18.367346938773142], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587482", "Load":[6.060606060596317], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587488", "Load":[18.811881188114576], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587494", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587500", "Load":[0.9900990099007672], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587506", "Load":[5.05050505049693], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587512", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587518", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587524", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587531", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587537", "Load":[2.0202020202024844], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587543", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587549", "Load":[17.64705882350581], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587555", "Load":[16.99999999998454], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587561", "Load":[19.801980198024705], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587567", "Load":[35.64356435638594], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587573", "Load":[9.900990099012352], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587579", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587585", "Load":[12], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587591", "Load":[7.999999999992724], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587597", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587603", "Load":[17.82178217819776], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587609", "Load":[13.999999999974532], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587615", "Load":[12.000000000023647], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587621", "Load":[18.000000000006366], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587627", "Load":[21.428571428584686], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587633", "Load":[4.000000000041837], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587640", "Load":[4.000000000015461], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587646", "Load":[22.448979591805486], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587652", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587658", "Load":[0.9999999999990905], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587664", "Load":[16.000000000008185], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587670", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587676", "Load":[0.999999999998181], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587682", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587688", "Load":[3.0303030303009426], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587694", "Load":[8.999999999983629], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587700", "Load":[18.181818181811916], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587706", "Load":[10.10101010100314], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587712", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587718", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587724", "Load":[9.900990099030183], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587730", "Load":[8.999999999983629], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587736", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587743", "Load":[16.000000000008185], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587749", "Load":[8.999999999991815], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587755", "Load":[3], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587761", "Load":[15.151515151490793], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587767", "Load":[10.204081632657797], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587773", "Load":[3.0303030302779757], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587779", "Load":[1], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587785", "Load":[19.191919191946567], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587791", "Load":[3.0303030303239096], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587797", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587803", "Load":[8.910891089121394], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587809", "Load":[2.9999999999972715], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587815", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587821", "Load":[3.0303030303211256], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587828", "Load":[13.000000000010914], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587834", "Load":[9.183673469343248], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587840", "Load":[11.999999999989086], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587846", "Load":[13.000000000011823], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587852", "Load":[20.20202020202925], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587858", "Load":[19.191919191905967], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587864", "Load":[16.8316831683204], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587870", "Load":[17.171717171696756], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587876", "Load":[11.111111111080488], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587882", "Load":[4.08163265305933], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587888", "Load":[4.081632653051755], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587895", "Load":[5.940594059399254], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587901", "Load":[22.99999999997908], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587907", "Load":[8.080808080810632], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587913", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587919", "Load":[16.831683168297886], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587925", "Load":[8.080808080802514], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587931", "Load":[10.10101010100314], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587937", "Load":[14.999999999959075], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587943", "Load":[9.000000000014552], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587950", "Load":[3.0303030302953746], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587956", "Load":[16.000000000030923], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587962", "Load":[13.861386138620771], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587968", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587974", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587980", "Load":[22.00000000000273], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587986", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587992", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587998", "Load":[99.99999999986079], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588004", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588010", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588016", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588022", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588029", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588035", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588041", "Load":[99.99999999997749], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588047", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588053", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588059", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588065", "Load":[99.99999999990527], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588071", "Load":[100], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588077", "Load":[99.99999999995163], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588083", "Load":[2.970297029677115], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588089", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588095", "Load":[8.999999999969077], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588101", "Load":[5.999999999994543], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588107", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588113", "Load":[2.0408163264832626], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588119", "Load":[0.9999999999763531], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588125", "Load":[4.040404040401257], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588131", "Load":[9.000000000014552], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588138", "Load":[9.000000000014552], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588144", "Load":[2.0202020202006286], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588150", "Load":[16.161616161634722], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588156", "Load":[10.891089108921143], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588162", "Load":[3.061224489771296], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588168", "Load":[21.000000000003638], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588174", "Load":[21.000000000003638], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588180", "Load":[19.801980198006873], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588186", "Load":[5.940594059399254], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588192", "Load":[17.000000000021828], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588198", "Load":[5.050505050570472], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588204", "Load":[2.020202020250274], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588210", "Load":[20.202020202052218], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588216", "Load":[8.080808080802514], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588223", "Load":[1.0101010101214252], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588229", "Load":[21.000000000003638], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588235", "Load":[5.050505050478604], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588241", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588247", "Load":[4.000000000003638], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588253", "Load":[4.000000000034561], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588259", "Load":[0.9999999999763531], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588265", "Load":[3.0303030303239096], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588271", "Load":[4.999999999972715], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588277", "Load":[0], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588283", "Load":[2.0408163265258774], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588289", "Load":[16.83168316835071], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588295", "Load":[9.000000000014552], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588301", "Load":[3.0303030302779757], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588307", "Load":[17.171717171728307], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588313", "Load":[7.142857142817369], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588319", "Load":[3.000000000020009], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588325", "Load":[16.831683168305688], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588332", "Load":[8.080808080802514], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588338", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588344", "Load":[17.171717171728307], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588350", "Load":[32.67326732676344], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588356", "Load":[10.10101010100314], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588362", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588368", "Load":[18.181818181818183], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588374", "Load":[4.901960784338202], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588381", "Load":[13.000000000032742], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588387", "Load":[11.881188118819905], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588393", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588399", "Load":[24.752475247519403], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588405", "Load":[12.121212121227433], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588412", "Load":[2.000000000001819], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588418", "Load":[18.62745098042275], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588424", "Load":[21.21212121216854], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588430", "Load":[3.9603960396445275], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588436", "Load":[17.171717171682374], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588443", "Load":[8.999999999969077], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588449", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588455", "Load":[16.8316831683204], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588461", "Load":[7.999999999992724], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588467", "Load":[3.999999999996362], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588473", "Load":[16.16161616165096], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588480", "Load":[9.900990099016587], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588486", "Load":[15.999999999985448], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588492", "Load":[19.191919191939608], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588498", "Load":[31.00000000005093], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588504", "Load":[22.000000000025466], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588510", "Load":[32.999999999992724], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588516", "Load":[28.71287128716393], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588522", "Load":[11.22448979593636], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588528", "Load":[9.090909090863157], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588535", "Load":[19.191919191939608], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588541", "Load":[5.050505050478604], "DevID":"pgwebhost2.bnsdq.ozxfs.laefh.kvugl"}

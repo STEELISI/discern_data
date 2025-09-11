@@ -1,678 +1,721 @@
-{"TimeStamp":"1757150944","Load":[15.999999999985448],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150951","Load":[1.0101010101003143],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150957","Load":[3.0303030303009426],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150964","Load":[3.0303030303239096],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150970","Load":[0.9999999999990905],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150977","Load":[15.151515151504713],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150984","Load":[2.9999999999972715],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150990","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150996","Load":[24.00000000000091],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151003","Load":[9.999999999990905],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151010","Load":[15.841584158449054],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151016","Load":[1.0101010101021701],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151024","Load":[15.999999999979082],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151030","Load":[2.9999999999972715],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151037","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151043","Load":[15.999999999985448],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151050","Load":[3.0303030303009426],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151057","Load":[7.999999999992724],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151064","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151070","Load":[12.871287128698384],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151077","Load":[10.999999999989996],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151084","Load":[14.999999999981812],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151091","Load":[8.000000000015461],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151097","Load":[2.9999999999972715],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151104","Load":[3.960396039622015],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151111","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151117","Load":[15.151515151555516],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151124","Load":[4.000000000041837],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151131","Load":[15.841584158420522],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151137","Load":[8.16326530612671],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151143","Load":[4.000000000019099],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151150","Load":[14.141414141450332],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151156","Load":[17.000000000007276],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151163","Load":[25.000000000022737],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151170","Load":[99.99999999997726],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151176","Load":[99.99999999988518],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151182","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151190","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151196","Load":[99.99999999997749],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151203","Load":[99.99999999990426],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151209","Load":[99.9999999999554],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151216","Load":[99.9999999999777],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151224","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151230","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151237","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151244","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151251","Load":[4.950495049499378],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151257","Load":[0.9999999999781721],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151263","Load":[23.00000000000182],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151270","Load":[5.940594059376742],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151277","Load":[11.000000000012733],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151284","Load":[1.0000000000218279],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151290","Load":[24.00000000000091],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151298","Load":[3.0303030303009426],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151305","Load":[15.000000000009095],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151311","Load":[1.999999999998181],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151318","Load":[3.0303030303009426],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151324","Load":[3.061224489794498],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151332","Load":[22.22222222220691],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151339","Load":[8.080808080802514],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151345","Load":[3.0303030303009426],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151352","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151358","Load":[1.999999999998181],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151365","Load":[25.000000000022737],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151372","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151379","Load":[22.00000000000273],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151385","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151392","Load":[14.141414141401382],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151400","Load":[2.9999999999972715],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151406","Load":[18.811881188086268],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151413","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151420","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151426","Load":[0.9999999999990905],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151433","Load":[0.9999999999990905],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151439","Load":[17.6470588235281],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151446","Load":[1.0204081632648325],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151452","Load":[19.1919191919642],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151459","Load":[10.000000000031832],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151466","Load":[3.03030303030651],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151472","Load":[3.0303030303009426],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151479","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151486","Load":[13.000000000010914],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151493","Load":[5.8823529411686035],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151499","Load":[3.0303030303009426],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151506","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151513","Load":[11.999999999989086],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151519","Load":[2.0202020202006286],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151526","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151532","Load":[18.811881188086268],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151539","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151545","Load":[14.141414141430381],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151551","Load":[9.000000000008185],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151558","Load":[3.0303030303009426],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151565","Load":[3.960396039599502],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151572","Load":[8.08080808082548],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151578","Load":[15.999999999985448],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151585","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151592","Load":[3.0303030303009426],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151599","Load":[7.070707070702199],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151606","Load":[17.000000000007276],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151612","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151618","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151625","Load":[16.000000000008185],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151631","Load":[4.901960784307169],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151638","Load":[15.151515151504713],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151644","Load":[9.000000000014552],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151651","Load":[11.881188118843532],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151659","Load":[3.0303030303239096],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151665","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151671","Load":[15.999999999985448],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151678","Load":[3.0303030303239096],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151685","Load":[15.30612244899569],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151691","Load":[8.163265306141861],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151698","Load":[12.000000000011823],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151705","Load":[3.0303030303009426],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151712","Load":[0.9999999999990905],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151718","Load":[16.161616161627993],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151725","Load":[3.0303030302779757],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151732","Load":[13.999999999987267],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151739","Load":[1.9607843137228675],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151746","Load":[16.000000000008185],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151752","Load":[2.0000000000209184],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151759","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151765","Load":[9.000000000014552],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151772","Load":[8.999999999991815],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151779","Load":[2.9999999999972715],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151785","Load":[1.0000000000218279],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151792","Load":[21.428571428568112],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151798","Load":[3.000000000020009],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151805","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151812","Load":[8.080808080787666],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151818","Load":[3.000000000020009],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151825","Load":[15.000000000009095],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151832","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151839","Load":[14.141414141427363],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151846","Load":[10.891089108898631],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151852","Load":[3.0303030303009426],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151859","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151866","Load":[99.99999999997726],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151873","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151880","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151886","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151893","Load":[99.99999999997749],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151899","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151906","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151913","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151919","Load":[98.97959183675837],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151925","Load":[99.9999999999282],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151932","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151938","Load":[68.81720430106449],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151945","Load":[2.9999999999972715],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151953","Load":[3.0303030303009426],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151959","Load":[0.9999999999990905],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151966","Load":[12.121212121226737],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151976","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151983","Load":[3.03030303030651],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151990","Load":[4.999999999986358],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757151996","Load":[6.060606060601885],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152002","Load":[15.999999999985448],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152010","Load":[6.122448979588996],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152016","Load":[3.0303030302953746],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152023","Load":[6.060606060636683],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152029","Load":[3.9603960396066356],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152035","Load":[11.999999999967258],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152042","Load":[0.9900990099241711],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152048","Load":[9.090909090925795],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152055","Load":[3.0303030303239096],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152063","Load":[15.000000000009095],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152069","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152076","Load":[3.0303030302724077],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152083","Load":[11.999999999967258],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152090","Load":[0.9999999999990905],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152096","Load":[17.00000000001546],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152103","Load":[3.0303030302953746],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152109","Load":[25.49019607841957],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152116","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152123","Load":[2.9999999999918145],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152129","Load":[2.040816326529665],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152136","Load":[8.08080808082548],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152142","Load":[16.000000000008185],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152149","Load":[3.03030303030651],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152156","Load":[3.960396039622015],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152163","Load":[6.000000000005457],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152170","Load":[4.000000000011823],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152176","Load":[2.9999999999972715],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152182","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152189","Load":[16.000000000008185],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152196","Load":[3.9603960396066356],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152203","Load":[13.999999999987267],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152209","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152216","Load":[4.08163265305933],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152223","Load":[8.999999999991815],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152229","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152235","Load":[23.23232323235316],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152242","Load":[2.9999999999918145],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152248","Load":[16.32653061223732],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152255","Load":[4.040404040393833],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152262","Load":[8.080808080802514],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152270","Load":[3.0303030303009426],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152276","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152284","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152291","Load":[16.000000000008185],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152298","Load":[3.03030303030651],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152304","Load":[0.9999999999990905],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152310","Load":[16.000000000008185],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152316","Load":[4.000000000034561],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152323","Load":[14.141414141427363],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152331","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152338","Load":[14.285714285681141],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152345","Load":[2.9999999999972715],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152351","Load":[22.00000000000273],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152358","Load":[9.900990099003437],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152366","Load":[6.999999999980901],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152373","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152379","Load":[1.0000000000218279],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152385","Load":[9.090909090948761],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152392","Load":[3.0303030303009426],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152400","Load":[2.0202020201969164],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152406","Load":[9.999999999990905],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152412","Load":[16.000000000008185],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152419","Load":[3.03030303030651],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152425","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152432","Load":[8.999999999991815],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152438","Load":[3.960396039622015],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152445","Load":[15.841584158443034],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152452","Load":[9.000000000014552],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152458","Load":[11.764705882359497],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152466","Load":[8.247422680433878],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152472","Load":[3.9603960395923696],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152479","Load":[10.000000000013642],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152486","Load":[4.000000000003638],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152492","Load":[10.999999999969987],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152499","Load":[1.999999999998181],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152506","Load":[16.666666666644375],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152513","Load":[3.000000000020009],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152520","Load":[15.000000000036378],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152527","Load":[0.990099009922388],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152534","Load":[17.821782178220275],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152541","Load":[13.131313131327053],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152547","Load":[99.99999999986079],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152553","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152560","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152567","Load":[99.99999999981627],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152573","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152580","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152586","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152593","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152599","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152606","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152612","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152619","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152626","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152632","Load":[3.960396039599502],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152639","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152646","Load":[9.000000000014552],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152653","Load":[2.0408163265258774],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152659","Load":[3.0303030303183416],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152666","Load":[1.0000000000200089],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152672","Load":[11.999999999989086],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152678","Load":[3.0303030303183416],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152686","Load":[15.999999999939973],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152694","Load":[7.999999999992724],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152701","Load":[17.82178217819776],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152707","Load":[3.0303030302779757],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152714","Load":[15.000000000009095],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152720","Load":[9.000000000014552],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152727","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152733","Load":[10.999999999992724],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152739","Load":[7.999999999992724],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152746","Load":[2.0202020202428503],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152753","Load":[3.000000000014552],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152760","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152766","Load":[15.151515151481746],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152772","Load":[10.10101010100314],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152779","Load":[15.15151515149984],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152786","Load":[14.141414141424349],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152792","Load":[3.000000000020009],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152799","Load":[12.00000000003456],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152805","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152812","Load":[16.000000000030923],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152818","Load":[4.000000000003638],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152825","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152831","Load":[7.999999999992724],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152838","Load":[4.040404040401257],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152844","Load":[14.141414141424349],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152851","Load":[6.000000000029104],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152857","Load":[3.0303030302779757],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152864","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152871","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152878","Load":[14.141414141450332],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152885","Load":[3.000000000020009],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152891","Load":[3.960396039599502],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152898","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152904","Load":[3.0303030303239096],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152910","Load":[4.950495049512975],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152917","Load":[5.050505050524538],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152923","Load":[3.0303030302779757],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152930","Load":[2.0000000000436557],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152937","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152944","Load":[9.000000000014552],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152950","Load":[3.0303030303183416],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152957","Load":[13.8613861385782],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152963","Load":[1.999999999998181],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152970","Load":[3.030303030283543],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152977","Load":[3.9603960396066356],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152983","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152990","Load":[16.00000000000182],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757152996","Load":[3.0303030303239096],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153004","Load":[4.950495049521891],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153011","Load":[0.990099009922388],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153018","Load":[15.999999999985448],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153025","Load":[8.16326530611866],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153031","Load":[14.141414141378414],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153038","Load":[8.999999999969077],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153044","Load":[11.999999999967258],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153051","Load":[15.151515151481746],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153058","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153064","Load":[4.950495049476866],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153071","Load":[9.999999999972715],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153077","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153084","Load":[15.999999999985448],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153091","Load":[3.000000000020009],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153097","Load":[14.141414141450332],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153104","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153111","Load":[16.831683168305688],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153119","Load":[2.0408163265258774],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153126","Load":[4.000000000003638],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153133","Load":[0.9999999999781721],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153139","Load":[16.161616161621264],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153145","Load":[8.080808080802514],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153152","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153158","Load":[16.000000000030923],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153165","Load":[4.000000000041837],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153172","Load":[15.000000000009095],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153178","Load":[9.999999999990905],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153185","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153192","Load":[4.950495049521891],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153199","Load":[1.0000000000218279],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153205","Load":[17.171717171728307],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153212","Load":[6.060606060647819],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153218","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153225","Load":[12.000000000010914],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153232","Load":[5.940594059399254],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153238","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153245","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153251","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153258","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153265","Load":[99.99999999995212],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153271","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153278","Load":[99.99999999995498],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153284","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153291","Load":[99.99999999986079],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153298","Load":[99.99999999995453],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153304","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153310","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153317","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153324","Load":[2.999999999974534],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153330","Load":[14.141414141450332],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153338","Load":[9.900990098998756],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153346","Load":[7.999999999992724],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153352","Load":[11.881188118819905],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153359","Load":[6.999999999970896],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153365","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153372","Load":[4.950495049467951],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153378","Load":[3.960396039599502],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153384","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153390","Load":[2.999999999974534],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153397","Load":[2.0202020202043403],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153404","Load":[1.0101010101214252],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153410","Load":[11.111111111126421],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153416","Load":[3.999999999989086],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153424","Load":[15.000000000009095],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153431","Load":[7.070707070725166],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153437","Load":[1.999999999998181],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153443","Load":[16.000000000030923],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153450","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153456","Load":[7.999999999992724],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153463","Load":[4.950495049476866],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153470","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153476","Load":[15.151515151527677],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153483","Load":[3.0303030303183416],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153489","Load":[14.141414141404399],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153498","Load":[14.999999999981812],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153505","Load":[9.090909090909092],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153511","Load":[3.0303030302779757],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153518","Load":[2.0202020202428503],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153524","Load":[1.010101010077347],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153530","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153537","Load":[3.0303030302724077],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153543","Load":[0.9999999999763531],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153550","Load":[15.151515151527677],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153557","Load":[4.000000000003638],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153563","Load":[14.141414141404399],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153570","Load":[9.090909090863157],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153577","Load":[3.0303030303239096],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153584","Load":[3.000000000014552],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153591","Load":[8.99999999998181],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153597","Load":[22.448979591831055],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153604","Load":[4.901960784320719],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153610","Load":[15.000000000009095],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153617","Load":[8.080808080802514],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153623","Load":[3.000000000020009],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153630","Load":[3.0303030302779757],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153637","Load":[9.000000000014552],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153643","Load":[15.000000000009095],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153651","Load":[3.0303030302779757],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153658","Load":[10.999999999987267],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153664","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153671","Load":[16.831683168305688],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153677","Load":[3.000000000014552],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153684","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153691","Load":[1.980198019844776],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153698","Load":[10.101010101049075],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153704","Load":[3.030303030329477],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153711","Load":[8.08080808089438],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153718","Load":[14.141414141450332],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153724","Load":[2.999999999974534],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153731","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153737","Load":[15.841584158426542],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153744","Load":[3.0303030302724077],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153750","Load":[21.999999999985448],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153757","Load":[0.9999999999308784],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153764","Load":[4.000000000003638],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153770","Load":[3.061224489771296],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153776","Load":[1.0000000000218279],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153783","Load":[16.000000000030923],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153789","Load":[5.000000000009095],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153796","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153803","Load":[8.080808080802514],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153809","Load":[2.020202020158406],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153817","Load":[2.040816326529665],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153823","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153829","Load":[14.141414141404399],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153836","Load":[3.960396039599502],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153843","Load":[22.999999999956344],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153849","Load":[9.000000000014552],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153856","Load":[3.0303030303183416],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153863","Load":[3.9603960396066356],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153870","Load":[14.141414141424349],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153877","Load":[8.080808080848447],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153884","Load":[9.900990098998756],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153890","Load":[4.950495049485781],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153897","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153903","Load":[21.212121212129563],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153911","Load":[4.950495049476866],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153917","Load":[20.7920792079199],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153923","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153930","Load":[99.99999999990527],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153937","Load":[99.9999999999554],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153944","Load":[99.99999999991171],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153952","Load":[99.99999999990995],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153958","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153964","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153971","Load":[99.99999999990905],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153978","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153985","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153992","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757153998","Load":[99.99999999986079],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154005","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154011","Load":[10.999999999987267],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154018","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154024","Load":[17.64705882350581],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154031","Load":[3.0303030303183416],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154037","Load":[16.16161616160503],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154044","Load":[6.000000000005457],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154051","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154058","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154065","Load":[14.000000000012733],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154072","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154078","Load":[12.99999999996544],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154084","Load":[4.000000000003638],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154091","Load":[8.000000000023647],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154097","Load":[3.9603960396445275],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154104","Load":[11.999999999967258],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154110","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154117","Load":[19.99999999998181],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154123","Load":[2.0000000000436557],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154130","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154136","Load":[9.900990099061612],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154143","Load":[3.000000000020009],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154150","Load":[10.00000000003638],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154156","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154163","Load":[5.050505050478604],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154169","Load":[5.999999999983629],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154176","Load":[1.9999999999563443],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154182","Load":[23.00000000000182],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154189","Load":[5.00000000001819],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154196","Load":[15.999999999985448],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154202","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154208","Load":[4.000000000003638],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154215","Load":[3.999999999989086],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154223","Load":[14.141414141424349],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154230","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154237","Load":[5.940594059399254],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154243","Load":[2.0408163264794745],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154250","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154256","Load":[18.000000000029104],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154263","Load":[11.22448979593636],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154270","Load":[14.851485148520647],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154277","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154283","Load":[15.999999999985448],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154290","Load":[3.0303030302724077],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154296","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154303","Load":[8.080808080802514],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154309","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154317","Load":[4.950495049521891],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154323","Load":[8.16326530611866],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154332","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154339","Load":[9.000000000014552],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154345","Load":[3.0303030303698435],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154352","Load":[6.060606060601885],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154358","Load":[8.080808080802514],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154366","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154372","Load":[4.0404040404086805],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154380","Load":[14.99999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154386","Load":[7.999999999992724],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154394","Load":[2.999999999969077],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154400","Load":[3.999999999989086],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154407","Load":[0.9999999999781721],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154413","Load":[15.306122448949289],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154419","Load":[2.999999999974534],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154426","Load":[1.010101010077347],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154433","Load":[9.090909090925795],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154440","Load":[3.030303030329477],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154446","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154452","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154459","Load":[2.999999999974534],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154465","Load":[10.204081632667267],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154472","Load":[0.9999999999781721],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154478","Load":[16.8316831683204],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154485","Load":[3.030303030329477],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154491","Load":[14.000000000007276],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154498","Load":[9.000000000014552],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154504","Load":[3.000000000020009],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154513","Load":[3.0303030303183416],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154524","Load":[4.950495049485781],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154531","Load":[3.0303030303239096],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154538","Load":[10.1010101010217],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154545","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154552","Load":[22.22222222220691],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154559","Load":[3.0303030302779757],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154566","Load":[23.00000000000182],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154573","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154579","Load":[9.090909090909092],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154585","Load":[3.999999999989086],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154591","Load":[9.99999999994543],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154598","Load":[2.999999999979991],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154604","Load":[3.9603960396066356],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154611","Load":[11.88118811877711],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154618","Load":[99.99999999995262],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154624","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154630","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154637","Load":[99.99999999995453],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154643","Load":[99.99999999995498],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154650","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154656","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154664","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154670","Load":[99.9999999999554],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154678","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154684","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154691","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154698","Load":[99.99999999995262],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154704","Load":[98.96907216483342],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154712","Load":[24.242424242453474],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154719","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154726","Load":[13.861386138573295],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154732","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154739","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154745","Load":[16.161616161559092],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154752","Load":[2.0202020201969164],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154759","Load":[14.141414141424349],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154766","Load":[7.999999999992724],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154772","Load":[2.0202020202428503],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154779","Load":[2.040816326529665],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154785","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154793","Load":[12.000000000010914],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154799","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154806","Load":[4.000000000003638],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154812","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154819","Load":[3.0303030302724077],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154825","Load":[3.0303030302779757],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154832","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154839","Load":[9.000000000014552],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154845","Load":[3.061224489771296],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154852","Load":[14.99999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154859","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154865","Load":[3.999999999989086],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154871","Load":[12.00000000003456],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154878","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154885","Load":[11.000000000058208],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154891","Load":[3.0000000000654836],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154898","Load":[15.000000000036378],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154904","Load":[14.851485148547393],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154912","Load":[2.040816326576068],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154918","Load":[2.999999999974534],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154925","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154931","Load":[17.000000000007276],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154938","Load":[10.999999999992724],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154944","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154950","Load":[12.871287128720896],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154957","Load":[3.030303030283543],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154963","Load":[18.81188118812015],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154970","Load":[9.999999999990905],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154976","Load":[6.060606060601885],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154983","Load":[2.0202020201969164],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154990","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757154997","Load":[23.232323232372877],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155003","Load":[3.0303030303183416],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155010","Load":[15.999999999985448],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155017","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155023","Load":[9.090909090925795],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155029","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155036","Load":[1.0000000000218279],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155042","Load":[3.9603960396066356],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155049","Load":[10.00000000003638],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155055","Load":[1.010101010123281],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155061","Load":[20.408163265334533],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155068","Load":[3.0303030302779757],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155075","Load":[23.76237623755199],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155081","Load":[8.080808080802514],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155088","Load":[10.000000000009095],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155094","Load":[3.999999999989086],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155101","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155107","Load":[3.960396039599502],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155113","Load":[4.000000000003638],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155120","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155127","Load":[15.151515151527677],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155133","Load":[3.960396039599502],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155140","Load":[20.202020201969166],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155146","Load":[8.910891089137442],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155152","Load":[10.99999999994725],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155159","Load":[12.244897959201666],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155166","Load":[7.999999999992724],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155172","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155179","Load":[3.999999999996362],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155186","Load":[7.070707070712174],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155192","Load":[8.080808080802514],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155199","Load":[3.0303030303239096],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155205","Load":[14.141414141404399],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155212","Load":[9.900990098998756],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155218","Load":[3.030303030329477],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155225","Load":[3.9999999999508873],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155232","Load":[7.999999999992724],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155238","Load":[16.16161616165096],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155245","Load":[3.0303030302779757],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155251","Load":[15.000000000009095],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155257","Load":[9.090909090942498],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155264","Load":[3.0303030303239096],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155270","Load":[3.0303030303239096],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155277","Load":[1.020408163284246],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155283","Load":[2.0202020202006286],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155290","Load":[3.999999999989086],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155297","Load":[0],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155303","Load":[7.070707070725166],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155311","Load":[15.999999999985448],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155317","Load":[99.99999999990995],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155324","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155331","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155337","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155344","Load":[99.9999999999072],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155350","Load":[99.99999999981627],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155356","Load":[99.99999999995453],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155363","Load":[99.99999999990813],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155369","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155376","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155383","Load":[99.99999999990426],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155390","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155396","Load":[100],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155402","Load":[3.030303030283543],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155409","Load":[3.0303030303183416],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155416","Load":[0.9999999999781721],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155423","Load":[8.080808080802514],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155430","Load":[3.0612244898120173],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155437","Load":[4.040404040439767],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155443","Load":[5.000000000009095],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155450","Load":[15.999999999985448],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155456","Load":[11.000000000058208],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757155463","Load":[3.0000000000654836],"DevID":"vthal.bnsdq.ozxfs.laefh.blankcanvas"}
+{"TimeStamp":"1757588679", "Load":[0.9999999999990905], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588685", "Load":[3.960396039599502], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588692", "Load":[3.0303030303009426], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588698", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588704", "Load":[9.183673469383494], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588710", "Load":[6.000000000005457], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588716", "Load":[4.040404040401257], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588722", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588728", "Load":[14.141414141404399], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588734", "Load":[10.784313725498064], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588740", "Load":[5.0000000000045475], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588746", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588752", "Load":[24.752475247541916], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588758", "Load":[13.000000000010914], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588764", "Load":[18.36734693876699], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588770", "Load":[32.00000000001637], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588777", "Load":[21.359223301004093], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588783", "Load":[9.999999999990905], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588789", "Load":[10.000000000013642], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588795", "Load":[10.999999999989996], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588801", "Load":[2.941176470589547], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588807", "Load":[3.0303030303239096], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588813", "Load":[8.999999999991815], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588819", "Load":[8.999999999991815], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588825", "Load":[3.0303030303009426], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588831", "Load":[18.000000000006366], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588837", "Load":[11.000000000012733], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588843", "Load":[4.000000000011823], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588849", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588855", "Load":[18.181818181772247], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588861", "Load":[8.910891089121394], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588868", "Load":[0.9999999999990905], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588874", "Load":[2.9999999999972715], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588880", "Load":[3.0303030303009426], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588886", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588892", "Load":[1.999999999998181], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588898", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588904", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588910", "Load":[99.9999999999777], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588916", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588922", "Load":[99.99999999995498], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588928", "Load":[99.99999999997726], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588934", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588940", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588946", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588953", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588959", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588965", "Load":[99.9999999999777], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588971", "Load":[99.99999999986079], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588977", "Load":[99.99999999988279], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588983", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588989", "Load":[0.9999999999990905], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588995", "Load":[18.181818181805653], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589001", "Load":[3.030303030283543], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589007", "Load":[10.000000000013642], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589013", "Load":[23.999999999978172], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589019", "Load":[3.0000000000027285], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589026", "Load":[18.000000000006366], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589032", "Load":[2.000000000001819], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589038", "Load":[3.030303030283543], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589044", "Load":[21.212121212129563], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589050", "Load":[14.141414141404399], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589056", "Load":[4.950495049499378], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589062", "Load":[3.960396039622015], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589068", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589074", "Load":[16.16161616160503], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589080", "Load":[12.12121212120377], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589086", "Load":[26.999999999949072], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589092", "Load":[20.999999999988177], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589098", "Load":[4.040404040401257], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589104", "Load":[15.999999999985448], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589110", "Load":[9.000000000014552], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589116", "Load":[4.081632653051755], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589123", "Load":[4.950495049512975], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589129", "Load":[1.999999999998181], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589135", "Load":[4.950495049521891], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589141", "Load":[23.232323232372877], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589147", "Load":[22.772277227764675], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589153", "Load":[4.04040404044719], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589159", "Load":[14.141414141404399], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589165", "Load":[10.00000000003638], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589171", "Load":[4.950495049485781], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589177", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589183", "Load":[19.000000000040018], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589190", "Load":[4.950495049499378], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589196", "Load":[15.999999999979082], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589202", "Load":[18.811881188097637], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589208", "Load":[7.843137254905458], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589214", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589220", "Load":[19.801980198020026], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589226", "Load":[3.0303030303009426], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589232", "Load":[0.9999999999990905], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589238", "Load":[4.040404040424224], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589244", "Load":[4.0404040404168], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589250", "Load":[7.999999999992724], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589256", "Load":[13.72549019608455], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589262", "Load":[13.861386138643283], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589269", "Load":[17.171717171728307], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589275", "Load":[11.000000000012733], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589281", "Load":[17.99999999998363], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589287", "Load":[8.91089108911493], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589293", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589299", "Load":[15.841584158443034], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589305", "Load":[9.000000000014552], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589311", "Load":[4.081632653028553], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589317", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589324", "Load":[15.999999999985448], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589330", "Load":[3.0303030303183416], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589336", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589342", "Load":[18.99999999998272], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589348", "Load":[3.0303030303239096], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589354", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589360", "Load":[20.000000000027285], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589366", "Load":[5.940594059421766], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589372", "Load":[0.9999999999990905], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589378", "Load":[12.999999999988177], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589384", "Load":[18.000000000029104], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589390", "Load":[18.81188118812015], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589396", "Load":[11.000000000012733], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589402", "Load":[3.0303030303239096], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589409", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589415", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589421", "Load":[2.0408163265528665], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589427", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589433", "Load":[5.000000000009095], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589439", "Load":[12.871287128698384], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589445", "Load":[18.627450980389533], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589451", "Load":[11.111111111126421], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589457", "Load":[15.15151515149984], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589464", "Load":[9.999999999990905], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589470", "Load":[17.821782178220275], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589476", "Load":[18.811881188097637], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589482", "Load":[18.000000000006366], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589488", "Load":[8.823529411775196], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589494", "Load":[12.12121212122604], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589500", "Load":[9.999999999972715], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589506", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589512", "Load":[15.000000000009095], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589519", "Load":[10.891089108921143], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589525", "Load":[4.040404040401257], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589531", "Load":[6.00000000001728], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589537", "Load":[9.999999999990905], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589543", "Load":[3.0303030303183416], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589549", "Load":[16.000000000008185], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589555", "Load":[17.000000000007276], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589562", "Load":[18.000000000006366], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589568", "Load":[23.232323232310474], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589574", "Load":[27.27272727270848], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589580", "Load":[5.940594059387441], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589586", "Load":[1.999999999998181], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589592", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589598", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589604", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589610", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589616", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589622", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589628", "Load":[99.99999999991171], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589635", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589641", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589647", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589653", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589659", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589665", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589671", "Load":[17.171717171728307], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589677", "Load":[22.22222222220691], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589683", "Load":[17.171717171728307], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589689", "Load":[19.191919191928935], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589695", "Load":[32.999999999992724], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589702", "Load":[17.171717171728307], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589708", "Load":[12.12121212120377], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589714", "Load":[16.16161616157533], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589720", "Load":[9.900990098998756], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589726", "Load":[12.121212121249703], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589732", "Load":[15.000000000009095], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589739", "Load":[31.683168316796017], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589745", "Load":[25.742574257396768], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589751", "Load":[7.999999999992724], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589757", "Load":[21.56862745104071], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589763", "Load":[3.000000000020009], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589769", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589775", "Load":[3.0303030303239096], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589781", "Load":[2.9702970297167894], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589787", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589793", "Load":[4.040404040401257], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589799", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589806", "Load":[1.0204081632861401], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589812", "Load":[3.061224489771296], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589818", "Load":[14.285714285707657], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589824", "Load":[10.00000000001819], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589830", "Load":[4.04040404044719], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589836", "Load":[24.000000000021828], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589842", "Load":[8.999999999998181], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589848", "Load":[11.999999999989086], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589854", "Load":[27.27272727272727], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589860", "Load":[21.782178217803057], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589866", "Load":[18.000000000029104], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589873", "Load":[14.000000000032742], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589879", "Load":[21.782178217797263], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589885", "Load":[4.950495049521891], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589891", "Load":[0.9999999999763531], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589897", "Load":[16.9999999999618], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589903", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589909", "Load":[1.0000000000218279], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589915", "Load":[16.8316831683204], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589921", "Load":[4.950495049476866], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589927", "Load":[0.9999999999781721], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589933", "Load":[3.9603960396066356], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589939", "Load":[6.999999999970896], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589945", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589951", "Load":[3.0612244897656145], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589957", "Load":[5.940594059399254], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589963", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589969", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589976", "Load":[6.930693069334123], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589982", "Load":[9.900990098998756], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589988", "Load":[4.000000000003638], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757589994", "Load":[21.212121212129563], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590000", "Load":[17.171717171696756], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590006", "Load":[17.346938775511152], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590012", "Load":[24.24242424240893], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590018", "Load":[9.000000000014552], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590024", "Load":[4.901960784284878], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590030", "Load":[7.000000000016371], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590036", "Load":[16.83168316835071], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590042", "Load":[3.9603960395923696], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590048", "Load":[1.980198019799751], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590054", "Load":[17.821782178165666], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590060", "Load":[3.9603960396066356], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590066", "Load":[0.9999999999781721], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590072", "Load":[19.99999999998181], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590078", "Load":[4.99999999998181], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590084", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590091", "Load":[3.000000000014552], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590097", "Load":[4.000000000003638], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590103", "Load":[1.0000000000218279], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590109", "Load":[4.950495049476866], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590115", "Load":[9.900990098998756], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590121", "Load":[8.000000000038199], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590127", "Load":[3.0303030303239096], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590133", "Load":[15.999999999985448], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590139", "Load":[9.183673469406695], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590145", "Load":[3.0303030302779757], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590151", "Load":[18.181818181805653], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590157", "Load":[15.999999999985448], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590163", "Load":[3.0303030302724077], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590169", "Load":[1.0000000000218279], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590175", "Load":[16.16161616157533], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590181", "Load":[6.060606060647819], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590187", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590194", "Load":[3.0303030302779757], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590200", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590206", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590212", "Load":[3.999999999989086], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590218", "Load":[3.0303030303183416], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590224", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590230", "Load":[5.050505050515258], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590236", "Load":[25.490196078397283], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590242", "Load":[26.26262626260585], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590248", "Load":[10.999999999967258], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590254", "Load":[15.151515151527677], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590260", "Load":[10.784313725542646], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590266", "Load":[2.0202020202006286], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590272", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590278", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590284", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590290", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590296", "Load":[99.99999999995407], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590303", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590309", "Load":[99.9999999998622], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590315", "Load":[99.99999999991171], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590321", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590327", "Load":[99.99999999995498], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590333", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590339", "Load":[99.99999999985936], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590345", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590351", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590357", "Load":[11.000000000032742], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590363", "Load":[11.111111111126421], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590369", "Load":[10.89108910894076], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590376", "Load":[3.030303030329477], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590382", "Load":[0.9999999999763531], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590388", "Load":[3.0303030302724077], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590394", "Load":[15.841584158443034], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590400", "Load":[9.999999999990905], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590406", "Load":[5.000000000009095], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590412", "Load":[15.841584158426542], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590418", "Load":[8.080808080787666], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590424", "Load":[5.94059405935423], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590430", "Load":[2.0202020201969164], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590436", "Load":[18.62745098037817], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590442", "Load":[3.0612244897656145], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590448", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590455", "Load":[19.801980197997512], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590461", "Load":[6.93069306930916], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590467", "Load":[0.9999999999781721], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590473", "Load":[13.00000000003456], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590479", "Load":[8.080808080802514], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590485", "Load":[14.285714285707657], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590491", "Load":[12.999999999987267], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590497", "Load":[11.881188118819905], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590503", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590509", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590515", "Load":[16.16161616165096], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590521", "Load":[9.000000000014552], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590527", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590534", "Load":[14.99999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590540", "Load":[11.000000000012733], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590546", "Load":[7.000000000016371], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590552", "Load":[15.151515151481746], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590558", "Load":[9.090909090863157], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590564", "Load":[5.050505050469324], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590570", "Load":[15.151515151527677], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590576", "Load":[9.090909090896563], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590583", "Load":[5.940594059399254], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590589", "Load":[16.000000000014552], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590595", "Load":[4.040404040401257], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590601", "Load":[5.940594059409952], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590607", "Load":[1.0101010101214252], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590613", "Load":[20.792079207964925], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590619", "Load":[4.000000000034561], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590625", "Load":[1.0000000000218279], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590631", "Load":[15.151515151527677], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590637", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590643", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590649", "Load":[28.282828282802765], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590655", "Load":[17.171717171650823], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590661", "Load":[9.999999999972715], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590667", "Load":[11.111111111146837], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590673", "Load":[5.8823529411686035], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590680", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590686", "Load":[4.000000000034561], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590692", "Load":[3.030303030283543], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590698", "Load":[1.0000000000218279], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590704", "Load":[3.0303030303239096], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590710", "Load":[5.000000000027285], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590716", "Load":[1.980198019799751], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590722", "Load":[3.000000000014552], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590728", "Load":[15.841584158443034], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590734", "Load":[7.999999999992724], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590740", "Load":[4.999999999972715], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590746", "Load":[15.151515151573614], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590752", "Load":[13.131313131327053], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590758", "Load":[4.040404040393833], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590764", "Load":[0.9999999999763531], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590770", "Load":[26.26262626260817], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590777", "Load":[3.0303030302779757], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590783", "Load":[1.0000000000218279], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590789", "Load":[18.81188118812015], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590795", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590801", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590807", "Load":[17.000000000007276], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590813", "Load":[3.0303030303183416], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590819", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590825", "Load":[2.999999999974534], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590831", "Load":[3.960396039599502], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590837", "Load":[1.9607843137674508], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590843", "Load":[10.204081632694729], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590849", "Load":[18.181818181772247], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590855", "Load":[18.999999999970896], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590861", "Load":[11.881188118798509], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590868", "Load":[23.76237623763981], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590874", "Load":[22.00000000002001], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590880", "Load":[19.38775510205502], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590886", "Load":[20.999999999958163], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590892", "Load":[8.999999999998181], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590898", "Load":[3.061224489817699], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590904", "Load":[4.950495049530806], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590910", "Load":[1.0000000000218279], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590916", "Load":[4.040404040401257], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590922", "Load":[4.999999999972715], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590929", "Load":[0.9999999999781721], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590935", "Load":[12.00000000003456], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590941", "Load":[28.712871287118908], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590947", "Load":[16.9999999999618], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590953", "Load":[6.862745098052328], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590959", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590965", "Load":[99.99999999986079], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590971", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590977", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590983", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590989", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757590995", "Load":[99.9999999999072], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591001", "Load":[99.9999999999554], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591007", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591013", "Load":[99.99999999981627], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591019", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591026", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591032", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591038", "Load":[19.417475728169485], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591044", "Load":[3.999999999989086], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591050", "Load":[1.0000000000218279], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591056", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591062", "Load":[12.121212121271975], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591068", "Load":[20.20202020192323], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591074", "Load":[17.82178217819776], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591080", "Load":[4.950495049530806], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591086", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591092", "Load":[5.00000000001819], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591098", "Load":[16.00000000000182], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591104", "Load":[8.080808080802514], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591110", "Load":[3.0303030302779757], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591116", "Load":[14.999999999981812], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591122", "Load":[8.080808080802514], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591129", "Load":[3.0303030302724077], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591135", "Load":[16.00000000000182], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591141", "Load":[15.999999999985448], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591147", "Load":[3.0303030302779757], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591153", "Load":[10.784313725517295], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591159", "Load":[31.683168316783984], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591165", "Load":[11.881188118843532], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591171", "Load":[7.999999999992724], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591177", "Load":[15.30612244899569], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591183", "Load":[23.469387755070787], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591190", "Load":[17.99999999998363], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591196", "Load":[31.313131313132704], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591202", "Load":[4.000000000003638], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591208", "Load":[0.9999999999763531], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591214", "Load":[17.82178217819776], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591220", "Load":[2.999999999979991], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591226", "Load":[1.0000000000218279], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591232", "Load":[4.000000000003638], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591238", "Load":[5.102040816337895], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591244", "Load":[1.9999999999527063], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591250", "Load":[4.999999999972715], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591256", "Load":[4.000000000034561], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591262", "Load":[1.0101010101214252], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591268", "Load":[8.999999999939973], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591274", "Load":[23.00000000000182], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591281", "Load":[19.99999999994543], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591287", "Load":[18.181818181818183], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591293", "Load":[23.46938775511435], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591299", "Load":[14.851485148493898], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591305", "Load":[4.000000000003638], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591311", "Load":[5.00000000001819], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591317", "Load":[14.141414141450332], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591323", "Load":[5.00000000001819], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591329", "Load":[1.010101010125137], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591335", "Load":[17.171717171713922], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591341", "Load":[2.999999999979991], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591347", "Load":[0.9999999999781721], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591353", "Load":[3.960396039599502], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591359", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591365", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591371", "Load":[3.0303030303239096], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591377", "Load":[4.040404040401257], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591383", "Load":[0.990099009922388], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591390", "Load":[3.9603960396066356], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591396", "Load":[12.871287128720896], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591402", "Load":[8.910891089092416], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591408", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591414", "Load":[21.7391304348041], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591420", "Load":[23.000000000047294], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591426", "Load":[13.265306122419624], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591432", "Load":[20.202020202052218], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591438", "Load":[21.000000000041837], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591444", "Load":[18.181818181805653], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591450", "Load":[9.090909090925795], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591457", "Load":[14.851485148475621], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591463", "Load":[4.000000000034561], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591469", "Load":[1.0000000000218279], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591475", "Load":[19.801980198006873], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591481", "Load":[3.0303030303239096], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591487", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591493", "Load":[19.191919191928935], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591499", "Load":[19.19191919189367], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591505", "Load":[12.871287128720896], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591512", "Load":[10.00000000003638], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591518", "Load":[3.0303030302724077], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591524", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591530", "Load":[2.0000000000436557], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591536", "Load":[5.882352941223677], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591542", "Load":[6.06060606061302], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591548", "Load":[1.0000000000218279], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591554", "Load":[27.272727272685515], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591560", "Load":[4.040404040401257], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591566", "Load":[18.000000000029104], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591572", "Load":[2.0202020202006286], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591578", "Load":[1.010101010077347], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591584", "Load":[7.920792079199004], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591591", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591597", "Load":[4.081632653066906], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591603", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591609", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591615", "Load":[15.999999999985448], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591621", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591627", "Load":[14.141414141358464], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591633", "Load":[14.141414141378414], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591639", "Load":[20.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591645", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591651", "Load":[99.99999999995163], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591657", "Load":[99.99999999986079], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591663", "Load":[99.99999999990813], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591669", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591675", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591681", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591688", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591694", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591700", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591706", "Load":[99.99999999995407], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591712", "Load":[99.99999999995498], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591718", "Load":[5.000000000027285], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591724", "Load":[1.980198019758293], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591730", "Load":[17.99999999998363], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591736", "Load":[12.000000000010914], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591742", "Load":[9.000000000014552], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591749", "Load":[38.61386138616268], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591755", "Load":[18.181818181805653], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591761", "Load":[0.990099009922388], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591767", "Load":[3.0303030303239096], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591773", "Load":[5.00000000001819], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591779", "Load":[1.010101010123281], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591785", "Load":[3.9603960396066356], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591791", "Load":[4.0404040404086805], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591797", "Load":[0.9900990099241711], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591803", "Load":[4.000000000003638], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591809", "Load":[3.0303030302779757], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591815", "Load":[4.000000000041837], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591821", "Load":[12.999999999987267], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591827", "Load":[22.44897959187272], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591834", "Load":[10.101010101030516], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591840", "Load":[2.999999999979991], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591846", "Load":[14.99999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591852", "Load":[9.183673469406695], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591858", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591864", "Load":[1.980198019799751], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591870", "Load":[18.18181818183906], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591876", "Load":[11.111111111060074], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591882", "Load":[15.841584158398009], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591888", "Load":[28.282828282848698], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591894", "Load":[11.00000000001819], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591900", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591906", "Load":[5.000000000009095], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591912", "Load":[7.070707070679232], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591918", "Load":[1.0000000000218279], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591925", "Load":[3.0303030302724077], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591931", "Load":[4.901960784284878], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591937", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591943", "Load":[4.901960784329461], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591949", "Load":[16.831683168365423], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591955", "Load":[10.10101010100314], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591961", "Load":[3.030303030329477], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591967", "Load":[14.141414141378414], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591973", "Load":[9.000000000014552], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591979", "Load":[5.050505050524538], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591985", "Load":[11.000000000032742], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591991", "Load":[13.131313131351178], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757591997", "Load":[3.0303030302724077], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592003", "Load":[0.9900990098773633], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592009", "Load":[17.000000000007276], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592015", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592021", "Load":[8.080808080787666], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592028", "Load":[27.27272727277738], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592034", "Load":[17.171717171696756], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592040", "Load":[6.060606060601885], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592046", "Load":[3.0303030302724077], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592052", "Load":[2.0408163265258774], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592058", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592064", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592070", "Load":[4.000000000003638], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592076", "Load":[1.0000000000200089], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592082", "Load":[3.0303030303183416], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592088", "Load":[15.15151515149984], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592094", "Load":[8.999999999969077], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592100", "Load":[3.030303030283543], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592106", "Load":[18.999999999970896], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592112", "Load":[10.204081632601923], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592118", "Load":[3.0303030302779757], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592125", "Load":[15.999999999985448], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592131", "Load":[10.00000000003638], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592137", "Load":[4.000000000003638], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592143", "Load":[0.9999999999763531], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592149", "Load":[18.000000000029104], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592155", "Load":[5.940594059444279], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592161", "Load":[17.171717171728307], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592167", "Load":[30.00000000001819], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592173", "Load":[11.764705882337207], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592179", "Load":[0.990099009922388], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592185", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592191", "Load":[3.0303030302779757], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592197", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592204", "Load":[6.862745098007745], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592210", "Load":[5.00000000001819], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592216", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592222", "Load":[4.040404040393833], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592228", "Load":[2.0202020202428503], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592234", "Load":[2.0202020201969164], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592240", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592246", "Load":[13.265306122466026], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592252", "Load":[9.900990099016587], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592258", "Load":[4.000000000003638], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592264", "Load":[14.141414141404399], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592270", "Load":[17.00000000005275], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592276", "Load":[13.72549019601549], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592283", "Load":[28.282828282808797], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592289", "Load":[24.752475247563982], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592295", "Load":[18.999999999970896], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592301", "Load":[24.752475247563982], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592307", "Load":[30.303030303009425], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592313", "Load":[10.101010100957208], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592319", "Load":[7.920792079184739], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592325", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592331", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592337", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592343", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592349", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592355", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592362", "Load":[99.99999999995453], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592368", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592374", "Load":[99.99999999995498], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592380", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592386", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592392", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592398", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592405", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592411", "Load":[4.950495049476866], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592417", "Load":[1.980198019844776], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592423", "Load":[9.090909090925795], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592429", "Load":[21.782178217803057], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592435", "Load":[7.070707070725166], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592441", "Load":[18.811881188165174], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592447", "Load":[28.00000000002001], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592453", "Load":[8.080808080787666], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592459", "Load":[4.040404040393833], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592465", "Load":[14.141414141378414], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592471", "Load":[9.000000000014552], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592477", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592483", "Load":[15.000000000009095], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592490", "Load":[13.861386138553232], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592496", "Load":[6.060606060601885], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592502", "Load":[4.000000000041837], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592508", "Load":[14.99999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592514", "Load":[4.000000000003638], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592520", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592526", "Load":[18.00000000001637], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592532", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592538", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592544", "Load":[22.22222222224774], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592550", "Load":[21.78217821788152], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592556", "Load":[1.0000000000218279], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592562", "Load":[3.030303030329477], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592568", "Load":[4.000000000003638], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592574", "Load":[1.0000000000218279], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592580", "Load":[2.040816326529665], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592586", "Load":[4.040404040401257], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592592", "Load":[8.999999999969077], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592599", "Load":[3.000000000014552], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592605", "Load":[18.000000000029104], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592611", "Load":[9.000000000014552], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592617", "Load":[4.000000000003638], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592623", "Load":[16.000000000014552], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592629", "Load":[15.463917525793011], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592635", "Load":[18.181818181897523], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592641", "Load":[15.68627450978294], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592647", "Load":[34.00000000001455], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592653", "Load":[3.0303030303239096], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592659", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592665", "Load":[16.494845360789945], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592671", "Load":[3.999999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592677", "Load":[1.010101010123281], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592683", "Load":[7.070707070679232], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592690", "Load":[4.040404040393833], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592696", "Load":[1.980198019799751], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592702", "Load":[4.000000000034561], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592708", "Load":[7.000000000016371], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592714", "Load":[17.82178217822986], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592720", "Load":[17.99999999998363], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592726", "Load":[26.26262626260585], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592732", "Load":[16.161616161634722], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592738", "Load":[11.999999999967258], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592744", "Load":[15.151515151545775], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592750", "Load":[9.000000000014552], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592757", "Load":[4.950495049485781], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592763", "Load":[11.000000000012733], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592769", "Load":[15.686274509855497], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592775", "Load":[4.040404040393833], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592781", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592787", "Load":[23.999999999978172], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592793", "Load":[10.101010100975765], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592799", "Load":[18.999999999959982], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592805", "Load":[23.000000000005457], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592811", "Load":[10.10101010100314], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592817", "Load":[12.12121212120377], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592823", "Load":[9.09090909087986], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592829", "Load":[3.999999999989086], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592835", "Load":[1.0000000000218279], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592842", "Load":[5.88235294113451], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592848", "Load":[5.940594059364928], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592854", "Load":[8.0808080808336], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592860", "Load":[9.090909090925795], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592866", "Load":[4.99999999996362], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592872", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592878", "Load":[4.901960784338202], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592884", "Load":[1.0204081632416313], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592891", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592897", "Load":[11.881188118819905], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592903", "Load":[14.851485148592419], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592909", "Load":[0], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592916", "Load":[6.000000000029104], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592922", "Load":[11.999999999989086], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592928", "Load":[0.990099009922388], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592934", "Load":[4.040404040393833], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592940", "Load":[18.000000000029104], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592946", "Load":[26.26262626260817], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592952", "Load":[17.99999999998363], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592958", "Load":[21.99999999997999], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592964", "Load":[18.81188118812015], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592971", "Load":[7.92079207924403], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592977", "Load":[16.000000000047294], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592983", "Load":[9.99999999994543], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592989", "Load":[10.00000000003638], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757592995", "Load":[24.99999999990905], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757593001", "Load":[87.99999999989632], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757593007", "Load":[99.99999999995498], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757593013", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757593019", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757593026", "Load":[99.9999999999554], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757593032", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757593038", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757593044", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757593050", "Load":[99.99999999995498], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757593056", "Load":[100], "DevID":"nginx1.bnsdq.ozxfs.laefh.kvugl"}

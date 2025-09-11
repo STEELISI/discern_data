@@ -1,9 +1,9 @@
-{"TimeStamp":"1757189528", "Name":"dbus-session", "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757189528", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757189528", "Name":"eth0", "HardwareAddr":"4e:5b:78:3d:03:f0", "IPs":["172.30.0.88", "fe80::4c5b:78ff:fe3d:210"], "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757189528", "Name":"eth1", "HardwareAddr":"4a:f1:9d:06:3e:c2", "IPs":["10.0.1.202", "fe80::48f1:9dff:fe06:32"], "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757189528", "Name":"nflog", "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757189528", "Name":"nfqueue", "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757189528", "Name":"any", "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757189528", "Name":"bluetooth-monitor", "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757189528", "Name":"dbus-system", "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757620990","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1757620990","Name":"eth1","HardwareAddr":"0a:9a:88:60:10:9c","IPs":["10.0.1.202","fe80::89a:88ff:fe60:191"],"DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1757620991","Name":"any","DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1757620991","Name":"nfqueue","DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1757620991","Name":"dbus-session","DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1757620991","Name":"eth0","HardwareAddr":"b2:9a:84:eb:e4:49","IPs":["172.30.0.88","fe80::b09a:84ff:feeb:221"],"DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1757620991","Name":"bluetooth-monitor","DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1757620991","Name":"nflog","DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1757620991","Name":"dbus-system","DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}

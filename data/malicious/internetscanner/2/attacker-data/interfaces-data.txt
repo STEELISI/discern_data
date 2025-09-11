@@ -1,9 +1,9 @@
-{"TimeStamp":"1757155670", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"wxhix.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757155670", "Name":"eth0", "HardwareAddr":"5a:32:28:4b:32:cb", "IPs":["172.30.0.10", "fe80::5832:28ff:fe4b:53"], "DevID":"wxhix.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757155670", "Name":"dbus-system", "DevID":"wxhix.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757155670", "Name":"nfqueue", "DevID":"wxhix.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757155670", "Name":"dbus-session", "DevID":"wxhix.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757155670", "Name":"eth1", "HardwareAddr":"d2:53:c7:e5:f3:ed", "IPs":["10.10.10.241", "fe80::d053:c7ff:fee5:156"], "DevID":"wxhix.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757155671", "Name":"any", "DevID":"wxhix.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757155671", "Name":"bluetooth-monitor", "DevID":"wxhix.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757155671", "Name":"nflog", "DevID":"wxhix.bnsdq.ozxfs.laefh.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757593272","Name":"nfqueue","DevID":"attacker.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757593272","Name":"dbus-session","DevID":"attacker.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757593272","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"attacker.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757593272","Name":"bluetooth-monitor","DevID":"attacker.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757593272","Name":"nflog","DevID":"attacker.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757593272","Name":"dbus-system","DevID":"attacker.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757593272","Name":"eth0","HardwareAddr":"56:46:8d:62:22:78","IPs":["172.30.0.10","fe80::5446:8dff:fe62:197"],"DevID":"attacker.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757593272","Name":"eth1","HardwareAddr":"82:6e:dd:7b:d4:ab","IPs":["10.10.10.241","fe80::806e:ddff:fe7b:222"],"DevID":"attacker.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757593272","Name":"any","DevID":"attacker.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}

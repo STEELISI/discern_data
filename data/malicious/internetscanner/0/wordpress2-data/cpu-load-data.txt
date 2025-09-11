@@ -1,684 +1,737 @@
-{"TimeStamp":"1757146343","Load":[2.0202020202006286],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146349","Load":[3.960396039599502],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146356","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146364","Load":[3.0303030303009426],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146370","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146377","Load":[10.10101010100314],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146384","Load":[2.0408163265277715],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146391","Load":[3.0303030303009426],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146398","Load":[16.8316831683204],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146405","Load":[0.9999999999990905],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146411","Load":[17.171717171728307],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146418","Load":[4.9999999999954525],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146425","Load":[5.05050505050157],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146431","Load":[6.060606060601885],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146438","Load":[18.18181818182862],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146444","Load":[3.960396039622015],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146451","Load":[11.224489795902743],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146458","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146464","Load":[9.999999999990905],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146472","Load":[3.0303030303009426],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146478","Load":[12.000000000011823],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146484","Load":[5.999999999994543],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146491","Load":[9.000000000014552],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146497","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146504","Load":[3.0303030303009426],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146511","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146517","Load":[19.000000000005457],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146524","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146531","Load":[3.0303030303009426],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146538","Load":[5.05050505050157],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146545","Load":[0.9999999999990905],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146552","Load":[22.772277227719652],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146558","Load":[10.204081632648327],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146564","Load":[6.060606060619285],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146571","Load":[1.0101010101003143],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146578","Load":[15.151515151527677],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146585","Load":[4.999999999990905],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146592","Load":[5.05050505050157],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146599","Load":[11.999999999989086],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146606","Load":[8.000000000015461],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146612","Load":[17.821782178236322],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146619","Load":[3.0303030303239096],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146626","Load":[4.040404040401257],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146633","Load":[1.980198019799751],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146640","Load":[8.08080808082548],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146646","Load":[9.090909090902827],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146653","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146660","Load":[13.131313131316148],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146666","Load":[5.05050505050157],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146673","Load":[10.999999999989996],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146679","Load":[2.0408163265277715],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146687","Load":[7.000000000016371],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146693","Load":[0.9999999999990905],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146699","Load":[10.999999999989996],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146706","Load":[4.950495049503837],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146713","Load":[25.99999999999909],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146719","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146725","Load":[3.061224489794498],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146732","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146739","Load":[10.891089108908439],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146746","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146752","Load":[2.040816326529665],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146759","Load":[4.901960784307169],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146765","Load":[15.30612244899569],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146772","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146778","Load":[13.000000000010914],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146784","Load":[10.204081632662056],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146791","Load":[13.131313131304085],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146798","Load":[0.9999999999990905],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146805","Load":[9.900990099007673],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146812","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146819","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146826","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146832","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146839","Load":[99.99999999995359],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146845","Load":[99.9999999999777],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146852","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146858","Load":[99.99999999993179],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146865","Load":[99.9999999999768],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146872","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146880","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146887","Load":[99.99999999997657],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146893","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146900","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146906","Load":[2.970297029699627],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146913","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146920","Load":[9.999999999990905],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146927","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146933","Load":[3.0303030302981586],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146940","Load":[15.841584158420522],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146947","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146954","Load":[57.731958762889256],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146960","Load":[99.9999999999511],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146967","Load":[99.99999999990624],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146974","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146980","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146987","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757146994","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147000","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147006","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147014","Load":[99.99999999997657],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147020","Load":[99.99999999995359],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147027","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147035","Load":[99.99999999997726],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147041","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147047","Load":[99.9999999999511],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147054","Load":[3.0303030303009426],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147061","Load":[17.000000000007276],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147068","Load":[9.999999999990905],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147075","Load":[21.000000000003638],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147081","Load":[8.247422680426146],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147088","Load":[2.999999999994543],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147095","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147102","Load":[5.999999999994543],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147109","Load":[3.9603960396184483],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147115","Load":[3.0303030303211256],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147121","Load":[13.131313131327053],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147128","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147135","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147142","Load":[3.9603960396030686],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147148","Load":[15.151515151513758],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147156","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147162","Load":[23.23232323233019],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147169","Load":[3.0303030303211256],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147176","Load":[3.0303030303211256],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147183","Load":[15.999999999985448],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147189","Load":[6.93069306930537],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147196","Load":[4.040404040401257],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147202","Load":[3.0303030303239096],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147209","Load":[8.999999999991815],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147215","Load":[9.18367346937497],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147222","Load":[4.000000000019099],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147229","Load":[3.960396039599502],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147236","Load":[11.999999999989086],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147243","Load":[0.999999999998181],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147250","Load":[18.000000000022737],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147257","Load":[4.040404040401257],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147264","Load":[2.9999999999972715],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147272","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147278","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147284","Load":[21.212121212129563],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147291","Load":[4.040404040424224],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147297","Load":[7.920792079214385],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147304","Load":[1.980198019799751],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147311","Load":[22.00000000000273],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147318","Load":[12.00000000000091],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147324","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147330","Load":[0.9999999999990905],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147337","Load":[21.99999999998272],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147344","Load":[2.9999999999972715],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147351","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147358","Load":[16.000000000022737],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147364","Load":[5.999999999994543],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147371","Load":[4.950495049503837],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147377","Load":[13.861386138598258],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147383","Load":[0.9900990098998755],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147390","Load":[9.090909090925795],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147397","Load":[4.000000000019099],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147403","Load":[4.950495049521891],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147410","Load":[25.742574257419275],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147417","Load":[9.900990098998756],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147423","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147429","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147436","Load":[0.9999999999754436],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147444","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147450","Load":[5.882352941173848],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147457","Load":[11.764705882347696],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147464","Load":[5.940594059399254],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147470","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147477","Load":[17.346938775518254],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147483","Load":[1.0204081632638857],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147490","Load":[11.224489795925944],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147497","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147503","Load":[23.00000000000182],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147510","Load":[3.0303030303009426],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147516","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147523","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147530","Load":[8.999999999983629],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147537","Load":[5.940594059404603],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147543","Load":[4.000000000019099],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147549","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147556","Load":[19.191919191911307],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147562","Load":[8.08080808082548],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147569","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147575","Load":[1],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147582","Load":[18.99999999998272],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147589","Load":[12],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147598","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147605","Load":[4.950495049521891],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147611","Load":[15.841584158434788],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147618","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147625","Load":[9.090909090917442],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147632","Load":[4.000000000019099],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147638","Load":[17.821782178220275],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147645","Load":[0.9999999999990905],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147652","Load":[18.18181818182862],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147658","Load":[22.22222222220946],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147664","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147671","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147678","Load":[99.99999999995498],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147686","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147692","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147699","Load":[99.99999999997749],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147706","Load":[99.9999999999554],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147712","Load":[99.99999999993378],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147720","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147727","Load":[99.9999999999304],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147734","Load":[99.99999999995359],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147740","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147747","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147754","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147761","Load":[12.871287128720896],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147768","Load":[6.000000000022737],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147775","Load":[0.9900990098998755],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147781","Load":[16.161616161627993],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147788","Load":[2.9999999999972715],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147796","Load":[4.901960784329461],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147802","Load":[5.940594059421766],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147809","Load":[0.9999999999990905],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147816","Load":[18.18181818182862],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147822","Load":[6.930693069327883],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147829","Load":[6.060606060601885],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147836","Load":[10.999999999989996],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147842","Load":[19.191919191911307],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147848","Load":[3.0303030302981586],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147855","Load":[10.101010101026109],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147861","Load":[1.0000000000218279],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147868","Load":[18.18181818178895],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147874","Load":[3.0000000000227374],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147881","Load":[18.181818181805653],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147887","Load":[2.0000000000209184],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147894","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147900","Load":[3.0303030303211256],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147907","Load":[16.16161616157533],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147913","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147920","Load":[7.000000000000001],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147927","Load":[2.040816326529665],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147935","Load":[11.22448979593636],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147941","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147947","Load":[20.20202020202925],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147953","Load":[12.12121212120377],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147960","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147967","Load":[9.090909090894476],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147973","Load":[21.000000000003638],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147980","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147986","Load":[12.121212121192634],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757147993","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148000","Load":[19.38775510205502],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148006","Load":[8.08080808082548],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148016","Load":[3.0303030303009426],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148022","Load":[3.0303030302981586],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148029","Load":[8.91089108909888],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148035","Load":[27.27272727273145],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148042","Load":[4.950495049503837],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148048","Load":[2.9999999999972715],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148055","Load":[18.181818181845326],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148062","Load":[4.0404040403975445],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148068","Load":[4.000000000015461],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148075","Load":[3.0303030303009426],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148081","Load":[14.141414141404399],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148088","Load":[1.0000000000218279],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148095","Load":[19],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148102","Load":[2.0202020202006286],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148109","Load":[6.930693069299129],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148115","Load":[1],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148123","Load":[9.090909090925795],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148129","Load":[3.960396039599502],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148136","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148142","Load":[0.9999999999990905],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148149","Load":[10.000000000013642],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148155","Load":[4.950495049503837],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148162","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148168","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148175","Load":[17.346938775525356],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148182","Load":[3.960396039599502],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148189","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148196","Load":[15.000000000031832],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148202","Load":[5.00000000001819],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148209","Load":[18.367346938773142],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148216","Load":[4.950495049499378],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148223","Load":[4.040404040424224],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148230","Load":[0.9999999999990905],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148236","Load":[18.000000000022737],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148243","Load":[3.0303030303009426],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148250","Load":[4.000000000003638],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148256","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148263","Load":[14.999999999995453],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148270","Load":[4.9999999999954525],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148277","Load":[2.999999999994543],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148283","Load":[20.7920792079199],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148290","Load":[0.9999999999990905],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148297","Load":[24.24242424243051],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148303","Load":[5.00000000001819],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148310","Load":[11.000000000012733],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148317","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148323","Load":[17.171717171728307],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148329","Load":[3.0612244897916567],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148336","Load":[7.000000000000001],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148343","Load":[0.999999999998181],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148349","Load":[18.000000000006366],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148355","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148362","Load":[99.9999999999554],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148369","Load":[99.99999999995359],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148375","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148383","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148389","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148395","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148402","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148408","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148415","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148422","Load":[99.99999999993378],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148428","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148435","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148442","Load":[99.99999999995359],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148448","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148455","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148461","Load":[4.000000000015461],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148468","Load":[6],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148474","Load":[9.090909090925795],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148481","Load":[24.50980392153585],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148488","Load":[3.0303030303239096],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148494","Load":[4.000000000019099],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148501","Load":[3.000000000020009],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148507","Load":[22.000000000025466],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148514","Load":[3.0303030303009426],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148520","Load":[3.0303030302981586],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148527","Load":[2.0202020202006286],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148533","Load":[29.999999999995453],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148539","Load":[3.0303030303009426],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148546","Load":[23.23232323230885],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148552","Load":[4.040404040401257],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148558","Load":[10.101010101012422],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148565","Load":[4.950495049499378],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148572","Load":[23.23232323230885],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148578","Load":[6.9999999999936335],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148585","Load":[17.000000000007276],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148592","Load":[13.000000000010914],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148598","Load":[18.000000000006366],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148605","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148612","Load":[18.181818181845326],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148618","Load":[4.000000000019099],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148625","Load":[4.08163265305933],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148633","Load":[19.000000000005457],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148639","Load":[4.0404040403975445],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148646","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148652","Load":[3.0303030303009426],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148659","Load":[14.141414141414375],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148665","Load":[9.90099009902127],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148672","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148678","Load":[4.950495049499378],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148685","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148691","Load":[23.000000000047294],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148698","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148705","Load":[4.950495049521891],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148712","Load":[25.999999999952706],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148718","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148725","Load":[4.040404040424224],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148731","Load":[4.9999999999954525],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148739","Load":[3.0303030303239096],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148746","Load":[0.9999999999990905],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148752","Load":[24.742268041231554],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148759","Load":[3.0303030303211256],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148765","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148772","Load":[1.0000000000218279],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148779","Load":[18.55670103095297],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148785","Load":[3.0303030303239096],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148791","Load":[4.950495049499378],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148798","Load":[1.9607843137228675],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148805","Load":[10.10101010100314],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148812","Load":[3.0303030303009426],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148818","Load":[4.9999999999954525],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148825","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148833","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148839","Load":[24.24242424243051],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148846","Load":[2.9999999999772626],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148853","Load":[15.151515151513758],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148860","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148866","Load":[20.20202020200628],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148873","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148879","Load":[3.0303030303239096],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148886","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148892","Load":[21.212121212129563],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148899","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148905","Load":[4.950495049499378],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148912","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148918","Load":[27.551020408148112],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148926","Load":[2.9999999999972715],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148932","Load":[5.00000000001819],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148939","Load":[15.151515151513758],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148945","Load":[9.999999999990905],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148952","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148959","Load":[4.04040404044719],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148966","Load":[19.000000000028194],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148973","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148980","Load":[26.26262626258404],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148986","Load":[3.0303030303239096],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757148993","Load":[4.000000000019099],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149000","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149007","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149013","Load":[12.871287128709973],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149020","Load":[4.040404040420512],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149026","Load":[22.00000000000273],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149033","Load":[8.000000000015461],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149039","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149046","Load":[2.999999999994543],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149052","Load":[16.000000000022737],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149060","Load":[11.111111111093248],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149067","Load":[99.99999999995407],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149073","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149080","Load":[99.99999999997749],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149086","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149092","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149099","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149106","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149112","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149119","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149125","Load":[99.99999999997657],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149132","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149139","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149146","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149152","Load":[99.99999999997657],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149158","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149165","Load":[7.0000000000100036],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149172","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149179","Load":[4.040404040424224],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149186","Load":[8.163265306111086],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149193","Load":[2.0202020202006286],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149199","Load":[18.181818181822358],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149207","Load":[1.960784313724616],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149213","Load":[20.792079207938624],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149220","Load":[12.000000000011823],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149226","Load":[5.05050505050157],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149234","Load":[20.000000000004547],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149241","Load":[1.0101010101003143],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149248","Load":[3.0303030302779757],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149255","Load":[3.0303030302779757],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149261","Load":[11.000000000012733],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149268","Load":[0.9999999999763531],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149274","Load":[21.21212121208711],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149281","Load":[4.040404040401257],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149288","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149294","Load":[1.010101010123281],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149301","Load":[25.742574257419275],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149307","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149314","Load":[3.0000000000227374],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149321","Load":[1.010101010123281],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149328","Load":[5.94059405938209],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149335","Load":[3.0000000000227374],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149341","Load":[3.0303030302779757],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149347","Load":[1],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149355","Load":[6.930693069299129],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149361","Load":[3.0303030303009426],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149367","Load":[4.040404040424224],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149373","Load":[7.999999999992724],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149380","Load":[4.000000000019099],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149387","Load":[3.0000000000172804],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149394","Load":[4.040404040401257],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149400","Load":[24.24242424243051],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149407","Load":[0.999999999998181],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149414","Load":[4.040404040401257],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149420","Load":[12],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149427","Load":[20.000000000045475],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149433","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149439","Load":[4.000000000003638],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149446","Load":[3.0303030302981586],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149453","Load":[14.999999999986358],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149460","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149466","Load":[17.999999999989996],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149474","Load":[3.0303030303009426],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149480","Load":[10.999999999979991],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149487","Load":[1.9801980198015343],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149495","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149502","Load":[22],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149510","Load":[2.0408163265277715],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149516","Load":[3.0303030302981586],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149522","Load":[9.900990099007673],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149529","Load":[10.000000000004547],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149536","Load":[4.081632653051755],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149542","Load":[4.0404040403975445],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149548","Load":[0.9999999999990905],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149555","Load":[10.891089108898631],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149562","Load":[8.16326530611866],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149568","Load":[3.0303030302981586],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149575","Load":[2.999999999994543],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149581","Load":[9.999999999990905],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149588","Load":[10.10101010100314],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149594","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149601","Load":[7.070707070679232],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149608","Load":[5.00000000001819],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149615","Load":[3.960396039622015],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149622","Load":[3.0612244897916567],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149628","Load":[16.99999999998454],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149636","Load":[0.999999999998181],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149643","Load":[10.891089108930952],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149651","Load":[28.71287128709639],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149657","Load":[3.0303030303009426],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149664","Load":[6.122448979594678],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149670","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149677","Load":[27.272727272706394],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149684","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149690","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149697","Load":[1.980198019797968],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149704","Load":[27.72277227724644],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149710","Load":[2.9999999999972715],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149717","Load":[4.901960784307169],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149724","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149731","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149738","Load":[16.161616161627993],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149744","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149751","Load":[16.16161616160503],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149758","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149765","Load":[28.282828282808797],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149772","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149779","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149785","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149791","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149798","Load":[99.99999999995669],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149804","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149811","Load":[99.9999999999304],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149817","Load":[99.99999999997726],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149824","Load":[99.99999999993378],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149831","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149837","Load":[99.9999999999777],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149844","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149851","Load":[99.99999999995359],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149857","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149864","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149871","Load":[6.93069306930537],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149877","Load":[0.999999999998181],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149883","Load":[21.42857142860789],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149889","Load":[4.0404040403975445],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149896","Load":[15.999999999985448],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149902","Load":[10.999999999979991],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149909","Load":[2.040816326529665],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149916","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149923","Load":[18.18181818183906],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149929","Load":[7.999999999992724],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149935","Load":[3.0303030303009426],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149942","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149949","Load":[18.181818181805653],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149955","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149962","Load":[19.191919191905967],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149968","Load":[4.000000000041837],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149975","Load":[15.999999999985448],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149982","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149989","Load":[24.24242424240754],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757149996","Load":[5.0000000000045475],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150003","Load":[5.999999999994543],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150009","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150016","Load":[11.999999999989086],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150023","Load":[5.940594059388555],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150029","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150036","Load":[13.265306122442825],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150042","Load":[9.999999999972715],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150049","Load":[2.970297029699627],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150055","Load":[12.12121212120377],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150062","Load":[0.9999999999990905],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150068","Load":[14.285714285757372],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150075","Load":[4.000000000019099],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150082","Load":[4.901960784307169],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150088","Load":[13.131313131302925],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150096","Load":[0.9999999999990905],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150103","Load":[21.212121212175497],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150109","Load":[11.224489795915527],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150116","Load":[4.08163265305933],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150122","Load":[8.999999999975444],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150128","Load":[19.1919191919642],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150135","Load":[11.881188118821019],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150141","Load":[18.81188118815403],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150148","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150155","Load":[27.272727272685515],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150161","Load":[10.999999999967258],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150168","Load":[6.9306930693216415],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150175","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150181","Load":[31.31313131307517],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150190","Load":[25.000000000022737],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150197","Load":[4.950495049521891],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150203","Load":[13.131313131279956],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150210","Load":[0.9999999999763531],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150216","Load":[23.23232323233019],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150223","Load":[4.040404040401257],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150230","Load":[4.950495049499378],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150236","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150243","Load":[10.10101010100755],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150250","Load":[12.000000000011823],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150256","Load":[3.0303030303009426],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150263","Load":[16.000000000030923],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150269","Load":[10.891089108921143],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150276","Load":[10.10101010100314],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150282","Load":[6.060606060624852],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150288","Load":[7.070707070725166],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150295","Load":[23.23232323233019],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150301","Load":[2.0618556701026094],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150307","Load":[22.772277227719652],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150314","Load":[11.111111111103455],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150321","Load":[24.24242424240754],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150327","Load":[2.0202020202006286],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150334","Load":[21.21212121215253],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150340","Load":[4.950495049476866],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150350","Load":[1.0000000000218279],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150356","Load":[24.752475247496893],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150363","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150369","Load":[6.060606060624852],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150376","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150382","Load":[28.282828282831762],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150389","Load":[11.999999999989086],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150396","Load":[5.999999999994543],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150402","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150408","Load":[20.000000000004547],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150417","Load":[3.061224489771296],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150423","Load":[4.950495049499378],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150430","Load":[19.000000000040018],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150437","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150443","Load":[10.1010101010217],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150449","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150456","Load":[20.20202020202925],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150464","Load":[5.999999999994543],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150470","Load":[45.544554455439304],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150477","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150483","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150491","Load":[99.9999999999554],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150497","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150504","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150510","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150517","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150525","Load":[99.99999999993312],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150531","Load":[99.99999999997726],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150538","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150545","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150551","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150558","Load":[99.99999999985936],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150565","Load":[100],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150572","Load":[4.040404040401257],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150578","Load":[14.000000000012733],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150584","Load":[11.224489795892326],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150591","Load":[3.0303030302779757],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150598","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150604","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150612","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150618","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150624","Load":[4.08163265305933],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150631","Load":[14.000000000032742],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150638","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150645","Load":[24.24242424240893],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150651","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150658","Load":[16.999999999976353],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150665","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150671","Load":[21.78217821788152],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150678","Load":[4.040404040393833],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150684","Load":[5.999999999994543],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150691","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150700","Load":[0.9999999999763531],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150706","Load":[21.99999999997999],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150713","Load":[2.999999999974534],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150719","Load":[7.000000000016371],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150726","Load":[1.0000000000200089],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150733","Load":[10.101010101049075],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150740","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150746","Load":[11.999999999989086],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150752","Load":[6.060606060647819],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150759","Load":[21.999999999934516],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150766","Load":[4.040404040401257],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150773","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150780","Load":[15.151515151527677],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150786","Load":[11.111111111126421],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150793","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150799","Load":[11.999999999989086],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150805","Load":[2.0202020201969164],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150812","Load":[5.00000000001819],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150818","Load":[4.000000000041837],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150825","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150831","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150838","Load":[22.000000000025466],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150844","Load":[12.871287128720896],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150850","Load":[5.050505050487883],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150857","Load":[0.9999999999763531],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150863","Load":[21.782178217836492],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150870","Load":[2.020202020154694],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150877","Load":[10.101010101049075],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150884","Load":[1.0000000000218279],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150890","Load":[10.999999999992724],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150897","Load":[11.999999999989086],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150904","Load":[3.999999999996362],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
-{"TimeStamp":"1757150910","Load":[0],"DevID":"qqtvl.bnsdq.ozxfs.laefh.blankcanvas"}
+{"TimeStamp":"1757584167", "Load":[11.999999999989086], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584173", "Load":[19.000000000005457], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584179", "Load":[31.999999999993634], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584186", "Load":[10.204081632650457], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584192", "Load":[9.090909090905958], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584198", "Load":[32.99999999997408], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584204", "Load":[10.000000000013642], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584210", "Load":[13.131313131315567], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584216", "Load":[25], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584222", "Load":[10.10101010100314], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584228", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584234", "Load":[14.000000000010004], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584240", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584247", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584253", "Load":[3.030303030303726], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584259", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584265", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584271", "Load":[4.000000000007731], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584277", "Load":[8.163265306130262], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584283", "Load":[7.142857142847199], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584289", "Load":[3.0303030302981586], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584295", "Load":[13.999999999987267], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584301", "Load":[18.000000000006366], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584307", "Load":[18.367346938761543], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584313", "Load":[24.242424242419023], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584319", "Load":[12.244897959189592], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584325", "Load":[3.0303030303096423], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584331", "Load":[0.9900990099111319], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584337", "Load":[14.432989690704733], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584343", "Load":[4.950495049521891], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584349", "Load":[2.9999999999972715], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584356", "Load":[17.821782178225064], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584362", "Load":[6.000000000005912], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584368", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584374", "Load":[4.950495049521891], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584380", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584386", "Load":[2.0202020201987723], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584392", "Load":[6.9999999999936335], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584398", "Load":[4], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584404", "Load":[7.0707070707186706], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584410", "Load":[14.000000000010004], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584416", "Load":[14.141414141402889], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584422", "Load":[24.242424242419023], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584429", "Load":[18.18181818182862], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584435", "Load":[23.00000000000182], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584441", "Load":[8.080808080802514], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584447", "Load":[10.999999999989996], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584453", "Load":[22.448979591828685], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584459", "Load":[7.142857142870401], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584465", "Load":[4.0404040403975445], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584471", "Load":[4.950495049499378], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584477", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584483", "Load":[5.940594059399254], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584489", "Load":[15.000000000009095], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584495", "Load":[10.000000000002274], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584501", "Load":[6.930693069310386], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584507", "Load":[26.262626262631134], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584513", "Load":[15.000000000009095], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584519", "Load":[4.9999999999954525], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584526", "Load":[2.0408163265277715], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584532", "Load":[20.408163265308254], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584538", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584544", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584550", "Load":[19.191919191917453], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584556", "Load":[4.950495049499378], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584562", "Load":[0.9900990098998755], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584568", "Load":[16.000000000008185], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584574", "Load":[4.000000000007731], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584580", "Load":[1.9801980198222637], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584586", "Load":[99.99999999998863], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584592", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584598", "Load":[99.99999999997657], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584604", "Load":[99.99999999997749], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584610", "Load":[99.99999999996622], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584616", "Load":[99.99999999994257], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584622", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584628", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584634", "Load":[99.99999999998875], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584640", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584647", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584653", "Load":[99.99999999995585], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584659", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584665", "Load":[3.0303030303239096], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584671", "Load":[14.999999999986358], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584677", "Load":[14.141414141414375], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584683", "Load":[3.960396039599502], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584689", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584695", "Load":[15.999999999993634], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584701", "Load":[3.0303030302981586], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584707", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584713", "Load":[15.841584158412275], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584719", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584725", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584731", "Load":[18.811881188114576], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584737", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584743", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584750", "Load":[12.871287128698384], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584756", "Load":[16.99999999998454], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584762", "Load":[8.999999999991815], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584768", "Load":[4.950495049503837], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584774", "Load":[4.000000000019099], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584780", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584786", "Load":[27.45098039216692], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584792", "Load":[99.9999999999311], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584798", "Load":[99.99999999997726], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584804", "Load":[99.99999999997657], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584810", "Load":[99.9999999999304], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584816", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584823", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584829", "Load":[99.99999999995312], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584835", "Load":[99.9999999999344], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584841", "Load":[99.99999999995359], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584847", "Load":[99.99999999997749], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584853", "Load":[99.99999999997657], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584859", "Load":[99.99999999997657], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584865", "Load":[5], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584871", "Load":[2.0202020201987723], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584877", "Load":[14.141414141391406], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584883", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584889", "Load":[0.9900990098998755], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584895", "Load":[29.29292929293208], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584901", "Load":[18.81188118813709], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584907", "Load":[6.999999999987266], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584914", "Load":[32.00000000001637], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584920", "Load":[6.060606060601885], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584926", "Load":[1.0101010100764192], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584932", "Load":[4.0404040403975445], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584938", "Load":[3.9999999999772626], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584944", "Load":[0.9999999999763531], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584950", "Load":[4.950495049499378], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584956", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584962", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584968", "Load":[2.9999999999972715], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584974", "Load":[11.999999999989086], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584980", "Load":[8.080808080802514], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584986", "Load":[4.999999999990905], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584992", "Load":[13.999999999974532], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757584999", "Load":[7.142857142847199], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585005", "Load":[12.999999999988177], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585011", "Load":[28.282828282854727], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585017", "Load":[22.9999999999809], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585023", "Load":[9], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585029", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585035", "Load":[15.841584158434788], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585041", "Load":[3.960396039599502], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585047", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585053", "Load":[15.151515151504713], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585059", "Load":[4.999999999990905], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585065", "Load":[0.9900990098998755], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585071", "Load":[20.000000000022737], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585077", "Load":[6.122448979588996], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585083", "Load":[1], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585089", "Load":[2.9999999999972715], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585096", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585102", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585108", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585114", "Load":[4.040404040401257], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585120", "Load":[1], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585126", "Load":[2.0408163265277715], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585132", "Load":[10.204081632662056], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585138", "Load":[8.91089108909888], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585144", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585150", "Load":[13.000000000010914], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585156", "Load":[8.000000000015461], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585162", "Load":[3.0303030303211256], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585168", "Load":[14.000000000010004], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585174", "Load":[10.891089108898631], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585180", "Load":[4.040404040401257], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585187", "Load":[14.000000000010004], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585193", "Load":[7.999999999992724], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585199", "Load":[1.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585205", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585211", "Load":[21.000000000003638], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585217", "Load":[16.000000000008185], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585223", "Load":[18.000000000029104], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585229", "Load":[23.99999999997908], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585235", "Load":[8.080808080802514], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585241", "Load":[9.900990098998756], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585247", "Load":[9.090909090917442], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585253", "Load":[4.081632653078744], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585259", "Load":[0.9999999999990905], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585265", "Load":[1.0204081632870872], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585271", "Load":[6.000000000022737], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585277", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585284", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585290", "Load":[3.0303030302779757], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585296", "Load":[1.9801980198015343], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585302", "Load":[4.9999999999954525], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585308", "Load":[4.000000000019099], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585314", "Load":[1.960784313724616], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585320", "Load":[3.960396039599502], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585326", "Load":[14.851485148498133], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585332", "Load":[8.999999999983629], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585338", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585344", "Load":[23.52941176467572], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585350", "Load":[20.20202020202925], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585356", "Load":[20.58823529413076], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585362", "Load":[22.99999999997908], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585369", "Load":[15], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585375", "Load":[10.784313725498064], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585381", "Load":[10.101010101026109], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585387", "Load":[18.181818181811916], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585393", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585399", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585405", "Load":[15.151515151504713], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585411", "Load":[4], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585417", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585423", "Load":[18.81188118810321], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585429", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585435", "Load":[0.9900990098998755], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585441", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585447", "Load":[3.960396039599502], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585453", "Load":[2.040816326529665], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585459", "Load":[4.9999999999954525], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585466", "Load":[6.93069306930537], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585472", "Load":[99.99999999995359], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585478", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585484", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585490", "Load":[99.9999999999554], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585496", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585502", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585508", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585514", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585520", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585526", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585532", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585538", "Load":[99.99999999997657], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585544", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585550", "Load":[5], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585556", "Load":[19.191919191928935], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585563", "Load":[7.999999999992724], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585569", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585575", "Load":[13.131313131281116], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585581", "Load":[12.12121212120377], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585587", "Load":[16.99999999998454], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585593", "Load":[16.494845360820875], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585599", "Load":[19.191919191928935], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585605", "Load":[10.101010101026109], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585611", "Load":[0.9999999999990905], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585617", "Load":[19.38775510203182], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585623", "Load":[2.040816326531559], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585629", "Load":[2.0202020202006286], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585635", "Load":[3.9603960396030686], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585641", "Load":[6.060606060619285], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585647", "Load":[8.999999999983629], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585653", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585659", "Load":[15.151515151513758], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585666", "Load":[8.163265306141861], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585672", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585678", "Load":[14.000000000010004], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585684", "Load":[21.000000000003638], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585690", "Load":[4.08163265305933], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585696", "Load":[9.900990099007673], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585702", "Load":[22.9999999999809], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585708", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585714", "Load":[9.000000000014552], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585720", "Load":[31.68316831684706], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585726", "Load":[13], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585732", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585738", "Load":[4.081632653055543], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585744", "Load":[6.060606060607452], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585750", "Load":[2], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585757", "Load":[4.0404040404168], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585763", "Load":[4.040404040401257], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585769", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585775", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585781", "Load":[4.950495049521891], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585787", "Load":[6.060606060601885], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585793", "Load":[3.000000000020009], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585799", "Load":[8.999999999991815], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585805", "Load":[0.9999999999990905], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585811", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585817", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585823", "Load":[1.0101010101003143], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585830", "Load":[2.040816326529665], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585836", "Load":[4.9999999999954525], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585842", "Load":[2.0202020202006286], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585848", "Load":[2.0618556701026094], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585854", "Load":[2.9999999999972715], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585860", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585866", "Load":[3.0303030303239096], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585872", "Load":[3.0303030303211256], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585878", "Load":[8.080808080795089], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585884", "Load":[4.081632653051755], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585890", "Load":[23.762376237640925], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585896", "Load":[22.222222222229878], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585902", "Load":[17.34693877550926], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585908", "Load":[6], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585914", "Load":[14.000000000000002], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585920", "Load":[2.999999999994543], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585927", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585933", "Load":[16.99999999998454], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585939", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585945", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585951", "Load":[18.181818181805653], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585957", "Load":[4.0404040403975445], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585963", "Load":[16.99999999998454], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585969", "Load":[30.69306930689102], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585975", "Load":[18.18181818182862], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585981", "Load":[1.999999999998181], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585987", "Load":[3.0303030303239096], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757585994", "Load":[2.0408163265277715], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586000", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586006", "Load":[7.766990291256992], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586012", "Load":[17.17171717170534], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586018", "Load":[8.999999999991815], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586024", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586030", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586036", "Load":[19.801980198020026], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586042", "Load":[4.000000000019099], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586048", "Load":[11], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586054", "Load":[30.392156862726736], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586060", "Load":[10.10101010100314], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586066", "Load":[4.040404040424224], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586072", "Load":[5], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586078", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586084", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586090", "Load":[3.0303030302981586], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586096", "Load":[3.960396039599502], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586103", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586109", "Load":[3.9999999999772626], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586115", "Load":[15.151515151541597], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586121", "Load":[8.08080808082548], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586127", "Load":[3.9603960396030686], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586133", "Load":[17.821782178236322], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586139", "Load":[17.000000000007276], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586145", "Load":[19.801980198020026], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586151", "Load":[99.99999999997657], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586157", "Load":[99.99999999997749], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586163", "Load":[99.9999999999311], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586169", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586175", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586181", "Load":[99.99999999997749], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586187", "Load":[99.9999999999554], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586193", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586199", "Load":[99.99999999997657], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586205", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586211", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586217", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586224", "Load":[99.99999999997749], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586230", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586236", "Load":[6.999999999987266], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586242", "Load":[0.999999999998181], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586248", "Load":[3.0303030303239096], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586254", "Load":[15.30612244899569], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586260", "Load":[10.891089108930952], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586266", "Load":[3.0303030303239096], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586272", "Load":[14.141414141414375], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586278", "Load":[16.32653061224537], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586284", "Load":[16.32653061222217], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586290", "Load":[16.99999999998454], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586296", "Load":[23.99999999997908], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586303", "Load":[5.00000000001819], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586309", "Load":[19.000000000022737], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586315", "Load":[3.000000000020009], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586321", "Load":[4.950495049521891], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586327", "Load":[2], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586333", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586339", "Load":[11.111111111103455], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586345", "Load":[19.999999999986358], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586351", "Load":[18.000000000022737], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586357", "Load":[28.282828282831762], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586363", "Load":[3.9603960396030686], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586369", "Load":[13.131313131314986], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586375", "Load":[10.10101010100314], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586381", "Load":[1.0204081632638857], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586388", "Load":[16.99999999998454], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586394", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586400", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586406", "Load":[2], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586412", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586418", "Load":[16.16161616160503], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586424", "Load":[4.950495049499378], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586430", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586436", "Load":[20.000000000027285], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586442", "Load":[3.0303030302779757], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586448", "Load":[21.212121212129563], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586455", "Load":[1.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586461", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586467", "Load":[7.999999999992724], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586473", "Load":[8.08080808082548], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586479", "Load":[4.08163265305933], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586485", "Load":[3.960396039599502], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586491", "Load":[0.9900990098782549], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586497", "Load":[20.20202020201069], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586503", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586509", "Load":[13.265306122453715], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586515", "Load":[9.090909090902827], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586522", "Load":[6.862745098030036], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586528", "Load":[16.000000000022737], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586534", "Load":[7.070707070725166], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586540", "Load":[3.0303030303211256], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586546", "Load":[4.040404040401257], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586552", "Load":[7.999999999992724], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586558", "Load":[11.111111111080488], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586564", "Load":[18.55670103095297], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586570", "Load":[16.161616161627993], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586576", "Load":[30.61224489799659], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586582", "Load":[16.161616161613146], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586588", "Load":[20.6185567010302], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586595", "Load":[16.000000000008185], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586601", "Load":[4.040404040401257], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586607", "Load":[7.0707070707086945], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586613", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586619", "Load":[4.999999999990905], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586625", "Load":[4.999999999968168], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586631", "Load":[1.0101010100993861], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586637", "Load":[17.821782178220275], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586643", "Load":[3.000000000020009], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586649", "Load":[1.010101010077347], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586655", "Load":[22.772277227740158], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586661", "Load":[3.0303030303211256], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586667", "Load":[16.161616161627993], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586673", "Load":[7.999999999992724], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586680", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586686", "Load":[4.081632653055543], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586692", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586698", "Load":[11.999999999989086], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586704", "Load":[16.000000000008185], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586710", "Load":[17.17171717170534], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586716", "Load":[22.448979591805486], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586722", "Load":[4.950495049521891], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586728", "Load":[12.00000000000091], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586734", "Load":[15.999999999985448], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586740", "Load":[3.000000000020009], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586746", "Load":[10.10101010100314], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586752", "Load":[16.161616161627993], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586758", "Load":[4.040404040424224], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586765", "Load":[1.980198019799751], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586771", "Load":[16.831683168335555], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586777", "Load":[7.070707070695703], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586783", "Load":[16.16161616160503], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586789", "Load":[5.05050505050157], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586795", "Load":[18.811881188114576], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586801", "Load":[17.99999999998363], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586807", "Load":[16.831683168297886], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586813", "Load":[11.000000000012733], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586819", "Load":[0.9900990099007672], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586825", "Load":[3.0303030302779757], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586831", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586838", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586844", "Load":[99.99999999997726], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586850", "Load":[99.99999999997632], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586856", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586862", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586868", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586874", "Load":[99.99999999997749], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586880", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586886", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586892", "Load":[99.9999999999311], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586898", "Load":[99.99999999997726], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586904", "Load":[99.99999999997529], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586911", "Load":[9.09090909087986], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586917", "Load":[5.999999999994543], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586923", "Load":[5.940594059393904], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586929", "Load":[16.999999999991815], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586935", "Load":[3.0303030302981586], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586941", "Load":[1.9607843137023244], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586947", "Load":[16.161616161613146], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586953", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586959", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586965", "Load":[11.111111111126421], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586971", "Load":[18.000000000006366], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586977", "Load":[13.131313131327053], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586983", "Load":[10.000000000022737], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586989", "Load":[10.891089108911336], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757586996", "Load":[1], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587002", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587008", "Load":[5.999999999989086], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587014", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587020", "Load":[4.9504950495444024], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587026", "Load":[14.141414141450332], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587032", "Load":[11.881188118832833], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587038", "Load":[3.061224489814858], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587044", "Load":[15.841584158412275], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587050", "Load":[15.999999999985448], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587056", "Load":[2.040816326529665], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587062", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587068", "Load":[18.18181818182862], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587074", "Load":[3], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587080", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587087", "Load":[17.000000000007276], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587093", "Load":[2.999999999974534], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587099", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587105", "Load":[3.0303030303239096], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587111", "Load":[4.040404040439767], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587117", "Load":[2.970297029699627], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587123", "Load":[19.801980198020026], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587129", "Load":[3.0303030302981586], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587135", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587141", "Load":[10.000000000013642], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587147", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587153", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587159", "Load":[5.00000000001819], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587166", "Load":[4.040404040401257], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587172", "Load":[11.000000000012733], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587178", "Load":[19.999999999986358], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587184", "Load":[20.792079207938624], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587190", "Load":[8.080808080802514], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587196", "Load":[17.17171717171253], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587202", "Load":[23.23232323230885], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587208", "Load":[10], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587214", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587220", "Load":[15.999999999985448], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587226", "Load":[9.000000000014552], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587232", "Load":[4.040404040401257], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587238", "Load":[1.010101010123281], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587244", "Load":[17.999999999989996], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587250", "Load":[3.0303030303211256], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587256", "Load":[1.9607843137469074], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587263", "Load":[17.821782178220275], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587269", "Load":[2.9999999999972715], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587275", "Load":[0.9999999999990905], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587281", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587287", "Load":[10.10101010100314], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587293", "Load":[16.16161616160503], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587299", "Load":[5.940594059421766], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587305", "Load":[15.151515151490793], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587311", "Load":[9.090909090911179], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587317", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587323", "Load":[14.99999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587329", "Load":[13.000000000010914], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587335", "Load":[11.000000000012733], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587341", "Load":[17.82178217821381], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587347", "Load":[24.489795918333254], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587353", "Load":[4.9999999999954525], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587359", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587365", "Load":[20.000000000022737], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587372", "Load":[5.999999999994543], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587378", "Load":[0.9900990098773633], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587384", "Load":[8.080808080802514], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587390", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587396", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587402", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587408", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587414", "Load":[6.060606060624852], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587420", "Load":[18.18181818182862], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587426", "Load":[19.99999999998181], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587432", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587438", "Load":[4.081632653055543], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587444", "Load":[13.131313131327053], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587450", "Load":[8.080808080802514], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587456", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587462", "Load":[14.141414141427363], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587468", "Load":[10.10101010100314], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587474", "Load":[4.040404040401257], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587481", "Load":[15.000000000009095], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587487", "Load":[9.090909090894476], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587493", "Load":[2.9999999999972715], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587499", "Load":[9.900990099007673], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587505", "Load":[18.000000000006366], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587511", "Load":[17.171717171721117], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587517", "Load":[99.99999999997657], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587523", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587529", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587535", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587541", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587547", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587553", "Load":[99.99999999997726], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587559", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587566", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587572", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587578", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587584", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587590", "Load":[46.87499999997928], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587596", "Load":[24.24242424243051], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587602", "Load":[20.7920792079199], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587608", "Load":[10.999999999989996], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587614", "Load":[6.93069306930537], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587620", "Load":[12.871287128698384], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587626", "Load":[0.9999999999990905], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587632", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587638", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587644", "Load":[0.9999999999990905], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587650", "Load":[8.08080808082548], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587656", "Load":[7.070707070695703], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587662", "Load":[9], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587668", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587674", "Load":[17.64705882350581], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587681", "Load":[10.784313725472712], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587687", "Load":[3.0303030303239096], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587693", "Load":[24.752475247519403], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587699", "Load":[25], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587705", "Load":[19.000000000005457], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587711", "Load":[8.999999999991815], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587717", "Load":[18.181818181805653], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587723", "Load":[9.999999999990905], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587729", "Load":[1.980198019799751], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587735", "Load":[16.99999999998454], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587741", "Load":[4.901960784329461], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587747", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587753", "Load":[7.843137254898464], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587759", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587765", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587771", "Load":[19.000000000005457], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587777", "Load":[9.090909090925795], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587783", "Load":[17.99999999998363], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587789", "Load":[24.742268041254754], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587795", "Load":[3.0303030303239096], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587802", "Load":[1.0000000000009095], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587808", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587814", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587820", "Load":[0.9999999999990905], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587826", "Load":[9.090909090886123], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587832", "Load":[8.999999999991815], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587838", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587844", "Load":[2.999999999974534], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587850", "Load":[15.000000000009095], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587856", "Load":[7.999999999992724], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587862", "Load":[3.0303030303239096], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587868", "Load":[15.30612244896728], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587874", "Load":[9.090909090925795], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587880", "Load":[4.000000000019099], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587886", "Load":[0.9999999999972715], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587893", "Load":[19.387755102042238], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587899", "Load":[3.0303030303239096], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587905", "Load":[9.000000000014552], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587911", "Load":[22.772277227697142], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587917", "Load":[18.181818181805653], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587923", "Load":[4.040404040401257], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587929", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587935", "Load":[5.05050505050157], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587941", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587947", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587953", "Load":[3.0000000000027285], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587959", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587965", "Load":[5.05050505050157], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587971", "Load":[14.999999999986358], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587978", "Load":[8.0808080808336], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587984", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587990", "Load":[14.141414141453348], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757587996", "Load":[19.191919191987164], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588002", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588008", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588014", "Load":[20.000000000004547], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588020", "Load":[4.040404040401257], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588026", "Load":[0.9999999999781721], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588032", "Load":[7.070707070725166], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588038", "Load":[11.111111111106007], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588044", "Load":[16.16161616160503], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588050", "Load":[11.000000000012733], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588056", "Load":[3.03030303030651], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588062", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588068", "Load":[3.0303030303239096], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588075", "Load":[6.060606060601885], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588081", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588087", "Load":[4.950495049476866], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588093", "Load":[14.141414141404399], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588099", "Load":[9.183673469406695], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588105", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588111", "Load":[15.151515151527677], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588117", "Load":[9.000000000014552], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588123", "Load":[3.0303030302953746], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588129", "Load":[0.9999999999990905], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588135", "Load":[17.821782178165666], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588141", "Load":[4.000000000019099], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588147", "Load":[0.990099009922388], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588153", "Load":[17.99999999998363], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588159", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588166", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588172", "Load":[23.232323232310474], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588178", "Load":[2.9999999999918145], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588184", "Load":[4.0404040404086805], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588190", "Load":[20.000000000040927], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588196", "Load":[99.9999999999554], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588202", "Load":[99.99999999997749], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588208", "Load":[99.99999999990527], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588214", "Load":[99.99999999990426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588220", "Load":[99.99999999990426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588226", "Load":[99.99999999990527], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588233", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588239", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588245", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588252", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588258", "Load":[99.99999999997726], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588264", "Load":[100], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588270", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588276", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588282", "Load":[5.00000000001819], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588288", "Load":[4.9999999999954525], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588294", "Load":[4.950495049521891], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588300", "Load":[6.862745098030036], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588306", "Load":[15.30612244896728], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588312", "Load":[10.89108910887612], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588318", "Load":[5.050505050524538], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588325", "Load":[8.999999999991815], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588331", "Load":[8.999999999991815], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588337", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588343", "Load":[3.999999999996362], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588349", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588355", "Load":[9.999999999990905], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588361", "Load":[14.141414141378414], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588367", "Load":[9.999999999990905], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588373", "Load":[3.0303030303239096], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588380", "Load":[7.999999999992724], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588386", "Load":[8.080808080787666], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588392", "Load":[11.881188118819905], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588398", "Load":[22.22222222220691], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588404", "Load":[17.99999999998363], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588410", "Load":[19.191919191951904], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588416", "Load":[23.762376237619527], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588423", "Load":[10.101010101026109], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588429", "Load":[5.999999999994543], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588435", "Load":[15.151515151504713], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588441", "Load":[9.000000000014552], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588448", "Load":[10.999999999989996], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588454", "Load":[14.999999999986358], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588460", "Load":[12.000000000057298], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588466", "Load":[14.999999999986358], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588472", "Load":[34.999999999990905], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588478", "Load":[23.232323232307227], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588485", "Load":[18.18181818182862], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588491", "Load":[22.222222222229878], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588497", "Load":[30.69306930694117], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588503", "Load":[16.83168316835071], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588509", "Load":[17.99999999998363], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588515", "Load":[32.00000000001637], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588521", "Load":[7.070707070725166], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588527", "Load":[1.020408163288034], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588534", "Load":[15.841584158420522], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588540", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588546", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588552", "Load":[3.0303030302779757], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588558", "Load":[2.040816326529665], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588564", "Load":[0], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588570", "Load":[4.000000000019099], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588576", "Load":[3.0303030303009426], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588582", "Load":[2.9999999999972715], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588588", "Load":[3.061224489817699], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588594", "Load":[19.000000000005457], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588600", "Load":[13.999999999984539], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588606", "Load":[4.000000000019099], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588612", "Load":[17.346938775548555], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588619", "Load":[11.111111111126421], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588625", "Load":[3.0303030302953746], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588631", "Load":[14.141414141401382], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
+{"TimeStamp":"1757588637", "Load":[9.000000000014552], "DevID":"wordpress2.bnsdq.ozxfs.laefh.kvugl"}
