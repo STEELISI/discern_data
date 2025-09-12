@@ -1,20 +1,10 @@
-{"TimeStamp":"1757199540", "Name":"nflog", "DevID":"wxhix.bnsdq.ozxfs.rzona.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757199540", "Name":"dbus-system", "DevID":"wxhix.bnsdq.ozxfs.rzona.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757199540", "Name":"dbus-session", "DevID":"wxhix.bnsdq.ozxfs.rzona.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757199540", "Name":"eth0", "HardwareAddr":"26:d2:6f:f4:44:b0", "IPs":["172.30.0.10", "fe80::24d2:6fff:fef4:148"], "DevID":"wxhix.bnsdq.ozxfs.rzona.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757199540", "Name":"eth1", "HardwareAddr":"86:5a:1b:64:4e:2d", "IPs":["1.1.2.18", "fe80::845a:1bff:fe64:104"], "DevID":"wxhix.bnsdq.ozxfs.rzona.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757199540", "Name":"any", "DevID":"wxhix.bnsdq.ozxfs.rzona.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757199540", "Name":"bluetooth-monitor", "DevID":"wxhix.bnsdq.ozxfs.rzona.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757199540", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"wxhix.bnsdq.ozxfs.rzona.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757199540", "Name":"eth2", "HardwareAddr":"7e:fe:d2:0b:e4:a7", "IPs":["10.0.1.202", "fe80::7cfe:d2ff:fe0b:167"], "DevID":"wxhix.bnsdq.ozxfs.rzona.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757199540", "Name":"nfqueue", "DevID":"wxhix.bnsdq.ozxfs.rzona.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757200987", "Name":"eth1", "HardwareAddr":"86:5a:1b:64:4e:2d", "IPs":["1.1.2.18", "fe80::845a:1bff:fe64:104"], "DevID":"wxhix.bnsdq.ozxfs.rzona.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757200987", "Name":"any", "DevID":"wxhix.bnsdq.ozxfs.rzona.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757200987", "Name":"nfqueue", "DevID":"wxhix.bnsdq.ozxfs.rzona.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757200987", "Name":"dbus-system", "DevID":"wxhix.bnsdq.ozxfs.rzona.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757200987", "Name":"dbus-session", "DevID":"wxhix.bnsdq.ozxfs.rzona.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757200987", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"wxhix.bnsdq.ozxfs.rzona.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757200987", "Name":"eth0", "HardwareAddr":"26:d2:6f:f4:44:b0", "IPs":["172.30.0.10", "fe80::24d2:6fff:fef4:148"], "DevID":"wxhix.bnsdq.ozxfs.rzona.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757200987", "Name":"nflog", "DevID":"wxhix.bnsdq.ozxfs.rzona.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757200987", "Name":"eth2", "HardwareAddr":"7e:fe:d2:0b:e4:a7", "IPs":["10.0.1.202", "fe80::7cfe:d2ff:fe0b:167"], "DevID":"wxhix.bnsdq.ozxfs.rzona.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757200987", "Name":"bluetooth-monitor", "DevID":"wxhix.bnsdq.ozxfs.rzona.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757694783","Name":"eth1","HardwareAddr":"8e:b5:82:07:9f:8a","IPs":["1.1.2.18","fe80::8cb5:82ff:fe07:247"],"DevID":"attacker.bnsdq.ozxfs.rzona.kvugl","Action":"Added"}
+{"TimeStamp":"1757694783","Name":"eth2","HardwareAddr":"1a:37:25:9c:55:99","IPs":["10.0.1.202","fe80::1837:25ff:fe9c:23"],"DevID":"attacker.bnsdq.ozxfs.rzona.kvugl","Action":"Added"}
+{"TimeStamp":"1757694783","Name":"nflog","DevID":"attacker.bnsdq.ozxfs.rzona.kvugl","Action":"Added"}
+{"TimeStamp":"1757694783","Name":"nfqueue","DevID":"attacker.bnsdq.ozxfs.rzona.kvugl","Action":"Added"}
+{"TimeStamp":"1757694783","Name":"dbus-system","DevID":"attacker.bnsdq.ozxfs.rzona.kvugl","Action":"Added"}
+{"TimeStamp":"1757694783","Name":"dbus-session","DevID":"attacker.bnsdq.ozxfs.rzona.kvugl","Action":"Added"}
+{"TimeStamp":"1757694783","Name":"eth0","HardwareAddr":"d2:2e:3d:d1:6d:fd","IPs":["172.30.0.10","fe80::d02e:3dff:fed1:239"],"DevID":"attacker.bnsdq.ozxfs.rzona.kvugl","Action":"Added"}
+{"TimeStamp":"1757694783","Name":"any","DevID":"attacker.bnsdq.ozxfs.rzona.kvugl","Action":"Added"}
+{"TimeStamp":"1757694783","Name":"bluetooth-monitor","DevID":"attacker.bnsdq.ozxfs.rzona.kvugl","Action":"Added"}
+{"TimeStamp":"1757694783","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"attacker.bnsdq.ozxfs.rzona.kvugl","Action":"Added"}

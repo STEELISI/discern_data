@@ -1,11 +1,11 @@
-{"TimeStamp":"1757206461", "Name":"dbus-system", "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757206461", "Name":"dbus-session", "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757206461", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757206461", "Name":"docker0", "HardwareAddr":"02:42:49:a2:6c:11", "IPs":["172.17.0.50", "fe80::42:49ff:fea2:179"], "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757206461", "Name":"any", "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757206461", "Name":"bluetooth-monitor", "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757206461", "Name":"nflog", "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757206461", "Name":"nfqueue", "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757206461", "Name":"eth0", "HardwareAddr":"7a:73:5f:1a:6c:f2", "IPs":["172.30.0.88", "fe80::7873:5fff:fe1a:207"], "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757206461", "Name":"eth1", "HardwareAddr":"f6:2b:61:a9:75:75", "IPs":["10.0.1.202", "fe80::f42b:61ff:fea9:72"], "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757207062", "Name":"vethbe6523b", "HardwareAddr":"ae:0e:e4:78:00:a2", "IPs":["fe80::ac0e:e4ff:fe78:237"], "DevID":"sqhma.bnsdq.ozxfs.fkiya.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757702218","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"learner.bnsdq.ozxfs.fkiya.kvugl","Action":"Added"}
+{"TimeStamp":"1757702218","Name":"eth1","HardwareAddr":"ae:2e:7e:a2:74:e0","IPs":["10.0.1.202","fe80::ac2e:7eff:fea2:45"],"DevID":"learner.bnsdq.ozxfs.fkiya.kvugl","Action":"Added"}
+{"TimeStamp":"1757702218","Name":"bluetooth-monitor","DevID":"learner.bnsdq.ozxfs.fkiya.kvugl","Action":"Added"}
+{"TimeStamp":"1757702218","Name":"nflog","DevID":"learner.bnsdq.ozxfs.fkiya.kvugl","Action":"Added"}
+{"TimeStamp":"1757702218","Name":"dbus-system","DevID":"learner.bnsdq.ozxfs.fkiya.kvugl","Action":"Added"}
+{"TimeStamp":"1757702218","Name":"eth0","HardwareAddr":"ea:8b:9c:fe:07:7e","IPs":["172.30.0.88","fe80::e88b:9cff:fefe:1"],"DevID":"learner.bnsdq.ozxfs.fkiya.kvugl","Action":"Added"}
+{"TimeStamp":"1757702218","Name":"docker0","HardwareAddr":"02:42:d2:01:5e:36","IPs":["172.17.0.50","fe80::42:d2ff:fe01:250"],"DevID":"learner.bnsdq.ozxfs.fkiya.kvugl","Action":"Added"}
+{"TimeStamp":"1757702218","Name":"any","DevID":"learner.bnsdq.ozxfs.fkiya.kvugl","Action":"Added"}
+{"TimeStamp":"1757702218","Name":"nfqueue","DevID":"learner.bnsdq.ozxfs.fkiya.kvugl","Action":"Added"}
+{"TimeStamp":"1757702218","Name":"dbus-session","DevID":"learner.bnsdq.ozxfs.fkiya.kvugl","Action":"Added"}
+{"TimeStamp":"1757702818","Name":"veth5b0b2fb","HardwareAddr":"6e:8a:22:b7:b8:57","IPs":["fe80::6c8a:22ff:feb7:214"],"DevID":"learner.bnsdq.ozxfs.fkiya.kvugl","Action":"Added"}

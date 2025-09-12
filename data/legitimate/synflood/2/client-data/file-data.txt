@@ -1,3 +1,7 @@
-{"TimeStamp":"1757201439","Size":["248"],"Location":["/etc/systemd/network/eth1.network"],"Hash":["svhXYNlog/KXVC98H/tzWw=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"snwdm.bnsdq.ozxfs.rzona.blankcanvas"}
-{"TimeStamp":"1757202790","Size":["248"],"Location":["/etc/systemd/network/eth1.network"],"Hash":["svhXYNlog/KXVC98H/tzWw=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"snwdm.bnsdq.ozxfs.rzona.blankcanvas"}
-{"TimeStamp":"1757202790","Size":["117"],"Location":["/etc/systemd/network/eth2.network"],"Hash":["HQfL3deIJc1Ev6kmk8XT4w=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"snwdm.bnsdq.ozxfs.rzona.blankcanvas"}
+{"TimeStamp":"1757696715","Size":["235"],"Location":["/etc/systemd/network/eth0.network"],"Hash":["qLJhyylGkYXigdJ52z8ImA=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"client.bnsdq.ozxfs.rzona.kvugl"}
+{"TimeStamp":"1757696715","Size":["248"],"Location":["/etc/systemd/network/eth1.network"],"Hash":["3o2z1ZnvCPYRStBLTnEDbw=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"client.bnsdq.ozxfs.rzona.kvugl"}
+{"TimeStamp":"1757696715","Size":["117"],"Location":["/etc/systemd/network/eth2.network"],"Hash":["OIuV0JbHLhUOmdqXHesFOw=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"client.bnsdq.ozxfs.rzona.kvugl"}
+{"TimeStamp":"1757697387","Size":["235"],"Location":["/etc/systemd/network/eth0.network"],"Hash":["zxkB/Nw/h3RBGGSUCdy+LQ=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"client.bnsdq.ozxfs.rzona.kvugl"}
+{"TimeStamp":"1757697387","Size":["248"],"Location":["/etc/systemd/network/eth1.network"],"Hash":["CbbGhEigVJvOhN2T/PZudw=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"client.bnsdq.ozxfs.rzona.kvugl"}
+{"TimeStamp":"1757698061","Size":["235"],"Location":["/etc/systemd/network/eth0.network"],"Hash":["zxkB/Nw/h3RBGGSUCdy+LQ=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"client.bnsdq.ozxfs.rzona.kvugl"}
+{"TimeStamp":"1757698061","Size":["248"],"Location":["/etc/systemd/network/eth1.network"],"Hash":["CbbGhEigVJvOhN2T/PZudw=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"client.bnsdq.ozxfs.rzona.kvugl"}
