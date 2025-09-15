@@ -1,2 +1,2 @@
-{"TimeStamp":"1756343213","Size":["1450"],"Location":["/home/blankcanvas/.ssh/authorized_keys"],"Hash":["FG9b3W1gmKMjktCvhdK4Iw=="],"DevID":"attacker.infra.real.spread.blankcanvas"}
-{"TimeStamp":"1756343213","Size":["235"],"Location":["/etc/systemd/network/eth0.network"],"Hash":["zxkB/Nw/h3RBGGSUCdy+LQ=="],"DevID":"attacker.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1757543829","Size":["235"],"Location":["/etc/systemd/network/eth0.network"],"Hash":["a+Uc5tDmq1CWCrgXmvQhZA=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"attacker.bnsdq.ozxfs.owcwb.kvugl"}
+{"TimeStamp":"1757543829","Size":["261"],"Location":["/etc/systemd/network/eth1.network"],"Hash":["Yn5W9HkoytxUgD3oO0ramQ=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"attacker.bnsdq.ozxfs.owcwb.kvugl"}

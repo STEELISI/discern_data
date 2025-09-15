@@ -1,10 +1,10 @@
-{"TimeStamp":"1756424867", "Name":"eth2", "HardwareAddr":"0e:e6:58:92:67:ed", "IPs":["10.0.18.145", "fe80::ce6:58ff:fe92:7"], "DevID":"outlook2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756424867", "Name":"bluetooth-monitor", "DevID":"outlook2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756424867", "Name":"dbus-session", "DevID":"outlook2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756424867", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"outlook2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756424867", "Name":"eth0", "HardwareAddr":"be:7b:4e:c0:5f:76", "IPs":["172.30.0.252", "fe80::bc7b:4eff:fec0:119"], "DevID":"outlook2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756424867", "Name":"eth1", "HardwareAddr":"46:f1:85:09:c3:6c", "IPs":["107.125.128.209", "fe80::44f1:85ff:fe09:242"], "DevID":"outlook2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756424867", "Name":"dbus-system", "DevID":"outlook2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756424867", "Name":"any", "DevID":"outlook2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756424867", "Name":"nflog", "DevID":"outlook2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756424867", "Name":"nfqueue", "DevID":"outlook2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757593510","Name":"eth0","HardwareAddr":"fe:10:a8:34:55:41","IPs":["172.30.0.252","fe80::fc10:a8ff:fe34:91"],"DevID":"outlook2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757593510","Name":"eth1","HardwareAddr":"e6:b0:cb:cf:21:a0","IPs":["107.125.128.209","fe80::e4b0:cbff:fecf:106"],"DevID":"outlook2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757593510","Name":"eth2","HardwareAddr":"f2:48:2f:25:89:90","IPs":["10.0.18.145","fe80::f048:2fff:fe25:67"],"DevID":"outlook2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757593510","Name":"any","DevID":"outlook2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757593510","Name":"nflog","DevID":"outlook2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757593510","Name":"dbus-session","DevID":"outlook2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757593510","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"outlook2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757593510","Name":"bluetooth-monitor","DevID":"outlook2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757593510","Name":"nfqueue","DevID":"outlook2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757593510","Name":"dbus-system","DevID":"outlook2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}

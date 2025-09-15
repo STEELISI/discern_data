@@ -1,7 +1,3 @@
-{"TimeStamp":"1756340984","Size":["1450"],"Location":["/home/blankcanvas/.ssh/authorized_keys"],"Hash":["aNakoUx8jeRpbH4z8/V1lQ=="],"DevID":"attacker.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1756340984","Size":["261"],"Location":["/etc/systemd/network/eth1.network"],"Hash":["WxeGxoXGByQQ47Y3cqgD+g=="],"DevID":"attacker.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1756340984","Size":["49"],"Location":["/etc/systemd/network/eth2.network"],"Hash":["fZk28Z7XuIAC2SvSP4Er9A=="],"DevID":"attacker.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1756341721","Size":["1450"],"Location":["/home/blankcanvas/.ssh/authorized_keys"],"Hash":["Z3YDVcvKBnDtBxoVrepTzg=="],"DevID":"attacker.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1756341721","Size":["65536"],"Location":["/home/blankcanvas/byob/database.db"],"Hash":["yfMizVxDx7wy5RXuyzDICw=="],"DevID":"attacker.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1756341721","Size":["151"],"Location":["/etc/systemd/network/eth0.network"],"Hash":["Z1t33J219N3+vvai7I6LxA=="],"DevID":"attacker.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1756341721","Size":["261"],"Location":["/etc/systemd/network/eth1.network"],"Hash":["qRzdR3XaaYEwoASArLQ3ng=="],"DevID":"attacker.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"1757566837","Size":["261"],"Location":["/etc/systemd/network/eth1.network"],"Hash":["WxeGxoXGByQQ47Y3cqgD+g=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl"}
+{"TimeStamp":"1757567574","Size":["151"],"Location":["/etc/systemd/network/eth0.network"],"Hash":["Z1t33J219N3+vvai7I6LxA=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl"}
+{"TimeStamp":"1757567574","Size":["261"],"Location":["/etc/systemd/network/eth1.network"],"Hash":["WxeGxoXGByQQ47Y3cqgD+g=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl"}

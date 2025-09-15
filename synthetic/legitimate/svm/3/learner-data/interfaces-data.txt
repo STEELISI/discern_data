@@ -1,9 +1,0 @@
-{"TimeStamp":"1756399789", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"learner.infra.real.imgnet.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756399789", "Name":"any", "DevID":"learner.infra.real.imgnet.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756399789", "Name":"bluetooth-monitor", "DevID":"learner.infra.real.imgnet.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756399789", "Name":"dbus-system", "DevID":"learner.infra.real.imgnet.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756399789", "Name":"dbus-session", "DevID":"learner.infra.real.imgnet.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756399789", "Name":"eth0", "HardwareAddr":"e6:c5:06:9e:37:54", "IPs":["172.30.0.88", "fe80::e4c5:6ff:fe9e:161"], "DevID":"learner.infra.real.imgnet.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756399789", "Name":"eth1", "HardwareAddr":"f2:b7:06:30:67:8c", "IPs":["10.0.1.202", "fe80::f0b7:6ff:fe30:155"], "DevID":"learner.infra.real.imgnet.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756399789", "Name":"nflog", "DevID":"learner.infra.real.imgnet.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756399789", "Name":"nfqueue", "DevID":"learner.infra.real.imgnet.blankcanvas", "Action":"Added"}

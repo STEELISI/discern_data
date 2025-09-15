@@ -1,9 +1,9 @@
-{"TimeStamp":"1756415595", "Name":"eth0", "HardwareAddr":"52:dc:21:2c:08:e7", "IPs":["172.30.0.10", "fe80::50dc:21ff:fe2c:138"], "DevID":"attacker.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756415596", "Name":"any", "DevID":"attacker.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756415596", "Name":"bluetooth-monitor", "DevID":"attacker.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756415596", "Name":"dbus-system", "DevID":"attacker.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756415596", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"attacker.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756415596", "Name":"nflog", "DevID":"attacker.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756415596", "Name":"nfqueue", "DevID":"attacker.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756415596", "Name":"dbus-session", "DevID":"attacker.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756415596", "Name":"eth1", "HardwareAddr":"3a:b5:e7:c9:56:fc", "IPs":["10.10.10.241", "fe80::38b5:e7ff:fec9:146"], "DevID":"attacker.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757584189","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"attacker.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584190","Name":"eth0","HardwareAddr":"56:46:8d:62:22:78","IPs":["172.30.0.10","fe80::5446:8dff:fe62:197"],"DevID":"attacker.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584190","Name":"eth1","HardwareAddr":"82:6e:dd:7b:d4:ab","IPs":["10.10.10.241","fe80::806e:ddff:fe7b:222"],"DevID":"attacker.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584190","Name":"bluetooth-monitor","DevID":"attacker.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584190","Name":"dbus-session","DevID":"attacker.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584190","Name":"any","DevID":"attacker.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584190","Name":"nflog","DevID":"attacker.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584190","Name":"nfqueue","DevID":"attacker.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757584190","Name":"dbus-system","DevID":"attacker.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}

@@ -1,5 +1,3 @@
-{"TimeStamp":"1756335811","Size":["3189"],"Location":["/home/blankcanvas/.ssh/authorized_keys"],"Hash":["/flFXU73eQx11P8htjxvwg=="],"DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1756335811","Size":["261"],"Location":["/etc/systemd/network/eth1.network"],"Hash":["mbAqXKtOpj8IdmV7NAyCQQ=="],"DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1756336497","Size":["4928"],"Location":["/home/blankcanvas/.ssh/authorized_keys"],"Hash":["eBs8yCkIDOXBPJrH16IisQ=="],"DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1756336497","Size":["151"],"Location":["/etc/systemd/network/eth0.network"],"Hash":["Z1t33J219N3+vvai7I6LxA=="],"DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1756336497","Size":["261"],"Location":["/etc/systemd/network/eth1.network"],"Hash":["mbAqXKtOpj8IdmV7NAyCQQ=="],"DevID":"compromised.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"1757562324","Size":["235"],"Location":["/etc/systemd/network/eth0.network"],"Hash":["a+Uc5tDmq1CWCrgXmvQhZA=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"compromised.bnsdq.ozxfs.bomyo.kvugl"}
+{"TimeStamp":"1757562324","Size":["261"],"Location":["/etc/systemd/network/eth1.network"],"Hash":["yQCquuzKucCNQlbD2ud8AQ=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"compromised.bnsdq.ozxfs.bomyo.kvugl"}
+{"TimeStamp":"1757562324","Size":["49"],"Location":["/etc/systemd/network/eth2.network"],"Hash":["sw9yypahF1nieWGk9OYY+g=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"compromised.bnsdq.ozxfs.bomyo.kvugl"}

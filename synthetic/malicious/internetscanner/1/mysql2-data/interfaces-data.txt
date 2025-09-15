@@ -1,10 +1,10 @@
-{"TimeStamp":"1756420209", "Name":"eth1", "HardwareAddr":"86:30:0c:0c:93:83", "IPs":["107.125.128.113", "fe80::8430:cff:fe0c:74"], "DevID":"mysql2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420209", "Name":"eth2", "HardwareAddr":"be:04:61:78:30:54", "IPs":["10.0.15.221", "fe80::bc04:61ff:fe78:78"], "DevID":"mysql2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420209", "Name":"any", "DevID":"mysql2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420209", "Name":"bluetooth-monitor", "DevID":"mysql2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420209", "Name":"dbus-system", "DevID":"mysql2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420209", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"mysql2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420209", "Name":"eth0", "HardwareAddr":"c6:52:96:c2:31:80", "IPs":["172.30.0.67", "fe80::c452:96ff:fec2:244"], "DevID":"mysql2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420209", "Name":"nflog", "DevID":"mysql2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420209", "Name":"nfqueue", "DevID":"mysql2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420209", "Name":"dbus-session", "DevID":"mysql2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757588844","Name":"nflog","DevID":"mysql2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757588844","Name":"dbus-system","DevID":"mysql2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757588844","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"mysql2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757588844","Name":"eth0","HardwareAddr":"d2:18:8c:d4:ae:0f","IPs":["172.30.0.67","fe80::d018:8cff:fed4:131"],"DevID":"mysql2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757588844","Name":"eth1","HardwareAddr":"52:d9:ca:68:a1:0f","IPs":["107.125.128.113","fe80::50d9:caff:fe68:153"],"DevID":"mysql2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757588844","Name":"eth2","HardwareAddr":"8a:04:2b:e1:0a:fb","IPs":["10.0.15.221","fe80::8804:2bff:fee1:72"],"DevID":"mysql2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757588844","Name":"any","DevID":"mysql2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757588844","Name":"bluetooth-monitor","DevID":"mysql2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757588844","Name":"nfqueue","DevID":"mysql2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757588844","Name":"dbus-session","DevID":"mysql2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}

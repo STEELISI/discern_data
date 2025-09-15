@@ -1,10 +1,10 @@
-{"TimeStamp":"1756420542", "Name":"bluetooth-monitor", "DevID":"telnet1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420542", "Name":"nfqueue", "DevID":"telnet1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420542", "Name":"dbus-system", "DevID":"telnet1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420542", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"telnet1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420542", "Name":"eth0", "HardwareAddr":"5e:00:e8:76:78:62", "IPs":["172.30.0.153", "fe80::5c00:e8ff:fe76:63"], "DevID":"telnet1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420542", "Name":"eth2", "HardwareAddr":"3e:ed:c7:19:cd:99", "IPs":["10.0.10.163", "fe80::3ced:c7ff:fe19:28"], "DevID":"telnet1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420542", "Name":"dbus-session", "DevID":"telnet1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420542", "Name":"eth1", "HardwareAddr":"86:17:da:91:d3:ef", "IPs":["107.125.128.123", "fe80::8417:daff:fe91:96"], "DevID":"telnet1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420542", "Name":"any", "DevID":"telnet1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420542", "Name":"nflog", "DevID":"telnet1.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757589190","Name":"eth1","HardwareAddr":"22:88:b5:b5:e9:dd","IPs":["107.125.128.123","fe80::2088:b5ff:feb5:107"],"DevID":"telnet1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589191","Name":"eth2","HardwareAddr":"46:d2:25:0b:a6:e0","IPs":["10.0.10.163","fe80::44d2:25ff:fe0b:47"],"DevID":"telnet1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589191","Name":"bluetooth-monitor","DevID":"telnet1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589191","Name":"nflog","DevID":"telnet1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589191","Name":"dbus-session","DevID":"telnet1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589191","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"telnet1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589191","Name":"eth0","HardwareAddr":"fa:ee:bc:4f:dc:de","IPs":["172.30.0.153","fe80::f8ee:bcff:fe4f:255"],"DevID":"telnet1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589191","Name":"dbus-system","DevID":"telnet1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589191","Name":"any","DevID":"telnet1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589191","Name":"nfqueue","DevID":"telnet1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}

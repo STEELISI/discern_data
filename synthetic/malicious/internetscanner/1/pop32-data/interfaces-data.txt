@@ -1,10 +1,10 @@
-{"TimeStamp":"1756420421", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"pop32.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420422", "Name":"eth0", "HardwareAddr":"6a:75:a6:32:79:34", "IPs":["172.30.0.183", "fe80::6875:a6ff:fe32:59"], "DevID":"pop32.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420422", "Name":"eth1", "HardwareAddr":"82:40:5c:cf:a8:a5", "IPs":["107.125.128.48", "fe80::8040:5cff:fecf:91"], "DevID":"pop32.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420422", "Name":"any", "DevID":"pop32.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420422", "Name":"bluetooth-monitor", "DevID":"pop32.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420422", "Name":"nflog", "DevID":"pop32.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420422", "Name":"nfqueue", "DevID":"pop32.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420422", "Name":"dbus-session", "DevID":"pop32.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420422", "Name":"eth2", "HardwareAddr":"8a:92:19:f1:d3:cb", "IPs":["10.0.21.217", "fe80::8892:19ff:fef1:108"], "DevID":"pop32.infra.real.internetscanner.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756420422", "Name":"dbus-system", "DevID":"pop32.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757589056","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"pop32.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589056","Name":"eth0","HardwareAddr":"f2:e0:c2:3d:9f:f6","IPs":["172.30.0.183","fe80::f0e0:c2ff:fe3d:187"],"DevID":"pop32.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589057","Name":"eth1","HardwareAddr":"26:14:7c:2b:66:e4","IPs":["107.125.128.48","fe80::2414:7cff:fe2b:135"],"DevID":"pop32.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589057","Name":"bluetooth-monitor","DevID":"pop32.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589057","Name":"nflog","DevID":"pop32.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589057","Name":"eth2","HardwareAddr":"32:f4:57:80:91:14","IPs":["10.0.21.217","fe80::30f4:57ff:fe80:65"],"DevID":"pop32.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589058","Name":"any","DevID":"pop32.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589058","Name":"nfqueue","DevID":"pop32.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589058","Name":"dbus-system","DevID":"pop32.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1757589058","Name":"dbus-session","DevID":"pop32.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}

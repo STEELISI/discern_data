@@ -1,10 +1,10 @@
-{"TimeStamp":"1756335718", "Name":"any", "DevID":"attacker.infra.real.ransomware.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756335718", "Name":"nflog", "DevID":"attacker.infra.real.ransomware.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756335718", "Name":"dbus-system", "DevID":"attacker.infra.real.ransomware.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756335718", "Name":"dbus-session", "DevID":"attacker.infra.real.ransomware.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756335718", "Name":"eth1", "HardwareAddr":"b2:fa:60:97:ad:28", "IPs":["10.10.10.241", "fe80::b0fa:60ff:fe97:115"], "DevID":"attacker.infra.real.ransomware.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756335718", "Name":"eth0", "HardwareAddr":"ce:16:94:3a:96:7c", "IPs":["172.30.0.10", "fe80::cc16:94ff:fe3a:9"], "DevID":"attacker.infra.real.ransomware.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756335718", "Name":"eth2", "HardwareAddr":"b6:99:0e:08:96:2b", "IPs":["10.0.1.202", "fe80::b499:eff:fe08:40"], "DevID":"attacker.infra.real.ransomware.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756335718", "Name":"bluetooth-monitor", "DevID":"attacker.infra.real.ransomware.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756335718", "Name":"nfqueue", "DevID":"attacker.infra.real.ransomware.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1756335718", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"attacker.infra.real.ransomware.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1757561555","Name":"nfqueue","DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl","Action":"Added"}
+{"TimeStamp":"1757561555","Name":"eth0","HardwareAddr":"e6:41:94:7d:a5:b0","IPs":["172.30.0.10","fe80::e441:94ff:fe7d:46"],"DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl","Action":"Added"}
+{"TimeStamp":"1757561555","Name":"eth1","HardwareAddr":"72:b1:aa:27:c4:de","IPs":["10.10.10.241","fe80::70b1:aaff:fe27:179"],"DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl","Action":"Added"}
+{"TimeStamp":"1757561555","Name":"eth2","HardwareAddr":"d6:ac:63:31:59:58","IPs":["10.0.1.202","fe80::d4ac:63ff:fe31:78"],"DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl","Action":"Added"}
+{"TimeStamp":"1757561555","Name":"any","DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl","Action":"Added"}
+{"TimeStamp":"1757561555","Name":"bluetooth-monitor","DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl","Action":"Added"}
+{"TimeStamp":"1757561555","Name":"nflog","DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl","Action":"Added"}
+{"TimeStamp":"1757561555","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl","Action":"Added"}
+{"TimeStamp":"1757561555","Name":"dbus-system","DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl","Action":"Added"}
+{"TimeStamp":"1757561555","Name":"dbus-session","DevID":"attacker.bnsdq.ozxfs.bomyo.kvugl","Action":"Added"}
