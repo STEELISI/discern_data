@@ -1,6 +1,4 @@
-{"TimeStamp": "1756387203", "Size": ["117"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["p/bvDczhKtqQYA3/pw7QDw=="], "DevID": "cache-victim1.infra.real.dnsmitm-upload.blankcanvas"}
-{"TimeStamp": "1756387203", "Size": ["185"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["oR5XNcwJMO2YbzX4XqVaCA=="], "DevID": "cache-victim1.infra.real.dnsmitm-upload.blankcanvas"}
-{"TimeStamp": "1756387315", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["d7htVe/PO4KYqYyFOh9e8g=="], "DevID": "cache-victim1.infra.real.dnsmitm-upload.blankcanvas"}
-{"TimeStamp": "1756387315", "Size": ["151"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["Z1t33J219N3+vvai7I6LxA=="], "DevID": "cache-victim1.infra.real.dnsmitm-upload.blankcanvas"}
-{"TimeStamp": "1756387315", "Size": ["261"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["QcnQMHbg+yNgwJqoYf1ItQ=="], "DevID": "cache-victim1.infra.real.dnsmitm-upload.blankcanvas"}
-{"TimeStamp": "1756387875", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["HY2SDpDChbEgiy6dWQArZw=="], "DevID": "cache-victim1.infra.real.dnsmitm-upload.blankcanvas"}
+{"TimeStamp": "1757612495", "Size": ["185"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["P9V5nqn/ipJjhVO4hqYWmg=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "cache-victim1.bnsdq.ozxfs.vcwss-vmdrv.kvugl"}
+{"TimeStamp": "1757613173", "Size": ["117"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["+tumuqFfY/rBOMEg8vJdjA=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "cache-victim1.bnsdq.ozxfs.vcwss-vmdrv.kvugl"}
+{"TimeStamp": "1757613173", "Size": ["185"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["oR5XNcwJMO2YbzX4XqVaCA=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "cache-victim1.bnsdq.ozxfs.vcwss-vmdrv.kvugl"}
+{"TimeStamp": "1757613361", "Size": ["261"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["jmZUA3h6rmp+u3UbaXYzvg=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "cache-victim1.bnsdq.ozxfs.vcwss-vmdrv.kvugl"}

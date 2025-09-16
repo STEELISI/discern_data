@@ -1,10 +1,6 @@
-{"TimeStamp": "1756408860", "Size": ["151"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["Z1t33J219N3+vvai7I6LxA=="], "DevID": "attacker.infra.real.synflood-upload.blankcanvas"}
-{"TimeStamp": "1756408860", "Size": ["248"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["0YSNJ75HuyFnFG5+iL7yUw=="], "DevID": "attacker.infra.real.synflood-upload.blankcanvas"}
-{"TimeStamp": "1756408860", "Size": ["117"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["EckXeTOTgUkdKD6fNlNfOw=="], "DevID": "attacker.infra.real.synflood-upload.blankcanvas"}
-{"TimeStamp": "1756409533", "Size": ["151"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["Z1t33J219N3+vvai7I6LxA=="], "DevID": "attacker.infra.real.synflood-upload.blankcanvas"}
-{"TimeStamp": "1756409533", "Size": ["248"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["TAxbH24dXYAYlT4QLC4paw=="], "DevID": "attacker.infra.real.synflood-upload.blankcanvas"}
-{"TimeStamp": "1756409907", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["mBz9xH65Vu+ec0DRZ8p+6w=="], "DevID": "attacker.infra.real.synflood-upload.blankcanvas"}
-{"TimeStamp": "1756410207", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["bERDFbJKuZ9Dfxb5BIWMig=="], "DevID": "attacker.infra.real.synflood-upload.blankcanvas"}
-{"TimeStamp": "1756410207", "Size": ["151"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["Z1t33J219N3+vvai7I6LxA=="], "DevID": "attacker.infra.real.synflood-upload.blankcanvas"}
-{"TimeStamp": "1756410207", "Size": ["248"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["pGwpVp3wRgCa6Llco5pubg=="], "DevID": "attacker.infra.real.synflood-upload.blankcanvas"}
-{"TimeStamp": "1756410207", "Size": ["117"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["DMSoLbZQCJq2tDcxNAv8Sg=="], "DevID": "attacker.infra.real.synflood-upload.blankcanvas"}
+{"TimeStamp": "1757698773", "Size": ["248"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["mSm3ou5vsYjlwjAZmNRGhg=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
+{"TimeStamp": "1757698773", "Size": ["117"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["GBvINGOLXo0Kqvhs/WVeYg=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
+{"TimeStamp": "1757699448", "Size": ["117"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["3yB2d2R2qjyG0wkEL0T7Mw=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
+{"TimeStamp": "1757699984", "Size": ["235"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["qLJhyylGkYXigdJ52z8ImA=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
+{"TimeStamp": "1757699984", "Size": ["49"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["TEy/vYaro9GEDywgjctFSA=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
+{"TimeStamp": "1757700123", "Size": ["117"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["GBvINGOLXo0Kqvhs/WVeYg=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl"}

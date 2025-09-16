@@ -1,3 +1,3 @@
-{"TimeStamp": "1756393604", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["54y0iWHMBmKvFghysJMRPw=="], "DevID": "learner-victim1.infra.real.imgnet-upload.blankcanvas"}
-{"TimeStamp": "1756393604", "Size": ["235"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["a+Uc5tDmq1CWCrgXmvQhZA=="], "DevID": "learner-victim1.infra.real.imgnet-upload.blankcanvas"}
-{"TimeStamp": "1756393621", "Size": ["151"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["Z1t33J219N3+vvai7I6LxA=="], "DevID": "learner-victim1.infra.real.imgnet-upload.blankcanvas"}
+{"TimeStamp": "1757618545", "Size": ["235"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["a+Uc5tDmq1CWCrgXmvQhZA=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "learner-victim1.bnsdq.ozxfs.igokp-vmdrv.kvugl"}
+{"TimeStamp": "1757619222", "Size": ["49"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["LFeZrESLjfPwjMj5n146Xw=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "learner-victim1.bnsdq.ozxfs.igokp-vmdrv.kvugl"}
+{"TimeStamp": "1757619317", "Size": ["151"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["Z1t33J219N3+vvai7I6LxA=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "learner-victim1.bnsdq.ozxfs.igokp-vmdrv.kvugl"}

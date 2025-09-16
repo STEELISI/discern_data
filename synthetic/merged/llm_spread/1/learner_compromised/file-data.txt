@@ -1,2 +1,3 @@
-{"TimeStamp": "1754744426", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["tGzZGqjC7Fh28x50iPbGRA=="], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754744426", "Size": ["235"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["a+Uc5tDmq1CWCrgXmvQhZA=="], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1757704645", "Size": ["49"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["LFeZrESLjfPwjMj5n146Xw=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl"}
+{"TimeStamp": "1757705308", "Size": ["235"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["zxkB/Nw/h3RBGGSUCdy+LQ=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl"}
+{"TimeStamp": "1757705308", "Size": ["49"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["VnCAT7StQjOxgMmrjtf28w=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl"}

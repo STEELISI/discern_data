@@ -1,3 +1,1 @@
-{"TimeStamp": "1756395257", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["zK3soBjhm/KgwyJoKO6CMg=="], "DevID": "learner-compromised.infra.real.imgnet-spread.blankcanvas"}
-{"TimeStamp": "1756396069", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["WyQQZmtnOElqMlMcosdRDA=="], "DevID": "learner-compromised.infra.real.imgnet-spread.blankcanvas"}
-{"TimeStamp": "1756396069", "Size": ["49"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["VnCAT7StQjOxgMmrjtf28w=="], "DevID": "learner-compromised.infra.real.imgnet-spread.blankcanvas"}
+{"TimeStamp": "1757621812", "Size": ["235"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["qLJhyylGkYXigdJ52z8ImA=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "learner-compromised.bnsdq.ozxfs.igokp-owcwb.kvugl"}
