@@ -1,9 +1,9 @@
-{"TimeStamp":"1757194622", "Name":"nflog", "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757194622", "Name":"nfqueue", "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757194622", "Name":"eth1", "HardwareAddr":"a6:7c:96:42:dc:2a", "IPs":["10.0.1.202", "fe80::a47c:96ff:fe42:197"], "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757194622", "Name":"eth0", "HardwareAddr":"8a:57:db:6d:83:1c", "IPs":["172.30.0.88", "fe80::8857:dbff:fe6d:94"], "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757194622", "Name":"any", "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757194622", "Name":"bluetooth-monitor", "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757194622", "Name":"dbus-system", "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757194622", "Name":"dbus-session", "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
-{"TimeStamp":"1757194622", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"sqhma.bnsdq.ozxfs.igokp.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1759295968","Name":"any","DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1759295968","Name":"dbus-session","DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1759295968","Name":"nflog","DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1759295968","Name":"nfqueue","DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1759295968","Name":"dbus-system","DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1759295968","Name":"lo","IPs":["127.0.0.1","::105"],"DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1759295968","Name":"eth0","HardwareAddr":"0e:28:31:79:e1:84","IPs":["172.30.0.220","fe80::c28:31ff:fe79:186"],"DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1759295968","Name":"eth1","HardwareAddr":"8a:24:d7:97:a3:68","IPs":["10.0.1.111","fe80::8824:d7ff:fe97:245"],"DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}
+{"TimeStamp":"1759295968","Name":"bluetooth-monitor","DevID":"learner.bnsdq.ozxfs.igokp.kvugl","Action":"Added"}

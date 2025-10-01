@@ -1,3 +1,5 @@
-{"TimeStamp":"1757549903","Size":["261"],"Location":["/etc/systemd/network/eth1.network"],"Hash":["cvO5rDT3+nB3DVIeO09rPA=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"attacker.bnsdq.ozxfs.vmdrv.kvugl"}
-{"TimeStamp":"1757550596","Size":["151"],"Location":["/etc/systemd/network/eth0.network"],"Hash":["Z1t33J219N3+vvai7I6LxA=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"attacker.bnsdq.ozxfs.vmdrv.kvugl"}
-{"TimeStamp":"1757550596","Size":["261"],"Location":["/etc/systemd/network/eth1.network"],"Hash":["WxeGxoXGByQQ47Y3cqgD+g=="],"Ownership":[{"Owner":"root","Group":"root"}],"DevID":"attacker.bnsdq.ozxfs.vmdrv.kvugl"}
+{"TimeStamp":"1759182064", "Size":["235"], "Location":["/etc/systemd/network/eth0.network"], "Hash":["ToPUM/fJqFLun7DDeAuvdA=="], "Ownership":[{"Owner":"root", "Group":"root"}], "DevID":"attacker.bnsdq.ozxfs.vmdrv.kvugl"}
+{"TimeStamp":"1759182064", "Size":["191"], "Location":["/etc/systemd/network/eth1.network"], "Hash":["fXbo5huP6pXehJCMsHc/Dg=="], "Ownership":[{"Owner":"root", "Group":"root"}], "DevID":"attacker.bnsdq.ozxfs.vmdrv.kvugl"}
+{"TimeStamp":"1759182064", "Size":["117"], "Location":["/etc/systemd/network/eth2.network"], "Hash":["IonZnohWkgYgaBSbc7HcSA=="], "Ownership":[{"Owner":"root", "Group":"root"}], "DevID":"attacker.bnsdq.ozxfs.vmdrv.kvugl"}
+{"TimeStamp":"1759182689", "Size":["191"], "Location":["/etc/systemd/network/eth1.network"], "Hash":["JI48MTrxdbiutQXPSNRB4Q=="], "Ownership":[{"Owner":"root", "Group":"root"}], "DevID":"attacker.bnsdq.ozxfs.vmdrv.kvugl"}
+{"TimeStamp":"1759182689", "Size":["117"], "Location":["/etc/systemd/network/eth2.network"], "Hash":["IifI0gOGGywyx3BOahqrnQ=="], "Ownership":[{"Owner":"root", "Group":"root"}], "DevID":"attacker.bnsdq.ozxfs.vmdrv.kvugl"}
