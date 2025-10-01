@@ -1,0 +1,10 @@
+{"TimeStamp":"1759263053","Name":"eth0","HardwareAddr":"0a:4e:e2:49:4a:c7","IPs":["172.30.0.61","fe80::84e:e2ff:fe49:5"],"DevID":"postgres1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759263053","Name":"eth2","HardwareAddr":"9a:c3:ba:a3:80:96","IPs":["10.0.1.111","fe80::98c3:baff:fea3:240"],"DevID":"postgres1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759263053","Name":"any","DevID":"postgres1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759263053","Name":"bluetooth-monitor","DevID":"postgres1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759263053","Name":"nflog","DevID":"postgres1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759263053","Name":"nfqueue","DevID":"postgres1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759263053","Name":"dbus-session","DevID":"postgres1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759263053","Name":"lo","IPs":["127.0.0.1","::105"],"DevID":"postgres1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759263053","Name":"dbus-system","DevID":"postgres1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759263053","Name":"eth1","HardwareAddr":"66:d7:b6:3c:d5:75","IPs":["107.125.128.150","fe80::64d7:b6ff:fe3c:146"],"DevID":"postgres1.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}

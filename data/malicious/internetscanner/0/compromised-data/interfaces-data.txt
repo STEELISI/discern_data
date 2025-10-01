@@ -1,0 +1,11 @@
+{"TimeStamp":"1759262715","Name":"nfqueue","DevID":"compromised.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759262715","Name":"eth1","HardwareAddr":"46:5d:b9:18:e1:a1","IPs":["10.10.10.68","fe80::445d:b9ff:fe18:237"],"DevID":"compromised.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759262715","Name":"eth2","HardwareAddr":"22:8e:dd:51:2d:45","IPs":["192.168.86.17","fe80::208e:ddff:fe51:66"],"DevID":"compromised.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759262715","Name":"eth3","HardwareAddr":"d6:f7:14:a6:71:b4","IPs":["10.0.28.148","fe80::d4f7:14ff:fea6:67"],"DevID":"compromised.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759262715","Name":"any","DevID":"compromised.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759262715","Name":"nflog","DevID":"compromised.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759262715","Name":"lo","IPs":["127.0.0.1","::105"],"DevID":"compromised.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759262715","Name":"eth0","HardwareAddr":"aa:cd:c5:d6:c6:c4","IPs":["172.30.0.220","fe80::a8cd:c5ff:fed6:113"],"DevID":"compromised.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759262715","Name":"bluetooth-monitor","DevID":"compromised.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759262715","Name":"dbus-system","DevID":"compromised.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759262715","Name":"dbus-session","DevID":"compromised.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}

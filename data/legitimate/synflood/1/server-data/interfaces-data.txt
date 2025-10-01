@@ -1,0 +1,10 @@
+{"TimeStamp":"1759301975","Name":"lo","IPs":["127.0.0.1","::105"],"DevID":"server.bnsdq.ozxfs.rzona.kvugl","Action":"Added"}
+{"TimeStamp":"1759301975","Name":"eth0","HardwareAddr":"7a:34:8a:81:52:b8","IPs":["172.30.0.89","fe80::7834:8aff:fe81:156"],"DevID":"server.bnsdq.ozxfs.rzona.kvugl","Action":"Added"}
+{"TimeStamp":"1759301975","Name":"eth1","HardwareAddr":"aa:97:bc:90:da:3a","IPs":["5.6.7.72","fe80::a897:bcff:fe90:7"],"DevID":"server.bnsdq.ozxfs.rzona.kvugl","Action":"Added"}
+{"TimeStamp":"1759301975","Name":"any","DevID":"server.bnsdq.ozxfs.rzona.kvugl","Action":"Added"}
+{"TimeStamp":"1759301975","Name":"bluetooth-monitor","DevID":"server.bnsdq.ozxfs.rzona.kvugl","Action":"Added"}
+{"TimeStamp":"1759301975","Name":"nflog","DevID":"server.bnsdq.ozxfs.rzona.kvugl","Action":"Added"}
+{"TimeStamp":"1759301975","Name":"nfqueue","DevID":"server.bnsdq.ozxfs.rzona.kvugl","Action":"Added"}
+{"TimeStamp":"1759301975","Name":"eth2","HardwareAddr":"16:26:9c:d7:91:eb","IPs":["10.0.4.167","fe80::1426:9cff:fed7:121"],"DevID":"server.bnsdq.ozxfs.rzona.kvugl","Action":"Added"}
+{"TimeStamp":"1759301975","Name":"dbus-system","DevID":"server.bnsdq.ozxfs.rzona.kvugl","Action":"Added"}
+{"TimeStamp":"1759301975","Name":"dbus-session","DevID":"server.bnsdq.ozxfs.rzona.kvugl","Action":"Added"}

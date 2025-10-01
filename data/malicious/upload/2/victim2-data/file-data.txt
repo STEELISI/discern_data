@@ -1,0 +1,4 @@
+{"TimeStamp":"1759182136", "Size":["235"], "Location":["/etc/systemd/network/eth0.network"], "Hash":["ToPUM/fJqFLun7DDeAuvdA=="], "Ownership":[{"Owner":"root", "Group":"root"}], "DevID":"victim2.bnsdq.ozxfs.vmdrv.kvugl"}
+{"TimeStamp":"1759182136", "Size":["261"], "Location":["/etc/systemd/network/eth1.network"], "Hash":["mHbj+mnc4PYK+xkBhy9IVw=="], "Ownership":[{"Owner":"root", "Group":"root"}], "DevID":"victim2.bnsdq.ozxfs.vmdrv.kvugl"}
+{"TimeStamp":"1759182758", "Size":["151"], "Location":["/etc/systemd/network/eth0.network"], "Hash":["QvN54Zf4z/onIW/NsK/9hQ=="], "Ownership":[{"Owner":"root", "Group":"root"}], "DevID":"victim2.bnsdq.ozxfs.vmdrv.kvugl"}
+{"TimeStamp":"1759182758", "Size":["261"], "Location":["/etc/systemd/network/eth1.network"], "Hash":["1snInqc/qYwq9scMU51nxQ=="], "Ownership":[{"Owner":"root", "Group":"root"}], "DevID":"victim2.bnsdq.ozxfs.vmdrv.kvugl"}

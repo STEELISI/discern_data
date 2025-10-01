@@ -1,0 +1,11 @@
+{"TimeStamp":"1759262852","Name":"dbus-session","DevID":"mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759262852","Name":"eth2","HardwareAddr":"72:26:09:48:70:bb","IPs":["10.0.25.153","fe80::7026:9ff:fe48:70"],"DevID":"mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759262852","Name":"bluetooth-monitor","DevID":"mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759262852","Name":"eth1","HardwareAddr":"42:46:df:a1:02:32","IPs":["107.125.128.128","fe80::4046:dfff:fea1:72"],"DevID":"mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759262852","Name":"docker0","HardwareAddr":"02:42:09:9e:46:54","IPs":["172.17.0.207","fe80::42:9ff:fe9e:209"],"DevID":"mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759262852","Name":"any","DevID":"mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759262852","Name":"nflog","DevID":"mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759262852","Name":"nfqueue","DevID":"mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759262852","Name":"dbus-system","DevID":"mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759262852","Name":"lo","IPs":["127.0.0.1","::105"],"DevID":"mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
+{"TimeStamp":"1759262852","Name":"eth0","HardwareAddr":"86:cf:4e:9d:32:1f","IPs":["172.30.0.165","fe80::84cf:4eff:fe9d:143"],"DevID":"mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl","Action":"Added"}
