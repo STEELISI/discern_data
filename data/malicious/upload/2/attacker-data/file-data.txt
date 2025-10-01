@@ -1,5 +1,0 @@
-{"TimeStamp":"1759182064", "Size":["235"], "Location":["/etc/systemd/network/eth0.network"], "Hash":["ToPUM/fJqFLun7DDeAuvdA=="], "Ownership":[{"Owner":"root", "Group":"root"}], "DevID":"attacker.bnsdq.ozxfs.vmdrv.kvugl"}
-{"TimeStamp":"1759182064", "Size":["191"], "Location":["/etc/systemd/network/eth1.network"], "Hash":["fXbo5huP6pXehJCMsHc/Dg=="], "Ownership":[{"Owner":"root", "Group":"root"}], "DevID":"attacker.bnsdq.ozxfs.vmdrv.kvugl"}
-{"TimeStamp":"1759182064", "Size":["117"], "Location":["/etc/systemd/network/eth2.network"], "Hash":["IonZnohWkgYgaBSbc7HcSA=="], "Ownership":[{"Owner":"root", "Group":"root"}], "DevID":"attacker.bnsdq.ozxfs.vmdrv.kvugl"}
-{"TimeStamp":"1759182689", "Size":["191"], "Location":["/etc/systemd/network/eth1.network"], "Hash":["JI48MTrxdbiutQXPSNRB4Q=="], "Ownership":[{"Owner":"root", "Group":"root"}], "DevID":"attacker.bnsdq.ozxfs.vmdrv.kvugl"}
-{"TimeStamp":"1759182689", "Size":["117"], "Location":["/etc/systemd/network/eth2.network"], "Hash":["IifI0gOGGywyx3BOahqrnQ=="], "Ownership":[{"Owner":"root", "Group":"root"}], "DevID":"attacker.bnsdq.ozxfs.vmdrv.kvugl"}
