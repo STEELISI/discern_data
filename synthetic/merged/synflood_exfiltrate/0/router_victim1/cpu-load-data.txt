@@ -1,332 +1,331 @@
-{"TimeStamp": "1759299866", "Load": [3.999999999996362], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299872", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299878", "Load": [3.0303030302995504], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299884", "Load": [4.040404040401257], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299890", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299896", "Load": [20.99999999999227], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299902", "Load": [3.999999999996362], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299908", "Load": [6.000000000005912], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299914", "Load": [14.851485148515017], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299920", "Load": [3.0303030303009426], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299926", "Load": [7.999999999998408], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299932", "Load": [99.9999999999707], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299938", "Load": [99.99999999999409], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299944", "Load": [100], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299950", "Load": [100], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299956", "Load": [100], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299962", "Load": [100], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299968", "Load": [99.99999999997607], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299974", "Load": [10.000000000006821], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299980", "Load": [9.999999999990905], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299986", "Load": [14.999999999997726], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299992", "Load": [14.999999999997726], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759299998", "Load": [3.999999999996362], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300004", "Load": [1.0101010101003143], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300010", "Load": [15.8415841584164], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300016", "Load": [4.950495049510635], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300022", "Load": [15.151515151527677], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300028", "Load": [3.0303030303009426], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300034", "Load": [6.0606060606133685], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300040", "Load": [1.980198019806271], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300046", "Load": [3.0303030303066842], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300052", "Load": [3.0303030302995504], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300058", "Load": [16.000000000004093], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300064", "Load": [6.999999999999318], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300070", "Load": [14.999999999997726], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300076", "Load": [8.080808080810286], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300082", "Load": [7.142857142865429], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300088", "Load": [14.73684210525856], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300094", "Load": [26.99999999999818], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300100", "Load": [8.421052631574852], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300106", "Load": [10.476190476199912], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300112", "Load": [18.36734693877859], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300118", "Load": [8.080808080810286], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300124", "Load": [4.081632653067143], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300130", "Load": [23.529411764707195], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300136", "Load": [7.142857142853829], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300142", "Load": [4.123711340209145], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300148", "Load": [19.191919191908635], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300154", "Load": [6.185567010307889], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300160", "Load": [12.121212121209512], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300166", "Load": [27.27272727273145], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300172", "Load": [6.122448979591955], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300178", "Load": [3.1249999999970397], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300184", "Load": [12.5], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300190", "Load": [7.291666666662226], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300196", "Load": [19.387755102037026], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300202", "Load": [17.17171717171468], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300208", "Load": [15.463917525774043], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300214", "Load": [12.121212121215255], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300220", "Load": [7.29166666666568], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300226", "Load": [23.762376237619527], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300232", "Load": [16.666666666654827], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300238", "Load": [9.09090909091431], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300244", "Load": [14.432989690723218], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300250", "Load": [17.142857142860237], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300256", "Load": [7.216494845364087], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300262", "Load": [19.191919191908635], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300268", "Load": [22.4489795918391], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300274", "Load": [3.1249999999985194], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300280", "Load": [4.081632653061343], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300286", "Load": [16.666666666666664], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300292", "Load": [9.183673469390833], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300298", "Load": [2.0833333333313595], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300298", "Load": [22.00000000000273], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300304", "Load": [24.27184466019466], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300310", "Load": [19.222840651413037], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300316", "Load": [6.060606060604843], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300322", "Load": [6.060606060601885], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300328", "Load": [7.999999999997499], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300334", "Load": [12.99999999999659], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300340", "Load": [22.448979591833304], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300346", "Load": [34.34343434342802], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300352", "Load": [16.080808080820063], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300358", "Load": [14.999999999997726], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300364", "Load": [30.61543267728551], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300370", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300376", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300382", "Load": [100], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300388", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300394", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300400", "Load": [99.99999999998737], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300406", "Load": [13.10101010101294], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300412", "Load": [15.841584158409267], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300418", "Load": [16.00000000000614], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300424", "Load": [6.030303030307523], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300430", "Load": [19.151515151512555], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300436", "Load": [7.999999999998408], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300442", "Load": [9.90099009901787], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300448", "Load": [23.6804123711406], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300454", "Load": [11.99999999999477], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300460", "Load": [6.030303030297518], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300466", "Load": [29.00000000000273], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300472", "Load": [21.034552434844464], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300478", "Load": [18.03030303029955], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300484", "Load": [26.36734693879428], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300490", "Load": [19.151515151519515], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300496", "Load": [17.000000000007276], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300502", "Load": [22.222222222224776], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300508", "Load": [31.999999999995453], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300514", "Load": [5.940594059407556], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300520", "Load": [28.265306122454426], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300526", "Load": [49.564956495650094], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300532", "Load": [2.0408163265277715], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300538", "Load": [26.26262626262487], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300544", "Load": [20.999999999996362], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300550", "Load": [14.141414141415881], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300556", "Load": [14.111111111107107], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300562", "Load": [7.000000000010687], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300568", "Load": [12.000000000000455], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300574", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300580", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300586", "Load": [100], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300592", "Load": [25.78217821782836], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300598", "Load": [30.821782178214193], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300604", "Load": [18.999999999998636], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300610", "Load": [9.030303030311204], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300616", "Load": [28.940594059409374], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300622", "Load": [14.141414141415881], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300628", "Load": [9.960396039618454], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300634", "Load": [16.161616161609086], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300640", "Load": [29.999999999995453], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300647", "Load": [3.999999999996362], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300653", "Load": [28.851485148513653], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300659", "Load": [14.141414141417446], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300665", "Load": [9.960396039609204], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300671", "Load": [20.000000000004547], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300677", "Load": [27.99999999999727], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300683", "Load": [7.030303030302293], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300689", "Load": [13.131313131309536], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300695", "Load": [18.346938775512847], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300701", "Load": [15.244897959189707], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300707", "Load": [8.999999999997499], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300713", "Load": [27.030303030307536], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300719", "Load": [16.131313131322614], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300725", "Load": [25], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300731", "Load": [5.071119356835461], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300737", "Load": [3.999999999996362], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300743", "Load": [14.141414141412634], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300749", "Load": [17.346938775510203], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300755", "Load": [13.402061855660255], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300761", "Load": [30.080808080813014], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300767", "Load": [6.091527520098428], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300773", "Load": [15.01010101009895], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300779", "Load": [24.08080808079774], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300785", "Load": [21.821782178222264], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300791", "Load": [13.131313131315567], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300797", "Load": [38.40816326531095], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300803", "Load": [7.030303030297304], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300809", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300815", "Load": [18.181818181824095], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300821", "Load": [21.000000000002956], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300827", "Load": [4.040404040405143], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300833", "Load": [22.999999999996135], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300839", "Load": [7.960396039601548], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300845", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300851", "Load": [8.163265306120675], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300857", "Load": [34.19191919192666], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300863", "Load": [16.08080808080085], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300869", "Load": [24.387755102043634], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300875", "Load": [19.05050505049384], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300881", "Load": [20.346320346325996], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300887", "Load": [7.0303030303029885], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300893", "Load": [19.99999999999318], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300899", "Load": [30.84158415842399], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300905", "Load": [23.191919191906816], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300911", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300917", "Load": [19.111911191117482], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300923", "Load": [6.000000000000227], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300929", "Load": [15.141414141408477], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300935", "Load": [9.040404040400176], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300941", "Load": [8.080808080806863], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300947", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300953", "Load": [21.030303030301624], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300959", "Load": [16.161616161615118], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300965", "Load": [22.08080808081263], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300971", "Load": [6.960396039598557], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300977", "Load": [29.26530612246237], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300983", "Load": [17.08080808080001], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300989", "Load": [22.367346938783598], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759300995", "Load": [14.141414141415417], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301001", "Load": [34.34343434343365], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301007", "Load": [10.000000000013642], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301013", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301019", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301025", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301031", "Load": [5.999999999994543], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301037", "Load": [50.8217821782324], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301043", "Load": [10.873440285205664], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301049", "Load": [1.000000000010914], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301055", "Load": [13.031303130309862], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301061", "Load": [6.060606060610585], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301067", "Load": [13.861386138609516], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301073", "Load": [21.882188218812775], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301079", "Load": [6.06060606061911], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301085", "Load": [0.9999999999986359], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301091", "Load": [11.060606060617406], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301097", "Load": [30.34693877550525], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301103", "Load": [33.24489795918755], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301109", "Load": [21.52577319586383], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301115", "Load": [30.000000000003183], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301121", "Load": [18.47368421052898], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301127", "Load": [15.92159215921102], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301133", "Load": [3.0927835051627346], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301139", "Load": [60.450980392157675], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301145", "Load": [24.438260152551017], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301151", "Load": [12.35755651036223], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301157", "Load": [26.12121212120877], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301163", "Load": [15.259773400027964], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301169", "Load": [4.123711340203286], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301175", "Load": [32.828282828275746], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301181", "Load": [36.32653061222922], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301187", "Load": [2.1052631578922174], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301193", "Load": [15.151515151516197], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301199", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301205", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301211", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301217", "Load": [37.967914438496706], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301223", "Load": [35.6318284889432], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301229", "Load": [9.225806451612343], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301235", "Load": [28.17171717171819], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301241", "Load": [23.18481848183878], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301247", "Load": [11.844737895168745], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301253", "Load": [28.463917525763556], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301259", "Load": [47.84382284383504], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301265", "Load": [10.173160173172114], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301271", "Load": [5.05050505049693], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301277", "Load": [21.525773195881236], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301283", "Load": [6.060606060609018], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301289", "Load": [14.87148714870983], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301295", "Load": [23.00000000000182], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301301", "Load": [7.070707070706085], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301307", "Load": [0.9999999999990905], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301313", "Load": [10.03030303030026], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301319", "Load": [22.910891089108773], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301325", "Load": [20.387755102045116], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301331", "Load": [25.82178217821311], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301337", "Load": [25.00000000001637], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301343", "Load": [16.16161616160503], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301349", "Load": [7.030303030308788], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301355", "Load": [14.265306122446434], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301361", "Load": [35.353535353545446], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301367", "Load": [16.161616161622252], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301373", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301379", "Load": [30.00300030003121], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301385", "Load": [10.930693069314252], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301391", "Load": [0.9999999999990905], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301397", "Load": [19.03030303031942], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301403", "Load": [32.41747572813591], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301409", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301415", "Load": [11.960396039605266], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301421", "Load": [19.999999999987494], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301427", "Load": [9.900990099007673], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301433", "Load": [17.03030303029321], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301439", "Load": [50.74257425739677], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301445", "Load": [44.9108910891115], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301451", "Load": [7.070707070709043], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301457", "Load": [14.000000000005002], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301463", "Load": [22.912291229130958], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301469", "Load": [12.030303030289973], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301475", "Load": [14.999999999997726], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301481", "Load": [15.306122448981485], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301487", "Load": [3.0303030303009426], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301493", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301499", "Load": [2.999999999994543], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301505", "Load": [7.000000000005002], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301511", "Load": [10.101010101005345], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301517", "Load": [15.841584158406258], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301523", "Load": [13.999999999998636], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301529", "Load": [9.000000000003183], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301535", "Load": [3.00000000000864], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301541", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301547", "Load": [16.999999999995907], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301553", "Load": [16.83168316830914], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301559", "Load": [0.9900990098998755], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301565", "Load": [15.151515151504713], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301571", "Load": [3], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301577", "Load": [0.9999999999990905], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301583", "Load": [4.000000000007731], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301589", "Load": [15.151515151516195], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301595", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301601", "Load": [3.0000000000059117], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301607", "Load": [6.060606060601885], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301613", "Load": [3.999999999996362], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301619", "Load": [3.030303030312426], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301625", "Load": [25], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301631", "Load": [8.000000000004093], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301637", "Load": [5.050505050513054], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301643", "Load": [13.131313131314986], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301649", "Load": [13.999999999998636], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301655", "Load": [2.9999999999972715], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301661", "Load": [14.141414141415881], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301667", "Load": [14.141414141427363], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301673", "Load": [6.000000000005912], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301679", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301685", "Load": [13.861386138621997], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301692", "Load": [3.960396039614325], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301698", "Load": [16.66666666668153], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301704", "Load": [5.1020408163241635], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301710", "Load": [4.000000000007731], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301716", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301722", "Load": [4.950495049503837], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301728", "Load": [3.999999999996362], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301734", "Load": [15.151515151516195], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301740", "Load": [3.0303030303009426], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301746", "Load": [15.84158415842353], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301752", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301758", "Load": [2.0408163265277715], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301764", "Load": [13.131313131327053], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301770", "Load": [20.408163265289314], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301776", "Load": [3.0303030303009426], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301782", "Load": [13.131313131315567], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301788", "Load": [7.142857142865429], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301794", "Load": [3.960396039614325], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301800", "Load": [1.9801980198127906], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301806", "Load": [24.00000000000091], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301812", "Load": [3.999999999996362], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301818", "Load": [99.99999999995359], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301824", "Load": [99.99999999993953], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301830", "Load": [99.999999999942], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301836", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301842", "Load": [16.8316831683204], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
-{"TimeStamp": "1759301848", "Load": [11.000000000001364], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl"}
+{"TimeStamp": "1759299866", "Load": [3.999999999996362], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299872", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299878", "Load": [3.0303030302995504], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299884", "Load": [4.040404040401257], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299890", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299896", "Load": [20.99999999999227], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299902", "Load": [3.999999999996362], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299908", "Load": [6.000000000005912], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299914", "Load": [14.851485148515017], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299920", "Load": [3.0303030303009426], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299926", "Load": [7.999999999998408], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299932", "Load": [99.9999999999707], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299938", "Load": [99.99999999999409], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299944", "Load": [100], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299950", "Load": [100], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299956", "Load": [100], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299962", "Load": [100], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299968", "Load": [99.99999999997607], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299974", "Load": [10.000000000006821], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299980", "Load": [9.999999999990905], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299986", "Load": [14.999999999997726], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299992", "Load": [14.999999999997726], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759299998", "Load": [3.999999999996362], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759300004", "Load": [1.0101010101003143], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759300010", "Load": [15.8415841584164], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759300016", "Load": [4.950495049510635], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759300022", "Load": [15.151515151527677], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759300028", "Load": [3.0303030303009426], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759300034", "Load": [6.0606060606133685], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759300040", "Load": [1.980198019806271], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759300046", "Load": [3.0303030303066842], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759300052", "Load": [3.0303030302995504], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759300058", "Load": [16.000000000004093], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759300064", "Load": [6.999999999999318], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759300070", "Load": [14.999999999997726], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759300073", "Load": [22.00000000000273], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300077", "Load": [8.080808080810286], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300083", "Load": [23.30447330448397], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300089", "Load": [20.797448165863404], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300095", "Load": [26.99999999999818], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300101", "Load": [12.42105263157599], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300107", "Load": [23.4761904761965], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300113", "Load": [25.510204081634903], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300119", "Load": [27.27272727272907], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300125", "Load": [12.08163265307692], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300131", "Load": [33.529411764709465], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300137", "Load": [22.606774668630106], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300143", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300149", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300155", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300161", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300167", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300174", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300180", "Load": [6.124999999999996], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300186", "Load": [12.5], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300192", "Load": [23.291666666668366], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300198", "Load": [22.418058132337272], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300204", "Load": [32.323232323230876], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300210", "Load": [23.46391752577245], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300216", "Load": [17.07170717072249], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300222", "Load": [8.29166666666477], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300228", "Load": [26.7623762376168], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300234", "Load": [19.696969696955072], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300240", "Load": [24.090909090912035], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300246", "Load": [27.30427681944701], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300252", "Load": [32.14285714286024], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300258", "Load": [15.21649484536818], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300264", "Load": [23.191919191904997], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300270", "Load": [35.44897959183865], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300276", "Load": [25.347222222223294], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300282", "Load": [21.081632653059067], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300288", "Load": [18.646864686467307], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300294", "Load": [24.183673469390833], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300300", "Load": [48.617986798676164], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300306", "Load": [24.27184466019466], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300312", "Load": [28.31374974231952], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300318", "Load": [17.99999999999909], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300324", "Load": [6.060606060601885], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300330", "Load": [6.9999999999936335], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300336", "Load": [4.000000000002046], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300342", "Load": [16.30612244897608], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300348", "Load": [25.151515151503553], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300354", "Load": [26.26262626262899], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300360", "Load": [4.9999999999954525], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300366", "Load": [19.151515151512193], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300372", "Load": [27.14141414140893], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300378", "Load": [22.99999999999318], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300384", "Load": [6.000000000005912], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300390", "Load": [43.202020202021785], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300396", "Load": [20.141414141418835], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300402", "Load": [3.960396039612542], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300408", "Load": [10.101010101009985], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300414", "Load": [30.841584158406995], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300420", "Load": [2.9999999999972715], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300426", "Load": [17.00000000000591], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300432", "Load": [9.050505050503673], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300438", "Load": [3.960396039606022], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300444", "Load": [5.950495049509725], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300450", "Load": [25.680412371138782], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300456", "Load": [12.030303030297745], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300462", "Load": [16.131313131306808], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300468", "Load": [15.000000000004093], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300474", "Load": [20.408163265307422], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300480", "Load": [12.030303030297048], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300486", "Load": [21.39764996909113], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300492", "Load": [28.282828282841443], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300498", "Load": [29.00000000000773], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300504", "Load": [2.0408163265345185], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300510", "Load": [14.999999999997726], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300516", "Load": [18.101810181019548], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300522", "Load": [15.306122448988944], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300528", "Load": [3.030303030305292], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300534", "Load": [24.0408163265305], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300540", "Load": [4.071325499898728], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300546", "Load": [4.010101010097586], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300552", "Load": [30.141414141411108], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300558", "Load": [15.111111111106197], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300564", "Load": [16.131313131324205], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300570", "Load": [31.408163265305948], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300576", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300582", "Load": [99.99999999999409], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300588", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300594", "Load": [26.782178217824267], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300600", "Load": [21.86218621861979], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300606", "Load": [30.999999999995225], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300612", "Load": [7.030303030307339], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300618", "Load": [5.940594059407556], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300624", "Load": [4.081632653063237], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300630", "Load": [21.000000000003638], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300636", "Load": [24.161616161611132], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300642", "Load": [34.38775510203795], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300648", "Load": [6.050505050500661], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300654", "Load": [29.137199434227647], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300660", "Load": [13.09090909091218], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300666", "Load": [7.000000000002274], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300672", "Load": [34.84158415842035], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300678", "Load": [44.19191919190864], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300684", "Load": [4.000000000002046], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300690", "Load": [3.9603960396012856], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300696", "Load": [20.346938775516712], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300702", "Load": [4.000000000002046], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300708", "Load": [4.040404040406998], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300714", "Load": [27.030303030311885], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300720", "Load": [3.00000000000432], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300726", "Load": [18.000000000000682], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300732", "Load": [16.16161616161651], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300738", "Load": [12.080808080810359], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300744", "Load": [3.9603960396012856], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300750", "Load": [31.306122448978186], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300756", "Load": [22.402061855657756], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300762", "Load": [26.448155019586153], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300768", "Load": [4.040404040399401], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300774", "Load": [28.141414141414515], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300780", "Load": [13.080808080809335], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300786", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300792", "Load": [99.99999999999382], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300798", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300804", "Load": [9.999999999990905], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300810", "Load": [17.8217821782283], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300816", "Load": [22.994652406429267], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300822", "Load": [16.000000000004093], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300828", "Load": [8.080808080808255], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300834", "Load": [6.030303030296822], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300840", "Load": [17.82178217820902], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300846", "Load": [5.050505050507312], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300852", "Load": [7.111935683364121], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300858", "Load": [19.191919191928935], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300864", "Load": [13.080808080805623], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300870", "Load": [18.000000000002956], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300876", "Load": [34.99999999999591], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300882", "Load": [10.06060606060973], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300888", "Load": [16.030303030300487], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300894", "Load": [27.999999999991587], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300900", "Load": [19.04040404041035], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300906", "Load": [3.9999999999981806], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300912", "Load": [33.00000000000409], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300918", "Load": [20.20202020202119], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300924", "Load": [4.980198019797914], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300930", "Load": [28.141414141414387], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300936", "Load": [9.950495049506042], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300942", "Load": [5.05050505050157], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300948", "Load": [16.161616161609086], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300954", "Load": [23.030303030296395], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300960", "Load": [3.0303030302995504], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300966", "Load": [17.030303030299578], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300972", "Load": [11.080808080811268], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300978", "Load": [21.26530612246396], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300984", "Load": [11.08080808080547], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300990", "Load": [28.242424242427102], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759300996", "Load": [21.212121212110656], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301002", "Load": [26.202020202017994], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301008", "Load": [16.000000000008185], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301014", "Load": [15.851485148508482], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301020", "Load": [18.20243248815509], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301026", "Load": [16.030303030300487], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301032", "Load": [15.151515151523153], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301038", "Load": [36.030303030310776], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301044", "Load": [3.0303030302995504], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301050", "Load": [5.00000000001296], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301056", "Load": [7.9807980798096825], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301062", "Load": [16.89168916892055], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301068", "Load": [4.9999999999954525], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301074", "Load": [20.872087208710607], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301080", "Load": [3.030303030312426], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301086", "Load": [7.999999999997954], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301092", "Load": [20.06060606060922], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301098", "Load": [36.734693877551734], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301104", "Load": [20.244897959188002], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301110", "Load": [31.52577319587247], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301116", "Load": [25.08080808080615], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301122", "Load": [13.473684210527843], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301128", "Load": [12.881188118814084], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301134", "Load": [31.375611787994497], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301140", "Load": [34.52168746286153], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301146", "Load": [19.387755102046025], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301152", "Load": [25.228843639076604], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301158", "Load": [16.121212121207634], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301164", "Load": [10.3092783505151], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301170", "Load": [20.123711340213063], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301176", "Load": [29.66666666666621], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301182", "Load": [16.326530612233768], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301188", "Load": [6.065659197504759], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301194", "Load": [18.121212121215482], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301200", "Load": [100], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301206", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301212", "Load": [100.0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301218", "Load": [22.636381285187475], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301224", "Load": [31.591424448558996], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301230", "Load": [17.225806451617117], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301236", "Load": [24.24242424242726], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301242", "Load": [17.3333333333212], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301248", "Load": [24.803921568631953], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 1}
+{"TimeStamp": "1759301259", "Load": [32.69230769231189], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301265", "Load": [7.142857142865429], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301271", "Load": [5.05050505049693], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301277", "Load": [17.52577319587919], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301283", "Load": [3.0303030303009426], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301289", "Load": [1.0101010101003143], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301295", "Load": [18.000000000006366], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301301", "Load": [3.0303030303009426], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301307", "Load": [0.9999999999990905], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301313", "Load": [3.0303030303009426], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301319", "Load": [8.910891089110137], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301325", "Load": [0.9999999999990905], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301331", "Load": [17.821782178209016], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301337", "Load": [11.000000000011369], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301343", "Load": [8.080808080802514], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301349", "Load": [3.030303030312426], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301355", "Load": [13.265306122442114], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301361", "Load": [7.070707070713682], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301367", "Load": [9.09090909091431], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301373", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301379", "Load": [15.151515151516195], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301385", "Load": [6.930693069310386], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301391", "Load": [0.9999999999990905], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301397", "Load": [3.0303030303096423], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301403", "Load": [19.41747572813637], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301409", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301415", "Load": [7.999999999992724], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301421", "Load": [13.999999999987267], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301427", "Load": [9.900990099007673], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301433", "Load": [3.0303030303009426], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301439", "Load": [25.742574257396768], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301445", "Load": [36.000000000001364], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301451", "Load": [3.0303030302981586], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301457", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301463", "Load": [15.841584158420522], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301469", "Load": [3.0303030302981586], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301475", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301481", "Load": [15.306122448981485], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301487", "Load": [3.0303030303009426], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301493", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301499", "Load": [2.999999999994543], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301505", "Load": [7.000000000005002], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301511", "Load": [10.101010101005345], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301517", "Load": [15.841584158406258], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301523", "Load": [13.999999999998636], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301529", "Load": [9.000000000003183], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301535", "Load": [3.00000000000864], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301541", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301547", "Load": [16.999999999995907], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301553", "Load": [16.83168316830914], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301559", "Load": [0.9900990098998755], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301565", "Load": [15.151515151504713], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301571", "Load": [3], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301577", "Load": [0.9999999999990905], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301583", "Load": [4.000000000007731], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301589", "Load": [15.151515151516195], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301595", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301601", "Load": [3.0000000000059117], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301607", "Load": [6.060606060601885], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301613", "Load": [3.999999999996362], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301619", "Load": [3.030303030312426], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301625", "Load": [25], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301631", "Load": [8.000000000004093], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301637", "Load": [5.050505050513054], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301643", "Load": [13.131313131314986], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301649", "Load": [13.999999999998636], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301655", "Load": [2.9999999999972715], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301661", "Load": [14.141414141415881], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301667", "Load": [14.141414141427363], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301673", "Load": [6.000000000005912], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301679", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301685", "Load": [13.861386138621997], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301692", "Load": [3.960396039614325], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301698", "Load": [16.66666666668153], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301704", "Load": [5.1020408163241635], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301710", "Load": [4.000000000007731], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301716", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301722", "Load": [4.950495049503837], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301728", "Load": [3.999999999996362], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301734", "Load": [15.151515151516195], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301740", "Load": [3.0303030303009426], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301746", "Load": [15.84158415842353], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301752", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301758", "Load": [2.0408163265277715], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301764", "Load": [13.131313131327053], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301770", "Load": [20.408163265289314], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301776", "Load": [3.0303030303009426], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301782", "Load": [13.131313131315567], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301788", "Load": [7.142857142865429], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301794", "Load": [3.960396039614325], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301800", "Load": [1.9801980198127906], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301806", "Load": [24.00000000000091], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301812", "Load": [3.999999999996362], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301818", "Load": [99.99999999995359], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301824", "Load": [99.99999999993953], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301830", "Load": [99.999999999942], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301836", "Load": [0], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301842", "Load": [16.8316831683204], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}
+{"TimeStamp": "1759301848", "Load": [11.000000000001364], "DevID": "router-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl", "malicious": 0}

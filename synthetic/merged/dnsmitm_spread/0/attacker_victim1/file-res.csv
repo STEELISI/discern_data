@@ -1,0 +1,11 @@
+timestamp,device_id,location,size,hash,owner,group,malicious
+1759272790,attacker-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,0
+1759273417,attacker-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth0.network,235,XR+SwQzBzsuOtlQ4EyPOrg==,root,root,0
+1759273417,attacker-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth1.network,185,vC4gm8txUPEoMYSwWteauA==,root,root,0
+1759273887,attacker-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,1
+1759273887,attacker-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth1.network,261,btI7ITavadrGbSBhSBTJ+g==,root,root,1
+1759274043,attacker-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,0
+1759274043,attacker-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth1.network,185,OM/0lE3KSihWqrkmB7sFlg==,root,root,0
+1759274680,attacker-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/ettercap/etter.dns,4635,GnTAOAE1Qucl5qcassCglQ==,root,root,0
+1759274680,attacker-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth1.network,185,Fv97bs/WljYxD/Z9QicIKg==,root,root,0
+1759275307,attacker-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth1.network,185,vC4gm8txUPEoMYSwWteauA==,root,root,0

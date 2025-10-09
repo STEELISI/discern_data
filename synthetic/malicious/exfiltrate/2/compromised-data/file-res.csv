@@ -1,0 +1,6 @@
+timestamp,device_id,location,size,hash,owner,group
+1759182088,compromised.bnsdq.ozxfs.vmdrv.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root
+1759182088,compromised.bnsdq.ozxfs.vmdrv.kvugl,/etc/systemd/network/eth1.network,191,fWGNzE2X7zgzEUqLQFnd1A==,root,root
+1759182088,compromised.bnsdq.ozxfs.vmdrv.kvugl,/etc/systemd/network/eth2.network,117,Gw8otNVy80qX10MlUMdPpQ==,root,root
+1759182710,compromised.bnsdq.ozxfs.vmdrv.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root
+1759182710,compromised.bnsdq.ozxfs.vmdrv.kvugl,/etc/systemd/network/eth1.network,191,lGBV8FyaFKCgkQVKocSoLQ==,root,root

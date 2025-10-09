@@ -1,526 +1,527 @@
-{"TimeStamp": "1759281738", "Load": [4.000000000011823], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281744", "Load": [19.801980198055688], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281750", "Load": [3.0000000000027285], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281756", "Load": [10.204081632652588], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281762", "Load": [28.99999999994361], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281769", "Load": [9.999999999990905], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281775", "Load": [0.9999999999990905], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281781", "Load": [99.99999999995453], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281787", "Load": [99.99999999986079], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281793", "Load": [99.99999999985936], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281799", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281805", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281811", "Load": [99.99999999993312], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281817", "Load": [99.99999999992744], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281823", "Load": [5.050505050533817], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281829", "Load": [3.0303030303239096], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281835", "Load": [13.999999999987267], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281841", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281847", "Load": [15.000000000036378], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281853", "Load": [10.891089108898631], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281859", "Load": [5.0000000000045475], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281865", "Load": [14.141414141404399], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281871", "Load": [13.131313131351178], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281877", "Load": [15.151515151504713], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281883", "Load": [1.010101010123281], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281889", "Load": [14.141414141404399], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281895", "Load": [4.000000000019099], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281901", "Load": [0.9900990098998755], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281907", "Load": [15.841584158426542], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281913", "Load": [16.16161616160503], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281919", "Load": [2.0000000000436557], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281925", "Load": [1.0101010101003143], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281931", "Load": [4.000000000003638], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281937", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281943", "Load": [3.061224489817699], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281949", "Load": [29.702970297018783], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281955", "Load": [8.080808080802514], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281961", "Load": [4.99999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281967", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281973", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281979", "Load": [16.16161616165096], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281985", "Load": [16.99999999998454], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281991", "Load": [9.000000000014552], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759281997", "Load": [3.0303030303183416], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282003", "Load": [1.999999999998181], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282009", "Load": [17.99999999998363], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282015", "Load": [17.000000000007276], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282021", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282027", "Load": [14.99999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282033", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282039", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282045", "Load": [3.0303030302724077], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282051", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282057", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282063", "Load": [3.000000000020009], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282069", "Load": [6.862745098040089], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282075", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282081", "Load": [1.999999999994543], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282087", "Load": [23.23232323233019], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282093", "Load": [8.08080808082548], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282099", "Load": [4.999999999972715], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282105", "Load": [14.141414141427363], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282111", "Load": [8.999999999991815], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282117", "Load": [2.9999999999972715], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282123", "Load": [16.000000000014552], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282129", "Load": [17.000000000007276], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282135", "Load": [4.040404040401257], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282141", "Load": [0.9999999999990905], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282147", "Load": [15.000000000009095], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282153", "Load": [1.980198019799751], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282159", "Load": [10.999999999989996], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282165", "Load": [2.999999999974534], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282171", "Load": [2.040816326529665], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282177", "Load": [1.0101010101003143], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282183", "Load": [3.0303030303239096], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282189", "Load": [3.0303030302724077], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282195", "Load": [22.448979591807852], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282201", "Load": [3.000000000025466], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282207", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282213", "Load": [8.08080808082548], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282219", "Load": [2.9999999999972715], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282225", "Load": [14.285714285704342], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282231", "Load": [25.252525252530823], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282237", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282243", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282249", "Load": [15.841584158414504], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282255", "Load": [5.999999999994543], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282261", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282267", "Load": [15.151515151504713], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282273", "Load": [1.999999999998181], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282279", "Load": [1.980198019799751], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282285", "Load": [3.0303030302953746], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282291", "Load": [16.161616161634722], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282297", "Load": [7.142857142840571], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282303", "Load": [15.151515151504713], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282309", "Load": [14.999999999981812], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282315", "Load": [9.09090909091953], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282321", "Load": [6.9999999999936335], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282327", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282333", "Load": [14.285714285730858], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282339", "Load": [8.910891089121394], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282345", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282351", "Load": [16.16161616160503], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282357", "Load": [4.901960784315911], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282363", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282369", "Load": [2.0202020201969164], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282375", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282381", "Load": [2.9702970297446516], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282387", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282393", "Load": [9.090909090909092], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282399", "Load": [8.16326530611866], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282405", "Load": [2.999999999979991], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282411", "Load": [27.99999999999727], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282417", "Load": [23.23232323235316], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282423", "Load": [2.0202020202006286], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282429", "Load": [99.99999999988157], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282435", "Load": [99.99999999992895], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282441", "Load": [23.232323232287506], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282447", "Load": [6.060606060601885], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282453", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282459", "Load": [4.950495049499378], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282465", "Load": [14.999999999981812], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282471", "Load": [5.050505050478604], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282477", "Load": [4.000000000003638], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282483", "Load": [14.141414141378414], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282489", "Load": [22.222222222229878], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282495", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282501", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282507", "Load": [18.000000000029104], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282513", "Load": [4.000000000003638], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282519", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282525", "Load": [17.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282531", "Load": [2.9999999999972715], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282537", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282543", "Load": [13.265306122466026], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282549", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282555", "Load": [1.980198019799751], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282561", "Load": [13.131313131302925], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282567", "Load": [15.000000000009095], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282573", "Load": [11.000000000032742], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282579", "Load": [3.9603960396066356], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282585", "Load": [14.141414141427363], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282591", "Load": [8.999999999985448], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282597", "Load": [17.64705882350581], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282603", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282609", "Load": [16.8316831683204], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282615", "Load": [4.000000000011823], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282621", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282627", "Load": [11.881188118798509], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282633", "Load": [18.18181818185159], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282639", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282645", "Load": [3.0303030303183416], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282651", "Load": [3.0303030302953746], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282657", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282663", "Load": [3.0303030303239096], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282669", "Load": [29.292929292985896], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282675", "Load": [8.080808080802514], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282681", "Load": [3.0303030303009426], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282687", "Load": [15.000000000009095], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282693", "Load": [7.999999999992724], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282699", "Load": [5.102040816314693], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282705", "Load": [13.13131313132821], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282711", "Load": [15.841584158420522], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282717", "Load": [3.000000000020009], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282723", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282729", "Load": [7.0000000000063665], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282735", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282741", "Load": [15.000000000036378], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282747", "Load": [3.0303030303009426], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282753", "Load": [7.920792079199004], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282759", "Load": [4.040404040401257], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282765", "Load": [6.999999999980901], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282771", "Load": [15.000000000009095], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282777", "Load": [20.202020201992134], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282783", "Load": [2.9999999999972715], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282789", "Load": [12.999999999988177], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282795", "Load": [18.00000000003911], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282801", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282807", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282813", "Load": [23.762376237597017], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282819", "Load": [3.9603960396066356], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282825", "Load": [6.9999999999936335], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282831", "Load": [3.0303030302779757], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282837", "Load": [3.9603960396066356], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282843", "Load": [1.0000000000218279], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282849", "Load": [13.861386138595808], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282855", "Load": [3.000000000025466], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282861", "Load": [15.151515151481746], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282867", "Load": [3.0303030302724077], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282873", "Load": [16.000000000008185], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282879", "Load": [9.900990099016587], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282885", "Load": [2.0202020202006286], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282891", "Load": [7.070707070702199], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282897", "Load": [23.762376237619527], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282903", "Load": [3.0303030303239096], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282909", "Load": [14.141414141404399], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282915", "Load": [8.080808080787666], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282921", "Load": [5.940594059409952], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282927", "Load": [14.141414141404399], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282933", "Load": [14.141414141450332], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282939", "Load": [3.0303030303239096], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282945", "Load": [1.999999999998181], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282951", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282957", "Load": [3.000000000020009], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282963", "Load": [14.851485148524882], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282969", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282975", "Load": [4.000000000026375], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282981", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282987", "Load": [5.102040816314693], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282993", "Load": [7.999999999992724], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759282999", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283005", "Load": [3.0303030303009426], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283011", "Load": [11.111111111103455], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283017", "Load": [11.111111111103455], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283023", "Load": [5.999999999994543], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283029", "Load": [21.000000000003638], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283036", "Load": [15.999999999979082], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283042", "Load": [3.999999999989086], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283048", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283054", "Load": [99.99999999997749], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283060", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283066", "Load": [9.900990099016587], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283072", "Load": [3.0303030303183416], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283078", "Load": [3.000000000025466], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283084", "Load": [2.9702970297221394], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283090", "Load": [2.0202020201969164], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283096", "Load": [3.030303030283543], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283102", "Load": [24.000000000044565], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283108", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283114", "Load": [15.000000000009095], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283120", "Load": [12.871287128744077], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283126", "Load": [0.9999999999781721], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283132", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283138", "Load": [26.99999999999818], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283144", "Load": [3.000000000020009], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283150", "Load": [2.9702970297446516], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283156", "Load": [3.960396039599502], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283162", "Load": [1.0101010100984582], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283168", "Load": [1.0000000000218279], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283174", "Load": [14.141414141430381], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283180", "Load": [25.252525252530823], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283186", "Load": [9.00000000003729], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283192", "Load": [5.882352941156801], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283198", "Load": [14.999999999981812], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283204", "Load": [9.090909090925795], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283210", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283216", "Load": [14.141414141401382], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283222", "Load": [17.6470588235281], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283228", "Load": [3.030303030329477], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283234", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283240", "Load": [3.000000000020009], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283246", "Load": [11.881188118821019], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283252", "Load": [14.999999999986358], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283258", "Load": [3.0303030302724077], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283264", "Load": [4.000000000041837], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283270", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283276", "Load": [2.0202020201969164], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283282", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283288", "Load": [20.40816326525877], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283294", "Load": [4.000000000003638], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283300", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283306", "Load": [15.15151515149984], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283312", "Load": [2.999999999974534], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283318", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283324", "Load": [28.282828282854727], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283330", "Load": [2.9999999999972715], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283336", "Load": [1.0101010101003143], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283342", "Load": [5.999999999971806], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283348", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283354", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283360", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283366", "Load": [9.090909090902827], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283372", "Load": [8.999999999991815], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283378", "Load": [5.05050505050157], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283384", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283390", "Load": [9.000000000008185], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283396", "Load": [24.752475247563982], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283402", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283408", "Load": [19.607843137250967], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283414", "Load": [3.0303030303183416], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283420", "Load": [0.9999999999972715], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283426", "Load": [3.0303030302953746], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283432", "Load": [15.841584158471564], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283438", "Load": [2.000000000001819], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283444", "Load": [4.9504950495082936], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283450", "Load": [3.0303030303009426], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283456", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283462", "Load": [3.0303030302779757], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283468", "Load": [29.29292929293208], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283474", "Load": [9.999999999995453], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283480", "Load": [2.9999999999918145], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283486", "Load": [14.141414141401382], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283492", "Load": [8.080808080787666], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283498", "Load": [3.999999999989086], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283504", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283510", "Load": [14.999999999959075], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283516", "Load": [2.9999999999972715], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283522", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283528", "Load": [15.15151515149984], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283534", "Load": [9.090909090925795], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283540", "Load": [16.000000000008185], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283546", "Load": [4.950495049467951], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283552", "Load": [2.0202020202006286], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283558", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283564", "Load": [7.920792079221517], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283570", "Load": [14.999999999981812], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283576", "Load": [23.00000000000182], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283582", "Load": [4.000000000003638], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283588", "Load": [17.171717171728307], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283594", "Load": [6.122448979588996], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283600", "Load": [6.060606060601885], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283606", "Load": [0.9999999999781721], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283612", "Load": [26.000000000021828], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283618", "Load": [7.070707070725166], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283624", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283630", "Load": [18.18181818183906], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283636", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283642", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283648", "Load": [16.16161616165096], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283654", "Load": [13.265306122441404], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283660", "Load": [1.999999999998181], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283666", "Load": [4.999999999986358], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283672", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283678", "Load": [99.99999999995212], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283684", "Load": [99.99999999997726], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283690", "Load": [16.161616161634722], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283696", "Load": [2.0202020202006286], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283702", "Load": [2.9999999999918145], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283708", "Load": [14.141414141401382], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283714", "Load": [8.08080808082548], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283720", "Load": [2.9999999999972715], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283726", "Load": [25.999999999976353], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283732", "Load": [14.141414141427363], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283738", "Load": [3.0303030303009426], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283744", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283750", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283756", "Load": [2.970297029704976], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283762", "Load": [16.161616161627993], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283768", "Load": [3.0303030303009426], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283774", "Load": [3.9603960395923696], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283780", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283786", "Load": [3.0303030302779757], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283792", "Load": [3.999999999989086], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283798", "Load": [20.408163265319853], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283804", "Load": [3.03030303030651], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283810", "Load": [14.141414141430381], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283816", "Load": [8.080808080802514], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283822", "Load": [3.000000000014552], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283828", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283834", "Load": [22.99999999997908], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283840", "Load": [4.9999999999954525], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283846", "Load": [0.9999999999990905], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283852", "Load": [15.000000000009095], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283858", "Load": [8.823529411752904], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283864", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283870", "Load": [9.900990098998756], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283876", "Load": [5.940594059409952], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283882", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283888", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283894", "Load": [3.0303030303009426], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283900", "Load": [3.960396039599502], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283906", "Load": [23.46938775511435], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283912", "Load": [2.0408163265528665], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283918", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283924", "Load": [3.000000000014552], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283930", "Load": [2.0202020202006286], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283936", "Load": [0.9999999999990905], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283942", "Load": [17.17171717170534], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283948", "Load": [12.000000000010914], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283954", "Load": [9.090909090909092], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283960", "Load": [4.040404040424224], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283966", "Load": [14.999999999986358], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283972", "Load": [10.891089108879019], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283978", "Load": [16.000000000008185], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283984", "Load": [5.999999999994543], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283990", "Load": [17.000000000007276], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759283996", "Load": [5.000000000009095], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284002", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284008", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284014", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284020", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284026", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284032", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284038", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284044", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284050", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284056", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284062", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284068", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284074", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284080", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284086", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284092", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284098", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284104", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284110", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284116", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284122", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284128", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284134", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284140", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284146", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284152", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284158", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284164", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284170", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284176", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284182", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284188", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284194", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284200", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284206", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284212", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284218", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284224", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284230", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284236", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284242", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284248", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284254", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284260", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284266", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284272", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284278", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284284", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284290", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284296", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284302", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284309", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284315", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284321", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284327", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284333", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284339", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284345", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284351", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284357", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284363", "Load": [99.99999999998852], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284369", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284375", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284381", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284387", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284393", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284399", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284405", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284411", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284417", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284423", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284429", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284435", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284441", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284447", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284453", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284459", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284465", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284471", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284477", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284483", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284489", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284496", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284503", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284509", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284515", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284521", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284527", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284533", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284539", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284545", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284551", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284557", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284563", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284569", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284575", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284581", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284586", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284590", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284597", "Load": [2.040816326529665], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284603", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284609", "Load": [17.821782178220275], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284615", "Load": [23.232323232372877], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284621", "Load": [4.040404040401257], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284627", "Load": [10.101010100984583], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284633", "Load": [15.68627450976065], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284639", "Load": [8.999999999969077], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284646", "Load": [12.12121212120377], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284652", "Load": [24.24242424240893], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284658", "Load": [7.999999999992724], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284664", "Load": [3.000000000025466], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284670", "Load": [9.999999999990905], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284676", "Load": [4.040404040401257], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284683", "Load": [6.060606060601885], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284689", "Load": [14.999999999981812], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284695", "Load": [9.000000000014552], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284701", "Load": [3.960396039599502], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284707", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284713", "Load": [26.530612244836405], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284719", "Load": [2.0202020202006286], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284726", "Load": [13.131313131351178], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284733", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284739", "Load": [17.171717171696756], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284745", "Load": [13.999999999987267], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284751", "Load": [8.91089108909888], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284757", "Load": [3.0303030302779757], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284763", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284769", "Load": [19.191919191928935], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284775", "Load": [3.0303030303009426], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284783", "Load": [3.000000000025466], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284789", "Load": [15.00000000001364], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284795", "Load": [3.0303030303239096], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284801", "Load": [10.1010101010217], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284807", "Load": [9.999999999972715], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284813", "Load": [3.0303030303239096], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284819", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284826", "Load": [8.999999999991815], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284832", "Load": [4.000000000003638], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284838", "Load": [6.122448979588996], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284844", "Load": [23.00000000002092], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284850", "Load": [11.224489795889959], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284856", "Load": [15.000000000009095], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284862", "Load": [11.22448979591316], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284868", "Load": [3.0303030302779757], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284874", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284880", "Load": [15.000000000036378], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284886", "Load": [16.16161616165096], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284892", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
-{"TimeStamp": "1759284898", "Load": [15.841584158369479], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl"}
+{"TimeStamp": "1759281738", "Load": [4.000000000011823], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281744", "Load": [19.801980198055688], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281750", "Load": [3.0000000000027285], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281756", "Load": [10.204081632652588], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281762", "Load": [28.99999999994361], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281769", "Load": [9.999999999990905], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281775", "Load": [0.9999999999990905], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281781", "Load": [99.99999999995453], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281787", "Load": [99.99999999986079], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281793", "Load": [99.99999999985936], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281799", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281805", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281811", "Load": [99.99999999993312], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281817", "Load": [99.99999999992744], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281823", "Load": [5.050505050533817], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281829", "Load": [3.0303030303239096], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281835", "Load": [13.999999999987267], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281841", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281847", "Load": [15.000000000036378], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281853", "Load": [10.891089108898631], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281859", "Load": [5.0000000000045475], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281865", "Load": [14.141414141404399], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281871", "Load": [13.131313131351178], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281877", "Load": [15.151515151504713], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281883", "Load": [1.010101010123281], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281889", "Load": [14.141414141404399], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281895", "Load": [4.000000000019099], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281901", "Load": [0.9900990098998755], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281907", "Load": [15.841584158426542], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281913", "Load": [16.16161616160503], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281919", "Load": [2.0000000000436557], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281925", "Load": [1.0101010101003143], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281931", "Load": [4.000000000003638], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281937", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281943", "Load": [3.061224489817699], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281949", "Load": [29.702970297018783], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281955", "Load": [8.080808080802514], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281961", "Load": [4.99999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281967", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281973", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281979", "Load": [16.16161616165096], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281985", "Load": [16.99999999998454], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281991", "Load": [9.000000000014552], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759281997", "Load": [3.0303030303183416], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282003", "Load": [1.999999999998181], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282009", "Load": [17.99999999998363], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282015", "Load": [17.000000000007276], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282021", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282027", "Load": [14.99999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282033", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282039", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282045", "Load": [3.0303030302724077], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282051", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282057", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282063", "Load": [3.000000000020009], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282069", "Load": [6.862745098040089], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282075", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282081", "Load": [1.999999999994543], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282087", "Load": [23.23232323233019], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282093", "Load": [8.08080808082548], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282099", "Load": [4.999999999972715], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282105", "Load": [14.141414141427363], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282111", "Load": [8.999999999991815], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282117", "Load": [2.9999999999972715], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282123", "Load": [16.000000000014552], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282129", "Load": [17.000000000007276], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282135", "Load": [4.040404040401257], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282141", "Load": [0.9999999999990905], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282147", "Load": [15.000000000009095], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282153", "Load": [1.980198019799751], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282159", "Load": [10.999999999989996], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282165", "Load": [2.999999999974534], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282171", "Load": [2.040816326529665], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282177", "Load": [1.0101010101003143], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282183", "Load": [3.0303030303239096], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282189", "Load": [3.0303030302724077], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282195", "Load": [22.448979591807852], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282201", "Load": [3.000000000025466], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282207", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282213", "Load": [8.08080808082548], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282219", "Load": [2.9999999999972715], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282225", "Load": [14.285714285704342], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282231", "Load": [25.252525252530823], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282237", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282243", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282249", "Load": [15.841584158414504], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282255", "Load": [5.999999999994543], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282261", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282267", "Load": [15.151515151504713], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282273", "Load": [1.999999999998181], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282279", "Load": [1.980198019799751], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282285", "Load": [3.0303030302953746], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282291", "Load": [16.161616161634722], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282297", "Load": [7.142857142840571], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282303", "Load": [15.151515151504713], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282309", "Load": [14.999999999981812], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282315", "Load": [9.09090909091953], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282321", "Load": [6.9999999999936335], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282327", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282333", "Load": [14.285714285730858], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282339", "Load": [8.910891089121394], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282345", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282351", "Load": [16.16161616160503], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282357", "Load": [4.901960784315911], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282363", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282369", "Load": [2.0202020201969164], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282375", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282381", "Load": [2.9702970297446516], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282387", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282393", "Load": [9.090909090909092], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282399", "Load": [8.16326530611866], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282405", "Load": [2.999999999979991], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282411", "Load": [27.99999999999727], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282417", "Load": [23.23232323235316], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282423", "Load": [2.0202020202006286], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282429", "Load": [99.99999999988157], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282435", "Load": [99.99999999992895], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282441", "Load": [23.232323232287506], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282447", "Load": [6.060606060601885], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282453", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282459", "Load": [4.950495049499378], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282465", "Load": [14.999999999981812], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282471", "Load": [5.050505050478604], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282477", "Load": [4.000000000003638], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282483", "Load": [14.141414141378414], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282489", "Load": [22.222222222229878], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282495", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282501", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282507", "Load": [18.000000000029104], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282513", "Load": [4.000000000003638], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282519", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282525", "Load": [17.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282531", "Load": [2.9999999999972715], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282537", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282543", "Load": [13.265306122466026], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282549", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282555", "Load": [1.980198019799751], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282561", "Load": [13.131313131302925], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282567", "Load": [15.000000000009095], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282573", "Load": [11.000000000032742], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282579", "Load": [3.9603960396066356], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282585", "Load": [14.141414141427363], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282591", "Load": [8.999999999985448], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282597", "Load": [17.64705882350581], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282603", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282609", "Load": [16.8316831683204], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282615", "Load": [4.000000000011823], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282621", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282627", "Load": [11.881188118798509], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282633", "Load": [18.18181818185159], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282639", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282645", "Load": [3.0303030303183416], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282651", "Load": [3.0303030302953746], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282657", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282663", "Load": [3.0303030303239096], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282669", "Load": [29.292929292985896], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282675", "Load": [8.080808080802514], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282681", "Load": [3.0303030303009426], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282687", "Load": [15.000000000009095], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282693", "Load": [7.999999999992724], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282699", "Load": [5.102040816314693], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282705", "Load": [13.13131313132821], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282711", "Load": [15.841584158420522], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282717", "Load": [3.000000000020009], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282723", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282729", "Load": [7.0000000000063665], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282735", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282741", "Load": [15.000000000036378], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282747", "Load": [3.0303030303009426], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282753", "Load": [7.920792079199004], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282759", "Load": [4.040404040401257], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282765", "Load": [6.999999999980901], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282771", "Load": [15.000000000009095], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282777", "Load": [20.202020201992134], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282783", "Load": [2.9999999999972715], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282789", "Load": [12.999999999988177], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282795", "Load": [18.00000000003911], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282801", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282807", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282813", "Load": [23.762376237597017], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282819", "Load": [3.9603960396066356], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282825", "Load": [6.9999999999936335], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282831", "Load": [3.0303030302779757], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282837", "Load": [3.9603960396066356], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282843", "Load": [1.0000000000218279], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282849", "Load": [13.861386138595808], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282855", "Load": [3.000000000025466], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282861", "Load": [15.151515151481746], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282867", "Load": [3.0303030302724077], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282873", "Load": [16.000000000008185], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282879", "Load": [9.900990099016587], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282885", "Load": [2.0202020202006286], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282891", "Load": [7.070707070702199], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282897", "Load": [23.762376237619527], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282903", "Load": [3.0303030303239096], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282909", "Load": [14.141414141404399], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282915", "Load": [8.080808080787666], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282921", "Load": [5.940594059409952], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282927", "Load": [14.141414141404399], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282933", "Load": [14.141414141450332], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282939", "Load": [3.0303030303239096], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282945", "Load": [1.999999999998181], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282951", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282957", "Load": [3.000000000020009], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282963", "Load": [14.851485148524882], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282969", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282975", "Load": [4.000000000026375], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282981", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282987", "Load": [5.102040816314693], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282993", "Load": [7.999999999992724], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759282999", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283005", "Load": [3.0303030303009426], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283011", "Load": [11.111111111103455], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283017", "Load": [11.111111111103455], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283023", "Load": [5.999999999994543], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283029", "Load": [21.000000000003638], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283036", "Load": [15.999999999979082], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283042", "Load": [3.999999999989086], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283048", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283054", "Load": [99.99999999997749], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283060", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283066", "Load": [9.900990099016587], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283072", "Load": [3.0303030303183416], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283078", "Load": [3.000000000025466], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283084", "Load": [2.9702970297221394], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283090", "Load": [2.0202020201969164], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283096", "Load": [3.030303030283543], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283102", "Load": [24.000000000044565], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283108", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283114", "Load": [15.000000000009095], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283120", "Load": [12.871287128744077], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283126", "Load": [0.9999999999781721], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283132", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283138", "Load": [26.99999999999818], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283144", "Load": [3.000000000020009], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283150", "Load": [2.9702970297446516], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283156", "Load": [3.960396039599502], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283162", "Load": [1.0101010100984582], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283168", "Load": [1.0000000000218279], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283174", "Load": [14.141414141430381], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283180", "Load": [25.252525252530823], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283186", "Load": [9.00000000003729], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283192", "Load": [5.882352941156801], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283198", "Load": [14.999999999981812], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283204", "Load": [9.090909090925795], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283210", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283216", "Load": [14.141414141401382], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283222", "Load": [17.6470588235281], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283228", "Load": [3.030303030329477], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283234", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283240", "Load": [3.000000000020009], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283246", "Load": [11.881188118821019], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283252", "Load": [14.999999999986358], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283258", "Load": [3.0303030302724077], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283264", "Load": [4.000000000041837], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283270", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283276", "Load": [2.0202020201969164], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283282", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283288", "Load": [20.40816326525877], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283294", "Load": [4.000000000003638], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283300", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283306", "Load": [15.15151515149984], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283312", "Load": [2.999999999974534], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283318", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283324", "Load": [28.282828282854727], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283330", "Load": [2.9999999999972715], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283336", "Load": [1.0101010101003143], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283342", "Load": [5.999999999971806], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283348", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283354", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283360", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283366", "Load": [9.090909090902827], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283372", "Load": [8.999999999991815], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283378", "Load": [5.05050505050157], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283384", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283390", "Load": [9.000000000008185], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283396", "Load": [24.752475247563982], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283402", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283408", "Load": [19.607843137250967], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283414", "Load": [3.0303030303183416], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283420", "Load": [0.9999999999972715], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283426", "Load": [3.0303030302953746], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283432", "Load": [15.841584158471564], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283438", "Load": [2.000000000001819], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283444", "Load": [4.9504950495082936], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283450", "Load": [3.0303030303009426], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283456", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283462", "Load": [3.0303030302779757], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283468", "Load": [29.29292929293208], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283474", "Load": [9.999999999995453], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283480", "Load": [2.9999999999918145], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283486", "Load": [14.141414141401382], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283492", "Load": [8.080808080787666], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283498", "Load": [3.999999999989086], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283504", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283510", "Load": [14.999999999959075], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283516", "Load": [2.9999999999972715], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283522", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283528", "Load": [15.15151515149984], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283534", "Load": [9.090909090925795], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283540", "Load": [16.000000000008185], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283546", "Load": [4.950495049467951], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283552", "Load": [2.0202020202006286], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283558", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283564", "Load": [7.920792079221517], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283570", "Load": [14.999999999981812], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283576", "Load": [23.00000000000182], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283582", "Load": [4.000000000003638], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283588", "Load": [17.171717171728307], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283594", "Load": [6.122448979588996], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283600", "Load": [6.060606060601885], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283606", "Load": [0.9999999999781721], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283612", "Load": [26.000000000021828], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283618", "Load": [7.070707070725166], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283624", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283630", "Load": [18.18181818183906], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283636", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283642", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283648", "Load": [16.16161616165096], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283654", "Load": [13.265306122441404], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283660", "Load": [1.999999999998181], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283666", "Load": [4.999999999986358], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283672", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283678", "Load": [99.99999999995212], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283684", "Load": [99.99999999997726], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283690", "Load": [16.161616161634722], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283696", "Load": [2.0202020202006286], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283702", "Load": [2.9999999999918145], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283708", "Load": [14.141414141401382], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283714", "Load": [8.08080808082548], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283720", "Load": [2.9999999999972715], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283726", "Load": [25.999999999976353], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283732", "Load": [14.141414141427363], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283738", "Load": [3.0303030303009426], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283744", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283750", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283756", "Load": [2.970297029704976], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283762", "Load": [16.161616161627993], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283768", "Load": [3.0303030303009426], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283774", "Load": [3.9603960395923696], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283780", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283786", "Load": [3.0303030302779757], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283792", "Load": [3.999999999989086], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283798", "Load": [20.408163265319853], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283804", "Load": [3.03030303030651], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283810", "Load": [14.141414141430381], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283816", "Load": [8.080808080802514], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283822", "Load": [3.000000000014552], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283828", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283834", "Load": [22.99999999997908], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283840", "Load": [4.9999999999954525], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283846", "Load": [0.9999999999990905], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283852", "Load": [15.000000000009095], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283858", "Load": [8.823529411752904], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283864", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283870", "Load": [9.900990098998756], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283876", "Load": [5.940594059409952], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283882", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283888", "Load": [15.151515151527677], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283894", "Load": [3.0303030303009426], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283900", "Load": [3.960396039599502], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283906", "Load": [23.46938775511435], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283912", "Load": [2.0408163265528665], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283918", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283924", "Load": [3.000000000014552], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283930", "Load": [2.0202020202006286], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283936", "Load": [0.9999999999990905], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283942", "Load": [17.17171717170534], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283948", "Load": [12.000000000010914], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283954", "Load": [9.090909090909092], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283960", "Load": [4.040404040424224], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283966", "Load": [14.999999999986358], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283972", "Load": [10.891089108879019], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283978", "Load": [16.000000000008185], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283984", "Load": [5.999999999994543], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283990", "Load": [17.000000000007276], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283996", "Load": [5.000000000009095], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759283998", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284003", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284009", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284015", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284021", "Load": [99.99999999998875], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284027", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284033", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284039", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284045", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284051", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284057", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284063", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284069", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284075", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284081", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284087", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284093", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284099", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284105", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284111", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284117", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284123", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284129", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284135", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284141", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284147", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284153", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284159", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284165", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284171", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284177", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284183", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284189", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284195", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284201", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284207", "Load": [99.99999999998863], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284213", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284219", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284225", "Load": [99.99999999998863], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284231", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284237", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284243", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284249", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284255", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284261", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284267", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284273", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284279", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284285", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284291", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284297", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284303", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284309", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284315", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284321", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284327", "Load": [99.99999999998863], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284333", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284339", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284345", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284351", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284357", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284363", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284369", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284375", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284381", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284387", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284393", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284399", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284405", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284411", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284417", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284423", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284429", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284435", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284441", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284447", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284453", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284460", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284466", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284472", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284478", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284484", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284490", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284497", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284503", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284509", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284515", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284521", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284527", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284533", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284539", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284546", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284552", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284558", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284564", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284570", "Load": [100.0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284575", "Load": [100], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 1}
+{"TimeStamp": "1759284577", "Load": [15.000000000009095], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284583", "Load": [16.161616161627993], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284590", "Load": [3.999999999996362], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284597", "Load": [2.040816326529665], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284603", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284609", "Load": [17.821782178220275], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284615", "Load": [23.232323232372877], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284621", "Load": [4.040404040401257], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284627", "Load": [10.101010100984583], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284633", "Load": [15.68627450976065], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284639", "Load": [8.999999999969077], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284646", "Load": [12.12121212120377], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284652", "Load": [24.24242424240893], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284658", "Load": [7.999999999992724], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284664", "Load": [3.000000000025466], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284670", "Load": [9.999999999990905], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284676", "Load": [4.040404040401257], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284683", "Load": [6.060606060601885], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284689", "Load": [14.999999999981812], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284695", "Load": [9.000000000014552], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284701", "Load": [3.960396039599502], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284707", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284713", "Load": [26.530612244836405], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284719", "Load": [2.0202020202006286], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284726", "Load": [13.131313131351178], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284733", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284739", "Load": [17.171717171696756], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284745", "Load": [13.999999999987267], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284751", "Load": [8.91089108909888], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284757", "Load": [3.0303030302779757], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284763", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284769", "Load": [19.191919191928935], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284775", "Load": [3.0303030303009426], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284783", "Load": [3.000000000025466], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284789", "Load": [15.00000000001364], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284795", "Load": [3.0303030303239096], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284801", "Load": [10.1010101010217], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284807", "Load": [9.999999999972715], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284813", "Load": [3.0303030303239096], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284819", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284826", "Load": [8.999999999991815], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284832", "Load": [4.000000000003638], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284838", "Load": [6.122448979588996], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284844", "Load": [23.00000000002092], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284850", "Load": [11.224489795889959], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284856", "Load": [15.000000000009095], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284862", "Load": [11.22448979591316], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284868", "Load": [3.0303030302779757], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284874", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284880", "Load": [15.000000000036378], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284886", "Load": [16.16161616165096], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284892", "Load": [0], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}
+{"TimeStamp": "1759284898", "Load": [15.841584158369479], "DevID": "auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "malicious": 0}

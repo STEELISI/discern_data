@@ -1,0 +1,16 @@
+timestamp,device_id,location,size,hash,owner,group
+1759262673,mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth0.network,235,XR+SwQzBzsuOtlQ4EyPOrg==,root,root
+1759262673,mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth2.network,120,YE3LUWrqsdGwCaThGtV5DA==,root,root
+1759262890,mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root
+1759262890,mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth1.network,2139,wBjJckHvUB69W/7dQLoeRg==,root,root
+1759263516,mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth1.network,2139,7debQnVJs7daXuQ3iHDa0Q==,root,root
+1759264142,mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth0.network,235,DCbHQm9YF9ayuuAFIE0YKQ==,root,root
+1759264763,mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root
+1759264763,mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth1.network,2139,wBjJckHvUB69W/7dQLoeRg==,root,root
+1759264763,mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth2.network,120,hNJd3HBozrdDl/SYFvMhww==,root,root
+1759265389,mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth2.network,120,q0XUSsqz4e+d+xYNPMn8Jg==,root,root
+1759266010,mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth1.network,2139,e7Q/tQs6TmdGaZbkNbvFIg==,root,root
+1759266010,mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth2.network,120,O500SyluX9iYKVTdLDn1Tg==,root,root
+1759266631,mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth0.network,235,XR+SwQzBzsuOtlQ4EyPOrg==,root,root
+1759266631,mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth1.network,2139,7debQnVJs7daXuQ3iHDa0Q==,root,root
+1759266631,mysqlwebhost2.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth2.network,120,q0XUSsqz4e+d+xYNPMn8Jg==,root,root

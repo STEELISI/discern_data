@@ -1,0 +1,9 @@
+timestamp,device_id,location,size,hash,owner,group
+1759281866,client.bnsdq.ozxfs.vcwss.kvugl,/etc/systemd/network/eth0.network,235,XR+SwQzBzsuOtlQ4EyPOrg==,root,root
+1759281866,client.bnsdq.ozxfs.vcwss.kvugl,/etc/systemd/network/eth2.network,185,OYSrwDVAd8SymNQVtBSLPA==,root,root
+1759282488,client.bnsdq.ozxfs.vcwss.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root
+1759283109,client.bnsdq.ozxfs.vcwss.kvugl,/etc/systemd/network/eth1.network,185,aTy+OG6+ZualFAzyqvQ1BQ==,root,root
+1759283109,client.bnsdq.ozxfs.vcwss.kvugl,/etc/systemd/network/eth2.network,185,+Tl7mQN4SQnapnlCUS3CUw==,root,root
+1759283727,client.bnsdq.ozxfs.vcwss.kvugl,/etc/systemd/network/eth1.network,185,wA5waWwInNjsB5IsPDgntQ==,root,root
+1759284795,client.bnsdq.ozxfs.vcwss.kvugl,/etc/systemd/network/eth1.network,185,81cRi8aaPp2i8enApVUkfg==,root,root
+1759284795,client.bnsdq.ozxfs.vcwss.kvugl,/etc/systemd/network/eth2.network,185,OYSrwDVAd8SymNQVtBSLPA==,root,root

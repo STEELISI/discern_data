@@ -1,0 +1,10 @@
+timestamp,device_id,location,size,hash,owner,group
+1759262736,attacker.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth1.network,2179,+Ngjxm4IbwH3pT8M601PNA==,root,root
+1759263363,attacker.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth1.network,2179,ZurIhJYfmzroQRVXaEa5Rw==,root,root
+1759263989,attacker.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth0.network,235,1mtNWUPt/K/rjxiD/mif/A==,root,root
+1759263989,attacker.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth1.network,2179,+Ngjxm4IbwH3pT8M601PNA==,root,root
+1759265245,attacker.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root
+1759265245,attacker.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth1.network,2179,ZurIhJYfmzroQRVXaEa5Rw==,root,root
+1759265871,attacker.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth0.network,235,XR+SwQzBzsuOtlQ4EyPOrg==,root,root
+1759265871,attacker.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth1.network,2179,+Ngjxm4IbwH3pT8M601PNA==,root,root
+1759266498,attacker.bnsdq.ozxfs.laefh.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root

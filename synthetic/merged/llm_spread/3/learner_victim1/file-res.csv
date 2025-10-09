@@ -1,0 +1,3 @@
+timestamp,device_id,location,size,hash,owner,group,malicious
+1759318788,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,/etc/systemd/network/eth1.network,261,mk3XOPsAW4gAr1qeP3EPzg==,root,root,1
+1759319330,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,0

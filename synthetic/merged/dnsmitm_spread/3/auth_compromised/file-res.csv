@@ -1,0 +1,16 @@
+timestamp,device_id,location,size,hash,owner,group,malicious
+1759281818,auth-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,0
+1759281818,auth-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth2.network,117,Ftjk5SwwUvh3X2+rp2GaHQ==,root,root,0
+1759282322,auth-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth0.network,235,XR+SwQzBzsuOtlQ4EyPOrg==,root,root,1
+1759282322,auth-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth1.network,261,GePQC2KeEQjEYt6YfDLR6Q==,root,root,1
+1759282322,auth-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth2.network,49,wiCyZkjpD/Y7G/MnGeNSVw==,root,root,1
+1759282440,auth-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,0
+1759282440,auth-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth2.network,117,JQVk0+p8pdjr9asipyrJww==,root,root,0
+1759282940,auth-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,1
+1759282940,auth-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth1.network,261,s8Xb6/sRtpzmZSHRnGaFAw==,root,root,1
+1759282940,auth-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth2.network,49,jPcd+0e71vbp98jveD6xRA==,root,root,1
+1759283061,auth-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth1.network,253,sQILRmKGumZ/y6yj4+vqdA==,root,root,0
+1759283061,auth-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth2.network,117,Ftjk5SwwUvh3X2+rp2GaHQ==,root,root,0
+1759283684,auth-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth1.network,253,E7p8jZMf1gf27exQ6JoWbw==,root,root,0
+1759283684,auth-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth2.network,117,JQVk0+p8pdjr9asipyrJww==,root,root,0
+1759284303,auth-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth2.network,117,urQ6t2Us9yhs/ArIjtKLNA==,root,root,0

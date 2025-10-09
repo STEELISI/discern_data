@@ -1,0 +1,11 @@
+timestamp,device_id,location,size,hash,owner,group,malicious
+1759305791,server-victim2.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth0.network,235,1mtNWUPt/K/rjxiD/mif/A==,root,root,0
+1759305791,server-victim2.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth1.network,181,rs9is4Dh9fwZjQ5qN80tGw==,root,root,0
+1759305791,server-victim2.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth2.network,185,jXGhQJSFF8f/W9BUPg6qxw==,root,root,0
+1759306408,server-victim2.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,0
+1759306408,server-victim2.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth1.network,181,hlX7S2gWjvbQ3i7pP5uPWg==,root,root,0
+1759306558,server-victim2.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,1
+1759306558,server-victim2.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth1.network,261,mHbj+mnc4PYK+xkBhy9IVw==,root,root,1
+1759306558,server-victim2.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth2.network,49,PmostO56PD0rK4LRZGdOTQ==,root,root,1
+1759307031,server-victim2.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth1.network,181,Kz1YchgAd16KFVR06UIyBA==,root,root,0
+1759307031,server-victim2.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth2.network,185,OYSrwDVAd8SymNQVtBSLPA==,root,root,0

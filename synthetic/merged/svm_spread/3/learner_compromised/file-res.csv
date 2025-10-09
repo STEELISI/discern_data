@@ -1,0 +1,7 @@
+timestamp,device_id,location,size,hash,owner,group,malicious
+1759296268,unified.dev.id,/etc/systemd/network/eth0.network,235,XR+SwQzBzsuOtlQ4EyPOrg==,root,root,1
+1759296268,unified.dev.id,/etc/systemd/network/eth1.network,261,GePQC2KeEQjEYt6YfDLR6Q==,root,root,1
+1759296268,unified.dev.id,/etc/systemd/network/eth2.network,49,wiCyZkjpD/Y7G/MnGeNSVw==,root,root,1
+1759296886,unified.dev.id,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,1
+1759296886,unified.dev.id,/etc/systemd/network/eth1.network,261,s8Xb6/sRtpzmZSHRnGaFAw==,root,root,1
+1759296886,unified.dev.id,/etc/systemd/network/eth2.network,49,jPcd+0e71vbp98jveD6xRA==,root,root,1

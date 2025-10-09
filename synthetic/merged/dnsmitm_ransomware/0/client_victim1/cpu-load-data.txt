@@ -1,441 +1,440 @@
-{"TimeStamp": "1759272733", "Load": [6.9999999999936335], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272739", "Load": [4.9504950495016065], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272745", "Load": [28.86597938145635], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272751", "Load": [4.950495049479095], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272757", "Load": [0.9999999999768078], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272763", "Load": [16.000000000023647], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272769", "Load": [3.999999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272775", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272781", "Load": [15.999999999985448], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272787", "Load": [9.090909090921619], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272793", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272799", "Load": [9.900990098998756], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272805", "Load": [2.0408163265287182], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272811", "Load": [3.030303030280759], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272817", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272823", "Load": [99.99999999997704], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272829", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272835", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272841", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272847", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272853", "Load": [15.15151515151167], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272859", "Load": [18.181818181805653], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272861", "Load": [13.861386138609516], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272866", "Load": [32.821782178227096], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272872", "Load": [16.161616161633738], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272878", "Load": [9.000000000014552], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272884", "Load": [15.999999999999545], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272890", "Load": [5.05050505050157], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272896", "Load": [33.33333333334499], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272902", "Load": [17.171717171704646], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272908", "Load": [2.0408163265345185], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272914", "Load": [33.16161616160275], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272920", "Load": [19.8619861986195], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272926", "Load": [2.0408163265287182], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272932", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272938", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272944", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272950", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272956", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272962", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272968", "Load": [6.990699069906187], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272974", "Load": [33.12121212120969], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272980", "Load": [20.910891089121847], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272986", "Load": [7.980798079808178], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272992", "Load": [30.831683168326723], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759272998", "Load": [31.86318631863273], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273004", "Load": [8.030303030295002], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273010", "Load": [14.285714285730858], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273016", "Load": [27.962796279635775], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273022", "Load": [8.97089708970304], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273028", "Load": [15.151515151509235], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273034", "Load": [8.081632653051905], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273040", "Load": [7.950495049530644], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273046", "Load": [15.841584158398009], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273052", "Load": [9.930693069282412], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273058", "Load": [6.00000000001728], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273064", "Load": [16.141614161438582], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273070", "Load": [13.162234590781281], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273076", "Load": [26.861386138620432], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273082", "Load": [31.2323232323286], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273088", "Load": [8.999999999997499], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273094", "Load": [27.000000000015234], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273100", "Load": [17.999999999989313], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273106", "Load": [6.99999999997226], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273112", "Load": [17.00000000002342], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273118", "Load": [43.553178847306654], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273124", "Load": [7.960396039614963], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273130", "Load": [0.990099009922388], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273136", "Load": [27.40672026388191], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273142", "Load": [4.010101010080303], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273148", "Load": [16.0000000000025], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273154", "Load": [19.000000000005457], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273160", "Load": [11.216494845378936], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273166", "Load": [0.9999999999763531], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273172", "Load": [6.060606060577526], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273178", "Load": [17.171717171693857], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273184", "Load": [30.222222222212395], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273190", "Load": [19.30612244898022], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273196", "Load": [26.26262626264262], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273202", "Load": [16.080808080795236], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273208", "Load": [9.940594059403917], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273214", "Load": [13.131313131327053], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273220", "Load": [39.39393939393522], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273226", "Load": [18.151515151501982], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273232", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273238", "Load": [30.14141414140849], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273244", "Load": [5.0202020201979], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273250", "Load": [1.980198019799751], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273256", "Load": [25.345289631028947], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273262", "Load": [23.000000000013188], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273268", "Load": [2.941176470586924], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273274", "Load": [17.99999999998363], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273280", "Load": [7.030303030280022], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273286", "Load": [7.920792079204634], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273292", "Load": [24.217013538075868], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273298", "Load": [41.17171717170625], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273305", "Load": [9.09090909091431], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273311", "Load": [7.0303030303029885], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273317", "Load": [20.202020202034703], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273323", "Load": [14.060606060605977], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273329", "Load": [14.11111111111221], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273335", "Load": [41.34148708989476], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273341", "Load": [22.000000000003865], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273347", "Load": [8.940594059424722], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273353", "Load": [13.131313131304085], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273359", "Load": [22.22222222221839], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273365", "Load": [7.111935683358379], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273371", "Load": [29.999999999984084], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273377", "Load": [19.26651848857762], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273383", "Load": [5.0202020201979], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273389", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273395", "Load": [7.0707070707022], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273401", "Load": [17.999999999994998], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273407", "Load": [33.15151515149721], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273413", "Load": [7.9999999999990905], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273419", "Load": [17.0404040404008], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273425", "Load": [11.02020202020222], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273431", "Load": [8.050505050481846], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273437", "Load": [16.831683168297886], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273443", "Load": [44.762376237623165], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273449", "Load": [5.020202020199264], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273455", "Load": [7.0000000000100036], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273461", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273467", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273473", "Load": [82.43339797902328], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273479", "Load": [30.306122448991882], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273485", "Load": [19.03030303029213], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273491", "Load": [3.0303030303239096], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273497", "Load": [2.0202020202006286], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273503", "Load": [12.121212121215255], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273509", "Load": [11.910891089111422], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273515", "Load": [29.29292929292634], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273521", "Load": [18.03327391563314], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273527", "Load": [11.070707070720154], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273533", "Load": [3.030303030305756], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273539", "Load": [3.999999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273545", "Load": [27.272727272719965], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273551", "Load": [40.404040404024045], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273557", "Load": [3.999999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273563", "Load": [37.00000000000614], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273569", "Load": [14.204081632635218], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273575", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273581", "Load": [99.99999999997749], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273587", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273593", "Load": [18.999999999999773], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273599", "Load": [16.16161616161558], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273605", "Load": [17.030303030315295], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273611", "Load": [3.030303030328723], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273617", "Load": [6.040604060404868], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273623", "Load": [19.151515151498522], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273629", "Load": [23.080808080834576], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273635", "Load": [3.0303030302995504], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273641", "Load": [15.999999999990905], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273647", "Load": [22.080808080810286], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273653", "Load": [11.111111111103456], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273659", "Load": [29.151515151509237], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273665", "Load": [43.448979591847475], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273671", "Load": [11.08080808080547], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273677", "Load": [2.9999999999772626], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273683", "Load": [16.666666666668526], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273689", "Load": [18.99999999998272], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273695", "Load": [19.151915191510717], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273701", "Load": [40.99999999999113], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273707", "Load": [9.999999999997954], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273713", "Load": [2.0202020202006286], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273719", "Load": [3.9900990099023588], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273725", "Load": [8.080808080802512], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273731", "Load": [13.265306122442825], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273737", "Load": [30.151515151495616], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273743", "Load": [11.163265306112145], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273749", "Load": [20.920792079175357], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273755", "Load": [13.999999999992951], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273761", "Load": [19.999999999986812], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273767", "Load": [25.99999999998272], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273773", "Load": [27.272727272742934], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273779", "Load": [12.882352941167921], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273785", "Load": [16.161616161614827], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273791", "Load": [23.060606060610585], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273797", "Load": [13.040816326530347], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273803", "Load": [26.49969078538144], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273809", "Load": [34.06060606060785], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273815", "Load": [14.101010101010987], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273821", "Load": [16.000000000014552], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273827", "Load": [6.030303030298214], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273833", "Load": [5.980598059804944], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273839", "Load": [28.999999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273845", "Load": [29.29292929292634], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273851", "Load": [3.0303030303211256], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273857", "Load": [5.040404040406998], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273863", "Load": [6.030303030296822], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273869", "Load": [14.000000000010004], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273875", "Load": [16.910891089097234], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273881", "Load": [32.16161616161014], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273887", "Load": [8.08080808082548], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273893", "Load": [18.00000000002774], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273899", "Load": [17.86178617862492], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273905", "Load": [7.070707070713682], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273911", "Load": [24.265306122426193], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273917", "Load": [39.7959183673435], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273923", "Load": [7.070707070713682], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273929", "Load": [7.091321377028916], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273935", "Load": [5.000000000017735], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273941", "Load": [17.171717171722563], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273947", "Load": [8.903561424573908], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273953", "Load": [34.19191919190904], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273959", "Load": [19.07070707073108], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273965", "Load": [5.0202020201979], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273971", "Load": [12.12121212120377], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273977", "Load": [11.96039603959401], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273983", "Load": [9.99999999999659], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273989", "Load": [44.748455428068524], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759273995", "Load": [16.13131313132569], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274001", "Load": [15.121212121189789], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274007", "Load": [7.0707070707104345], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274013", "Load": [22.17171717172376], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274019", "Load": [18.871887188694373], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274025", "Load": [37.141414141406216], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274031", "Load": [10.920792079242666], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274037", "Load": [7.030303030320272], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274043", "Load": [15.00000000000455], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274049", "Load": [7.9504950495248465], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274055", "Load": [6.0505050505231734], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274061", "Load": [41.351788240075216], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274067", "Load": [6.990699069899053], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274073", "Load": [14.141414141450332], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274079", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274085", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274091", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274097", "Load": [33.14141414141484], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274103", "Load": [7.030303030310492], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274109", "Load": [2.9900990098985023], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274115", "Load": [17.265306122450077], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274121", "Load": [4.061018346735147], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274127", "Load": [15.151515151521938], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274132", "Load": [24.00000000000091], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274138", "Load": [6.9999999999936335], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274144", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274150", "Load": [3.0303030302981586], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274156", "Load": [2.0408163265277715], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274162", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274168", "Load": [15.151515151513758], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274174", "Load": [7.84313725489147], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274180", "Load": [1.980198019799751], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274186", "Load": [3.0303030302779757], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274192", "Load": [9.999999999990905], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274198", "Load": [9.000000000014552], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274204", "Load": [15.686274509805234], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274210", "Load": [19.191919191928935], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274216", "Load": [15.000000000009095], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274222", "Load": [2.999999999994543], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274228", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274234", "Load": [14.141414141414375], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274240", "Load": [14.705882352956912], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274246", "Load": [15.686274509805234], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274252", "Load": [1.9999999999754436], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274258", "Load": [3.999999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274264", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274270", "Load": [4.0404040403975445], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274276", "Load": [7.142857142870401], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274282", "Load": [15.000000000009095], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274288", "Load": [2.0202020202006286], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274294", "Load": [13.131313131281116], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274300", "Load": [7.142857142870401], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274306", "Load": [7.000000000016371], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274312", "Load": [12.99999999999909], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274318", "Load": [21.212121212129563], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274324", "Load": [3.999999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274330", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274336", "Load": [16.32653061223732], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274342", "Load": [3.999999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274348", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274354", "Load": [28.712871287118908], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274360", "Load": [3.0303030303239096], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274366", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274373", "Load": [7.920792079199004], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274379", "Load": [8.163265306111086], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274385", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274391", "Load": [16.000000000008185], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274397", "Load": [4.9999999999954525], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274403", "Load": [1.0101010101003143], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274409", "Load": [2.9999999999972715], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274415", "Load": [13.86138613861074], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274421", "Load": [8.999999999991815], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274427", "Load": [13.131313131304085], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274433", "Load": [16.000000000008185], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274439", "Load": [10], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274445", "Load": [2.9999999999972715], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274451", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274457", "Load": [14.141414141427363], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274463", "Load": [16.000000000022737], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274469", "Load": [1.0101010101003143], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274475", "Load": [15.000000000009095], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274481", "Load": [3.9603960396030686], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274487", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274493", "Load": [3.0303030303009426], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274499", "Load": [17.821782178220275], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274505", "Load": [3.960396039599502], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274511", "Load": [2.9999999999972715], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274517", "Load": [6], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274523", "Load": [8.910891089121394], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274529", "Load": [2.9999999999972715], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274535", "Load": [27.722772277219033], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274541", "Load": [8.080808080795089], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274547", "Load": [2.0202020202006286], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274553", "Load": [11.000000000012733], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274559", "Load": [14.999999999986358], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274565", "Load": [4.950495049499378], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274571", "Load": [17.000000000007276], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274577", "Load": [20.000000000004547], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274583", "Load": [3.0303030302981586], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274589", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274595", "Load": [4.040404040401257], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274601", "Load": [5.102040816319428], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274607", "Load": [14.141414141427363], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274613", "Load": [11.111111111103455], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274619", "Load": [3.0303030303009426], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274625", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274631", "Load": [3.0303030303009426], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274637", "Load": [12.999999999976353], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274643", "Load": [23.00000000000182], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274649", "Load": [14.999999999986358], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274655", "Load": [14.000000000010004], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274661", "Load": [11.000000000022737], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274667", "Load": [6.93069306930537], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274673", "Load": [1.9801980198015343], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274679", "Load": [24.24242424243051], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274685", "Load": [15.151515151518632], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274691", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274697", "Load": [13.861386138620771], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274703", "Load": [99.99999999997749], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274709", "Load": [99.99999999997749], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274715", "Load": [3.960396039599502], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274721", "Load": [17], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274727", "Load": [2.020202020223595], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274733", "Load": [2.999999999974534], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274739", "Load": [12.000000000022737], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274745", "Load": [7.999999999992724], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274751", "Load": [3.960396039599502], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274757", "Load": [24.00000000000182], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274763", "Load": [14.141414141391406], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274769", "Load": [2.040816326529665], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274775", "Load": [3.9999999999545253], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274781", "Load": [14.99999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274787", "Load": [2.999999999974534], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274793", "Load": [14.99999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274799", "Load": [19.801980198015347], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274805", "Load": [3.000000000020009], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274811", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274817", "Load": [3.0303030302779757], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274823", "Load": [5.00000000001819], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274829", "Load": [15.000000000022737], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274835", "Load": [17.171717171728307], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274841", "Load": [4.950495049481324], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274847", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274853", "Load": [2.0202020202024844], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274859", "Load": [13.131313131327053], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274865", "Load": [14.285714285707657], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274871", "Load": [16.99999999998454], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274877", "Load": [11.881188118798509], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274883", "Load": [14.000000000000002], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274889", "Load": [3.9603960396030686], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274895", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274901", "Load": [16.99999999998454], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274907", "Load": [15.151515151495666], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274913", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274919", "Load": [4.0404040404168], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274925", "Load": [3.999999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274931", "Load": [3.960396039599502], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274937", "Load": [2.999999999994543], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274943", "Load": [18.627450980383852], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274949", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274955", "Load": [2.0202020202217392], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274961", "Load": [12.121212121226737], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274967", "Load": [9.090909090925795], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274973", "Load": [2.9999999999972715], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274979", "Load": [26.262626262631134], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274985", "Load": [7.999999999992724], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274991", "Load": [2.0202020202006286], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759274997", "Load": [1.010101010122353], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275003", "Load": [18.18181818185159], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275009", "Load": [3.0303030303009426], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275015", "Load": [15.999999999991815], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275021", "Load": [12.871287128720896], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275027", "Load": [3.0303030302779757], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275033", "Load": [1.010101010077347], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275039", "Load": [3.0303030303009426], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275045", "Load": [3.0303030303009426], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275051", "Load": [16.8316831683204], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275057", "Load": [3.0303030302981586], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275063", "Load": [13.541666666653837], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275069", "Load": [2.999999999974534], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275075", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275083", "Load": [16.99999999998454], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275093", "Load": [13.131313131316148], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275103", "Load": [8.999999999991815], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275113", "Load": [21.212121212110077], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275124", "Load": [13.131313131327053], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275134", "Load": [13.131313131327053], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275144", "Load": [14.00000000002274], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275158", "Load": [17.171717171728307], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275169", "Load": [10.999999999989996], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275179", "Load": [15.999999999993634], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275189", "Load": [19.000000000022737], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275200", "Load": [9.999999999990905], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275210", "Load": [17.171717171728307], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275220", "Load": [14.2857142857176], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275230", "Load": [9.000000000014552], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275240", "Load": [22.000000000022737], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275250", "Load": [21.212121212106595], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275261", "Load": [18.99999999996544], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275271", "Load": [19.99999999998181], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275281", "Load": [25.252525252530823], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275292", "Load": [14.141414141414375], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275302", "Load": [17.171717171682374], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275312", "Load": [11.111111111126421], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275322", "Load": [98.98989898985468], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275333", "Load": [99.99999999991255], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275343", "Load": [25], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275353", "Load": [99.99999999997607], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275363", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275374", "Load": [99.99999999997726], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275384", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275395", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275404", "Load": [99.99999999993378], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275415", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275425", "Load": [99.99999999997657], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275435", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275445", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275456", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275466", "Load": [99.9999999999777], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275477", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275487", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275493", "Load": [3.999999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275499", "Load": [3], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275505", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275511", "Load": [4.000000000019099], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275517", "Load": [13.402061855677836], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275523", "Load": [19.191919191911307], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275529", "Load": [2.999999999974534], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275535", "Load": [13.86138613861074], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
-{"TimeStamp": "1759275541", "Load": [7.1428571428770296], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl"}
+{"TimeStamp": "1759272733", "Load": [6.9999999999936335], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759272739", "Load": [4.9504950495016065], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759272745", "Load": [28.86597938145635], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759272751", "Load": [4.950495049479095], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759272757", "Load": [0.9999999999768078], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759272763", "Load": [16.000000000023647], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759272769", "Load": [3.999999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759272775", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759272781", "Load": [15.999999999985448], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759272787", "Load": [9.090909090921619], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759272793", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759272799", "Load": [9.900990098998756], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759272805", "Load": [2.0408163265287182], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759272811", "Load": [3.030303030280759], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759272817", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759272823", "Load": [99.99999999997704], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759272829", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759272835", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759272841", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759272847", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759272853", "Load": [29.012901290121185], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272859", "Load": [33.181818181812474], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272865", "Load": [20.852085208526958], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272871", "Load": [13.131313131327053], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272877", "Load": [21.000000000017735], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272883", "Load": [9.050505050497932], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272889", "Load": [12.121212121215427], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272895", "Load": [24.24242424242981], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272901", "Load": [16.18223046793892], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272907", "Load": [16.999999999997726], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272913", "Load": [32.99329932992359], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272919", "Load": [5.07111935682966], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272925", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272931", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272937", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272943", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272949", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272955", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272961", "Load": [4.04040404040607], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272967", "Load": [16.08160816080919], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272973", "Load": [33.000000000000455], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272979", "Load": [13.861386138628628], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272985", "Load": [19.86198619861766], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272991", "Load": [36.772277227739906], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759272997", "Load": [12.121212121202376], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273003", "Load": [4.9999999999954525], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273009", "Load": [26.406926406946113], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273015", "Load": [21.782178217825404], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273021", "Load": [18.181818181807394], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273027", "Load": [3.999999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273033", "Load": [9.032127702566179], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273039", "Load": [3.000000000020009], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273045", "Load": [22.772277227705885], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273051", "Load": [5.999999999971806], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273057", "Load": [18.151515151536202], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273063", "Load": [11.091109110932372], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273069", "Load": [16.922610628380813], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273075", "Load": [21.000000000009322], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273081", "Load": [28.23232323233133], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273087", "Load": [18.000000000000682], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273093", "Load": [21.000000000009322], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273099", "Load": [12.99999999998954], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273105", "Load": [19.999999999976126], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273111", "Load": [15.141414141436044], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273117", "Load": [33.37216074549103], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273123", "Load": [4.000000000015461], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273129", "Load": [15.131513151338268], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273135", "Load": [16.26530612246898], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273141", "Load": [17.010101010079847], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273147", "Load": [2.9999999999972715], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273153", "Load": [20.000000000004547], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273159", "Load": [7.216494845382574], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273165", "Load": [4.0303030302759035], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273171", "Load": [17.171717171693857], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273177", "Load": [25.252525252497648], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273183", "Load": [12.000000000000455], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273189", "Load": [28.437435580288057], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273195", "Load": [21.13131313131978], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273201", "Load": [14.021402140210071], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273207", "Load": [3.999999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273213", "Load": [40.404040404058506], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273219", "Load": [15.121212121201042], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273225", "Load": [15.151515151504713], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273231", "Load": [16.000000000004093], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273237", "Load": [16.16161616160503], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273243", "Load": [2.9999999999972715], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273249", "Load": [18.141814181422003], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273255", "Load": [16.183673469411698], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273261", "Load": [18.94117647059511], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273267", "Load": [3.999999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273273", "Load": [17.999999999989313], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273279", "Load": [10.951095109482608], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273285", "Load": [15.30612244897699], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273291", "Load": [32.91089108909979], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273298", "Load": [26.262626262619648], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273304", "Load": [4.000000000002046], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273310", "Load": [16.16161616161048], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273316", "Load": [15.07070707072926], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273322", "Load": [17.171717171716825], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273328", "Load": [19.831683168312043], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273334", "Load": [39.509803921590226], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273340", "Load": [9.99999999999659], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273346", "Load": [5.940594059421766], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273352", "Load": [24.242424242419023], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273358", "Load": [15.192743764160891], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273364", "Load": [19.03030303029776], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273370", "Load": [17.960396039592396], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273376", "Load": [18.30612244896976], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273382", "Load": [2.0202020202006286], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273388", "Load": [4.040404040401257], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273394", "Load": [17.030303030299578], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273400", "Load": [21.99999999998886], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273406", "Load": [20.15151515150926], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273412", "Load": [15.999999999994088], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273418", "Load": [13.040404040402848], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273424", "Load": [7.070707070707941], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273430", "Load": [2.999999999974534], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273436", "Load": [40.59405940591741], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273442", "Load": [24.000000000002274], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273448", "Load": [2.0202020202006286], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273454", "Load": [27.000000000012278], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273460", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273466", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273472", "Load": [96.7494214181062], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273478", "Load": [18.03030303031578], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273484", "Load": [15.999999999985448], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273490", "Load": [5.050505050524539], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273496", "Load": [6.0606060606133685], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273502", "Load": [14.971497149716036], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273508", "Load": [19.161616161619524], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273514", "Load": [26.26262626262568], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273520", "Load": [11.972667855016233], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273526", "Load": [6.0202020202209034], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273532", "Load": [1.0101010101003143], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273538", "Load": [18.14141414141224], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273544", "Load": [31.313131313121225], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273550", "Load": [22.22222222220691], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273556", "Load": [26.999999999992497], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273562", "Load": [18.000000000006366], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273568", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273574", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273580", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273586", "Load": [37.772277227745576], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273592", "Load": [19.151515151512555], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273598", "Load": [4.040404040404678], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273604", "Load": [16.020202020215446], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273610", "Load": [6.060606060628274], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273616", "Load": [4.990099009907606], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273622", "Load": [30.151515151499886], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273628", "Load": [11.11111111112503], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273634", "Load": [12.999999999993634], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273640", "Load": [11.080808080807557], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273646", "Load": [17.030303030300946], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273652", "Load": [23.23232323231175], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273658", "Load": [34.999999999997954], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273664", "Load": [25.448979591852474], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273670", "Load": [8.080808080802514], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273676", "Load": [19.66666666664579], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273682", "Load": [3.999999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273688", "Load": [16.980198019791736], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273694", "Load": [45.171717171708295], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273700", "Load": [15.999999999992497], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273706", "Load": [6.9999999999936335], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273712", "Load": [5.02020202020222], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273718", "Load": [6.040604060402337], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273724", "Load": [3.0303030303009426], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273730", "Load": [28.265306122433728], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273736", "Load": [23.314780457619584], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273742", "Load": [10.920792079196275], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273748", "Load": [18.99999999997658], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273754", "Load": [21.999999999984993], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273760", "Load": [13.999999999987267], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273766", "Load": [34.1616161616065], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273772", "Load": [18.111111111125737], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273778", "Load": [22.04396910278343], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273784", "Load": [6.060606060610584], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273790", "Load": [28.000000000000682], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273796", "Load": [25.510204081633127], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273802", "Load": [9.090909090888559], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273808", "Load": [38.101010101011894], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273814", "Load": [17.999999999989996], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273820", "Load": [5.00000000001819], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273826", "Load": [5.050505050506384], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273832", "Load": [31.960396039596773], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273838", "Load": [14.1313131313204], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273844", "Load": [16.16161616160503], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273850", "Load": [7.070707070728124], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273856", "Load": [4.03030303029955], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273862", "Load": [2.9999999999972715], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273868", "Load": [22.910891089114514], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273874", "Load": [24.161616161609235], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273880", "Load": [15.999999999993634], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273886", "Load": [11.080808080821388], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273892", "Load": [30.841584158457984], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273898", "Load": [9.090909090912454], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273904", "Load": [10.99999999999568], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273910", "Load": [37.755102040792536], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273916", "Load": [22.376829519695168], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273922", "Load": [5.050505050499251], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273928", "Load": [3.040816326528301], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273934", "Load": [21.171717171741662], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273940", "Load": [6.862745098044243], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273946", "Load": [17.04081632652739], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273952", "Load": [31.19191919191722], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273958", "Load": [10.070707070722438], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273964", "Load": [2.0202020202006286], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273970", "Load": [16.081608160805057], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273976", "Load": [11.99999999999477], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273982", "Load": [23.475728155331616], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273988", "Load": [30.272727272730087], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759273994", "Load": [25.252525252542306], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274000", "Load": [10.070707070684968], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274006", "Load": [4.9999999999954525], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274012", "Load": [33.01330133014471], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274018", "Load": [26.030303030279796], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274024", "Load": [17.141414141403033], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274030", "Load": [11.920792079240393], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274036", "Load": [18.030303030328458], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274042", "Load": [3.000000000002956], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274048", "Load": [5.950495049520526], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274054", "Load": [30.56070913215672], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274060", "Load": [18.871887188742583], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274066", "Load": [3.960396039599502], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274072", "Load": [17.171717171749883], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274078", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274084", "Load": [99.99999999992744], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274090", "Load": [100.0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274096", "Load": [23.000000000015007], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274102", "Load": [4.020402040201264], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274108", "Load": [5.999999999994543], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274114", "Load": [15.306122448988233], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274120", "Load": [17.171717171722566], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 1}
+{"TimeStamp": "1759274126", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274132", "Load": [24.00000000000091], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274138", "Load": [6.9999999999936335], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274144", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274150", "Load": [3.0303030302981586], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274156", "Load": [2.0408163265277715], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274162", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274168", "Load": [15.151515151513758], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274174", "Load": [7.84313725489147], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274180", "Load": [1.980198019799751], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274186", "Load": [3.0303030302779757], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274192", "Load": [9.999999999990905], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274198", "Load": [9.000000000014552], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274204", "Load": [15.686274509805234], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274210", "Load": [19.191919191928935], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274216", "Load": [15.000000000009095], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274222", "Load": [2.999999999994543], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274228", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274234", "Load": [14.141414141414375], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274240", "Load": [14.705882352956912], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274246", "Load": [15.686274509805234], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274252", "Load": [1.9999999999754436], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274258", "Load": [3.999999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274264", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274270", "Load": [4.0404040403975445], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274276", "Load": [7.142857142870401], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274282", "Load": [15.000000000009095], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274288", "Load": [2.0202020202006286], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274294", "Load": [13.131313131281116], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274300", "Load": [7.142857142870401], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274306", "Load": [7.000000000016371], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274312", "Load": [12.99999999999909], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274318", "Load": [21.212121212129563], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274324", "Load": [3.999999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274330", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274336", "Load": [16.32653061223732], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274342", "Load": [3.999999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274348", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274354", "Load": [28.712871287118908], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274360", "Load": [3.0303030303239096], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274366", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274373", "Load": [7.920792079199004], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274379", "Load": [8.163265306111086], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274385", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274391", "Load": [16.000000000008185], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274397", "Load": [4.9999999999954525], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274403", "Load": [1.0101010101003143], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274409", "Load": [2.9999999999972715], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274415", "Load": [13.86138613861074], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274421", "Load": [8.999999999991815], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274427", "Load": [13.131313131304085], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274433", "Load": [16.000000000008185], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274439", "Load": [10], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274445", "Load": [2.9999999999972715], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274451", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274457", "Load": [14.141414141427363], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274463", "Load": [16.000000000022737], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274469", "Load": [1.0101010101003143], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274475", "Load": [15.000000000009095], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274481", "Load": [3.9603960396030686], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274487", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274493", "Load": [3.0303030303009426], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274499", "Load": [17.821782178220275], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274505", "Load": [3.960396039599502], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274511", "Load": [2.9999999999972715], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274517", "Load": [6], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274523", "Load": [8.910891089121394], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274529", "Load": [2.9999999999972715], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274535", "Load": [27.722772277219033], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274541", "Load": [8.080808080795089], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274547", "Load": [2.0202020202006286], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274553", "Load": [11.000000000012733], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274559", "Load": [14.999999999986358], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274565", "Load": [4.950495049499378], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274571", "Load": [17.000000000007276], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274577", "Load": [20.000000000004547], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274583", "Load": [3.0303030302981586], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274589", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274595", "Load": [4.040404040401257], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274601", "Load": [5.102040816319428], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274607", "Load": [14.141414141427363], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274613", "Load": [11.111111111103455], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274619", "Load": [3.0303030303009426], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274625", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274631", "Load": [3.0303030303009426], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274637", "Load": [12.999999999976353], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274643", "Load": [23.00000000000182], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274649", "Load": [14.999999999986358], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274655", "Load": [14.000000000010004], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274661", "Load": [11.000000000022737], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274667", "Load": [6.93069306930537], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274673", "Load": [1.9801980198015343], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274679", "Load": [24.24242424243051], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274685", "Load": [15.151515151518632], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274691", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274697", "Load": [13.861386138620771], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274703", "Load": [99.99999999997749], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274709", "Load": [99.99999999997749], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274715", "Load": [3.960396039599502], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274721", "Load": [17], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274727", "Load": [2.020202020223595], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274733", "Load": [2.999999999974534], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274739", "Load": [12.000000000022737], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274745", "Load": [7.999999999992724], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274751", "Load": [3.960396039599502], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274757", "Load": [24.00000000000182], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274763", "Load": [14.141414141391406], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274769", "Load": [2.040816326529665], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274775", "Load": [3.9999999999545253], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274781", "Load": [14.99999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274787", "Load": [2.999999999974534], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274793", "Load": [14.99999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274799", "Load": [19.801980198015347], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274805", "Load": [3.000000000020009], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274811", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274817", "Load": [3.0303030302779757], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274823", "Load": [5.00000000001819], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274829", "Load": [15.000000000022737], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274835", "Load": [17.171717171728307], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274841", "Load": [4.950495049481324], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274847", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274853", "Load": [2.0202020202024844], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274859", "Load": [13.131313131327053], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274865", "Load": [14.285714285707657], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274871", "Load": [16.99999999998454], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274877", "Load": [11.881188118798509], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274883", "Load": [14.000000000000002], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274889", "Load": [3.9603960396030686], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274895", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274901", "Load": [16.99999999998454], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274907", "Load": [15.151515151495666], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274913", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274919", "Load": [4.0404040404168], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274925", "Load": [3.999999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274931", "Load": [3.960396039599502], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274937", "Load": [2.999999999994543], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274943", "Load": [18.627450980383852], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274949", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274955", "Load": [2.0202020202217392], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274961", "Load": [12.121212121226737], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274967", "Load": [9.090909090925795], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274973", "Load": [2.9999999999972715], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274979", "Load": [26.262626262631134], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274985", "Load": [7.999999999992724], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274991", "Load": [2.0202020202006286], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759274997", "Load": [1.010101010122353], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275003", "Load": [18.18181818185159], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275009", "Load": [3.0303030303009426], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275015", "Load": [15.999999999991815], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275021", "Load": [12.871287128720896], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275027", "Load": [3.0303030302779757], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275033", "Load": [1.010101010077347], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275039", "Load": [3.0303030303009426], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275045", "Load": [3.0303030303009426], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275051", "Load": [16.8316831683204], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275057", "Load": [3.0303030302981586], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275063", "Load": [13.541666666653837], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275069", "Load": [2.999999999974534], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275075", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275083", "Load": [16.99999999998454], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275093", "Load": [13.131313131316148], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275103", "Load": [8.999999999991815], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275113", "Load": [21.212121212110077], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275124", "Load": [13.131313131327053], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275134", "Load": [13.131313131327053], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275144", "Load": [14.00000000002274], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275158", "Load": [17.171717171728307], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275169", "Load": [10.999999999989996], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275179", "Load": [15.999999999993634], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275189", "Load": [19.000000000022737], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275200", "Load": [9.999999999990905], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275210", "Load": [17.171717171728307], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275220", "Load": [14.2857142857176], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275230", "Load": [9.000000000014552], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275240", "Load": [22.000000000022737], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275250", "Load": [21.212121212106595], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275261", "Load": [18.99999999996544], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275271", "Load": [19.99999999998181], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275281", "Load": [25.252525252530823], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275292", "Load": [14.141414141414375], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275302", "Load": [17.171717171682374], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275312", "Load": [11.111111111126421], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275322", "Load": [98.98989898985468], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275333", "Load": [99.99999999991255], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275343", "Load": [25], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275353", "Load": [99.99999999997607], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275363", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275374", "Load": [99.99999999997726], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275384", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275395", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275404", "Load": [99.99999999993378], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275415", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275425", "Load": [99.99999999997657], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275435", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275445", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275456", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275466", "Load": [99.9999999999777], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275477", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275487", "Load": [100], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275493", "Load": [3.999999999996362], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275499", "Load": [3], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275505", "Load": [0], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275511", "Load": [4.000000000019099], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275517", "Load": [13.402061855677836], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275523", "Load": [19.191919191911307], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275529", "Load": [2.999999999974534], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275535", "Load": [13.86138613861074], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}
+{"TimeStamp": "1759275541", "Load": [7.1428571428770296], "DevID": "client-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl", "malicious": 0}

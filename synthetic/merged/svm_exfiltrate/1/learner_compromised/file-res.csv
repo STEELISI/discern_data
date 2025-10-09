@@ -1,0 +1,4 @@
+timestamp,device_id,location,size,hash,owner,group,malicious
+1759290716,unified.dev.id,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,1
+1759290716,unified.dev.id,/etc/systemd/network/eth1.network,191,DOXoF4remMCX1u+e98oo+A==,root,root,1
+1759290716,unified.dev.id,/etc/systemd/network/eth2.network,117,urQ6t2Us9yhs/ArIjtKLNA==,root,root,1

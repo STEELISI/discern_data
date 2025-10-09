@@ -1,0 +1,9 @@
+timestamp,device_id,location,size,hash,owner,group,malicious
+1759281815,attacker-victim2.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,185,SV6HQ++tKaEM1pGOAim4Eg==,root,root,0
+1759282441,attacker-victim2.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,185,dEd2yDTw3uJfDD6boQmNrg==,root,root,0
+1759283065,attacker-victim2.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,235,1mtNWUPt/K/rjxiD/mif/A==,root,root,0
+1759283065,attacker-victim2.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,185,YaWZMq2muCNtoMWDjqvi9g==,root,root,0
+1759283703,attacker-victim2.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/ettercap/etter.dns,4851,KYqGP0voOtN/c0oQDCJVDQ==,root,root,0
+1759283703,attacker-victim2.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,0
+1759283703,attacker-victim2.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,185,dEd2yDTw3uJfDD6boQmNrg==,root,root,0
+1759284369,attacker-victim2.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,185,WB/R0KlCPDOTV9TDakIgog==,root,root,0

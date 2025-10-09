@@ -1,0 +1,3 @@
+timestamp,device_id,location,size,hash,owner,group
+1759252947,victim1.bnsdq.ozxfs.bomyo.kvugl,/etc/systemd/network/eth2.network,185,cB1fUD0JAPYCMw77qIGHTA==,root,root
+1759253568,victim1.bnsdq.ozxfs.bomyo.kvugl,/etc/systemd/network/eth1.network,121,CUr98tqLKv2xB9jyC7/ptw==,root,root

@@ -2124,6 +2124,9 @@ timestamp,device,length,link_protocol,network_protocol,transport_protocol,src_ip
 1759266974,eth0,54,Ethernet,IPv4,N/A,172.30.0.194,224.0.0.22,0,0
 1759266974,any,56,N/A,IPv4,N/A,172.30.0.194,224.0.0.22,0,0
 1759266974,eth0,363,Ethernet,IPv4,UDP,0.0.0.0,255.255.255.255,68,67
+1759266974,any,365,N/A,IPv4,UDP,0.0.0.0,255.255.255.255,68,67
+1759266974,eth2,110,Ethernet,IPv6,ICMP,fe80::40a7:8bff:fe6f:222,ff02::179,0,0
+1759266974,eth1,110,Ethernet,IPv6,ICMP,fe80::e49c:dff:fe02:181,ff02::179,0,0
 1759266975,eth0,375,Ethernet,IPv4,UDP,0.0.0.0,255.255.255.255,68,67
 1759266975,eth0,42,Ethernet,N/A,N/A,N/A,N/A,0,0
 1759266975,eth0,368,Ethernet,IPv4,UDP,0.0.0.0,255.255.255.255,68,67
@@ -2145,12 +2148,9 @@ timestamp,device,length,link_protocol,network_protocol,transport_protocol,src_ip
 1759266975,eth0,70,Ethernet,IPv6,ICMP,fe80::a8cd:c5ff:fed6:113,ff02::204,0,0
 1759266975,eth0,70,Ethernet,IPv6,ICMP,fe80::68bd:8ff:fe36:200,ff02::204,0,0
 1759266975,eth0,42,Ethernet,N/A,N/A,N/A,N/A,0,0
-1759266974,any,365,N/A,IPv4,UDP,0.0.0.0,255.255.255.255,68,67
 1759266975,any,377,N/A,IPv4,UDP,0.0.0.0,255.255.255.255,68,67
 1759266975,any,112,N/A,IPv6,ICMP,fe80::e49c:dff:fe02:181,ff02::179,0,0
 1759266975,any,44,ARP,N/A,N/A,172.30.0.97,172.30.0.122,0,0
-1759266974,eth2,110,Ethernet,IPv6,ICMP,fe80::40a7:8bff:fe6f:222,ff02::179,0,0
-1759266974,eth1,110,Ethernet,IPv6,ICMP,fe80::e49c:dff:fe02:181,ff02::179,0,0
 1759266975,eth1,110,Ethernet,IPv6,ICMP,fe80::e8e3:2fff:fef4:93,ff02::179,0,0
 1759266975,eth1,70,Ethernet,IPv6,ICMP,fe80::98d0:caff:fe3f:197,ff02::204,0,0
 1759266975,eth1,70,Ethernet,IPv6,ICMP,fe80::4046:dfff:fea1:72,ff02::204,0,0
@@ -16274,6 +16274,9 @@ timestamp,device,length,link_protocol,network_protocol,transport_protocol,src_ip
 1759267052,any,87,N/A,IPv6,UDP,fe80::b4fa:d3ff:fe5d:187,ff02::1:52,5355,5355
 1759267052,eth0,363,Ethernet,IPv4,UDP,0.0.0.0,255.255.255.255,68,67
 1759267052,any,365,N/A,IPv4,UDP,0.0.0.0,255.255.255.255,68,67
+1759267052,eth0,375,Ethernet,IPv4,UDP,0.0.0.0,255.255.255.255,68,67
+1759267052,eth2,110,Ethernet,IPv6,ICMP,fe80::40a7:8bff:fe6f:222,ff02::179,0,0
+1759267052,eth1,110,Ethernet,IPv6,ICMP,fe80::e49c:dff:fe02:181,ff02::179,0,0
 1759267053,any,377,N/A,IPv4,UDP,0.0.0.0,255.255.255.255,68,67
 1759267053,any,112,N/A,IPv6,ICMP,fe80::e49c:dff:fe02:181,ff02::179,0,0
 1759267053,any,112,N/A,IPv6,ICMP,fe80::b4fa:d3ff:fe5d:187,ff02::179,0,0
@@ -16299,9 +16302,6 @@ timestamp,device,length,link_protocol,network_protocol,transport_protocol,src_ip
 1759267053,any,378,N/A,IPv4,UDP,0.0.0.0,255.255.255.255,68,67
 1759267053,any,112,N/A,IPv6,ICMP,fe80::acff:e7ff:fe40:60,ff02::179,0,0
 1759267053,any,112,N/A,IPv6,ICMP,fe80::acff:e7ff:fe40:60,ff02::179,0,0
-1759267052,eth0,375,Ethernet,IPv4,UDP,0.0.0.0,255.255.255.255,68,67
-1759267052,eth2,110,Ethernet,IPv6,ICMP,fe80::40a7:8bff:fe6f:222,ff02::179,0,0
-1759267052,eth1,110,Ethernet,IPv6,ICMP,fe80::e49c:dff:fe02:181,ff02::179,0,0
 1759267053,eth1,110,Ethernet,IPv6,ICMP,fe80::84f9:23ff:fe04:74,ff02::179,0,0
 1759267053,eth1,70,Ethernet,IPv6,ICMP,fe80::107d:c8ff:fec9:122,ff02::204,0,0
 1759267053,eth1,70,Ethernet,IPv6,ICMP,fe80::3c07:6cff:fefe:167,ff02::204,0,0

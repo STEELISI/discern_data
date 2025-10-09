@@ -1,0 +1,9 @@
+timestamp,device_id,location,size,hash,owner,group
+1759177519,compromised.bnsdq.ozxfs.owcwb.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root
+1759177519,compromised.bnsdq.ozxfs.owcwb.kvugl,/etc/systemd/network/eth1.network,261,w58GYr4ZA0GQ9Toi/+55VA==,root,root
+1759177544,compromised.bnsdq.ozxfs.owcwb.kvugl,/etc/systemd/network/eth0.network,235,XR+SwQzBzsuOtlQ4EyPOrg==,root,root
+1759177544,compromised.bnsdq.ozxfs.owcwb.kvugl,/etc/systemd/network/eth1.network,261,GePQC2KeEQjEYt6YfDLR6Q==,root,root
+1759177544,compromised.bnsdq.ozxfs.owcwb.kvugl,/etc/systemd/network/eth2.network,49,wiCyZkjpD/Y7G/MnGeNSVw==,root,root
+1759178162,compromised.bnsdq.ozxfs.owcwb.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root
+1759178162,compromised.bnsdq.ozxfs.owcwb.kvugl,/etc/systemd/network/eth1.network,261,s8Xb6/sRtpzmZSHRnGaFAw==,root,root
+1759178162,compromised.bnsdq.ozxfs.owcwb.kvugl,/etc/systemd/network/eth2.network,49,jPcd+0e71vbp98jveD6xRA==,root,root

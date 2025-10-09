@@ -7299,9 +7299,10 @@ timestamp,device,length,link_protocol,network_protocol,transport_protocol,src_ip
 1759266907,eth0,110,Ethernet,IPv6,ICMP,fe80::90dc:fdff:fe12:181,ff02::179,0,0
 1759266907,eth1,110,Ethernet,IPv6,ICMP,fe80::2470:a3ff:fee5:26,ff02::179,0,0
 1759266907,eth1,110,Ethernet,IPv6,ICMP,fe80::3c07:6cff:fefe:167,ff02::179,0,0
+1759266907,any,112,N/A,IPv6,ICMP,fe80::3c07:6cff:fefe:167,ff02::179,0,0
+1759266907,eth0,110,Ethernet,IPv6,ICMP,fe80::90dc:fdff:fe12:181,ff02::179,0,0
 1759266908,eth1,110,Ethernet,IPv6,ICMP,fe80::987b:d4ff:fecf:147,ff02::179,0,0
 1759266908,eth1,110,Ethernet,IPv6,ICMP,fe80::5446:e6ff:fe64:122,ff02::179,0,0
-1759266907,any,112,N/A,IPv6,ICMP,fe80::3c07:6cff:fefe:167,ff02::179,0,0
 1759266908,any,112,N/A,IPv6,ICMP,fe80::90dc:fdff:fe12:181,ff02::179,0,0
 1759266908,any,44,ARP,N/A,N/A,172.30.0.151,172.30.0.122,0,0
 1759266908,any,370,N/A,IPv4,UDP,0.0.0.0,255.255.255.255,68,67
@@ -7315,7 +7316,6 @@ timestamp,device,length,link_protocol,network_protocol,transport_protocol,src_ip
 1759266908,any,56,N/A,IPv4,N/A,172.30.0.43,224.0.0.22,0,0
 1759266908,any,56,N/A,IPv4,N/A,172.30.0.151,224.0.0.22,0,0
 1759266908,any,92,N/A,IPv6,ICMP,fe80::84e:e2ff:fe49:5,ff02::179,0,0
-1759266907,eth0,110,Ethernet,IPv6,ICMP,fe80::90dc:fdff:fe12:181,ff02::179,0,0
 1759266908,eth0,54,Ethernet,IPv4,N/A,172.30.0.151,224.0.0.22,0,0
 1759266908,eth0,42,Ethernet,N/A,N/A,N/A,N/A,0,0
 1759266908,eth0,368,Ethernet,IPv4,UDP,0.0.0.0,255.255.255.255,68,67

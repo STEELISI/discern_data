@@ -1,0 +1,14 @@
+timestamp,device_id,location,size,hash,owner,group,malicious
+1759278691,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,185,vC4gm8txUPEoMYSwWteauA==,root,root,0
+1759278691,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,185,dEd2yDTw3uJfDD6boQmNrg==,root,root,0
+1759279320,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,185,OJpJIqadLgSLUN/7oehRuA==,root,root,0
+1759279573,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,235,DCbHQm9YF9ayuuAFIE0YKQ==,root,root,1
+1759279947,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,185,OM/0lE3KSihWqrkmB7sFlg==,root,root,0
+1759279947,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,185,h7xDw1Tku9MgqrIDVYhM8w==,root,root,0
+1759280592,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/ettercap/etter.dns,4779,wuWzHvaCAYLP55NnvyL2MA==,root,root,0
+1759280592,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,0
+1759280592,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,185,vC4gm8txUPEoMYSwWteauA==,root,root,0
+1759280592,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,185,SV6HQ++tKaEM1pGOAim4Eg==,root,root,0
+1759281233,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,235,XR+SwQzBzsuOtlQ4EyPOrg==,root,root,0
+1759281233,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,185,Fv97bs/WljYxD/Z9QicIKg==,root,root,0
+1759281233,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,185,dEd2yDTw3uJfDD6boQmNrg==,root,root,0

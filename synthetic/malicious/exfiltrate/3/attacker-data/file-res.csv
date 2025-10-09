@@ -1,0 +1,5 @@
+timestamp,device_id,location,size,hash,owner,group
+1759182942,attacker.bnsdq.ozxfs.vmdrv.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root
+1759182942,attacker.bnsdq.ozxfs.vmdrv.kvugl,/etc/systemd/network/eth1.network,191,fXbo5huP6pXehJCMsHc/Dg==,root,root
+1759183568,attacker.bnsdq.ozxfs.vmdrv.kvugl,/etc/systemd/network/eth1.network,191,JI48MTrxdbiutQXPSNRB4Q==,root,root
+1759183568,attacker.bnsdq.ozxfs.vmdrv.kvugl,/etc/systemd/network/eth2.network,117,N0v4juHfNnO4gA+7ITN63g==,root,root

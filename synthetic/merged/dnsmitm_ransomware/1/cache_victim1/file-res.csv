@@ -1,0 +1,4 @@
+timestamp,device_id,location,size,hash,owner,group,malicious
+1759277194,cache-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,1
+1759277285,cache-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,0
+1759277905,cache-victim1.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/bind/named.conf.options,221,NnQ3lbBX+PrxqX5q7gIe/A==,root,bind,0

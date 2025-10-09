@@ -1,0 +1,9 @@
+timestamp,device_id,location,size,hash,owner,group,malicious
+1759275639,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,253,E7p8jZMf1gf27exQ6JoWbw==,root,root,0
+1759275639,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,117,urQ6t2Us9yhs/ArIjtKLNA==,root,root,0
+1759276262,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,253,HqRa2kNX4dqsfP527SP0BQ==,root,root,0
+1759276882,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,253,psJY5Q1l/HEYBWbSGdIfeg==,root,root,0
+1759276882,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,117,Ftjk5SwwUvh3X2+rp2GaHQ==,root,root,0
+1759277155,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,235,XR+SwQzBzsuOtlQ4EyPOrg==,root,root,1
+1759277504,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,253,E7p8jZMf1gf27exQ6JoWbw==,root,root,0
+1759278125,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,117,urQ6t2Us9yhs/ArIjtKLNA==,root,root,0

@@ -1,2 +1,2 @@
-{"TimeStamp": "1759296655", "Size": ["191"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["JI48MTrxdbiutQXPSNRB4Q=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "unified.dev.id"}
-{"TimeStamp": "1759296655", "Size": ["117"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["N0v4juHfNnO4gA+7ITN63g=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "unified.dev.id"}
+{"TimeStamp": "1759296678", "Size": ["191"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["JI48MTrxdbiutQXPSNRB4Q=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "unified.dev.id", "malicious": 1}
+{"TimeStamp": "1759296678", "Size": ["117"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["N0v4juHfNnO4gA+7ITN63g=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "unified.dev.id", "malicious": 1}

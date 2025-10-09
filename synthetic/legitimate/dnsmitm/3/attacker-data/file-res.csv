@@ -1,0 +1,9 @@
+timestamp,device_id,location,size,hash,owner,group
+1759281815,attacker.bnsdq.ozxfs.vcwss.kvugl,/etc/systemd/network/eth2.network,185,SV6HQ++tKaEM1pGOAim4Eg==,root,root
+1759282441,attacker.bnsdq.ozxfs.vcwss.kvugl,/etc/systemd/network/eth2.network,185,dEd2yDTw3uJfDD6boQmNrg==,root,root
+1759283065,attacker.bnsdq.ozxfs.vcwss.kvugl,/etc/systemd/network/eth0.network,235,1mtNWUPt/K/rjxiD/mif/A==,root,root
+1759283065,attacker.bnsdq.ozxfs.vcwss.kvugl,/etc/systemd/network/eth2.network,185,YaWZMq2muCNtoMWDjqvi9g==,root,root
+1759283703,attacker.bnsdq.ozxfs.vcwss.kvugl,/etc/ettercap/etter.dns,4851,KYqGP0voOtN/c0oQDCJVDQ==,root,root
+1759283703,attacker.bnsdq.ozxfs.vcwss.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root
+1759283703,attacker.bnsdq.ozxfs.vcwss.kvugl,/etc/systemd/network/eth2.network,185,dEd2yDTw3uJfDD6boQmNrg==,root,root
+1759284369,attacker.bnsdq.ozxfs.vcwss.kvugl,/etc/systemd/network/eth2.network,185,WB/R0KlCPDOTV9TDakIgog==,root,root

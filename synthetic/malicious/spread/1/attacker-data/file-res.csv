@@ -1,0 +1,3 @@
+timestamp,device_id,location,size,hash,owner,group
+1759176259,attacker.bnsdq.ozxfs.owcwb.kvugl,/etc/systemd/network/eth0.network,235,XR+SwQzBzsuOtlQ4EyPOrg==,root,root
+1759176259,attacker.bnsdq.ozxfs.owcwb.kvugl,/etc/systemd/network/eth1.network,261,gMM0SGU4ub1r535rPc0tzg==,root,root

@@ -1,0 +1,3 @@
+timestamp,device_id,location,size,hash,owner,group
+1759179994,compromised.bnsdq.ozxfs.vmdrv.kvugl,/etc/systemd/network/eth1.network,191,lGBV8FyaFKCgkQVKocSoLQ==,root,root
+1759180616,compromised.bnsdq.ozxfs.vmdrv.kvugl,/etc/systemd/network/eth2.network,117,JQVk0+p8pdjr9asipyrJww==,root,root

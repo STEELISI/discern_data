@@ -1,0 +1,3 @@
+timestamp,device_id,location,size,hash,owner,group,malicious
+1759296678,unified.dev.id,/etc/systemd/network/eth1.network,191,JI48MTrxdbiutQXPSNRB4Q==,root,root,1
+1759296678,unified.dev.id,/etc/systemd/network/eth2.network,117,N0v4juHfNnO4gA+7ITN63g==,root,root,1
