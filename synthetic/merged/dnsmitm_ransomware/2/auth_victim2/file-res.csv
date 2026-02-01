@@ -1,8 +1,10 @@
 timestamp,device_id,location,size,hash,owner,group,malicious
+1759278620,auth-victim2.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,191,iXStiB+I510i5QM/PK+mDQ==,root,root,1
+1759278620,auth-victim2.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,117,dweN/+49dCcS3peZNH4Tew==,root,root,1
 1759279317,auth-victim2.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,253,WERUj8UwVEwHBIiZLjlFJg==,root,root,0
 1759279317,auth-victim2.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,117,Gw8otNVy80qX10MlUMdPpQ==,root,root,0
-1759279643,auth-victim2.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,191,4eKRQAN17YdESYYF/6pdwg==,root,root,1
-1759279643,auth-victim2.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,117,b7fA3pQd+l7g8Y9mweH9lg==,root,root,1
+1759279412,auth-victim2.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,191,4eKRQAN17YdESYYF/6pdwg==,root,root,1
+1759279412,auth-victim2.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,117,b7fA3pQd+l7g8Y9mweH9lg==,root,root,1
 1759279936,auth-victim2.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,253,E7p8jZMf1gf27exQ6JoWbw==,root,root,0
 1759279936,auth-victim2.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,117,uCtlFjSvEANIEBaH01Te3g==,root,root,0
 1759280554,auth-victim2.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,117,urQ6t2Us9yhs/ArIjtKLNA==,root,root,0

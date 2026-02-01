@@ -1,10 +1,13 @@
 timestamp,device_id,location,size,hash,owner,group,malicious
+1759275569,client-victim1.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth0.network,235,DCbHQm9YF9ayuuAFIE0YKQ==,root,root,1
+1759275569,client-victim1.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,191,oQ1oAMZcph9WGHOjD4HS9g==,root,root,1
+1759275569,client-victim1.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,117,ARK/2yR465wjj8U1HiQulg==,root,root,1
 1759275694,client-victim1.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,0
 1759275694,client-victim1.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,185,OYSrwDVAd8SymNQVtBSLPA==,root,root,0
 1759276311,client-victim1.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,0
-1759276313,client-victim1.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,1
-1759276313,client-victim1.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,191,9TaD4GRo+V5/siK/52K27g==,root,root,1
-1759276313,client-victim1.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,117,0Q+DaW9b/aIvgFIdNBs4tA==,root,root,1
 1759277552,client-victim1.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,185,jXGhQJSFF8f/W9BUPg6qxw==,root,root,0
+1759278020,client-victim1.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,1
+1759278020,client-victim1.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,191,9TaD4GRo+V5/siK/52K27g==,root,root,1
+1759278020,client-victim1.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,117,0Q+DaW9b/aIvgFIdNBs4tA==,root,root,1
 1759278495,client-victim1.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,0
 1759278495,client-victim1.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,185,+Tl7mQN4SQnapnlCUS3CUw==,root,root,0

@@ -1,0 +1,20 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips,malicious
+1759278662,auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759278662,auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,eth0,Added,1a:18:a6:ea:67:c3,172.30.0.220; fe80::1818:a6ff:feea:1,0
+1759278662,auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,eth1,Added,ca:e3:54:db:2d:9c,10.1.2.119; fe80::c8e3:54ff:fedb:3,0
+1759278662,auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,eth2,Added,2e:41:54:f0:a3:0c,10.0.2.116; fe80::2c41:54ff:fef0:126,0
+1759278662,auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,bluetooth-monitor,Added,N/A,,0
+1759278662,auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,nflog,Added,N/A,,0
+1759278662,auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,nfqueue,Added,N/A,,0
+1759278662,auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,dbus-session,Added,N/A,,0
+1759278662,auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,any,Added,N/A,,0
+1759278662,auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,dbus-system,Added,N/A,,0
+1759279371,auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,lo,Added,N/A,127.0.0.1; ::105,1
+1759279371,auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,eth1,Added,e6:24:3e:44:df:36,10.0.1.111; fe80::e424:3eff:fe44:86,1
+1759279371,auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,any,Added,N/A,,1
+1759279371,auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,dbus-session,Added,N/A,,1
+1759279371,auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,eth0,Added,b2:19:7f:15:d7:30,172.30.0.163; fe80::b019:7fff:fe15:80,1
+1759279371,auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,bluetooth-monitor,Added,N/A,,1
+1759279371,auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,nflog,Added,N/A,,1
+1759279371,auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,nfqueue,Added,N/A,,1
+1759279371,auth-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,dbus-system,Added,N/A,,1

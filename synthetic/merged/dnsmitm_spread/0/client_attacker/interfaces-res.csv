@@ -1,0 +1,401 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips,malicious
+1759272822,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272822,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272822,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272822,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272822,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272822,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272822,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272822,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759272822,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759272822,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759273619,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,b2:b5:44:ea:37:2e,172.30.0.163; fe80::b0b5:44ff:feea:219,1
+1759273619,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,7a:0a:a9:e6:62:83,10.10.10.109; fe80::780a:a9ff:fee6:89,1
+1759273619,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,2a:c8:0a:40:4d:4a,10.0.1.111; fe80::28c8:aff:fe40:170,1
+1759273619,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,1
+1759273619,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,1
+1759273619,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,1
+1759273619,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,1
+1759273619,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,1
+1759273619,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,1
+1759273619,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,1
+1759275084,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275084,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275084,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275084,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275084,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275084,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275084,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275084,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275084,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275084,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275092,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275092,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275092,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275092,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275092,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275092,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275092,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275092,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275092,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275092,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275102,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275102,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275102,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275102,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275102,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275102,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275102,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275102,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275102,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275102,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275113,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275113,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275113,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275113,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275113,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275113,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275113,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275113,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275113,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275113,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275123,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275123,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275123,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275123,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275123,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275123,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275123,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275123,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275123,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275123,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275133,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275133,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275133,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275133,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275133,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275133,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275133,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275133,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275133,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275133,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275143,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275143,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275143,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275143,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275143,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275143,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275143,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275143,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275143,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275143,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275168,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275168,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275168,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275168,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275168,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275168,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275168,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275168,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275168,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275168,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275178,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275178,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275178,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275178,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275178,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275178,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275178,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275178,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275178,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275178,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275188,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275188,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275188,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275188,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275188,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275188,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275188,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275188,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275188,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275188,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275198,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275198,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275198,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275198,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275198,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275198,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275198,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275198,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275199,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275199,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275209,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275209,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275209,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275209,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275209,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275209,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275209,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275209,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275209,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275209,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275219,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275219,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275219,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275219,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275219,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275219,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275219,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275219,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275219,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275219,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275230,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275230,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275230,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275230,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275230,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275230,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275230,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275230,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275230,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275230,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275239,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275239,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275239,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275239,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275239,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275239,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275239,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275239,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275239,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275239,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275250,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275250,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275250,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275250,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275250,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275250,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275250,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275250,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275250,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275250,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275260,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275260,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275260,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275260,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275260,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275260,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275260,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275260,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275260,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275260,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275270,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275270,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275270,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275270,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275270,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275270,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275270,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275270,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275270,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275270,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275280,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275280,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275280,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275280,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275280,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275280,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275280,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275280,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275280,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275280,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275291,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275291,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275291,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275291,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275291,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275291,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275291,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275291,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275291,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275291,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275301,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275301,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275301,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275301,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275301,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275301,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275301,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275301,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275301,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275301,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275311,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275311,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275311,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275311,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275311,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275311,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275311,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275311,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275311,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275311,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275321,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275321,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275321,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275321,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275321,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275321,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275321,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275321,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275321,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275321,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275332,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275332,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275332,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275332,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275332,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275332,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275332,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275332,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275332,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275332,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275343,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275343,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275343,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275343,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275343,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275343,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275343,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275343,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275343,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275343,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275352,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275352,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275352,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275352,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275352,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275352,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275352,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275352,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275352,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275352,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275362,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275362,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275362,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275362,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275362,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275362,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275362,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275362,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275362,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275362,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275373,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275373,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275373,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275373,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275373,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275373,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275373,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275373,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275373,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275373,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275383,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275383,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275383,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275383,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275383,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275383,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275383,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275383,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275383,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275383,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275393,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275393,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275393,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275393,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275393,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275393,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275393,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275393,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275393,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275393,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275403,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275403,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275403,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275403,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275403,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275403,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275403,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275403,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275403,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275403,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275414,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275414,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275414,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275414,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275414,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275414,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275414,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275414,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275414,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275414,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275424,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275424,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275424,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275424,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275424,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275424,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275424,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275424,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275424,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275424,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275434,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275434,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275434,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275434,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275434,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275434,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275434,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275434,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275434,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275434,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275444,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275444,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275444,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275444,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275444,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275444,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275444,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275444,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275444,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275444,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275455,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275455,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275455,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275455,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275455,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275455,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275455,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275455,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275455,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275455,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275465,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275465,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275465,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275465,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275465,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275465,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275465,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275465,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275465,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275465,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275476,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275476,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759275476,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759275476,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275476,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275476,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275476,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275476,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759275476,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275476,client-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0

@@ -1,0 +1,12 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips
+1759315681,learner.bnsdq.ozxfs.fkiya.kvugl,eth0,Added,16:a1:81:ce:ad:03,172.30.0.220; fe80::14a1:81ff:fece:75
+1759315681,learner.bnsdq.ozxfs.fkiya.kvugl,any,Added,N/A,
+1759315681,learner.bnsdq.ozxfs.fkiya.kvugl,bluetooth-monitor,Added,N/A,
+1759315681,learner.bnsdq.ozxfs.fkiya.kvugl,nflog,Added,N/A,
+1759315681,learner.bnsdq.ozxfs.fkiya.kvugl,dbus-system,Added,N/A,
+1759315681,learner.bnsdq.ozxfs.fkiya.kvugl,dbus-session,Added,N/A,
+1759315681,learner.bnsdq.ozxfs.fkiya.kvugl,lo,Added,N/A,127.0.0.1; ::105
+1759315681,learner.bnsdq.ozxfs.fkiya.kvugl,eth1,Added,f6:db:98:7b:e0:47,10.0.1.111; fe80::f4db:98ff:fe7b:135
+1759315681,learner.bnsdq.ozxfs.fkiya.kvugl,docker0,Added,02:42:82:42:f3:32,172.17.0.207; fe80::42:82ff:fe42:112
+1759315681,learner.bnsdq.ozxfs.fkiya.kvugl,nfqueue,Added,N/A,
+1759316281,learner.bnsdq.ozxfs.fkiya.kvugl,veth276cf5a,Added,4e:e5:b7:36:60:5e,fe80::4ce5:b7ff:fe36:133

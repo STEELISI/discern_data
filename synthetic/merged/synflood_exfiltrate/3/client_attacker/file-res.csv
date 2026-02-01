@@ -1,10 +1,12 @@
 timestamp,device_id,location,size,hash,owner,group,malicious
+1759305674,client-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,1
+1759305674,client-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth1.network,191,fXbo5huP6pXehJCMsHc/Dg==,root,root,1
 1759305747,client-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,0
 1759305747,client-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth1.network,248,4gXVzGk0q9xVCVeQgASyaQ==,root,root,0
 1759305747,client-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth2.network,117,JQVk0+p8pdjr9asipyrJww==,root,root,0
 1759306369,client-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,0
 1759306369,client-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth1.network,248,ZfAQi06oCmMsb1JvrZmiXA==,root,root,0
 1759306369,client-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth2.network,117,Ftjk5SwwUvh3X2+rp2GaHQ==,root,root,0
-1759306498,client-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth1.network,191,JI48MTrxdbiutQXPSNRB4Q==,root,root,1
-1759306498,client-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth2.network,117,N0v4juHfNnO4gA+7ITN63g==,root,root,1
+1759306571,client-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth1.network,191,JI48MTrxdbiutQXPSNRB4Q==,root,root,1
+1759306571,client-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth2.network,117,N0v4juHfNnO4gA+7ITN63g==,root,root,1
 1759306989,client-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth2.network,117,urQ6t2Us9yhs/ArIjtKLNA==,root,root,0

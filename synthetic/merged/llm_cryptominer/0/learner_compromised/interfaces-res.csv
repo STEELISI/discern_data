@@ -1,0 +1,21 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips,malicious
+1759309666,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,eth1,Added,c6:af:a3:2e:0f:c6,10.0.1.111; fe80::c4af:a3ff:fe2e:91,0
+1759309666,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,docker0,Added,02:42:59:e5:5c:56,172.17.0.207; fe80::42:59ff:fee5:184,0
+1759309666,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,any,Added,N/A,,0
+1759309666,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,nfqueue,Added,N/A,,0
+1759309666,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759309666,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,eth0,Added,4a:83:cd:51:50:e0,172.30.0.220; fe80::4883:cdff:fe51:99,0
+1759309666,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,bluetooth-monitor,Added,N/A,,0
+1759309666,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,nflog,Added,N/A,,0
+1759309666,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,dbus-system,Added,N/A,,0
+1759309666,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,dbus-session,Added,N/A,,0
+1759309868,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,eth1,Added,16:7a:66:57:31:21,10.0.1.111; fe80::147a:66ff:fe57:47,1
+1759309868,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,any,Added,N/A,,1
+1759309868,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,nfqueue,Added,N/A,,1
+1759309868,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,dbus-system,Added,N/A,,1
+1759309868,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,dbus-session,Added,N/A,,1
+1759309868,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,lo,Added,N/A,127.0.0.1; ::105,1
+1759309868,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,eth0,Added,26:c4:aa:d0:f1:30,172.30.0.163; fe80::24c4:aaff:fed0:2,1
+1759309868,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,bluetooth-monitor,Added,N/A,,1
+1759309868,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,nflog,Added,N/A,,1
+1759310266,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,veth18b53b2,Added,4e:12:66:b7:b2:c9,fe80::4c12:66ff:feb7:156,0

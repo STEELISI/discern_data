@@ -1,0 +1,21 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips,malicious
+1759299960,server-attacker.bnsdq.ozxfs.rzona-bomyo.kvugl,dbus-session,Added,N/A,,0
+1759299960,server-attacker.bnsdq.ozxfs.rzona-bomyo.kvugl,eth1,Added,aa:97:bc:90:da:3a,5.6.7.72; fe80::a897:bcff:fe90:7,0
+1759299960,server-attacker.bnsdq.ozxfs.rzona-bomyo.kvugl,dbus-system,Added,N/A,,0
+1759299960,server-attacker.bnsdq.ozxfs.rzona-bomyo.kvugl,eth2,Added,16:26:9c:d7:91:eb,10.0.4.167; fe80::1426:9cff:fed7:121,0
+1759299960,server-attacker.bnsdq.ozxfs.rzona-bomyo.kvugl,any,Added,N/A,,0
+1759299960,server-attacker.bnsdq.ozxfs.rzona-bomyo.kvugl,bluetooth-monitor,Added,N/A,,0
+1759299960,server-attacker.bnsdq.ozxfs.rzona-bomyo.kvugl,nflog,Added,N/A,,0
+1759299960,server-attacker.bnsdq.ozxfs.rzona-bomyo.kvugl,nfqueue,Added,N/A,,0
+1759299960,server-attacker.bnsdq.ozxfs.rzona-bomyo.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759299960,server-attacker.bnsdq.ozxfs.rzona-bomyo.kvugl,eth0,Added,7a:34:8a:81:52:b8,172.30.0.89; fe80::7834:8aff:fe81:156,0
+1759300489,server-attacker.bnsdq.ozxfs.rzona-bomyo.kvugl,eth1,Added,a6:29:bc:b7:8b:27,10.10.10.109; fe80::a429:bcff:feb7:237,1
+1759300489,server-attacker.bnsdq.ozxfs.rzona-bomyo.kvugl,eth2,Added,5e:d4:dd:3b:4e:23,10.0.1.111; fe80::5cd4:ddff:fe3b:2,1
+1759300489,server-attacker.bnsdq.ozxfs.rzona-bomyo.kvugl,any,Added,N/A,,1
+1759300489,server-attacker.bnsdq.ozxfs.rzona-bomyo.kvugl,bluetooth-monitor,Added,N/A,,1
+1759300489,server-attacker.bnsdq.ozxfs.rzona-bomyo.kvugl,dbus-session,Added,N/A,,1
+1759300489,server-attacker.bnsdq.ozxfs.rzona-bomyo.kvugl,lo,Added,N/A,127.0.0.1; ::105,1
+1759300489,server-attacker.bnsdq.ozxfs.rzona-bomyo.kvugl,eth0,Added,6e:2c:51:e6:69:f9,172.30.0.163; fe80::6c2c:51ff:fee6:5,1
+1759300489,server-attacker.bnsdq.ozxfs.rzona-bomyo.kvugl,nflog,Added,N/A,,1
+1759300489,server-attacker.bnsdq.ozxfs.rzona-bomyo.kvugl,nfqueue,Added,N/A,,1
+1759300489,server-attacker.bnsdq.ozxfs.rzona-bomyo.kvugl,dbus-system,Added,N/A,,1

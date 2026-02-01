@@ -1,0 +1,11 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips
+1759256282,victim1.bnsdq.ozxfs.bomyo.kvugl,eth1,Added,16:41:57:58:8c:59,10.10.10.200; fe80::1441:57ff:fe58:96
+1759256282,victim1.bnsdq.ozxfs.bomyo.kvugl,eth2,Added,4e:12:c6:32:f1:e6,10.0.3.150; fe80::4c12:c6ff:fe32:245
+1759256282,victim1.bnsdq.ozxfs.bomyo.kvugl,nflog,Added,N/A,
+1759256282,victim1.bnsdq.ozxfs.bomyo.kvugl,nfqueue,Added,N/A,
+1759256282,victim1.bnsdq.ozxfs.bomyo.kvugl,dbus-system,Added,N/A,
+1759256282,victim1.bnsdq.ozxfs.bomyo.kvugl,lo,Added,N/A,127.0.0.1; ::105
+1759256282,victim1.bnsdq.ozxfs.bomyo.kvugl,eth0,Added,56:43:5f:98:b5:b6,172.30.0.23; fe80::5443:5fff:fe98:142
+1759256282,victim1.bnsdq.ozxfs.bomyo.kvugl,any,Added,N/A,
+1759256282,victim1.bnsdq.ozxfs.bomyo.kvugl,bluetooth-monitor,Added,N/A,
+1759256282,victim1.bnsdq.ozxfs.bomyo.kvugl,dbus-session,Added,N/A,

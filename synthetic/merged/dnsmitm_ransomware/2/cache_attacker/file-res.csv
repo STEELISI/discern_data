@@ -1,5 +1,6 @@
 timestamp,device_id,location,size,hash,owner,group,malicious
-1759279579,cache-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,235,DCbHQm9YF9ayuuAFIE0YKQ==,root,root,1
+1759278619,cache-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,235,1mtNWUPt/K/rjxiD/mif/A==,root,root,1
+1759279341,cache-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,235,DCbHQm9YF9ayuuAFIE0YKQ==,root,root,1
 1759280408,cache-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,0
 1759281038,cache-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/bind/named.conf.options,221,NnQ3lbBX+PrxqX5q7gIe/A==,root,bind,0
 1759281038,cache-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,117,KpENzkmC3AmyMFhDz2K3ag==,root,root,0

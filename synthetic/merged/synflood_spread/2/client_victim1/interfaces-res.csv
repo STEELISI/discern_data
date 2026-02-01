@@ -1,0 +1,21 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips,malicious
+1759303738,client-victim1.bnsdq.ozxfs.rzona-owcwb.kvugl,any,Added,N/A,,0
+1759303738,client-victim1.bnsdq.ozxfs.rzona-owcwb.kvugl,nflog,Added,N/A,,0
+1759303738,client-victim1.bnsdq.ozxfs.rzona-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759303738,client-victim1.bnsdq.ozxfs.rzona-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759303738,client-victim1.bnsdq.ozxfs.rzona-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759303738,client-victim1.bnsdq.ozxfs.rzona-owcwb.kvugl,eth1,Added,2a:3f:b1:79:69:63,1.1.2.134; fe80::283f:b1ff:fe79:38,0
+1759303738,client-victim1.bnsdq.ozxfs.rzona-owcwb.kvugl,eth2,Added,42:04:9c:27:65:00,10.0.2.116; fe80::4004:9cff:fe27:239,0
+1759303738,client-victim1.bnsdq.ozxfs.rzona-owcwb.kvugl,eth0,Added,0a:f8:b2:c9:8a:8d,172.30.0.220; fe80::8f8:b2ff:fec9:65,0
+1759303738,client-victim1.bnsdq.ozxfs.rzona-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759303738,client-victim1.bnsdq.ozxfs.rzona-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759304186,client-victim1.bnsdq.ozxfs.rzona-owcwb.kvugl,nfqueue,Added,N/A,,1
+1759304186,client-victim1.bnsdq.ozxfs.rzona-owcwb.kvugl,dbus-session,Added,N/A,,1
+1759304186,client-victim1.bnsdq.ozxfs.rzona-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,1
+1759304186,client-victim1.bnsdq.ozxfs.rzona-owcwb.kvugl,eth0,Added,26:f1:23:29:3a:da,172.30.0.23; fe80::24f1:23ff:fe29:66,1
+1759304186,client-victim1.bnsdq.ozxfs.rzona-owcwb.kvugl,eth1,Added,7a:27:e3:68:67:a7,10.10.10.200; fe80::7827:e3ff:fe68:239,1
+1759304186,client-victim1.bnsdq.ozxfs.rzona-owcwb.kvugl,bluetooth-monitor,Added,N/A,,1
+1759304186,client-victim1.bnsdq.ozxfs.rzona-owcwb.kvugl,eth2,Added,1e:f7:15:39:59:40,10.0.3.150; fe80::1cf7:15ff:fe39:10,1
+1759304186,client-victim1.bnsdq.ozxfs.rzona-owcwb.kvugl,any,Added,N/A,,1
+1759304186,client-victim1.bnsdq.ozxfs.rzona-owcwb.kvugl,nflog,Added,N/A,,1
+1759304186,client-victim1.bnsdq.ozxfs.rzona-owcwb.kvugl,dbus-system,Added,N/A,,1

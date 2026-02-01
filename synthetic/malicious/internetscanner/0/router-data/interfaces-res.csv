@@ -1,0 +1,23 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips
+1759263102,router.bnsdq.ozxfs.laefh.kvugl,any,Added,N/A,
+1759263102,router.bnsdq.ozxfs.laefh.kvugl,bluetooth-monitor,Added,N/A,
+1759263102,router.bnsdq.ozxfs.laefh.kvugl,nflog,Added,N/A,
+1759263102,router.bnsdq.ozxfs.laefh.kvugl,nfqueue,Added,N/A,
+1759263102,router.bnsdq.ozxfs.laefh.kvugl,dbus-system,Added,N/A,
+1759263102,router.bnsdq.ozxfs.laefh.kvugl,eth0,Added,ae:ff:e7:40:3c:f4,172.30.0.110; fe80::acff:e7ff:fe40:60
+1759263102,router.bnsdq.ozxfs.laefh.kvugl,eth2,Added,16:11:d7:2d:f0:04,107.125.128.243; fe80::1411:d7ff:fe2d:130
+1759263102,router.bnsdq.ozxfs.laefh.kvugl,eth3,Added,46:5d:16:a2:00:96,10.0.27.13; fe80::445d:16ff:fea2:74
+1759263102,router.bnsdq.ozxfs.laefh.kvugl,lo,Added,N/A,127.0.0.1; ::105
+1759263102,router.bnsdq.ozxfs.laefh.kvugl,eth1,Added,a6:54:fd:15:67:1c,192.168.86.121; fe80::a454:fdff:fe15:87
+1759263102,router.bnsdq.ozxfs.laefh.kvugl,dbus-session,Added,N/A,
+1759265618,router.bnsdq.ozxfs.laefh.kvugl,eth3,Added,46:5d:16:a2:00:96,10.0.27.13; fe80::445d:16ff:fea2:74
+1759265618,router.bnsdq.ozxfs.laefh.kvugl,bluetooth-monitor,Added,N/A,
+1759265618,router.bnsdq.ozxfs.laefh.kvugl,dbus-system,Added,N/A,
+1759265618,router.bnsdq.ozxfs.laefh.kvugl,lo,Added,N/A,127.0.0.1; ::105
+1759265618,router.bnsdq.ozxfs.laefh.kvugl,eth1,Added,a6:54:fd:15:67:1c,192.168.86.121; fe80::a454:fdff:fe15:87
+1759265618,router.bnsdq.ozxfs.laefh.kvugl,eth2,Added,16:11:d7:2d:f0:04,107.125.128.243; fe80::1411:d7ff:fe2d:130
+1759265618,router.bnsdq.ozxfs.laefh.kvugl,nfqueue,Added,N/A,
+1759265618,router.bnsdq.ozxfs.laefh.kvugl,dbus-session,Added,N/A,
+1759265618,router.bnsdq.ozxfs.laefh.kvugl,eth0,Added,ae:ff:e7:40:3c:f4,172.30.0.110; fe80::acff:e7ff:fe40:60
+1759265618,router.bnsdq.ozxfs.laefh.kvugl,any,Added,N/A,
+1759265618,router.bnsdq.ozxfs.laefh.kvugl,nflog,Added,N/A,

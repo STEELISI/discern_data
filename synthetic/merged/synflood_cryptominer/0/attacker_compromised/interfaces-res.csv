@@ -1,0 +1,20 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips,malicious
+1759299892,attacker-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,eth1,Added,c2:92:dd:95:43:ea,1.1.2.228; fe80::c092:ddff:fe95:158,0
+1759299892,attacker-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,eth2,Added,66:b2:c6:48:bb:3d,10.0.1.111; fe80::64b2:c6ff:fe48:152,0
+1759299892,attacker-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,bluetooth-monitor,Added,N/A,,0
+1759299892,attacker-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,nflog,Added,N/A,,0
+1759299892,attacker-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759299892,attacker-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,eth0,Added,4e:f9:2a:d3:28:20,172.30.0.163; fe80::4cf9:2aff:fed3:142,0
+1759299892,attacker-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,any,Added,N/A,,0
+1759299892,attacker-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,nfqueue,Added,N/A,,0
+1759299892,attacker-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,dbus-system,Added,N/A,,0
+1759299892,attacker-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,dbus-session,Added,N/A,,0
+1759300686,attacker-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,eth1,Added,16:7a:66:57:31:21,10.0.1.111; fe80::147a:66ff:fe57:47,1
+1759300686,attacker-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,any,Added,N/A,,1
+1759300686,attacker-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,nfqueue,Added,N/A,,1
+1759300686,attacker-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,dbus-system,Added,N/A,,1
+1759300686,attacker-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,dbus-session,Added,N/A,,1
+1759300686,attacker-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,lo,Added,N/A,127.0.0.1; ::105,1
+1759300686,attacker-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,eth0,Added,26:c4:aa:d0:f1:30,172.30.0.163; fe80::24c4:aaff:fed0:2,1
+1759300686,attacker-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,bluetooth-monitor,Added,N/A,,1
+1759300686,attacker-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,nflog,Added,N/A,,1

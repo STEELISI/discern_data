@@ -1,0 +1,11 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips
+1759246387,compromised.bnsdq.ozxfs.bomyo.kvugl,eth2,Added,d2:e4:ec:5d:cd:3e,10.0.2.116; fe80::d0e4:ecff:fe5d:120
+1759246387,compromised.bnsdq.ozxfs.bomyo.kvugl,any,Added,N/A,
+1759246387,compromised.bnsdq.ozxfs.bomyo.kvugl,dbus-system,Added,N/A,
+1759246387,compromised.bnsdq.ozxfs.bomyo.kvugl,dbus-session,Added,N/A,
+1759246387,compromised.bnsdq.ozxfs.bomyo.kvugl,eth0,Added,2a:e1:0b:23:60:5a,172.30.0.220; fe80::28e1:bff:fe23:102
+1759246387,compromised.bnsdq.ozxfs.bomyo.kvugl,eth1,Added,96:59:1f:04:53:a7,10.10.10.68; fe80::9459:1fff:fe04:65
+1759246387,compromised.bnsdq.ozxfs.bomyo.kvugl,nflog,Added,N/A,
+1759246387,compromised.bnsdq.ozxfs.bomyo.kvugl,nfqueue,Added,N/A,
+1759246387,compromised.bnsdq.ozxfs.bomyo.kvugl,lo,Added,N/A,127.0.0.1; ::105
+1759246387,compromised.bnsdq.ozxfs.bomyo.kvugl,bluetooth-monitor,Added,N/A,

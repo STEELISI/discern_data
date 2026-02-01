@@ -1,9 +1,11 @@
 timestamp,device_id,location,size,hash,owner,group,malicious
+1759303690,client-victim2.bnsdq.ozxfs.rzona-bomyo.kvugl,/etc/systemd/network/eth1.network,191,iXStiB+I510i5QM/PK+mDQ==,root,root,1
+1759303690,client-victim2.bnsdq.ozxfs.rzona-bomyo.kvugl,/etc/systemd/network/eth2.network,117,dweN/+49dCcS3peZNH4Tew==,root,root,1
 1759303768,client-victim2.bnsdq.ozxfs.rzona-bomyo.kvugl,/etc/systemd/network/eth1.network,248,rwZclARZTdo/VcZpZ+3JOg==,root,root,0
 1759304386,client-victim2.bnsdq.ozxfs.rzona-bomyo.kvugl,/etc/systemd/network/eth1.network,248,ZfAQi06oCmMsb1JvrZmiXA==,root,root,0
 1759304386,client-victim2.bnsdq.ozxfs.rzona-bomyo.kvugl,/etc/systemd/network/eth2.network,117,Ftjk5SwwUvh3X2+rp2GaHQ==,root,root,0
-1759304690,client-victim2.bnsdq.ozxfs.rzona-bomyo.kvugl,/etc/systemd/network/eth1.network,191,4eKRQAN17YdESYYF/6pdwg==,root,root,1
-1759304690,client-victim2.bnsdq.ozxfs.rzona-bomyo.kvugl,/etc/systemd/network/eth2.network,117,b7fA3pQd+l7g8Y9mweH9lg==,root,root,1
 1759305008,client-victim2.bnsdq.ozxfs.rzona-bomyo.kvugl,/etc/systemd/network/eth1.network,248,Crbq1XZjLTsNwVDH/6Nmgw==,root,root,0
 1759305008,client-victim2.bnsdq.ozxfs.rzona-bomyo.kvugl,/etc/systemd/network/eth2.network,117,urQ6t2Us9yhs/ArIjtKLNA==,root,root,0
+1759305015,client-victim2.bnsdq.ozxfs.rzona-bomyo.kvugl,/etc/systemd/network/eth1.network,191,4eKRQAN17YdESYYF/6pdwg==,root,root,1
+1759305015,client-victim2.bnsdq.ozxfs.rzona-bomyo.kvugl,/etc/systemd/network/eth2.network,117,b7fA3pQd+l7g8Y9mweH9lg==,root,root,1
 1759305628,client-victim2.bnsdq.ozxfs.rzona-bomyo.kvugl,/etc/systemd/network/eth1.network,248,ZfAQi06oCmMsb1JvrZmiXA==,root,root,0

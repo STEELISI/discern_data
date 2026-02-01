@@ -1,0 +1,31 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips,malicious
+1759278642,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,eth2,Added,a2:a0:57:61:21:5a,10.0.1.111; fe80::a0a0:57ff:fe61:142,0
+1759278642,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,any,Added,N/A,,0
+1759278642,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,bluetooth-monitor,Added,N/A,,0
+1759278642,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,nflog,Added,N/A,,0
+1759278642,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,nfqueue,Added,N/A,,0
+1759278642,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,dbus-system,Added,N/A,,0
+1759278642,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,dbus-session,Added,N/A,,0
+1759278642,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,eth0,Added,6a:13:a9:96:61:f0,172.30.0.163; fe80::6813:a9ff:fe96:80,0
+1759278642,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,eth1,Added,0a:e6:08:7e:34:bb,10.1.2.197; fe80::8e6:8ff:fe7e:113,0
+1759278642,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759279031,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,eth1,Added,4e:a7:41:d2:1f:3d,10.10.10.68; fe80::4ca7:41ff:fed2:201,1
+1759279031,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,eth2,Added,92:ab:ce:ef:69:d5,10.0.2.116; fe80::90ab:ceff:feef:30,1
+1759279031,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,nflog,Added,N/A,,1
+1759279031,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,lo,Added,N/A,127.0.0.1; ::105,1
+1759279031,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,eth0,Added,ca:ab:64:3c:bc:7e,172.30.0.220; fe80::c8ab:64ff:fe3c:227,1
+1759279031,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,nfqueue,Added,N/A,,1
+1759279031,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,dbus-system,Added,N/A,,1
+1759279031,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,dbus-session,Added,N/A,,1
+1759279031,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,any,Added,N/A,,1
+1759279031,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,bluetooth-monitor,Added,N/A,,1
+1759280445,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,dbus-session,Added,N/A,,0
+1759280445,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759280445,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,eth0,Added,6a:13:a9:96:61:f0,172.30.0.163; fe80::6813:a9ff:fe96:80,0
+1759280445,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,any,Added,N/A,,0
+1759280445,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,bluetooth-monitor,Added,N/A,,0
+1759280445,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,nflog,Added,N/A,,0
+1759280445,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,nfqueue,Added,N/A,,0
+1759280445,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,dbus-system,Added,N/A,,0
+1759280445,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,eth1,Added,0a:e6:08:7e:34:bb,10.1.2.197; fe80::8e6:8ff:fe7e:113,0
+1759280445,attacker-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,eth2,Added,a2:a0:57:61:21:5a,10.0.1.111; fe80::a0a0:57ff:fe61:142,0

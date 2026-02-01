@@ -1,4 +1,6 @@
 timestamp,device_id,location,size,hash,owner,group,malicious
+1759305674,client-victim2.bnsdq.ozxfs.rzona-bomyo.kvugl,/etc/systemd/network/eth1.network,261,MUEnGFD13v8xGafh0mYkkA==,root,root,1
+1759305674,client-victim2.bnsdq.ozxfs.rzona-bomyo.kvugl,/etc/systemd/network/eth2.network,49,PmostO56PD0rK4LRZGdOTQ==,root,root,1
 1759305747,client-victim2.bnsdq.ozxfs.rzona-bomyo.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,0
 1759305747,client-victim2.bnsdq.ozxfs.rzona-bomyo.kvugl,/etc/systemd/network/eth1.network,248,4gXVzGk0q9xVCVeQgASyaQ==,root,root,0
 1759305747,client-victim2.bnsdq.ozxfs.rzona-bomyo.kvugl,/etc/systemd/network/eth2.network,117,JQVk0+p8pdjr9asipyrJww==,root,root,0

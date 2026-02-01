@@ -1,0 +1,11 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips
+1759182912,attacker.bnsdq.ozxfs.vmdrv.kvugl,eth1,Added,9e:ef:c4:2c:ac:b6,10.10.10.109; fe80::9cef:c4ff:fe2c:74
+1759182912,attacker.bnsdq.ozxfs.vmdrv.kvugl,any,Added,N/A,
+1759182912,attacker.bnsdq.ozxfs.vmdrv.kvugl,bluetooth-monitor,Added,N/A,
+1759182912,attacker.bnsdq.ozxfs.vmdrv.kvugl,nflog,Added,N/A,
+1759182912,attacker.bnsdq.ozxfs.vmdrv.kvugl,lo,Added,N/A,127.0.0.1; ::105
+1759182912,attacker.bnsdq.ozxfs.vmdrv.kvugl,eth0,Added,d6:66:2f:6f:48:a9,172.30.0.163; fe80::d466:2fff:fe6f:240
+1759182913,attacker.bnsdq.ozxfs.vmdrv.kvugl,eth2,Added,0a:b2:41:08:fe:8c,10.0.1.111; fe80::8b2:41ff:fe08:133
+1759182913,attacker.bnsdq.ozxfs.vmdrv.kvugl,nfqueue,Added,N/A,
+1759182913,attacker.bnsdq.ozxfs.vmdrv.kvugl,dbus-system,Added,N/A,
+1759182913,attacker.bnsdq.ozxfs.vmdrv.kvugl,dbus-session,Added,N/A,

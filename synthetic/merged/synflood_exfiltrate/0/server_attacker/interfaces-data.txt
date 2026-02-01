@@ -1,0 +1,20 @@
+{"TimeStamp": "1759299960", "Name": "dbus-session", "DevID": "server-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759299960", "Name": "eth1", "HardwareAddr": "aa:97:bc:90:da:3a", "IPs": ["5.6.7.72", "fe80::a897:bcff:fe90:7"], "DevID": "server-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759299960", "Name": "dbus-system", "DevID": "server-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759299960", "Name": "eth2", "HardwareAddr": "16:26:9c:d7:91:eb", "IPs": ["10.0.4.167", "fe80::1426:9cff:fed7:121"], "DevID": "server-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759299960", "Name": "any", "DevID": "server-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759299960", "Name": "bluetooth-monitor", "DevID": "server-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759299960", "Name": "nflog", "DevID": "server-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759299960", "Name": "nfqueue", "DevID": "server-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759299960", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "server-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759299960", "Name": "eth0", "HardwareAddr": "7a:34:8a:81:52:b8", "IPs": ["172.30.0.89", "fe80::7834:8aff:fe81:156"], "DevID": "server-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759300247", "Name": "bluetooth-monitor", "DevID": "server-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759300247", "Name": "nflog", "DevID": "server-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759300247", "Name": "nfqueue", "DevID": "server-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759300247", "Name": "dbus-system", "DevID": "server-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759300247", "Name": "eth1", "HardwareAddr": "9e:ef:c4:2c:ac:b6", "IPs": ["10.10.10.109", "fe80::9cef:c4ff:fe2c:74"], "DevID": "server-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759300247", "Name": "eth2", "HardwareAddr": "0a:b2:41:08:fe:8c", "IPs": ["10.0.1.111", "fe80::8b2:41ff:fe08:133"], "DevID": "server-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759300247", "Name": "any", "DevID": "server-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759300247", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "server-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759300247", "Name": "eth0", "HardwareAddr": "d6:66:2f:6f:48:a9", "IPs": ["172.30.0.163", "fe80::d466:2fff:fe6f:240"], "DevID": "server-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759300247", "Name": "dbus-session", "DevID": "server-attacker.bnsdq.ozxfs.rzona-vmdrv.kvugl", "Action": "Added", "malicious": 1}

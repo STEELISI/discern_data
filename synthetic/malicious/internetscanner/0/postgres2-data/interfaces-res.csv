@@ -1,0 +1,11 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips
+1759263078,postgres2.bnsdq.ozxfs.laefh.kvugl,eth2,Added,fe:cc:bf:d6:cb:2c,10.0.14.255; fe80::fccc:bfff:fed6:119
+1759263078,postgres2.bnsdq.ozxfs.laefh.kvugl,nflog,Added,N/A,
+1759263078,postgres2.bnsdq.ozxfs.laefh.kvugl,eth1,Added,92:65:1d:40:10:f1,107.125.128.168; fe80::9065:1dff:fe40:74
+1759263078,postgres2.bnsdq.ozxfs.laefh.kvugl,any,Added,N/A,
+1759263078,postgres2.bnsdq.ozxfs.laefh.kvugl,bluetooth-monitor,Added,N/A,
+1759263078,postgres2.bnsdq.ozxfs.laefh.kvugl,nfqueue,Added,N/A,
+1759263078,postgres2.bnsdq.ozxfs.laefh.kvugl,dbus-system,Added,N/A,
+1759263078,postgres2.bnsdq.ozxfs.laefh.kvugl,dbus-session,Added,N/A,
+1759263078,postgres2.bnsdq.ozxfs.laefh.kvugl,lo,Added,N/A,127.0.0.1; ::105
+1759263078,postgres2.bnsdq.ozxfs.laefh.kvugl,eth0,Added,6a:6f:25:9b:87:7e,172.30.0.97; fe80::686f:25ff:fe9b:145

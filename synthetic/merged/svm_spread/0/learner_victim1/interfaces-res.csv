@@ -1,0 +1,20 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips,malicious
+1759287020,learner-victim1.bnsdq.ozxfs.igokp-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759287020,learner-victim1.bnsdq.ozxfs.igokp-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759287020,learner-victim1.bnsdq.ozxfs.igokp-owcwb.kvugl,nflog,Added,N/A,,0
+1759287020,learner-victim1.bnsdq.ozxfs.igokp-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759287020,learner-victim1.bnsdq.ozxfs.igokp-owcwb.kvugl,eth0,Added,86:a8:6a:0c:aa:9b,172.30.0.220; fe80::84a8:6aff:fe0c:255,0
+1759287020,learner-victim1.bnsdq.ozxfs.igokp-owcwb.kvugl,eth1,Added,da:af:a5:d3:57:05,10.0.1.111; fe80::d8af:a5ff:fed3:142,0
+1759287020,learner-victim1.bnsdq.ozxfs.igokp-owcwb.kvugl,any,Added,N/A,,0
+1759287020,learner-victim1.bnsdq.ozxfs.igokp-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759287020,learner-victim1.bnsdq.ozxfs.igokp-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759287149,learner-victim1.bnsdq.ozxfs.igokp-owcwb.kvugl,nfqueue,Added,N/A,,1
+1759287149,learner-victim1.bnsdq.ozxfs.igokp-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,1
+1759287149,learner-victim1.bnsdq.ozxfs.igokp-owcwb.kvugl,eth1,Added,7a:27:e3:68:67:a7,10.10.10.200; fe80::7827:e3ff:fe68:239,1
+1759287149,learner-victim1.bnsdq.ozxfs.igokp-owcwb.kvugl,eth2,Added,1e:f7:15:39:59:40,10.0.3.150; fe80::1cf7:15ff:fe39:10,1
+1759287149,learner-victim1.bnsdq.ozxfs.igokp-owcwb.kvugl,bluetooth-monitor,Added,N/A,,1
+1759287149,learner-victim1.bnsdq.ozxfs.igokp-owcwb.kvugl,dbus-session,Added,N/A,,1
+1759287149,learner-victim1.bnsdq.ozxfs.igokp-owcwb.kvugl,eth0,Added,26:f1:23:29:3a:da,172.30.0.23; fe80::24f1:23ff:fe29:66,1
+1759287149,learner-victim1.bnsdq.ozxfs.igokp-owcwb.kvugl,any,Added,N/A,,1
+1759287149,learner-victim1.bnsdq.ozxfs.igokp-owcwb.kvugl,nflog,Added,N/A,,1
+1759287149,learner-victim1.bnsdq.ozxfs.igokp-owcwb.kvugl,dbus-system,Added,N/A,,1

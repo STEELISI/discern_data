@@ -1,2 +1,4 @@
 timestamp,device_id,location,size,hash,owner,group,malicious
+1759286995,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,1
+1759286995,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,/etc/systemd/network/eth1.network,49,xq1RI7GOEaZ6hFv5WdC6fw==,root,root,1
 1759287680,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,0

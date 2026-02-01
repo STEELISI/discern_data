@@ -1,0 +1,11 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips
+1759263150,smtp2.bnsdq.ozxfs.laefh.kvugl,bluetooth-monitor,Added,N/A,
+1759263150,smtp2.bnsdq.ozxfs.laefh.kvugl,nflog,Added,N/A,
+1759263150,smtp2.bnsdq.ozxfs.laefh.kvugl,nfqueue,Added,N/A,
+1759263150,smtp2.bnsdq.ozxfs.laefh.kvugl,lo,Added,N/A,127.0.0.1; ::105
+1759263150,smtp2.bnsdq.ozxfs.laefh.kvugl,eth1,Added,8a:ff:b6:5f:7f:34,107.125.128.242; fe80::88ff:b6ff:fe5f:83
+1759263150,smtp2.bnsdq.ozxfs.laefh.kvugl,eth2,Added,1e:64:88:3b:c5:34,10.0.22.186; fe80::1c64:88ff:fe3b:101
+1759263150,smtp2.bnsdq.ozxfs.laefh.kvugl,any,Added,N/A,
+1759263150,smtp2.bnsdq.ozxfs.laefh.kvugl,eth0,Added,6e:55:3b:48:60:bd,172.30.0.194; fe80::6c55:3bff:fe48:230
+1759263150,smtp2.bnsdq.ozxfs.laefh.kvugl,dbus-system,Added,N/A,
+1759263150,smtp2.bnsdq.ozxfs.laefh.kvugl,dbus-session,Added,N/A,

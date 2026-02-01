@@ -1,11 +1,13 @@
 timestamp,device_id,location,size,hash,owner,group,malicious
+1759281742,client-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,1
+1759281742,client-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,191,fXbo5huP6pXehJCMsHc/Dg==,root,root,1
 1759281866,client-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth0.network,235,XR+SwQzBzsuOtlQ4EyPOrg==,root,root,0
 1759281866,client-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,185,OYSrwDVAd8SymNQVtBSLPA==,root,root,0
 1759282488,client-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,0
 1759283109,client-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,185,aTy+OG6+ZualFAzyqvQ1BQ==,root,root,0
 1759283109,client-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,185,+Tl7mQN4SQnapnlCUS3CUw==,root,root,0
-1759283187,client-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,191,JI48MTrxdbiutQXPSNRB4Q==,root,root,1
-1759283187,client-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,117,N0v4juHfNnO4gA+7ITN63g==,root,root,1
 1759283727,client-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,185,wA5waWwInNjsB5IsPDgntQ==,root,root,0
+1759284027,client-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,191,JI48MTrxdbiutQXPSNRB4Q==,root,root,1
+1759284027,client-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,117,N0v4juHfNnO4gA+7ITN63g==,root,root,1
 1759284795,client-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,185,81cRi8aaPp2i8enApVUkfg==,root,root,0
 1759284795,client-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,185,OYSrwDVAd8SymNQVtBSLPA==,root,root,0

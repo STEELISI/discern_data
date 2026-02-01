@@ -1,12 +1,15 @@
 timestamp,device_id,location,size,hash,owner,group,malicious
+1759272729,client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,1
+1759272729,client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,261,mHbj+mnc4PYK+xkBhy9IVw==,root,root,1
+1759272729,client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,49,4IixAse1+CmFyhigtiiNgQ==,root,root,1
 1759272851,client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth0.network,235,DCbHQm9YF9ayuuAFIE0YKQ==,root,root,0
 1759272851,client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,185,Fikj9DKClKHiiDobkBv5Qg==,root,root,0
 1759272851,client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,185,+qduUE/2IpSnG7GCAcC1iA==,root,root,0
 1759273471,client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,0
 1759273471,client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,185,81cRi8aaPp2i8enApVUkfg==,root,root,0
 1759273471,client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,185,OYSrwDVAd8SymNQVtBSLPA==,root,root,0
-1759274082,client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,1
-1759274082,client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,261,MUEnGFD13v8xGafh0mYkkA==,root,root,1
+1759273684,client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,1
+1759273684,client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,261,MUEnGFD13v8xGafh0mYkkA==,root,root,1
 1759274092,client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,185,wA5waWwInNjsB5IsPDgntQ==,root,root,0
 1759274092,client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,185,jXGhQJSFF8f/W9BUPg6qxw==,root,root,0
 1759274713,client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,185,zCqgXuVO0vm2FijtT5a/8A==,root,root,0

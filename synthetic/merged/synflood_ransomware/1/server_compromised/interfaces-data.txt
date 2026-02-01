@@ -1,0 +1,20 @@
+{"TimeStamp": "1759301975", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "server-compromised.bnsdq.ozxfs.rzona-bomyo.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759301975", "Name": "eth0", "HardwareAddr": "7a:34:8a:81:52:b8", "IPs": ["172.30.0.89", "fe80::7834:8aff:fe81:156"], "DevID": "server-compromised.bnsdq.ozxfs.rzona-bomyo.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759301975", "Name": "eth1", "HardwareAddr": "aa:97:bc:90:da:3a", "IPs": ["5.6.7.72", "fe80::a897:bcff:fe90:7"], "DevID": "server-compromised.bnsdq.ozxfs.rzona-bomyo.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759301975", "Name": "any", "DevID": "server-compromised.bnsdq.ozxfs.rzona-bomyo.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759301975", "Name": "bluetooth-monitor", "DevID": "server-compromised.bnsdq.ozxfs.rzona-bomyo.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759301975", "Name": "nflog", "DevID": "server-compromised.bnsdq.ozxfs.rzona-bomyo.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759301975", "Name": "nfqueue", "DevID": "server-compromised.bnsdq.ozxfs.rzona-bomyo.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759301975", "Name": "eth2", "HardwareAddr": "16:26:9c:d7:91:eb", "IPs": ["10.0.4.167", "fe80::1426:9cff:fed7:121"], "DevID": "server-compromised.bnsdq.ozxfs.rzona-bomyo.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759301975", "Name": "dbus-system", "DevID": "server-compromised.bnsdq.ozxfs.rzona-bomyo.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759301975", "Name": "dbus-session", "DevID": "server-compromised.bnsdq.ozxfs.rzona-bomyo.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759302465", "Name": "eth0", "HardwareAddr": "2a:4a:7a:79:7f:7d", "IPs": ["172.30.0.220", "fe80::284a:7aff:fe79:97"], "DevID": "server-compromised.bnsdq.ozxfs.rzona-bomyo.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759302465", "Name": "eth2", "HardwareAddr": "52:a2:a6:56:cd:5f", "IPs": ["10.0.2.116", "fe80::50a2:a6ff:fe56:143"], "DevID": "server-compromised.bnsdq.ozxfs.rzona-bomyo.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759302465", "Name": "any", "DevID": "server-compromised.bnsdq.ozxfs.rzona-bomyo.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759302465", "Name": "bluetooth-monitor", "DevID": "server-compromised.bnsdq.ozxfs.rzona-bomyo.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759302465", "Name": "nfqueue", "DevID": "server-compromised.bnsdq.ozxfs.rzona-bomyo.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759302465", "Name": "dbus-system", "DevID": "server-compromised.bnsdq.ozxfs.rzona-bomyo.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759302465", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "server-compromised.bnsdq.ozxfs.rzona-bomyo.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759302465", "Name": "nflog", "DevID": "server-compromised.bnsdq.ozxfs.rzona-bomyo.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759302465", "Name": "dbus-session", "DevID": "server-compromised.bnsdq.ozxfs.rzona-bomyo.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759302465", "Name": "eth1", "HardwareAddr": "ae:ed:f7:98:47:de", "IPs": ["10.10.10.68", "fe80::aced:f7ff:fe98:81"], "DevID": "server-compromised.bnsdq.ozxfs.rzona-bomyo.kvugl", "Action": "Added", "malicious": 1}

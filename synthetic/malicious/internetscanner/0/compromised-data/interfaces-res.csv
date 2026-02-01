@@ -1,0 +1,12 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips
+1759262715,compromised.bnsdq.ozxfs.laefh.kvugl,nfqueue,Added,N/A,
+1759262715,compromised.bnsdq.ozxfs.laefh.kvugl,eth1,Added,46:5d:b9:18:e1:a1,10.10.10.68; fe80::445d:b9ff:fe18:237
+1759262715,compromised.bnsdq.ozxfs.laefh.kvugl,eth2,Added,22:8e:dd:51:2d:45,192.168.86.17; fe80::208e:ddff:fe51:66
+1759262715,compromised.bnsdq.ozxfs.laefh.kvugl,eth3,Added,d6:f7:14:a6:71:b4,10.0.28.148; fe80::d4f7:14ff:fea6:67
+1759262715,compromised.bnsdq.ozxfs.laefh.kvugl,any,Added,N/A,
+1759262715,compromised.bnsdq.ozxfs.laefh.kvugl,nflog,Added,N/A,
+1759262715,compromised.bnsdq.ozxfs.laefh.kvugl,lo,Added,N/A,127.0.0.1; ::105
+1759262715,compromised.bnsdq.ozxfs.laefh.kvugl,eth0,Added,aa:cd:c5:d6:c6:c4,172.30.0.220; fe80::a8cd:c5ff:fed6:113
+1759262715,compromised.bnsdq.ozxfs.laefh.kvugl,bluetooth-monitor,Added,N/A,
+1759262715,compromised.bnsdq.ozxfs.laefh.kvugl,dbus-system,Added,N/A,
+1759262715,compromised.bnsdq.ozxfs.laefh.kvugl,dbus-session,Added,N/A,

@@ -1,0 +1,11 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips
+1759262805,mysql2.bnsdq.ozxfs.laefh.kvugl,nfqueue,Added,N/A,
+1759262805,mysql2.bnsdq.ozxfs.laefh.kvugl,dbus-system,Added,N/A,
+1759262805,mysql2.bnsdq.ozxfs.laefh.kvugl,lo,Added,N/A,127.0.0.1; ::105
+1759262805,mysql2.bnsdq.ozxfs.laefh.kvugl,eth0,Added,92:dc:fd:12:c5:7c,172.30.0.151; fe80::90dc:fdff:fe12:181
+1759262805,mysql2.bnsdq.ozxfs.laefh.kvugl,bluetooth-monitor,Added,N/A,
+1759262805,mysql2.bnsdq.ozxfs.laefh.kvugl,nflog,Added,N/A,
+1759262805,mysql2.bnsdq.ozxfs.laefh.kvugl,dbus-session,Added,N/A,
+1759262805,mysql2.bnsdq.ozxfs.laefh.kvugl,eth1,Added,26:70:a3:e5:fc:34,107.125.128.226; fe80::2470:a3ff:fee5:26
+1759262805,mysql2.bnsdq.ozxfs.laefh.kvugl,eth2,Added,d6:af:f8:eb:3b:af,10.0.15.41; fe80::d4af:f8ff:feeb:109
+1759262805,mysql2.bnsdq.ozxfs.laefh.kvugl,any,Added,N/A,

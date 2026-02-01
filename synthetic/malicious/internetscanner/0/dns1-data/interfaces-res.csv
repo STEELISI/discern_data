@@ -1,0 +1,11 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips
+1759262739,dns1.bnsdq.ozxfs.laefh.kvugl,eth0,Added,26:12:a9:9b:8d:13,172.30.0.194; fe80::2412:a9ff:fe9b:104
+1759262739,dns1.bnsdq.ozxfs.laefh.kvugl,any,Added,N/A,
+1759262739,dns1.bnsdq.ozxfs.laefh.kvugl,nflog,Added,N/A,
+1759262739,dns1.bnsdq.ozxfs.laefh.kvugl,dbus-session,Added,N/A,
+1759262739,dns1.bnsdq.ozxfs.laefh.kvugl,dbus-system,Added,N/A,
+1759262739,dns1.bnsdq.ozxfs.laefh.kvugl,lo,Added,N/A,127.0.0.1; ::105
+1759262739,dns1.bnsdq.ozxfs.laefh.kvugl,eth1,Added,aa:5d:ef:52:4c:e9,107.125.128.161; fe80::a85d:efff:fe52:100
+1759262739,dns1.bnsdq.ozxfs.laefh.kvugl,eth2,Added,5e:a5:75:ef:1a:e6,10.0.7.237; fe80::5ca5:75ff:feef:92
+1759262739,dns1.bnsdq.ozxfs.laefh.kvugl,bluetooth-monitor,Added,N/A,
+1759262739,dns1.bnsdq.ozxfs.laefh.kvugl,nfqueue,Added,N/A,

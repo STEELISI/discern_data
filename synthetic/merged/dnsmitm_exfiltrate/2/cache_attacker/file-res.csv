@@ -1,6 +1,9 @@
 timestamp,device_id,location,size,hash,owner,group,malicious
-1759279492,cache-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,191,JI48MTrxdbiutQXPSNRB4Q==,root,root,1
-1759279492,cache-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,117,IifI0gOGGywyx3BOahqrnQ==,root,root,1
+1759278619,cache-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,1
+1759278619,cache-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,191,fXbo5huP6pXehJCMsHc/Dg==,root,root,1
+1759278619,cache-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,117,IonZnohWkgYgaBSbc7HcSA==,root,root,1
+1759279661,cache-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,191,JI48MTrxdbiutQXPSNRB4Q==,root,root,1
+1759279661,cache-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,117,IifI0gOGGywyx3BOahqrnQ==,root,root,1
 1759280408,cache-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,0
 1759281038,cache-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/bind/named.conf.options,221,NnQ3lbBX+PrxqX5q7gIe/A==,root,bind,0
 1759281038,cache-attacker.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,117,KpENzkmC3AmyMFhDz2K3ag==,root,root,0

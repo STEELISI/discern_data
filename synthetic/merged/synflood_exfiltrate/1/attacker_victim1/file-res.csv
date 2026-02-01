@@ -1,7 +1,10 @@
 timestamp,device_id,location,size,hash,owner,group,malicious
+1759301877,attacker-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth0.network,235,DCbHQm9YF9ayuuAFIE0YKQ==,root,root,1
+1759301877,attacker-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth1.network,191,oQ1oAMZcph9WGHOjD4HS9g==,root,root,1
+1759301877,attacker-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth2.network,117,ARK/2yR465wjj8U1HiQulg==,root,root,1
 1759302557,attacker-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth1.network,248,ekSzpP8h13QlwHnoMfVzRw==,root,root,0
 1759303179,attacker-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth1.network,248,9gQ9XcIspkqJhYxy6bE9AQ==,root,root,0
 1759303179,attacker-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth2.network,117,aGBZTNnLXzDpQAZfYsvabg==,root,root,0
-1759303505,attacker-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,1
-1759303505,attacker-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth1.network,191,9TaD4GRo+V5/siK/52K27g==,root,root,1
-1759303505,attacker-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth2.network,117,0Q+DaW9b/aIvgFIdNBs4tA==,root,root,1
+1759303267,attacker-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,1
+1759303267,attacker-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth1.network,191,9TaD4GRo+V5/siK/52K27g==,root,root,1
+1759303267,attacker-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,/etc/systemd/network/eth2.network,117,0Q+DaW9b/aIvgFIdNBs4tA==,root,root,1

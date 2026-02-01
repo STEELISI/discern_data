@@ -1,0 +1,10 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips
+1759295968,learner.bnsdq.ozxfs.igokp.kvugl,any,Added,N/A,
+1759295968,learner.bnsdq.ozxfs.igokp.kvugl,dbus-session,Added,N/A,
+1759295968,learner.bnsdq.ozxfs.igokp.kvugl,nflog,Added,N/A,
+1759295968,learner.bnsdq.ozxfs.igokp.kvugl,nfqueue,Added,N/A,
+1759295968,learner.bnsdq.ozxfs.igokp.kvugl,dbus-system,Added,N/A,
+1759295968,learner.bnsdq.ozxfs.igokp.kvugl,lo,Added,N/A,127.0.0.1; ::105
+1759295968,learner.bnsdq.ozxfs.igokp.kvugl,eth0,Added,0e:28:31:79:e1:84,172.30.0.220; fe80::c28:31ff:fe79:186
+1759295968,learner.bnsdq.ozxfs.igokp.kvugl,eth1,Added,8a:24:d7:97:a3:68,10.0.1.111; fe80::8824:d7ff:fe97:245
+1759295968,learner.bnsdq.ozxfs.igokp.kvugl,bluetooth-monitor,Added,N/A,

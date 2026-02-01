@@ -1,0 +1,19 @@
+{"TimeStamp": "1759272748", "Name": "nflog", "DevID": "attacker-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759272748", "Name": "nfqueue", "DevID": "attacker-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759272748", "Name": "dbus-session", "DevID": "attacker-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759272748", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "attacker-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759272748", "Name": "bluetooth-monitor", "DevID": "attacker-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759272748", "Name": "eth2", "HardwareAddr": "a2:a0:57:61:21:5a", "IPs": ["10.0.1.111", "fe80::a0a0:57ff:fe61:142"], "DevID": "attacker-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759272748", "Name": "any", "DevID": "attacker-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759272748", "Name": "dbus-system", "DevID": "attacker-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759272748", "Name": "eth0", "HardwareAddr": "6a:13:a9:96:61:f0", "IPs": ["172.30.0.163", "fe80::6813:a9ff:fe96:80"], "DevID": "attacker-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759272748", "Name": "eth1", "HardwareAddr": "0a:e6:08:7e:34:bb", "IPs": ["10.1.2.197", "fe80::8e6:8ff:fe7e:113"], "DevID": "attacker-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759273446", "Name": "eth1", "HardwareAddr": "16:7a:66:57:31:21", "IPs": ["10.0.1.111", "fe80::147a:66ff:fe57:47"], "DevID": "attacker-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759273446", "Name": "any", "DevID": "attacker-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759273446", "Name": "nfqueue", "DevID": "attacker-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759273446", "Name": "dbus-system", "DevID": "attacker-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759273446", "Name": "dbus-session", "DevID": "attacker-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759273446", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "attacker-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759273446", "Name": "eth0", "HardwareAddr": "26:c4:aa:d0:f1:30", "IPs": ["172.30.0.163", "fe80::24c4:aaff:fed0:2"], "DevID": "attacker-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759273446", "Name": "bluetooth-monitor", "DevID": "attacker-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759273446", "Name": "nflog", "DevID": "attacker-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl", "Action": "Added", "malicious": 1}

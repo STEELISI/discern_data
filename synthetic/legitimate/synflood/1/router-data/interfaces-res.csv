@@ -1,0 +1,12 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips
+1759301951,router.bnsdq.ozxfs.rzona.kvugl,eth0,Added,ea:82:9e:3a:05:7a,172.30.0.23; fe80::e882:9eff:fe3a:3
+1759301951,router.bnsdq.ozxfs.rzona.kvugl,eth2,Added,f2:fb:cf:95:99:ae,1.1.2.14; fe80::f0fb:cfff:fe95:195
+1759301951,router.bnsdq.ozxfs.rzona.kvugl,any,Added,N/A,
+1759301951,router.bnsdq.ozxfs.rzona.kvugl,bluetooth-monitor,Added,N/A,
+1759301951,router.bnsdq.ozxfs.rzona.kvugl,dbus-system,Added,N/A,
+1759301951,router.bnsdq.ozxfs.rzona.kvugl,lo,Added,N/A,127.0.0.1; ::105
+1759301951,router.bnsdq.ozxfs.rzona.kvugl,eth1,Added,56:23:6e:3c:0b:1c,5.6.7.228; fe80::5423:6eff:fe3c:35
+1759301951,router.bnsdq.ozxfs.rzona.kvugl,eth3,Added,ba:c7:30:d9:cb:48,10.0.3.150; fe80::b8c7:30ff:fed9:80
+1759301951,router.bnsdq.ozxfs.rzona.kvugl,nflog,Added,N/A,
+1759301951,router.bnsdq.ozxfs.rzona.kvugl,nfqueue,Added,N/A,
+1759301951,router.bnsdq.ozxfs.rzona.kvugl,dbus-session,Added,N/A,

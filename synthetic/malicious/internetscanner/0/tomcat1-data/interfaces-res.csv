@@ -1,0 +1,11 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips
+1759263220,tomcat1.bnsdq.ozxfs.laefh.kvugl,eth0,Added,86:50:ec:ba:07:f7,172.30.0.48; fe80::8450:ecff:feba:28
+1759263220,tomcat1.bnsdq.ozxfs.laefh.kvugl,eth2,Added,1e:0a:27:63:d5:1f,10.0.3.150; fe80::1c0a:27ff:fe63:208
+1759263220,tomcat1.bnsdq.ozxfs.laefh.kvugl,any,Added,N/A,
+1759263220,tomcat1.bnsdq.ozxfs.laefh.kvugl,dbus-session,Added,N/A,
+1759263220,tomcat1.bnsdq.ozxfs.laefh.kvugl,lo,Added,N/A,127.0.0.1; ::105
+1759263221,tomcat1.bnsdq.ozxfs.laefh.kvugl,eth1,Added,22:da:54:43:2e:40,107.125.128.249; fe80::20da:54ff:fe43:240
+1759263221,tomcat1.bnsdq.ozxfs.laefh.kvugl,bluetooth-monitor,Added,N/A,
+1759263221,tomcat1.bnsdq.ozxfs.laefh.kvugl,nflog,Added,N/A,
+1759263221,tomcat1.bnsdq.ozxfs.laefh.kvugl,nfqueue,Added,N/A,
+1759263221,tomcat1.bnsdq.ozxfs.laefh.kvugl,dbus-system,Added,N/A,

@@ -1,0 +1,2079 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips,malicious
+1759272727,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272727,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272727,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272727,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272727,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272727,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272727,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272727,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272727,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272727,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272727,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272737,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272737,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272737,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272737,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272737,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272737,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272737,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272737,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272737,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272737,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272737,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272746,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272746,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272746,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272746,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272746,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272746,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272746,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272746,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272746,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272746,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272746,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272756,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272756,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272756,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272756,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272757,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272757,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272757,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272757,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272757,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272757,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272757,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272768,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272768,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272768,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272768,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272768,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272768,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272768,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272768,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272768,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272768,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272768,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272777,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272777,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272777,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272777,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272777,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272777,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272777,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272777,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272777,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272777,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272777,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272787,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272787,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272787,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272787,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272787,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272787,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272787,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272787,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272787,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272787,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272787,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272797,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272797,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272797,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272797,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272797,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272797,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272797,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272797,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272797,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272797,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272797,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272809,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272809,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272809,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272809,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272809,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272809,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272809,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272809,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272809,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272809,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272809,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272818,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272818,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272818,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272818,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272818,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272818,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272818,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272818,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272818,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272818,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272818,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272829,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272829,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272829,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272829,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272829,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272829,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272829,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272829,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272829,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272829,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272829,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272838,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272838,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272838,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272838,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272838,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272838,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272838,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272838,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272838,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272838,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272838,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272849,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272849,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272849,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272849,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272849,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272849,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272849,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272849,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272849,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272849,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272849,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272859,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272859,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272859,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272859,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272859,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272859,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272859,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272859,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272859,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272859,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272859,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272869,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272869,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272869,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272869,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272869,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272869,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272869,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272869,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272869,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272869,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272869,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272879,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272879,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272879,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272879,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272879,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272879,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272879,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272879,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272879,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272879,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272879,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272891,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272891,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272891,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272891,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272891,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272891,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272891,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272891,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272891,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272891,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272891,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272900,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272900,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272900,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272900,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272900,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272900,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272900,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272900,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272900,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272900,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272900,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272910,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272910,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272910,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272910,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272910,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272910,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272910,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272910,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272910,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272910,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272910,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272920,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272920,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272920,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272920,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272921,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272921,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272921,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272921,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272921,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272921,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272921,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272931,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272931,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272931,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272931,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272931,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272931,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272931,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272931,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272931,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272931,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272931,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272941,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272941,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272941,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272941,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272941,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272941,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272941,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272941,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272941,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272941,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272941,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272951,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272951,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272951,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272951,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272951,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272951,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272951,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272951,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272951,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272951,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272951,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272961,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272961,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272961,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272961,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272961,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272961,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272961,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272961,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272961,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272961,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272961,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272972,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272972,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272972,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272972,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272972,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272972,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272972,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272972,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272972,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272972,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272972,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272982,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272982,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272982,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272982,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272982,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272982,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272982,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272982,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272982,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272982,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272982,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759272992,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759272992,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759272992,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759272992,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759272992,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759272992,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759272992,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759272992,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759272992,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759272992,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759272992,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273002,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273002,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273002,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273002,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273002,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273002,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273002,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273002,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273002,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273002,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273002,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273013,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273014,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273014,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273014,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273014,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273014,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273014,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273014,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273014,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273014,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273014,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273023,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273023,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273023,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273023,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273023,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273023,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273023,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273023,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273023,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273023,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273023,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273033,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273033,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273033,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273033,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273033,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273033,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273033,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273033,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273033,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273033,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273033,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273044,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273044,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273044,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273044,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273044,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273044,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273044,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273044,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273044,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273044,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273044,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273054,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273054,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273054,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273054,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273054,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273054,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273054,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273054,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273054,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273054,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273054,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273064,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273064,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273064,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273064,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273064,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273064,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273064,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273064,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273064,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273064,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273064,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273074,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273074,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273074,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273074,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273074,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273074,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273074,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273074,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273074,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273074,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273074,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273085,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273085,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273085,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273085,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273085,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273085,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273085,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273085,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273085,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273085,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273085,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273095,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273095,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273095,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273095,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273095,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273095,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273095,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273095,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273095,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273095,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273095,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273105,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273105,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273105,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273105,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273105,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273105,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273105,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273105,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273105,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273105,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273105,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273115,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273115,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273115,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273115,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273115,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273115,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273115,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273115,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273115,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273115,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273115,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273125,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273125,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273125,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273125,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273125,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273125,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273125,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273125,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273125,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273125,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273125,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273136,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273136,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273136,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273136,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273136,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273136,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273136,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273136,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273136,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273136,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273136,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273146,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273146,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273146,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273146,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273146,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273146,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273146,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273146,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273146,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273146,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273146,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273156,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273156,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273156,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273156,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273156,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273156,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273156,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273156,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273156,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273156,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273156,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273166,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273166,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273166,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273166,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273166,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273166,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273166,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273166,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273166,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273166,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273166,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273177,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273177,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273177,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273177,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273177,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273177,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273177,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273177,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273177,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273177,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273177,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273187,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273187,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273187,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273187,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273187,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273187,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273187,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273187,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273187,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273187,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273187,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273198,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273198,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273198,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273198,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273198,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273198,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273198,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273198,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273198,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273198,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273198,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273207,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273207,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273207,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273207,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273207,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273208,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273208,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273208,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273208,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273208,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273208,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273218,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273218,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273218,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273218,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273218,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273218,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273218,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273218,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273218,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273218,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273218,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273228,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273228,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273228,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273228,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273228,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273228,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273228,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273228,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273228,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273228,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273228,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273238,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273238,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273238,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273238,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273238,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273238,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273238,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273238,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273238,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273238,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273238,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273248,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273248,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273248,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273248,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273248,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273248,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273248,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273248,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273248,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273248,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273248,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273260,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273260,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273260,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273260,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273260,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273260,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273260,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273260,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273260,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273260,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273260,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273269,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273269,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273269,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273269,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273269,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273269,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273269,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273269,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273269,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273269,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273269,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273279,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273279,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273279,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273279,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273279,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273279,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273279,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273279,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273279,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273279,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273279,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273289,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273289,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273289,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273289,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273289,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273289,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273289,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273289,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273289,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273289,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273289,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273301,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273301,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273301,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273301,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273301,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273301,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273301,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273301,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273301,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273301,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273301,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273310,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273310,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273310,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273310,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273310,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273310,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273310,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273310,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273310,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273310,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273310,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273320,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273320,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273320,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273320,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273320,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273320,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273320,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273320,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273320,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273320,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273320,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273331,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273331,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273331,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273331,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273331,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273331,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273331,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273331,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273331,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273331,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273331,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273341,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273341,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273341,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273341,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273341,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273341,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273341,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273341,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273341,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273341,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273341,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273351,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273351,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273351,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273351,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273351,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273351,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273351,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273351,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273351,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273351,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273351,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273362,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273362,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273362,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273362,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273362,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273362,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273362,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273362,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273362,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273362,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273362,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273371,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273371,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273371,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273371,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273371,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273371,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273371,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273371,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273371,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273371,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273371,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273382,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273382,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273382,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273382,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273382,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273382,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273382,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273382,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273382,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273382,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273382,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273393,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273393,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273393,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273393,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273393,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273393,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273393,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273393,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273393,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273393,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273393,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273403,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273403,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273403,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273403,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273403,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273403,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273403,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273403,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273403,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273403,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273403,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273412,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273412,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273412,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273412,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273412,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273412,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273412,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273412,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273412,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273412,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273412,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273423,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273423,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273423,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273423,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273423,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273423,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273423,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273423,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273423,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273423,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273423,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273434,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273434,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273434,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273434,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273434,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273434,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273434,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273434,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273434,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273434,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273434,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273443,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273443,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273443,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273443,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273443,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273443,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273443,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273443,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273443,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273443,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273443,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273453,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273453,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273453,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273453,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273453,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273453,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273453,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273453,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273453,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273453,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273453,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273464,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273464,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273464,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273464,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273464,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273464,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273464,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273464,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273464,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273464,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273464,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273474,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273474,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273474,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273474,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273474,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273474,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273474,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273474,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273474,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273474,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273474,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273484,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273484,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273484,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273484,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273484,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273484,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273484,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273484,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273484,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273484,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273484,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273494,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273494,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273494,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273494,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273494,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273494,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273494,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273494,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273494,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273494,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273494,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273505,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273505,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273505,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273505,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273505,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273505,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273505,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273505,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273505,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273505,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273505,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273515,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273515,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273515,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273515,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273515,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273515,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273515,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273515,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273515,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273515,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273515,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273525,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273525,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273525,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273525,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273525,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273525,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273525,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273525,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273525,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273525,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273525,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273535,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273535,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273535,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273535,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273535,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273535,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273535,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273536,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273536,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273536,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273536,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273546,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273546,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273546,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273546,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273546,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273546,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273546,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273546,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273546,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273546,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273546,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273556,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273556,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273556,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273556,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273556,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273556,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273556,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273556,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273556,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273556,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273556,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273566,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273566,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273566,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273566,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273566,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273566,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273566,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273566,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273566,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273566,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273566,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273576,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273576,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273576,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273576,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273576,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273576,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273576,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273576,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273576,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273576,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273576,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273587,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273587,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273587,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273587,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273587,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273587,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273587,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273587,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273587,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273587,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273587,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273597,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273597,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273597,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273597,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273597,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273597,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273597,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273597,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273597,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273597,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273597,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273607,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273607,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273607,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273607,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273607,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273607,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273607,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273607,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273607,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273607,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273607,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273617,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273617,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273617,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273617,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273617,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273617,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273617,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273617,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273617,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273618,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273618,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273628,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273628,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273628,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273628,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273628,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273628,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273628,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273628,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273628,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273628,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273628,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273638,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273638,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273638,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273638,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273638,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273638,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273638,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273638,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273638,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273638,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273638,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273648,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273648,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273648,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273648,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273648,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273648,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273648,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273648,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273648,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273648,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273648,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273658,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273658,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273658,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273658,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273658,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273658,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273658,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273658,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273658,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273658,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273658,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273661,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,1
+1759273661,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,1
+1759273661,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,7a:27:e3:68:67:a7,10.10.10.200; fe80::7827:e3ff:fe68:239,1
+1759273661,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,1e:f7:15:39:59:40,10.0.3.150; fe80::1cf7:15ff:fe39:10,1
+1759273661,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,1
+1759273661,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,1
+1759273661,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,26:f1:23:29:3a:da,172.30.0.23; fe80::24f1:23ff:fe29:66,1
+1759273661,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,1
+1759273661,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,1
+1759273661,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,1
+1759273669,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273669,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273669,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273669,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273669,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273669,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273669,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273669,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273669,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273669,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273669,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273679,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273679,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273679,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273679,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273679,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273679,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273679,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273679,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273679,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273679,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273679,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273689,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273689,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273689,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273689,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273689,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273689,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273689,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273689,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273689,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273689,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273689,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273699,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273699,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273699,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273699,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273699,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273699,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273699,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273699,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273699,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273699,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273699,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273710,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273710,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273710,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273710,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273710,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273710,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273710,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273710,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273710,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273710,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273710,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273720,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273720,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273720,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273720,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273720,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273720,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273720,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273720,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273720,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273720,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273720,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273730,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273730,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273730,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273730,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273730,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273730,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273730,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273730,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273730,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273730,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273730,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273740,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273740,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273740,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273740,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273740,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273740,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273740,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273740,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273740,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273740,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273740,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273751,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273751,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273751,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273751,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273751,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273751,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273751,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273751,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273751,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273751,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273751,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273761,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273761,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273761,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273761,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273761,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273761,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273761,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273761,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273761,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273761,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273761,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273771,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273771,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273771,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273771,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273771,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273771,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273771,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273771,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273771,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273771,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273771,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273781,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273781,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273782,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273782,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273782,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273782,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273782,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273782,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273782,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273782,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273782,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273792,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273792,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273792,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273792,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273792,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273792,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273792,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273792,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273792,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273792,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273792,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273802,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273802,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273802,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273802,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273802,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273802,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273802,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273802,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273802,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273802,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273802,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273812,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273812,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273812,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273812,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273812,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273812,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273812,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273812,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273812,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273812,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273812,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273822,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273822,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273822,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273822,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273822,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273822,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273822,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273822,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273822,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273822,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273822,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273833,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273833,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273833,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273833,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273833,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273833,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273833,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273833,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273833,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273833,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273833,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273843,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273843,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273843,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273843,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273843,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273843,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273843,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273843,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273843,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273843,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273843,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273853,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273853,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273853,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273853,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273853,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273853,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273853,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273853,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273853,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273853,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273853,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273864,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273864,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273864,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273864,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273864,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273864,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273864,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273864,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273864,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273864,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273864,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273875,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273875,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273875,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273875,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273875,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273875,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273875,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273875,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273875,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273875,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273875,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273884,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273884,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273884,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273884,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273884,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273884,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273884,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273884,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273884,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273884,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273884,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273894,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273894,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273894,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273894,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273894,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273894,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273894,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273894,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273894,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273894,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273894,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273904,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273904,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273904,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273904,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273904,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273904,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273904,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273904,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273904,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273904,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273904,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273915,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273915,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273915,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273915,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273915,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273915,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273915,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273915,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273915,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273915,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273915,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273925,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273925,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273925,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273925,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273925,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273925,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273925,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273925,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273925,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273925,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273925,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273935,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273935,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273935,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273935,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273935,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273935,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273935,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273935,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273935,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273935,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273935,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273945,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273945,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273945,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273945,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273945,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273945,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273945,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273945,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273945,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273945,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273945,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273956,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273956,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273956,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273956,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273956,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273956,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273956,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273956,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273956,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273956,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273956,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273967,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273967,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273967,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273967,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273967,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273967,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273967,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273967,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273967,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273967,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273967,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273976,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273976,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273976,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273976,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273976,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273976,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273976,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273976,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273976,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273976,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273976,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273986,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273986,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273986,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273986,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273986,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273986,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273986,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273986,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273986,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273986,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759273986,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273997,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759273997,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759273997,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759273997,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759273997,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759273997,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759273997,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759273997,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759273997,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759273997,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759273997,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274007,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274007,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274007,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274007,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274007,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274007,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274007,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274007,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274007,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274007,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274007,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274017,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274017,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274017,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274017,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274017,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274017,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274017,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274017,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274017,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274017,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274017,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274028,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274028,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274028,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274028,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274028,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274028,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274028,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274028,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274028,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274028,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274028,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274038,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274038,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274038,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274038,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274038,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274038,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274038,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274038,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274038,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274038,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274038,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274048,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274048,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274048,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274048,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274048,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274048,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274048,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274048,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274048,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274048,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274048,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274058,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274058,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274058,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274058,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274058,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274058,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274058,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274058,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274058,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274058,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274058,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274068,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274068,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274068,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274068,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274068,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274068,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274068,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274068,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274068,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274068,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274069,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274079,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274079,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274079,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274079,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274079,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274079,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274079,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274079,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274079,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274079,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274079,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274090,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274090,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274090,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274090,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274090,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274090,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274090,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274090,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274090,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274090,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274090,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274100,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274100,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274100,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274100,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274100,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274100,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274100,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274100,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274100,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274100,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274100,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274109,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274109,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274109,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274109,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274109,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274109,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274109,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274109,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274109,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274109,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274109,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274120,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274120,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274120,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274120,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274120,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274120,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274120,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274120,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274120,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274120,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274120,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274130,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274130,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274130,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274130,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274130,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274130,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274130,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274130,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274130,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274130,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274130,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274141,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274141,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274141,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274141,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274141,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274141,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274141,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274141,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274141,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274141,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274141,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274150,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274150,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274150,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274150,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274150,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274150,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274150,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274150,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274150,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274150,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274150,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274161,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274161,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274161,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274161,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274161,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274161,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274161,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274161,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274161,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274161,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274161,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274171,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274171,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274171,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274171,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274171,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274171,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274171,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274171,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274171,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274171,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274171,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274181,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274181,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274181,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274181,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274181,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274181,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274181,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274181,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274181,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274181,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274181,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274191,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274191,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274191,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274191,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274191,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274191,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274191,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274191,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274191,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274191,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274191,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274202,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274202,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274202,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274202,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274202,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274202,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274202,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274202,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274202,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274202,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274202,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274212,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274212,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274212,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274212,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274212,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274212,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274212,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274212,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274212,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274212,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274212,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274222,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274222,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274222,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274222,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274222,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274222,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274222,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274222,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274222,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274222,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274222,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274232,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274232,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274232,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274232,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274232,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274232,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274232,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274232,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274232,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274232,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274232,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274243,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274243,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274243,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274243,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274243,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274243,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274243,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274243,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274243,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274243,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274243,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274253,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274253,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274253,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274253,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274253,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274253,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274253,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274253,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274253,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274253,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274253,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274263,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274263,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274263,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274263,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274263,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274263,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274263,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274263,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274263,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274263,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274263,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274273,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274273,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274273,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274273,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274273,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274273,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274273,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274273,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274273,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274273,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274273,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274284,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274284,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274284,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274284,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274284,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274284,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274284,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274284,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274284,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274284,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274284,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274294,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274294,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274294,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274294,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274294,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274294,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274294,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274294,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274294,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274294,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274294,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274305,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274305,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274305,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274305,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274305,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274305,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274305,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274305,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274305,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274305,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274305,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274314,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274314,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274314,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274314,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274314,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274314,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274314,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274314,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274314,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274314,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274314,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274326,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274326,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274326,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274326,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274326,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274326,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274326,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274326,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274326,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274326,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274326,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274335,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274335,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274335,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274335,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274335,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274335,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274335,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274335,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274335,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274335,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274335,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274345,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274345,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274345,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274345,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274345,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274345,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274345,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274345,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274345,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274345,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274345,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274356,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274356,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274356,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274356,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274356,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274356,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274356,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274356,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274356,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274356,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274356,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274367,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274367,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274367,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274367,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274367,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274367,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274367,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274367,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274367,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274367,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274367,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274376,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274376,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274376,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759274376,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274376,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274376,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274376,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274376,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274376,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274376,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274376,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274402,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759274402,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759274402,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759274402,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759274402,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759274402,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759274402,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759274402,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759274402,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759274402,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759274402,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275282,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275282,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275282,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275282,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275282,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275282,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275282,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275282,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275282,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275282,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275282,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275292,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275292,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275292,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275292,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275292,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275292,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275292,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275292,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275292,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275292,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275292,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275302,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275302,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275302,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275302,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275302,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275302,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275302,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275302,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275302,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275302,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275302,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275312,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275312,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275312,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275312,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275312,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275312,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275312,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275312,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275312,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275312,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275312,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275323,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275323,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275323,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275323,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275323,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275323,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275323,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275323,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275323,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275323,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275323,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275333,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275333,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275333,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275333,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275333,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275333,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275333,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275333,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275333,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275333,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275333,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275343,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275343,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275343,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275343,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275343,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275343,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275343,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275343,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275343,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275343,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275343,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275353,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275353,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275353,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275353,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275353,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275353,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275353,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275353,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275353,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275353,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275353,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275364,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275364,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275364,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275364,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275364,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275364,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275364,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275364,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275364,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275364,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275364,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275374,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275374,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275374,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275374,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275374,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275374,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275374,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275374,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275374,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275374,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275374,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275384,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275384,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275384,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275384,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275384,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275384,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275384,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275384,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275384,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275384,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275384,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275394,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275394,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275394,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275394,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275394,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275394,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275394,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275394,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275394,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275394,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275394,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275405,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275405,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275405,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275405,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275405,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275405,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275405,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275405,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275405,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275405,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275405,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275415,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275415,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275415,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275415,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275415,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275415,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275415,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275415,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275415,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275415,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275415,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275425,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275425,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275425,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275425,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275425,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275425,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275425,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275425,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275425,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275425,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275425,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275435,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275435,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275435,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275435,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275435,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275435,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275435,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275435,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275435,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275435,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275435,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275446,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275446,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275446,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275446,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275446,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275446,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275446,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275446,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275446,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275446,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275446,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275456,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275456,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275456,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275456,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275456,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275456,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275456,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275456,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275456,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275456,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275456,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275466,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275466,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275466,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275466,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275466,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275466,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275466,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275466,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275466,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275466,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275466,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275476,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275476,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275476,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275476,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275476,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275476,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275476,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275476,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275476,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275476,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275476,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275487,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275487,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275487,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275487,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275487,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275487,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275487,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275487,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275487,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275487,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275487,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275497,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275497,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275497,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275497,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275497,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275497,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275497,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275497,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275497,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275497,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275497,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275507,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275507,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275507,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275507,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275507,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275507,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275507,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275507,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275507,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275507,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275507,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275517,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275517,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275517,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275517,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275517,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759275517,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275517,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275517,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275517,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275517,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275517,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275528,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,72:71:f5:75:2f:df,10.1.2.74; fe80::7071:f5ff:fe75:81,0
+1759275528,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759275528,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275528,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759275528,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759275528,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759275528,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275528,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,4a:f7:b2:ca:a9:3b,172.30.0.194; fe80::48f7:b2ff:feca:144,0
+1759275528,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,ae:f6:d5:d6:a3:c7,10.1.1.105; fe80::acf6:d5ff:fed6:85,0
+1759275528,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth3,Added,2e:d2:90:86:0e:db,10.0.3.150; fe80::2cd2:90ff:fe86:55,0
+1759275528,cache-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0

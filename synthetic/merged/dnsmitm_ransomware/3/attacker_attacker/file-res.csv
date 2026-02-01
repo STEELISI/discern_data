@@ -1,10 +1,13 @@
 timestamp,device_id,location,size,hash,owner,group,malicious
+1759281736,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,235,DCbHQm9YF9ayuuAFIE0YKQ==,root,root,1
+1759281736,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,191,JI48MTrxdbiutQXPSNRB4Q==,root,root,1
+1759281736,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,117,N0v4juHfNnO4gA+7ITN63g==,root,root,1
 1759281815,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,185,SV6HQ++tKaEM1pGOAim4Eg==,root,root,0
 1759282441,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,185,dEd2yDTw3uJfDD6boQmNrg==,root,root,0
-1759282871,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,1
-1759282871,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,191,9fePW2mt6QGzDAX54z2eNw==,root,root,1
 1759283065,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,235,1mtNWUPt/K/rjxiD/mif/A==,root,root,0
 1759283065,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,185,YaWZMq2muCNtoMWDjqvi9g==,root,root,0
+1759283614,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,1
+1759283614,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,191,9fePW2mt6QGzDAX54z2eNw==,root,root,1
 1759283703,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/ettercap/etter.dns,4851,KYqGP0voOtN/c0oQDCJVDQ==,root,root,0
 1759283703,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,0
 1759283703,attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,185,dEd2yDTw3uJfDD6boQmNrg==,root,root,0

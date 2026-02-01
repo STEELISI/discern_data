@@ -1,0 +1,11 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips
+1759263004,pop31.bnsdq.ozxfs.laefh.kvugl,nfqueue,Added,N/A,
+1759263004,pop31.bnsdq.ozxfs.laefh.kvugl,dbus-session,Added,N/A,
+1759263004,pop31.bnsdq.ozxfs.laefh.kvugl,eth0,Added,5e:73:46:c8:de:7d,172.30.0.164; fe80::5c73:46ff:fec8:201
+1759263004,pop31.bnsdq.ozxfs.laefh.kvugl,eth1,Added,9a:d0:ca:3f:b6:d5,107.125.128.175; fe80::98d0:caff:fe3f:197
+1759263004,pop31.bnsdq.ozxfs.laefh.kvugl,any,Added,N/A,
+1759263004,pop31.bnsdq.ozxfs.laefh.kvugl,bluetooth-monitor,Added,N/A,
+1759263004,pop31.bnsdq.ozxfs.laefh.kvugl,nflog,Added,N/A,
+1759263004,pop31.bnsdq.ozxfs.laefh.kvugl,dbus-system,Added,N/A,
+1759263004,pop31.bnsdq.ozxfs.laefh.kvugl,lo,Added,N/A,127.0.0.1; ::105
+1759263004,pop31.bnsdq.ozxfs.laefh.kvugl,eth2,Added,7a:ff:f7:59:92:a7,10.0.8.155; fe80::78ff:f7ff:fe59:51

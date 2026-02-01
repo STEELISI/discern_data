@@ -1,0 +1,21 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips,malicious
+1759315681,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,eth0,Added,16:a1:81:ce:ad:03,172.30.0.220; fe80::14a1:81ff:fece:75,0
+1759315681,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,any,Added,N/A,,0
+1759315681,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,bluetooth-monitor,Added,N/A,,0
+1759315681,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,nflog,Added,N/A,,0
+1759315681,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,dbus-system,Added,N/A,,0
+1759315681,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,dbus-session,Added,N/A,,0
+1759315681,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759315681,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,eth1,Added,f6:db:98:7b:e0:47,10.0.1.111; fe80::f4db:98ff:fe7b:135,0
+1759315681,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,docker0,Added,02:42:82:42:f3:32,172.17.0.207; fe80::42:82ff:fe42:112,0
+1759315681,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,nfqueue,Added,N/A,,0
+1759315806,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,lo,Added,N/A,127.0.0.1; ::105,1
+1759315806,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,eth1,Added,e6:24:3e:44:df:36,10.0.1.111; fe80::e424:3eff:fe44:86,1
+1759315806,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,any,Added,N/A,,1
+1759315806,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,dbus-session,Added,N/A,,1
+1759315806,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,eth0,Added,b2:19:7f:15:d7:30,172.30.0.163; fe80::b019:7fff:fe15:80,1
+1759315806,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,bluetooth-monitor,Added,N/A,,1
+1759315806,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,nflog,Added,N/A,,1
+1759315806,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,nfqueue,Added,N/A,,1
+1759315806,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,dbus-system,Added,N/A,,1
+1759316281,learner-compromised.bnsdq.ozxfs.fkiya-kvhkg.kvugl,veth276cf5a,Added,4e:e5:b7:36:60:5e,fe80::4ce5:b7ff:fe36:133,0

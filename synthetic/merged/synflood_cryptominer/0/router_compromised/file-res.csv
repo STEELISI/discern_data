@@ -1,4 +1,6 @@
 timestamp,device_id,location,size,hash,owner,group,malicious
+1759299868,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,1
+1759299868,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,/etc/systemd/network/eth1.network,49,xq1RI7GOEaZ6hFv5WdC6fw==,root,root,1
 1759299968,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,/etc/systemd/network/eth1.network,115,cKz66jErcW06sc4Uo9/pCg==,root,root,0
 1759299968,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,/etc/systemd/network/eth2.network,182,WI/OmUpHEwiONzneXXZ++Q==,root,root,0
 1759299968,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,/etc/systemd/network/eth3.network,49,55yd/0j1Ns2eqq125KvVLQ==,root,root,0

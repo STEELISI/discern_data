@@ -1,4 +1,5 @@
 timestamp,device_id,location,size,hash,owner,group,malicious
+1759275563,attacker-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,1
 1759275626,attacker-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,0
 1759275626,attacker-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth1.network,185,vC4gm8txUPEoMYSwWteauA==,root,root,0
 1759275626,attacker-victim1.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth2.network,185,dEd2yDTw3uJfDD6boQmNrg==,root,root,0

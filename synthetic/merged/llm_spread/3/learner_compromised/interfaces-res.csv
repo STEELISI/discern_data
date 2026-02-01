@@ -1,0 +1,22 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips,malicious
+1759318699,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,eth1,Added,f6:59:d7:b5:b5:f9,10.0.1.111; fe80::f459:d7ff:feb5:64,0
+1759318699,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,nflog,Added,N/A,,0
+1759318699,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759318699,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759318699,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759318699,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759318699,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759318699,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,eth0,Added,2a:8e:e0:e0:ff:25,172.30.0.220; fe80::288e:e0ff:fee0:137,0
+1759318699,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,docker0,Added,02:42:21:07:29:97,172.17.0.207; fe80::42:21ff:fe07:109,0
+1759318699,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,any,Added,N/A,,0
+1759318757,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,1
+1759318757,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,nflog,Added,N/A,,1
+1759318757,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,dbus-system,Added,N/A,,1
+1759318757,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,eth0,Added,e6:8e:99:5f:98:e3,172.30.0.220; fe80::e48e:99ff:fe5f:147,1
+1759318757,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,eth1,Added,f2:56:ab:65:1c:de,10.10.10.68; fe80::f056:abff:fe65:143,1
+1759318757,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,eth2,Added,de:ac:f9:59:66:c2,10.0.2.116; fe80::dcac:f9ff:fe59:60,1
+1759318757,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,any,Added,N/A,,1
+1759318757,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,bluetooth-monitor,Added,N/A,,1
+1759318757,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,nfqueue,Added,N/A,,1
+1759318757,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,dbus-session,Added,N/A,,1
+1759319299,learner-compromised.bnsdq.ozxfs.fkiya-owcwb.kvugl,veth5c0cade,Added,1a:32:56:03:03:82,fe80::1832:56ff:fe03:73,0

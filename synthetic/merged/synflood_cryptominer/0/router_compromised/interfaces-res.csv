@@ -1,0 +1,21 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips,malicious
+1759299938,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,dbus-session,Added,N/A,,0
+1759299938,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,eth0,Added,ea:82:9e:3a:05:7a,172.30.0.23; fe80::e882:9eff:fe3a:3,0
+1759299938,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,bluetooth-monitor,Added,N/A,,0
+1759299938,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,nfqueue,Added,N/A,,0
+1759299938,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,dbus-system,Added,N/A,,0
+1759299938,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,any,Added,N/A,,0
+1759299938,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,nflog,Added,N/A,,0
+1759299938,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759299938,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,eth1,Added,56:23:6e:3c:0b:1c,5.6.7.228; fe80::5423:6eff:fe3c:35,0
+1759299938,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,eth2,Added,f2:fb:cf:95:99:ae,1.1.2.14; fe80::f0fb:cfff:fe95:195,0
+1759299938,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,eth3,Added,ba:c7:30:d9:cb:48,10.0.3.150; fe80::b8c7:30ff:fed9:80,0
+1759300686,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,eth1,Added,16:7a:66:57:31:21,10.0.1.111; fe80::147a:66ff:fe57:47,1
+1759300686,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,any,Added,N/A,,1
+1759300686,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,nfqueue,Added,N/A,,1
+1759300686,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,dbus-system,Added,N/A,,1
+1759300686,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,dbus-session,Added,N/A,,1
+1759300686,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,lo,Added,N/A,127.0.0.1; ::105,1
+1759300686,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,eth0,Added,26:c4:aa:d0:f1:30,172.30.0.163; fe80::24c4:aaff:fed0:2,1
+1759300686,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,bluetooth-monitor,Added,N/A,,1
+1759300686,router-compromised.bnsdq.ozxfs.rzona-kvhkg.kvugl,nflog,Added,N/A,,1

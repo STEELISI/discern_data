@@ -1,0 +1,561 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips,malicious
+1759278711,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759278711,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759278711,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759278711,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759278711,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759278711,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759278711,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759278711,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759278711,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759278711,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759279557,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,1
+1759279557,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,1
+1759279557,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,1
+1759279557,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:8e:99:5f:98:e3,172.30.0.220; fe80::e48e:99ff:fe5f:147,1
+1759279557,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,1
+1759279557,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,1
+1759279557,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,f2:56:ab:65:1c:de,10.10.10.68; fe80::f056:abff:fe65:143,1
+1759279557,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,de:ac:f9:59:66:c2,10.0.2.116; fe80::dcac:f9ff:fe59:60,1
+1759279557,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,1
+1759279557,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,1
+1759281072,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281073,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281073,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281073,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281073,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281073,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281073,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281073,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281073,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281073,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281080,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281080,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281080,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281080,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281080,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281080,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281080,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281080,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281080,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281080,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281090,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281090,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281090,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281090,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281090,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281090,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281090,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281090,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281090,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281090,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281101,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281101,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281101,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281101,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281101,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281101,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281101,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281101,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281101,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281101,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281112,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281112,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281112,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281112,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281112,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281112,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281112,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281112,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281112,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281112,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281121,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281121,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281121,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281121,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281121,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281121,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281121,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281121,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281121,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281121,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281133,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281133,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281133,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281133,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281133,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281133,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281133,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281133,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281133,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281133,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281142,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281142,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281142,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281142,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281142,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281142,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281142,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281142,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281142,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281142,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281152,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281152,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281152,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281152,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281152,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281152,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281152,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281152,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281152,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281152,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281162,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281162,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281162,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281162,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281162,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281162,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281162,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281162,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281162,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281162,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281172,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281172,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281172,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281172,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281172,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281172,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281172,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281172,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281172,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281172,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281183,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281183,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281183,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281183,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281183,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281183,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281183,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281183,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281183,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281183,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281194,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281194,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281194,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281194,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281194,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281194,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281194,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281194,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281194,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281194,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281203,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281203,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281203,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281203,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281203,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281203,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281203,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281203,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281203,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281203,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281213,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281213,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281213,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281213,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281213,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281213,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281213,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281213,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281213,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281213,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281224,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281224,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281224,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281224,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281224,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281224,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281224,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281224,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281225,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281225,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281234,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281234,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281234,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281234,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281234,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281234,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281234,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281234,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281234,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281234,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281259,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281259,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281259,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281259,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281259,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281259,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281259,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281259,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281259,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281259,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281269,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281269,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281269,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281269,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281269,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281269,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281269,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281269,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281269,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281269,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281280,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281280,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281280,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281280,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281280,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281280,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281280,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281280,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281280,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281280,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281290,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281290,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281290,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281290,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281290,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281290,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281290,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281290,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281290,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281290,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281300,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281300,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281300,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281300,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281300,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281300,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281300,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281300,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281300,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281300,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281310,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281310,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281310,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281310,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281310,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281310,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281310,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281310,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281310,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281310,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281321,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281321,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281321,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281321,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281321,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281321,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281321,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281321,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281321,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281321,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281331,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281331,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281331,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281331,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281331,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281331,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281331,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281331,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281331,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281331,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281341,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281341,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281341,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281341,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281341,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281341,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281341,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281341,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281341,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281341,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281351,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281351,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281351,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281351,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281351,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281351,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281351,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281351,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281351,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281351,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281362,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281362,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281362,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281362,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281362,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281362,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281362,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281362,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281362,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281362,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281371,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281371,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281371,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281371,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281371,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281371,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281372,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281372,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281372,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281372,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281383,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281383,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281383,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281383,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281383,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281383,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281383,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281383,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281383,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281383,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281392,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281392,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281392,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281392,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281392,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281392,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281392,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281392,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281392,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281392,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281402,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281402,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281402,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281402,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281402,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281402,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281402,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281402,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281402,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281402,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281413,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281413,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281413,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281413,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281413,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281413,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281413,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281413,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281413,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281413,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281423,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281423,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281423,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281423,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281423,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281423,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281423,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281423,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281423,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281423,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281433,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281433,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281433,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281433,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281433,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281433,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281433,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281433,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281433,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281433,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281443,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281443,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281443,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281443,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281443,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281443,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281443,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281443,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281443,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281443,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281454,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281454,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281454,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281454,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281454,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281454,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281454,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281454,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281454,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281454,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281464,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281464,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281464,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281464,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281464,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281464,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281464,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281464,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281464,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281464,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281474,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281474,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281474,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281474,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281474,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281474,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281474,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281474,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281474,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281474,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281484,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281484,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281484,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281484,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281484,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281484,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281484,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281484,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281484,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281484,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281495,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281495,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281495,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281495,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281495,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281495,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281495,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281495,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281495,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281495,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281505,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281505,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281505,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281505,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281505,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281505,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281505,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281505,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281505,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281505,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281515,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281515,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281515,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281515,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281515,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281515,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281515,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281515,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281515,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281515,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281526,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281526,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281526,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281526,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281526,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281526,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281526,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281526,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281526,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281526,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281536,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281536,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281536,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281536,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281536,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281536,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281536,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281536,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281536,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281536,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281546,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281546,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281546,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281546,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281546,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281546,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281546,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281546,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281546,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281546,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281556,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281556,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281556,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281556,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281556,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281556,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281556,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281556,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281556,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281556,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281567,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281567,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281567,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281567,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281567,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281567,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281567,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281567,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281567,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281567,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281577,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281577,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281577,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281577,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281577,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281577,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281577,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281577,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281577,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281577,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281587,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281587,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281587,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281587,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281587,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281587,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281587,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281587,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281587,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281587,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281597,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281597,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281597,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281597,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281597,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281597,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281597,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281597,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281597,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281597,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281608,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281608,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281608,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281608,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281608,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281608,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281608,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281608,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281608,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281608,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281618,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281618,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281618,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281618,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281618,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281618,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281618,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281618,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281618,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281618,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0
+1759281634,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759281634,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759281634,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nflog,Added,N/A,,0
+1759281634,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,any,Added,N/A,,0
+1759281634,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759281634,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759281634,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759281634,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth0,Added,e6:0a:26:d9:5b:92,172.30.0.23; fe80::e40a:26ff:fed9:129,0
+1759281634,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth1,Added,a6:5a:1c:06:00:fd,10.1.1.193; fe80::a45a:1cff:fe06:189,0
+1759281634,client-compromised.bnsdq.ozxfs.vcwss-owcwb.kvugl,eth2,Added,fa:88:f9:0b:e6:73,10.0.4.167; fe80::f888:f9ff:fe0b:147,0

@@ -1,0 +1,21 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips,malicious
+1759303782,server-compromised.bnsdq.ozxfs.rzona-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759303782,server-compromised.bnsdq.ozxfs.rzona-owcwb.kvugl,nflog,Added,N/A,,0
+1759303782,server-compromised.bnsdq.ozxfs.rzona-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759303782,server-compromised.bnsdq.ozxfs.rzona-owcwb.kvugl,eth0,Added,7a:34:8a:81:52:b8,172.30.0.89; fe80::7834:8aff:fe81:156,0
+1759303782,server-compromised.bnsdq.ozxfs.rzona-owcwb.kvugl,eth2,Added,16:26:9c:d7:91:eb,10.0.4.167; fe80::1426:9cff:fed7:121,0
+1759303782,server-compromised.bnsdq.ozxfs.rzona-owcwb.kvugl,any,Added,N/A,,0
+1759303782,server-compromised.bnsdq.ozxfs.rzona-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759303782,server-compromised.bnsdq.ozxfs.rzona-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759303782,server-compromised.bnsdq.ozxfs.rzona-owcwb.kvugl,eth1,Added,aa:97:bc:90:da:3a,5.6.7.72; fe80::a897:bcff:fe90:7,0
+1759303782,server-compromised.bnsdq.ozxfs.rzona-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759304163,server-compromised.bnsdq.ozxfs.rzona-owcwb.kvugl,nfqueue,Added,N/A,,1
+1759304163,server-compromised.bnsdq.ozxfs.rzona-owcwb.kvugl,dbus-session,Added,N/A,,1
+1759304163,server-compromised.bnsdq.ozxfs.rzona-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,1
+1759304163,server-compromised.bnsdq.ozxfs.rzona-owcwb.kvugl,eth0,Added,e6:8e:99:5f:98:e3,172.30.0.220; fe80::e48e:99ff:fe5f:147,1
+1759304163,server-compromised.bnsdq.ozxfs.rzona-owcwb.kvugl,any,Added,N/A,,1
+1759304163,server-compromised.bnsdq.ozxfs.rzona-owcwb.kvugl,nflog,Added,N/A,,1
+1759304163,server-compromised.bnsdq.ozxfs.rzona-owcwb.kvugl,eth1,Added,f2:56:ab:65:1c:de,10.10.10.68; fe80::f056:abff:fe65:143,1
+1759304163,server-compromised.bnsdq.ozxfs.rzona-owcwb.kvugl,eth2,Added,de:ac:f9:59:66:c2,10.0.2.116; fe80::dcac:f9ff:fe59:60,1
+1759304163,server-compromised.bnsdq.ozxfs.rzona-owcwb.kvugl,bluetooth-monitor,Added,N/A,,1
+1759304163,server-compromised.bnsdq.ozxfs.rzona-owcwb.kvugl,dbus-system,Added,N/A,,1

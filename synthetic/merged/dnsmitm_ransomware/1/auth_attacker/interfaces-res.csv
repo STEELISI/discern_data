@@ -1,0 +1,21 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips,malicious
+1759275610,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,eth0,Added,1a:18:a6:ea:67:c3,172.30.0.220; fe80::1818:a6ff:feea:1,0
+1759275610,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,nfqueue,Added,N/A,,0
+1759275610,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,dbus-system,Added,N/A,,0
+1759275610,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,dbus-session,Added,N/A,,0
+1759275610,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759275610,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,eth1,Added,ca:e3:54:db:2d:9c,10.1.2.119; fe80::c8e3:54ff:fedb:3,0
+1759275610,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,eth2,Added,2e:41:54:f0:a3:0c,10.0.2.116; fe80::2c41:54ff:fef0:126,0
+1759275610,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,any,Added,N/A,,0
+1759275610,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,bluetooth-monitor,Added,N/A,,0
+1759275610,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,nflog,Added,N/A,,0
+1759276831,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,eth0,Added,82:3b:4f:59:91:bf,172.30.0.163; fe80::803b:4fff:fe59:228,1
+1759276831,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,eth2,Added,ae:10:f0:20:d5:3e,10.0.1.111; fe80::ac10:f0ff:fe20:53,1
+1759276832,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,nflog,Added,N/A,,1
+1759276832,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,nfqueue,Added,N/A,,1
+1759276832,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,lo,Added,N/A,127.0.0.1; ::105,1
+1759276832,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,eth1,Added,52:b1:93:df:95:76,10.10.10.109; fe80::50b1:93ff:fedf:164,1
+1759276832,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,any,Added,N/A,,1
+1759276832,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,bluetooth-monitor,Added,N/A,,1
+1759276832,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,dbus-system,Added,N/A,,1
+1759276832,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,dbus-session,Added,N/A,,1

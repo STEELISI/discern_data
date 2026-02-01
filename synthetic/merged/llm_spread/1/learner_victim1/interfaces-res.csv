@@ -1,0 +1,22 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips,malicious
+1759312680,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,nflog,Added,N/A,,0
+1759312680,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,dbus-system,Added,N/A,,0
+1759312680,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,dbus-session,Added,N/A,,0
+1759312680,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759312680,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,any,Added,N/A,,0
+1759312680,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,docker0,Added,02:42:e4:43:da:fb,172.17.0.207; fe80::42:e4ff:fe43:131,0
+1759312680,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,bluetooth-monitor,Added,N/A,,0
+1759312680,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,nfqueue,Added,N/A,,0
+1759312680,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,eth0,Added,06:16:25:7c:f4:86,172.30.0.220; fe80::416:25ff:fe7c:237,0
+1759312680,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,eth1,Added,f6:97:ee:e8:a8:d4,10.0.1.111; fe80::f497:eeff:fee8:237,0
+1759312735,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,any,Added,N/A,,1
+1759312735,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,bluetooth-monitor,Added,N/A,,1
+1759312735,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,nflog,Added,N/A,,1
+1759312735,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,nfqueue,Added,N/A,,1
+1759312735,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,dbus-system,Added,N/A,,1
+1759312735,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,lo,Added,N/A,127.0.0.1; ::105,1
+1759312735,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,eth0,Added,26:f1:23:29:3a:da,172.30.0.23; fe80::24f1:23ff:fe29:66,1
+1759312735,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,dbus-session,Added,N/A,,1
+1759312735,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,eth1,Added,7a:27:e3:68:67:a7,10.10.10.200; fe80::7827:e3ff:fe68:239,1
+1759312735,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,eth2,Added,1e:f7:15:39:59:40,10.0.3.150; fe80::1cf7:15ff:fe39:10,1
+1759313280,learner-victim1.bnsdq.ozxfs.fkiya-owcwb.kvugl,vethf60c1d2,Added,e2:6d:48:bc:55:75,fe80::e06d:48ff:febc:130,0

@@ -1,0 +1,12 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips
+1759263309,wordpress1.bnsdq.ozxfs.laefh.kvugl,bluetooth-monitor,Added,N/A,
+1759263309,wordpress1.bnsdq.ozxfs.laefh.kvugl,nfqueue,Added,N/A,
+1759263309,wordpress1.bnsdq.ozxfs.laefh.kvugl,dbus-session,Added,N/A,
+1759263309,wordpress1.bnsdq.ozxfs.laefh.kvugl,lo,Added,N/A,127.0.0.1; ::105
+1759263309,wordpress1.bnsdq.ozxfs.laefh.kvugl,eth0,Added,da:27:8c:46:b1:81,172.30.0.245; fe80::d827:8cff:fe46:180
+1759263309,wordpress1.bnsdq.ozxfs.laefh.kvugl,docker0,Added,02:42:89:e6:f7:3f,172.17.0.207; fe80::42:89ff:fee6:28
+1759263309,wordpress1.bnsdq.ozxfs.laefh.kvugl,any,Added,N/A,
+1759263309,wordpress1.bnsdq.ozxfs.laefh.kvugl,nflog,Added,N/A,
+1759263309,wordpress1.bnsdq.ozxfs.laefh.kvugl,dbus-system,Added,N/A,
+1759263309,wordpress1.bnsdq.ozxfs.laefh.kvugl,eth1,Added,9a:7b:d4:cf:1a:56,107.125.128.38; fe80::987b:d4ff:fecf:147
+1759263309,wordpress1.bnsdq.ozxfs.laefh.kvugl,eth2,Added,a2:4b:32:3c:4c:3c,10.0.6.248; fe80::a04b:32ff:fe3c:31

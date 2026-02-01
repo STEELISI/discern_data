@@ -1,4 +1,6 @@
 timestamp,device_id,location,size,hash,owner,group,malicious
+1759278620,auth-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,1
+1759278620,auth-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth2.network,49,Q9okUy8V2uXskB3sLiXZKQ==,root,root,1
 1759279317,auth-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth1.network,253,WERUj8UwVEwHBIiZLjlFJg==,root,root,0
 1759279317,auth-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth2.network,117,Gw8otNVy80qX10MlUMdPpQ==,root,root,0
 1759279936,auth-attacker.bnsdq.ozxfs.vcwss-owcwb.kvugl,/etc/systemd/network/eth1.network,253,E7p8jZMf1gf27exQ6JoWbw==,root,root,0

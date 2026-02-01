@@ -1,4 +1,6 @@
 timestamp,device_id,location,size,hash,owner,group,malicious
+1759278624,client-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,1
+1759278624,client-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,/etc/systemd/network/eth1.network,49,xq1RI7GOEaZ6hFv5WdC6fw==,root,root,1
 1759279364,client-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,/etc/systemd/network/eth1.network,185,zCqgXuVO0vm2FijtT5a/8A==,root,root,0
 1759279982,client-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,/etc/systemd/network/eth1.network,185,wA5waWwInNjsB5IsPDgntQ==,root,root,0
 1759280601,client-compromised.bnsdq.ozxfs.vcwss-kvhkg.kvugl,/etc/systemd/network/eth1.network,185,Fikj9DKClKHiiDobkBv5Qg==,root,root,0

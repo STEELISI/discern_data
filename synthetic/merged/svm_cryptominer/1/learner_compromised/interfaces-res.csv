@@ -1,0 +1,19 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips,malicious
+1759289962,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,any,Added,N/A,,0
+1759289962,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,bluetooth-monitor,Added,N/A,,0
+1759289962,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,nflog,Added,N/A,,0
+1759289962,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,dbus-session,Added,N/A,,0
+1759289962,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759289962,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,eth0,Added,56:ff:f1:b6:28:80,172.30.0.220; fe80::54ff:f1ff:feb6:198,0
+1759289962,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,dbus-system,Added,N/A,,0
+1759289962,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,eth1,Added,c6:ea:79:0d:9e:a8,10.0.1.111; fe80::c4ea:79ff:fe0d:44,0
+1759289962,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,nfqueue,Added,N/A,,0
+1759290019,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,lo,Added,N/A,127.0.0.1; ::105,1
+1759290019,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,nflog,Added,N/A,,1
+1759290019,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,nfqueue,Added,N/A,,1
+1759290019,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,dbus-session,Added,N/A,,1
+1759290019,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,eth0,Added,ea:39:44:b3:fb:0a,172.30.0.163; fe80::e839:44ff:feb3:144,1
+1759290019,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,eth1,Added,3e:55:6c:e2:04:0f,10.0.1.111; fe80::3c55:6cff:fee2:185,1
+1759290019,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,any,Added,N/A,,1
+1759290019,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,bluetooth-monitor,Added,N/A,,1
+1759290019,learner-compromised.bnsdq.ozxfs.igokp-kvhkg.kvugl,dbus-system,Added,N/A,,1

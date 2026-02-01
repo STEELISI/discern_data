@@ -1,0 +1,12 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips
+1759262985,pgwebhost2.bnsdq.ozxfs.laefh.kvugl,nfqueue,Added,N/A,
+1759262985,pgwebhost2.bnsdq.ozxfs.laefh.kvugl,eth1,Added,ea:e3:2f:f4:08:5b,107.125.128.109; fe80::e8e3:2fff:fef4:93
+1759262985,pgwebhost2.bnsdq.ozxfs.laefh.kvugl,eth2,Added,da:f2:56:f8:f5:24,10.0.26.182; fe80::d8f2:56ff:fef8:4
+1759262985,pgwebhost2.bnsdq.ozxfs.laefh.kvugl,docker0,Added,02:42:c5:b5:d1:2d,172.17.0.207
+1759262985,pgwebhost2.bnsdq.ozxfs.laefh.kvugl,any,Added,N/A,
+1759262985,pgwebhost2.bnsdq.ozxfs.laefh.kvugl,nflog,Added,N/A,
+1759262985,pgwebhost2.bnsdq.ozxfs.laefh.kvugl,lo,Added,N/A,127.0.0.1; ::105
+1759262985,pgwebhost2.bnsdq.ozxfs.laefh.kvugl,eth0,Added,ba:ad:b3:07:cf:d7,172.30.0.85; fe80::b8ad:b3ff:fe07:114
+1759262985,pgwebhost2.bnsdq.ozxfs.laefh.kvugl,bluetooth-monitor,Added,N/A,
+1759262985,pgwebhost2.bnsdq.ozxfs.laefh.kvugl,dbus-system,Added,N/A,
+1759262985,pgwebhost2.bnsdq.ozxfs.laefh.kvugl,dbus-session,Added,N/A,

@@ -1,0 +1,21 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips,malicious
+1759305761,server-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759305761,server-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,eth2,Added,16:26:9c:d7:91:eb,10.0.4.167; fe80::1426:9cff:fed7:121,0
+1759305761,server-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,any,Added,N/A,,0
+1759305761,server-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,nflog,Added,N/A,,0
+1759305761,server-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,dbus-system,Added,N/A,,0
+1759305761,server-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,dbus-session,Added,N/A,,0
+1759305761,server-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,eth0,Added,7a:34:8a:81:52:b8,172.30.0.89; fe80::7834:8aff:fe81:156,0
+1759305761,server-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,eth1,Added,aa:97:bc:90:da:3a,5.6.7.72; fe80::a897:bcff:fe90:7,0
+1759305761,server-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,bluetooth-monitor,Added,N/A,,0
+1759305761,server-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,nfqueue,Added,N/A,,0
+1759305958,server-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,eth2,Added,f2:d1:76:46:87:2e,10.0.3.150; fe80::f0d1:76ff:fe46:134,1
+1759305958,server-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,bluetooth-monitor,Added,N/A,,1
+1759305958,server-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,nflog,Added,N/A,,1
+1759305958,server-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,nfqueue,Added,N/A,,1
+1759305958,server-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,dbus-session,Added,N/A,,1
+1759305958,server-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,lo,Added,N/A,127.0.0.1; ::105,1
+1759305958,server-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,eth0,Added,de:63:29:66:99:52,172.30.0.23; fe80::dc63:29ff:fe66:35,1
+1759305958,server-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,eth1,Added,f6:a6:2d:d3:ab:7a,10.10.10.200; fe80::f4a6:2dff:fed3:69,1
+1759305958,server-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,any,Added,N/A,,1
+1759305958,server-victim1.bnsdq.ozxfs.rzona-vmdrv.kvugl,dbus-system,Added,N/A,,1

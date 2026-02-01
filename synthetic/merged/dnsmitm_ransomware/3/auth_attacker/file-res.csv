@@ -1,12 +1,15 @@
 timestamp,device_id,location,size,hash,owner,group,malicious
+1759281741,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,235,DCbHQm9YF9ayuuAFIE0YKQ==,root,root,1
+1759281741,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,191,JI48MTrxdbiutQXPSNRB4Q==,root,root,1
+1759281741,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,117,N0v4juHfNnO4gA+7ITN63g==,root,root,1
 1759281818,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,0
 1759281818,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,117,Ftjk5SwwUvh3X2+rp2GaHQ==,root,root,0
 1759282440,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,0
 1759282440,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,117,JQVk0+p8pdjr9asipyrJww==,root,root,0
-1759282876,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,1
-1759282876,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,191,9fePW2mt6QGzDAX54z2eNw==,root,root,1
 1759283061,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,253,sQILRmKGumZ/y6yj4+vqdA==,root,root,0
 1759283061,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,117,Ftjk5SwwUvh3X2+rp2GaHQ==,root,root,0
+1759283614,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,1
+1759283614,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,191,9fePW2mt6QGzDAX54z2eNw==,root,root,1
 1759283684,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth1.network,253,E7p8jZMf1gf27exQ6JoWbw==,root,root,0
 1759283684,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,117,JQVk0+p8pdjr9asipyrJww==,root,root,0
 1759284303,auth-attacker.bnsdq.ozxfs.vcwss-bomyo.kvugl,/etc/systemd/network/eth2.network,117,urQ6t2Us9yhs/ArIjtKLNA==,root,root,0

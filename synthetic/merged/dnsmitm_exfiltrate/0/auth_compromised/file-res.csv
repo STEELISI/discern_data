@@ -1,9 +1,10 @@
 timestamp,device_id,location,size,hash,owner,group,malicious
+1759272726,auth-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,191,lGBV8FyaFKCgkQVKocSoLQ==,root,root,1
 1759272799,auth-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth0.network,235,1mtNWUPt/K/rjxiD/mif/A==,root,root,0
 1759272799,auth-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,253,psJY5Q1l/HEYBWbSGdIfeg==,root,root,0
 1759273421,auth-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth0.network,151,QvN54Zf4z/onIW/NsK/9hQ==,root,root,0
 1759273421,auth-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,253,HqRa2kNX4dqsfP527SP0BQ==,root,root,0
-1759274034,auth-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,117,JQVk0+p8pdjr9asipyrJww==,root,root,1
+1759273637,auth-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,117,JQVk0+p8pdjr9asipyrJww==,root,root,1
 1759274039,auth-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,253,psJY5Q1l/HEYBWbSGdIfeg==,root,root,0
 1759274658,auth-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth1.network,253,E7p8jZMf1gf27exQ6JoWbw==,root,root,0
 1759274658,auth-compromised.bnsdq.ozxfs.vcwss-vmdrv.kvugl,/etc/systemd/network/eth2.network,117,Gw8otNVy80qX10MlUMdPpQ==,root,root,0

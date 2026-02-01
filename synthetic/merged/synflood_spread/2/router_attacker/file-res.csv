@@ -1,4 +1,6 @@
 timestamp,device_id,location,size,hash,owner,group,malicious
+1759303691,router-attacker.bnsdq.ozxfs.rzona-owcwb.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,1
+1759303691,router-attacker.bnsdq.ozxfs.rzona-owcwb.kvugl,/etc/systemd/network/eth2.network,49,Q9okUy8V2uXskB3sLiXZKQ==,root,root,1
 1759303787,router-attacker.bnsdq.ozxfs.rzona-owcwb.kvugl,/etc/systemd/network/eth0.network,235,DCbHQm9YF9ayuuAFIE0YKQ==,root,root,0
 1759303787,router-attacker.bnsdq.ozxfs.rzona-owcwb.kvugl,/etc/systemd/network/eth2.network,182,otlaJpC6mEqEfx1MTEB9Jg==,root,root,0
 1759304409,router-attacker.bnsdq.ozxfs.rzona-owcwb.kvugl,/etc/systemd/network/eth0.network,235,ToPUM/fJqFLun7DDeAuvdA==,root,root,0

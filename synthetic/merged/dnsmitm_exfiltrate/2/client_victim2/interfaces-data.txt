@@ -1,0 +1,560 @@
+{"TimeStamp": "1759278711", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759278711", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759278711", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759278711", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759278711", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759278711", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759278711", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759278711", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759278711", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759278711", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759279079", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759279079", "Name": "eth0", "HardwareAddr": "46:60:af:f8:f5:65", "IPs": ["172.30.0.89", "fe80::4460:afff:fef8:23"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759279079", "Name": "eth1", "HardwareAddr": "ce:ff:bd:b5:c6:a7", "IPs": ["10.10.10.178", "fe80::ccff:bdff:feb5:139"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759279079", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759279079", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759279079", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759279079", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759279079", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759279079", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759279079", "Name": "eth2", "HardwareAddr": "ba:26:cb:2b:9c:98", "IPs": ["10.0.4.167", "fe80::b826:cbff:fe2b:87"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759281072", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281073", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281073", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281073", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281073", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281073", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281073", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281073", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281073", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281073", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281080", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281080", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281080", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281080", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281080", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281080", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281080", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281080", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281080", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281080", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281090", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281090", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281090", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281090", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281090", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281090", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281090", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281090", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281090", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281090", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281101", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281101", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281101", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281101", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281101", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281101", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281101", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281101", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281101", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281101", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281112", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281112", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281112", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281112", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281112", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281112", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281112", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281112", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281112", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281112", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281121", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281121", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281121", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281121", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281121", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281121", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281121", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281121", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281121", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281121", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281133", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281133", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281133", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281133", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281133", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281133", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281133", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281133", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281133", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281133", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281142", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281142", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281142", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281142", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281142", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281142", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281142", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281142", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281142", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281142", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281152", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281152", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281152", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281152", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281152", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281152", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281152", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281152", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281152", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281152", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281162", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281162", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281162", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281162", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281162", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281162", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281162", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281162", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281162", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281162", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281172", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281172", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281172", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281172", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281172", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281172", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281172", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281172", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281172", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281172", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281183", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281183", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281183", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281183", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281183", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281183", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281183", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281183", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281183", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281183", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281194", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281194", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281194", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281194", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281194", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281194", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281194", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281194", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281194", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281194", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281203", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281203", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281203", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281203", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281203", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281203", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281203", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281203", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281203", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281203", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281213", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281213", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281213", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281213", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281213", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281213", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281213", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281213", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281213", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281213", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281224", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281224", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281224", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281224", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281224", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281224", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281224", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281224", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281225", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281225", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281234", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281234", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281234", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281234", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281234", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281234", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281234", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281234", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281234", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281234", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281259", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281259", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281259", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281259", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281259", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281259", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281259", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281259", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281259", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281259", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281269", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281269", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281269", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281269", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281269", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281269", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281269", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281269", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281269", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281269", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281280", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281280", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281280", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281280", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281280", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281280", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281280", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281280", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281280", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281280", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281290", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281290", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281290", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281290", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281290", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281290", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281290", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281290", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281290", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281290", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281300", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281300", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281300", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281300", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281300", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281300", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281300", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281300", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281300", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281300", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281310", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281310", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281310", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281310", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281310", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281310", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281310", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281310", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281310", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281310", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281321", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281321", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281321", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281321", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281321", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281321", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281321", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281321", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281321", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281321", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281331", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281331", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281331", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281331", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281331", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281331", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281331", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281331", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281331", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281331", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281341", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281341", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281341", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281341", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281341", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281341", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281341", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281341", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281341", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281341", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281351", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281351", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281351", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281351", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281351", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281351", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281351", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281351", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281351", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281351", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281362", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281362", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281362", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281362", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281362", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281362", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281362", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281362", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281362", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281362", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281371", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281371", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281371", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281371", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281371", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281371", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281372", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281372", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281372", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281372", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281383", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281383", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281383", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281383", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281383", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281383", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281383", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281383", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281383", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281383", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281392", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281392", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281392", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281392", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281392", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281392", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281392", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281392", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281392", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281392", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281402", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281402", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281402", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281402", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281402", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281402", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281402", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281402", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281402", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281402", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281413", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281413", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281413", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281413", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281413", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281413", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281413", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281413", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281413", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281413", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281423", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281423", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281423", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281423", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281423", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281423", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281423", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281423", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281423", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281423", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281433", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281433", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281433", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281433", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281433", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281433", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281433", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281433", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281433", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281433", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281443", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281443", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281443", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281443", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281443", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281443", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281443", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281443", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281443", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281443", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281454", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281454", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281454", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281454", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281454", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281454", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281454", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281454", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281454", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281454", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281464", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281464", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281464", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281464", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281464", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281464", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281464", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281464", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281464", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281464", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281474", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281474", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281474", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281474", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281474", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281474", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281474", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281474", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281474", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281474", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281484", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281484", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281484", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281484", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281484", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281484", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281484", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281484", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281484", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281484", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281495", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281495", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281495", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281495", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281495", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281495", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281495", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281495", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281495", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281495", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281505", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281505", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281505", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281505", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281505", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281505", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281505", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281505", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281505", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281505", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281515", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281515", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281515", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281515", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281515", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281515", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281515", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281515", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281515", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281515", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281526", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281526", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281526", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281526", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281526", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281526", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281526", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281526", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281526", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281526", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281536", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281536", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281536", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281536", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281536", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281536", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281536", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281536", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281536", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281536", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281546", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281546", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281546", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281546", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281546", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281546", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281546", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281546", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281546", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281546", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281556", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281556", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281556", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281556", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281556", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281556", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281556", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281556", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281556", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281556", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281567", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281567", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281567", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281567", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281567", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281567", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281567", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281567", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281567", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281567", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281577", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281577", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281577", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281577", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281577", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281577", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281577", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281577", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281577", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281577", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281587", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281587", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281587", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281587", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281587", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281587", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281587", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281587", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281587", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281587", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281597", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281597", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281597", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281597", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281597", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281597", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281597", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281597", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281597", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281597", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281608", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281608", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281608", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281608", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281608", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281608", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281608", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281608", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281608", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281608", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281618", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281618", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281618", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281618", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281618", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281618", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281618", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281618", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281618", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281618", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281634", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281634", "Name": "bluetooth-monitor", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281634", "Name": "nflog", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281634", "Name": "any", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281634", "Name": "nfqueue", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281634", "Name": "dbus-system", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281634", "Name": "dbus-session", "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281634", "Name": "eth0", "HardwareAddr": "e6:0a:26:d9:5b:92", "IPs": ["172.30.0.23", "fe80::e40a:26ff:fed9:129"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281634", "Name": "eth1", "HardwareAddr": "a6:5a:1c:06:00:fd", "IPs": ["10.1.1.193", "fe80::a45a:1cff:fe06:189"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759281634", "Name": "eth2", "HardwareAddr": "fa:88:f9:0b:e6:73", "IPs": ["10.0.4.167", "fe80::f888:f9ff:fe0b:147"], "DevID": "client-victim2.bnsdq.ozxfs.vcwss-vmdrv.kvugl", "Action": "Added", "malicious": 0}

@@ -1,0 +1,20 @@
+timestamp,device_id,interface_name,action,hardware_addr,ips,malicious
+1759292950,learner-attacker.bnsdq.ozxfs.igokp-vmdrv.kvugl,lo,Added,N/A,127.0.0.1; ::105,0
+1759292950,learner-attacker.bnsdq.ozxfs.igokp-vmdrv.kvugl,any,Added,N/A,,0
+1759292950,learner-attacker.bnsdq.ozxfs.igokp-vmdrv.kvugl,nflog,Added,N/A,,0
+1759292950,learner-attacker.bnsdq.ozxfs.igokp-vmdrv.kvugl,nfqueue,Added,N/A,,0
+1759292950,learner-attacker.bnsdq.ozxfs.igokp-vmdrv.kvugl,dbus-session,Added,N/A,,0
+1759292950,learner-attacker.bnsdq.ozxfs.igokp-vmdrv.kvugl,eth0,Added,5e:a9:83:87:ea:04,172.30.0.220; fe80::5ca9:83ff:fe87:27,0
+1759292950,learner-attacker.bnsdq.ozxfs.igokp-vmdrv.kvugl,eth1,Added,aa:24:52:4f:8f:da,10.0.1.111; fe80::a824:52ff:fe4f:69,0
+1759292950,learner-attacker.bnsdq.ozxfs.igokp-vmdrv.kvugl,bluetooth-monitor,Added,N/A,,0
+1759292950,learner-attacker.bnsdq.ozxfs.igokp-vmdrv.kvugl,dbus-system,Added,N/A,,0
+1759293019,learner-attacker.bnsdq.ozxfs.igokp-vmdrv.kvugl,eth0,Added,d6:66:2f:6f:48:a9,172.30.0.163; fe80::d466:2fff:fe6f:240,1
+1759293019,learner-attacker.bnsdq.ozxfs.igokp-vmdrv.kvugl,dbus-system,Added,N/A,,1
+1759293019,learner-attacker.bnsdq.ozxfs.igokp-vmdrv.kvugl,dbus-session,Added,N/A,,1
+1759293019,learner-attacker.bnsdq.ozxfs.igokp-vmdrv.kvugl,lo,Added,N/A,127.0.0.1; ::105,1
+1759293019,learner-attacker.bnsdq.ozxfs.igokp-vmdrv.kvugl,eth2,Added,0a:b2:41:08:fe:8c,10.0.1.111; fe80::8b2:41ff:fe08:133,1
+1759293019,learner-attacker.bnsdq.ozxfs.igokp-vmdrv.kvugl,any,Added,N/A,,1
+1759293019,learner-attacker.bnsdq.ozxfs.igokp-vmdrv.kvugl,bluetooth-monitor,Added,N/A,,1
+1759293019,learner-attacker.bnsdq.ozxfs.igokp-vmdrv.kvugl,nflog,Added,N/A,,1
+1759293019,learner-attacker.bnsdq.ozxfs.igokp-vmdrv.kvugl,nfqueue,Added,N/A,,1
+1759293019,learner-attacker.bnsdq.ozxfs.igokp-vmdrv.kvugl,eth1,Added,9e:ef:c4:2c:ac:b6,10.10.10.109; fe80::9cef:c4ff:fe2c:74,1

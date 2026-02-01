@@ -1,0 +1,19 @@
+{"TimeStamp": "1759292950", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "learner-compromised.bnsdq.ozxfs.igokp-owcwb.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759292950", "Name": "any", "DevID": "learner-compromised.bnsdq.ozxfs.igokp-owcwb.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759292950", "Name": "nflog", "DevID": "learner-compromised.bnsdq.ozxfs.igokp-owcwb.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759292950", "Name": "nfqueue", "DevID": "learner-compromised.bnsdq.ozxfs.igokp-owcwb.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759292950", "Name": "dbus-session", "DevID": "learner-compromised.bnsdq.ozxfs.igokp-owcwb.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759292950", "Name": "eth0", "HardwareAddr": "5e:a9:83:87:ea:04", "IPs": ["172.30.0.220", "fe80::5ca9:83ff:fe87:27"], "DevID": "learner-compromised.bnsdq.ozxfs.igokp-owcwb.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759292950", "Name": "eth1", "HardwareAddr": "aa:24:52:4f:8f:da", "IPs": ["10.0.1.111", "fe80::a824:52ff:fe4f:69"], "DevID": "learner-compromised.bnsdq.ozxfs.igokp-owcwb.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759292950", "Name": "bluetooth-monitor", "DevID": "learner-compromised.bnsdq.ozxfs.igokp-owcwb.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759292950", "Name": "dbus-system", "DevID": "learner-compromised.bnsdq.ozxfs.igokp-owcwb.kvugl", "Action": "Added", "malicious": 0}
+{"TimeStamp": "1759293098", "Name": "nfqueue", "DevID": "learner-compromised.bnsdq.ozxfs.igokp-owcwb.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759293098", "Name": "dbus-session", "DevID": "learner-compromised.bnsdq.ozxfs.igokp-owcwb.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759293098", "Name": "lo", "IPs": ["127.0.0.1", "::105"], "DevID": "learner-compromised.bnsdq.ozxfs.igokp-owcwb.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759293098", "Name": "eth0", "HardwareAddr": "e6:8e:99:5f:98:e3", "IPs": ["172.30.0.220", "fe80::e48e:99ff:fe5f:147"], "DevID": "learner-compromised.bnsdq.ozxfs.igokp-owcwb.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759293098", "Name": "any", "DevID": "learner-compromised.bnsdq.ozxfs.igokp-owcwb.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759293098", "Name": "nflog", "DevID": "learner-compromised.bnsdq.ozxfs.igokp-owcwb.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759293098", "Name": "eth1", "HardwareAddr": "f2:56:ab:65:1c:de", "IPs": ["10.10.10.68", "fe80::f056:abff:fe65:143"], "DevID": "learner-compromised.bnsdq.ozxfs.igokp-owcwb.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759293098", "Name": "eth2", "HardwareAddr": "de:ac:f9:59:66:c2", "IPs": ["10.0.2.116", "fe80::dcac:f9ff:fe59:60"], "DevID": "learner-compromised.bnsdq.ozxfs.igokp-owcwb.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759293098", "Name": "bluetooth-monitor", "DevID": "learner-compromised.bnsdq.ozxfs.igokp-owcwb.kvugl", "Action": "Added", "malicious": 1}
+{"TimeStamp": "1759293098", "Name": "dbus-system", "DevID": "learner-compromised.bnsdq.ozxfs.igokp-owcwb.kvugl", "Action": "Added", "malicious": 1}

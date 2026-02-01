@@ -1,1 +1,2 @@
+{"TimeStamp": "1759318675", "Size": ["261"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["MUEnGFD13v8xGafh0mYkkA=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "learner-victim2.bnsdq.ozxfs.fkiya-owcwb.kvugl", "malicious": 1}
 {"TimeStamp": "1759319330", "Size": ["151"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["QvN54Zf4z/onIW/NsK/9hQ=="], "Ownership": [{"Owner": "root", "Group": "root"}], "DevID": "learner-victim2.bnsdq.ozxfs.fkiya-owcwb.kvugl", "malicious": 0}
